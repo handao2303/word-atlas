@@ -1,0 +1,1248 @@
+{
+ "chest": {
+  "s": [
+   "ngực; lồng ngực",
+   "hòm; rương"
+  ],
+  "c": [
+   "đau ngực",
+   "nhiễm trùng ngực",
+   "chiếc rương gỗ",
+   "tủ ngăn kéo"
+  ],
+  "t": "chest là ngực hoặc cái rương lớn; tủ ngăn kéo là chest of drawers."
+ },
+ "naturally": {
+  "s": [
+   "một cách tự nhiên; tự nhiên",
+   "đương nhiên; tất nhiên",
+   "bẩm sinh; vốn dĩ"
+  ],
+  "c": [
+   "xuất hiện tự nhiên",
+   "vốn tò mò",
+   "đối với ai là điều dễ dàng",
+   "phơi khô tự nhiên"
+  ],
+  "t": "Naturally đứng đầu câu thường nghĩa là “đương nhiên”, không nhất thiết là “tự nhiên”."
+ },
+ "hardly": {
+  "s": [
+   "hầu như không",
+   "vừa mới; mới chỉ"
+  ],
+  "c": [
+   "hầu như không bao giờ",
+   "hầu như không có",
+   "nóng lòng chờ",
+   "không có gì ngạc nhiên"
+  ],
+  "t": "hardly nghĩa là hầu như không; không phải dạng trạng từ của hard."
+ },
+ "safety": {
+  "s": [
+   "sự an toàn; sự bình an"
+  ],
+  "c": [
+   "an toàn giao thông",
+   "tiêu chuẩn an toàn",
+   "vì lý do an toàn",
+   "đến nơi an toàn"
+  ],
+  "t": "Thường không đếm được; safe là tính từ, safety là danh từ."
+ },
+ "cottage": {
+  "s": [
+   "nhà tranh; nhà nhỏ ở nông thôn"
+  ],
+  "c": [
+   "ngôi nhà nhỏ ở nông thôn",
+   "ngôi nhà mái tranh",
+   "nhà nghỉ dưỡng nhỏ"
+  ],
+  "t": "Thường chỉ nhà nhỏ ở vùng quê, không phải biệt thự sang trọng (villa)."
+ },
+ "fond": {
+  "s": [
+   "thích; yêu mến",
+   "trìu mến; âu yếm"
+  ],
+  "c": [
+   "thích",
+   "những kỷ niệm đẹp",
+   "lời tạm biệt đầy tình cảm"
+  ],
+  "t": "be fond of đi với danh từ hoặc V-ing, không đi với to do."
+ },
+ "exhibition": {
+  "s": [
+   "triển lãm; cuộc trưng bày"
+  ],
+  "c": [
+   "triển lãm nghệ thuật",
+   "tổ chức một triển lãm",
+   "đang được trưng bày"
+  ],
+  "t": "exhibition là cả buổi triển lãm; exhibit có thể là một món được trưng bày."
+ },
+ "difficulty": {
+  "s": [
+   "sự khó khăn; sự vất vả",
+   "vấn đề nan giải; hoàn cảnh khó khăn"
+  ],
+  "c": [
+   "gặp khó khăn khi làm việc gì",
+   "vượt qua khó khăn",
+   "khó khăn tài chính",
+   "một cách khó nhọc"
+  ],
+  "t": "Dùng have difficulty doing, không dùng difficulty to do."
+ },
+ "steam": {
+  "s": [
+   "hơi nước",
+   "hấp; nấu bằng hơi nước"
+  ],
+  "c": [
+   "động cơ hơi nước",
+   "hấp rau",
+   "bốc hơi",
+   "hết sức; hết hơi"
+  ],
+  "t": "Danh từ steam thường không đếm được; làm động từ có thể là hấp thức ăn."
+ },
+ "horror": {
+  "s": [
+   "nỗi kinh hoàng; sự ghê sợ",
+   "thể loại kinh dị"
+  ],
+  "c": [
+   "trong kinh hoàng",
+   "phim kinh dị",
+   "cảm giác kinh hoàng"
+  ],
+  "t": "Nghĩa cảm xúc thường không đếm được; in horror nghĩa là kinh hoàng."
+ },
+ "biography": {
+  "s": [
+   "tiểu sử; tiểu sử"
+  ],
+  "c": [
+   "viết tiểu sử",
+   "tiểu sử của ai đó",
+   "tiểu sử được ủy quyền"
+  ],
+  "t": "biography là sách do người khác viết về cuộc đời ai đó; tự truyện là autobiography."
+ },
+ "bet": {
+  "s": [
+   "đánh cược; đặt cược",
+   "chắc chắn; dám chắc",
+   "tiền cược; sự đánh cược"
+  ],
+  "c": [
+   "đặt cược vào",
+   "đặt cược",
+   "tôi dám chắc",
+   "lựa chọn an toàn"
+  ],
+  "t": "Quá khứ và quá khứ phân từ thường vẫn là bet; I bet thường để diễn đạt sự chắc chắn."
+ },
+ "site": {
+  "s": [
+   "địa điểm; công trường; di tích",
+   "trang web",
+   "chọn địa điểm; đặt ở"
+  ],
+  "c": [
+   "công trường xây dựng",
+   "di tích lịch sử",
+   "tại chỗ",
+   "chọn địa điểm cho nhà máy"
+  ],
+  "t": "site là địa điểm hoặc trang web; sight là thị lực hoặc cảnh tượng, hai từ đọc giống nhau."
+ },
+ "respond": {
+  "s": [
+   "trả lời; phản hồi",
+   "phản ứng; đáp lại"
+  ],
+  "c": [
+   "trả lời câu hỏi",
+   "phản ứng với điều trị",
+   "phản hồi nhanh chóng",
+   "phản ứng tích cực"
+  ],
+  "t": "respond to + đối tượng được đáp lại; không đi thẳng với tân ngữ."
+ },
+ "agreement": {
+  "s": [
+   "thỏa thuận; hiệp định",
+   "sự đồng ý; sự nhất trí",
+   "sự hòa hợp (ngữ pháp)"
+  ],
+  "c": [
+   "đạt được thỏa thuận",
+   "ký thỏa thuận",
+   "đồng ý với nhau",
+   "sự hòa hợp chủ ngữ và động từ"
+  ],
+  "t": "Thỏa thuận cụ thể là đếm được; nghĩa nhất trí ý kiến thường không đếm được."
+ },
+ "network": {
+  "s": [
+   "mạng lưới; mạng quan hệ",
+   "mạng lưới phát sóng; hệ thống truyền hình",
+   "kết nối quan hệ nghề nghiệp"
+  ],
+  "c": [
+   "mạng lưới giao thông",
+   "mạng không dây",
+   "mạng lưới hỗ trợ",
+   "kết nối với đồng nghiệp"
+  ],
+  "t": "network nhấn mạnh sự liên kết giữa nhiều nút với nhau."
+ },
+ "contain": {
+  "s": [
+   "chứa; bao gồm",
+   "kiềm chế; ngăn chặn"
+  ],
+  "c": [
+   "chứa các thành phần",
+   "ngăn chặn sự lây lan",
+   "kiềm chế chi phí",
+   "kìm nén sự phấn khích"
+  ],
+  "t": "Là ngoại động từ, đi thẳng với tân ngữ; nghĩa “chứa” thường không dùng thì tiếp diễn."
+ },
+ "daylight": {
+  "s": [
+   "ánh sáng ban ngày; ban ngày"
+  ],
+  "c": [
+   "giữa ban ngày ban mặt",
+   "giờ ban ngày",
+   "ánh sáng tự nhiên ban ngày"
+  ],
+  "t": "Thường không đếm được; in broad daylight nghĩa là giữa ban ngày ban mặt."
+ },
+ "notepaper": {
+  "s": [
+   "giấy viết thư; giấy ghi chú"
+  ],
+  "c": [
+   "một tờ giấy viết thư",
+   "một tập giấy ghi chú",
+   "giấy viết thư cá nhân"
+  ],
+  "t": "Danh từ không đếm được; một tờ dùng a sheet of notepaper."
+ },
+ "backwards": {
+  "s": [
+   "về phía sau; lùi lại",
+   "ngược lại; theo thứ tự đảo"
+  ],
+  "c": [
+   "đi lùi",
+   "qua lại",
+   "suy ngược"
+  ],
+  "t": "backwards là trạng từ; khi bổ nghĩa cho danh từ thường dùng backward."
+ },
+ "pale": {
+  "s": [
+   "tái nhợt; nhạt màu",
+   "mờ nhạt; yếu ớt",
+   "tái đi; lu mờ"
+  ],
+  "c": [
+   "xanh nhạt",
+   "trông xanh xao",
+   "lu mờ khi so sánh"
+  ],
+  "t": "pale có thể chỉ gương mặt tái nhợt hoặc màu nhạt, không có nghĩa là màu trắng."
+ },
+ "tough": {
+  "s": [
+   "khó khăn; hóc búa",
+   "cứng cỏi; chịu đựng giỏi",
+   "dai; bền"
+  ],
+  "c": [
+   "quyết định khó khăn",
+   "thời kỳ khó khăn",
+   "cạnh tranh khốc liệt",
+   "chất liệu bền chắc"
+  ],
+  "t": "Vần với rough; khi nói về thịt, tough nghĩa là dai, khó nhai."
+ },
+ "duty-free": {
+  "s": [
+   "miễn thuế",
+   "miễn thuế"
+  ],
+  "c": [
+   "cửa hàng miễn thuế",
+   "hàng miễn thuế",
+   "hạn mức miễn thuế"
+  ],
+  "t": "duty ở đây là thuế quan; hàng miễn thuế vẫn bị giới hạn định mức khi nhập cảnh."
+ },
+ "religion": {
+  "s": [
+   "tôn giáo; tín ngưỡng"
+  ],
+  "c": [
+   "tự do tôn giáo",
+   "tôn giáo có tổ chức",
+   "tín ngưỡng tôn giáo"
+  ],
+  "t": "Nói chung về tôn giáo thì không đếm được; nói một tôn giáo cụ thể thì đếm được."
+ },
+ "nap": {
+  "s": [
+   "giấc ngủ ngắn",
+   "ngủ chợp mắt"
+  ],
+  "c": [
+   "chợp mắt một lát",
+   "giấc ngủ trưa",
+   "giấc ngủ ngắn lấy lại sức"
+  ],
+  "t": "Động từ phải gấp đôi chữ p: napped, napping."
+ },
+ "slightly": {
+  "s": [
+   "hơi; một chút"
+  ],
+  "c": [
+   "cao hơn một chút",
+   "hơi khác",
+   "nhiều hơn một chút"
+  ],
+  "t": "Có thể bổ nghĩa cho tính từ, so sánh hơn hoặc động từ, như slightly higher."
+ },
+ "licence": {
+  "s": [
+   "giấy phép; bằng",
+   "sự tự do (sáng tạo)"
+  ],
+  "c": [
+   "bằng lái xe",
+   "xin giấy phép",
+   "gia hạn giấy phép",
+   "sự tự do sáng tạo của nhà thơ"
+  ],
+  "t": "Tiếng Anh–Anh: danh từ licence, động từ license; tiếng Anh–Mỹ dùng license cho cả hai."
+ },
+ "eagle": {
+  "s": [
+   "chim đại bàng; đại bàng"
+  ],
+  "c": [
+   "đại bàng vàng",
+   "đại bàng đầu trắng",
+   "tổ đại bàng"
+  ],
+  "t": "eagle thường chỉ chim săn mồi lớn; eagle-eyed nghĩa là mắt tinh."
+ },
+ "diploma": {
+  "s": [
+   "văn bằng; chứng chỉ khóa học"
+  ],
+  "c": [
+   "lấy bằng",
+   "bằng tốt nghiệp trung học",
+   "chứng chỉ điều dưỡng"
+  ],
+  "t": "diploma thường là văn bằng tốt nghiệp hoặc chứng chỉ khóa học, không bằng degree (bằng đại học)."
+ },
+ "discovery": {
+  "s": [
+   "sự khám phá; điều được phát hiện"
+  ],
+  "c": [
+   "có phát hiện",
+   "khám phá khoa học",
+   "khám phá lớn",
+   "phát hiện tình cờ"
+  ],
+  "t": "discovery là tìm ra điều vốn có sẵn, khác với invention (phát minh)."
+ },
+ "process": {
+  "s": [
+   "quá trình; thủ tục",
+   "xử lý; chế biến"
+  ],
+  "c": [
+   "một quá trình dần dần",
+   "đang trong quá trình",
+   "xử lý dữ liệu",
+   "thực phẩm chế biến"
+  ],
+  "t": "in the process of đi với danh từ hoặc V-ing."
+ },
+ "entertainment": {
+  "s": [
+   "sự giải trí; hoạt động giải trí"
+  ],
+  "c": [
+   "giải trí trực tiếp",
+   "ngành công nghiệp giải trí",
+   "giải trí cho cả gia đình",
+   "một hình thức giải trí"
+  ],
+  "t": "Thường không đếm được: cung cấp giải trí là provide entertainment."
+ },
+ "wonder": {
+  "s": [
+   "tự hỏi; thắc mắc",
+   "sự kinh ngạc; sự thán phục",
+   "kỳ quan; điều kỳ diệu"
+  ],
+  "c": [
+   "tự hỏi liệu",
+   "tò mò về",
+   "trong sự kinh ngạc",
+   "kỳ quan thiên nhiên"
+  ],
+  "t": "Sau wonder là mệnh đề nghi vấn thì dùng trật tự câu khẳng định."
+ },
+ "addition": {
+  "s": [
+   "sự thêm vào; sự bổ sung",
+   "phép cộng",
+   "thứ được thêm vào"
+  ],
+  "c": [
+   "ngoài ra còn",
+   "việc bổ sung",
+   "một sự bổ sung đáng hoan nghênh",
+   "phép cộng đơn giản"
+  ],
+  "t": "in addition là từ nối; in addition to đi với danh từ hoặc V-ing."
+ },
+ "deliver": {
+  "s": [
+   "giao; chuyển",
+   "phát biểu; giảng",
+   "thực hiện; đạt được"
+  ],
+  "c": [
+   "giao bưu kiện",
+   "phát biểu một bài diễn văn",
+   "đạt kết quả",
+   "thực hiện lời hứa"
+  ],
+  "t": "Giao cái gì cho ai: deliver sth to sb; thực hiện lời hứa dùng deliver on."
+ },
+ "dusty": {
+  "s": [
+   "đầy bụi; nhiều bụi"
+  ],
+  "c": [
+   "con đường đầy bụi",
+   "kệ phủ đầy bụi",
+   "môi trường nhiều bụi"
+  ],
+  "t": "dusty tả cái gì có bụi; dust làm động từ có thể nghĩa là phủi bụi."
+ },
+ "frozen": {
+  "s": [
+   "đóng băng; cứng đơ vì lạnh",
+   "đông lạnh; bảo quản đông",
+   "lạnh cóng"
+  ],
+  "c": [
+   "hồ đóng băng",
+   "thực phẩm đông lạnh",
+   "đông cứng",
+   "sợ đến đứng hình"
+  ],
+  "t": "Cũng là quá khứ phân từ của freeze; quá khứ là froze."
+ },
+ "occur": {
+  "s": [
+   "xảy ra",
+   "tồn tại; xuất hiện",
+   "chợt nghĩ ra; chợt nảy ra"
+  ],
+  "c": [
+   "xuất hiện tự nhiên",
+   "xảy ra thường xuyên",
+   "chợt nảy ra trong đầu ai"
+  ],
+  "t": "Không dùng bị động; quá khứ là occurred, phân từ hiện tại là occurring."
+ },
+ "rafting": {
+  "s": [
+   "môn đi bè; chèo bè vượt thác"
+  ],
+  "c": [
+   "đi bè vượt thác",
+   "đi bè trên thác nước xiết",
+   "chuyến đi bè"
+  ],
+  "t": "Chỉ môn thể thao thường dùng go rafting; raft cũng là cái bè."
+ },
+ "merry": {
+  "s": [
+   "vui vẻ; hân hoan"
+  ],
+  "c": [
+   "tiếng cười vui vẻ",
+   "đám đông vui nhộn",
+   "vui chơi hân hoan"
+  ],
+  "t": "Thường dùng cho không khí lễ hội; make merry nghĩa là vui chơi ăn mừng."
+ },
+ "inform": {
+  "s": [
+   "thông báo; cho biết",
+   "làm cơ sở cho; cung cấp thông tin cho"
+  ],
+  "c": [
+   "thông báo cho ai về điều gì",
+   "luôn cập nhật cho ai",
+   "làm căn cứ cho chính sách"
+  ],
+  "t": "Báo cho ai biết việc gì dùng inform sb of/about sth."
+ },
+ "eyebrow": {
+  "s": [
+   "lông mày"
+  ],
+  "c": [
+   "nhướng mày",
+   "lông mày dày",
+   "lông mày cong"
+  ],
+  "t": "eyebrow là lông mày; eyelash là lông mi."
+ },
+ "discount": {
+  "s": [
+   "giảm giá; chiết khấu",
+   "bán giảm giá",
+   "không để ý; xem nhẹ"
+  ],
+  "c": [
+   "giảm giá",
+   "với giá giảm",
+   "gạt bỏ khả năng"
+  ],
+  "t": "Danh từ nhấn âm đầu; động từ thường đọc /dɪsˈkaʊnt/."
+ },
+ "ghost": {
+  "s": [
+   "con ma; bóng ma",
+   "chút xíu; dấu vết mờ nhạt"
+  ],
+  "c": [
+   "truyện ma",
+   "thị trấn bỏ hoang",
+   "thoáng một nụ cười",
+   "nhìn thấy ma"
+  ],
+  "t": "a ghost of a smile nghĩa là một nụ cười thoáng qua."
+ },
+ "hire": {
+  "s": [
+   "thuê (nhân viên)",
+   "thuê; mượn tạm",
+   "sự thuê; sự cho thuê"
+  ],
+  "c": [
+   "thuê nhân viên",
+   "thuê xe",
+   "cho thuê",
+   "cho thuê xe"
+  ],
+  "t": "Thuê xe trong tiếng Anh–Anh thường dùng hire, trong tiếng Anh–Mỹ thường dùng rent."
+ },
+ "unemployed": {
+  "s": [
+   "thất nghiệp"
+  ],
+  "c": [
+   "trở nên thất nghiệp",
+   "công nhân thất nghiệp",
+   "người thất nghiệp dài hạn"
+  ],
+  "t": "the unemployed chỉ nhóm người thất nghiệp, động từ chia số nhiều."
+ },
+ "positive": {
+  "s": [
+   "tích cực; lạc quan; có lợi",
+   "chắc chắn; khẳng định",
+   "dương tính; dương"
+  ],
+  "c": [
+   "thái độ tích cực",
+   "tác động tích cực",
+   "kết quả dương tính; kết quả tốt"
+  ],
+  "t": "Kết quả xét nghiệm positive là dương tính, không nhất thiết là tin tốt."
+ },
+ "drummer": {
+  "s": [
+   "tay trống"
+  ],
+  "c": [
+   "tay trống điêu luyện",
+   "tay trống nhạc jazz",
+   "tay trống của ban nhạc"
+  ],
+  "t": "drum thêm -er thành drummer, chú ý gấp đôi chữ m."
+ },
+ "divide": {
+  "s": [
+   "chia; phân chia",
+   "chia (phép toán)",
+   "sự chia rẽ; khoảng cách"
+  ],
+  "c": [
+   "chia thành các nhóm",
+   "chia đều",
+   "chia cho",
+   "khoảng cách kỹ thuật số"
+  ],
+  "t": "divide into nghĩa là chia thành; divide by nghĩa là chia cho."
+ },
+ "recognise": {
+  "s": [
+   "nhận ra; nhận biết",
+   "thừa nhận; nhận thức được",
+   "chính thức công nhận; ghi nhận"
+  ],
+  "c": [
+   "nhận ra một gương mặt",
+   "nhận thức được tầm quan trọng của",
+   "chính thức công nhận"
+  ],
+  "t": "recognise là cách viết Anh–Anh; tiếng Anh–Mỹ thường viết recognize."
+ },
+ "upper": {
+  "s": [
+   "ở trên; phía trên",
+   "cao hơn; thượng tầng"
+  ],
+  "c": [
+   "tầng trên",
+   "phần thân trên",
+   "giới hạn trên",
+   "tầng lớp thượng lưu"
+  ],
+  "t": "Thường đứng trước danh từ, như upper floor; từ trái nghĩa là lower."
+ },
+ "fare": {
+  "s": [
+   "tiền vé; giá vé",
+   "tiến triển; trải qua",
+   "đồ ăn; món ăn"
+  ],
+  "c": [
+   "tiền vé xe buýt",
+   "tăng giá vé",
+   "làm tốt",
+   "món ăn truyền thống"
+  ],
+  "t": "fare là giá vé giao thông; fee thường là phí dịch vụ hoặc học phí."
+ },
+ "worth": {
+  "s": [
+   "trị giá; đáng giá",
+   "đáng; xứng đáng",
+   "giá trị; tác dụng"
+  ],
+  "c": [
+   "đáng làm",
+   "đáng để nỗ lực",
+   "chứng tỏ giá trị của bản thân"
+  ],
+  "t": "Nói đáng làm gì dùng be worth doing, không dùng worth to do."
+ },
+ "collar": {
+  "s": [
+   "cổ áo",
+   "vòng cổ (động vật)",
+   "tóm lấy; giữ lại"
+  ],
+  "c": [
+   "cổ áo sơ mi",
+   "vòng cổ chó",
+   "cổ áo cứng",
+   "dựng cổ áo lên"
+  ],
+  "t": "white-collar là “cổ cồn trắng” (nhân viên văn phòng); blue-collar là “cổ cồn xanh” (lao động chân tay)."
+ },
+ "injury": {
+  "s": [
+   "thương tích; chấn thương"
+  ],
+  "c": [
+   "bị thương",
+   "chấn thương nặng",
+   "chấn thương đầu gối",
+   "nguy cơ chấn thương"
+  ],
+  "t": "Chỉ vết thương cụ thể thì đếm được; chỉ tổn hại thân thể nói chung thì thường không đếm được."
+ },
+ "fold": {
+  "s": [
+   "gấp; gập",
+   "nếp gấp; nếp",
+   "phá sản; đóng cửa"
+  ],
+  "c": [
+   "gập đôi",
+   "khoanh tay",
+   "gập ghế lại",
+   "gấp quần áo đã giặt"
+  ],
+  "t": "fold nhấn mạnh gấp chồng lên nhau; bend chỉ là uốn cong."
+ },
+ "reliable": {
+  "s": [
+   "đáng tin cậy; tin tưởng được"
+  ],
+  "c": [
+   "nguồn tin cậy",
+   "thông tin đáng tin cậy",
+   "dịch vụ đáng tin cậy"
+  ],
+  "t": "reliable có thể tả người, thông tin hoặc máy móc, nhấn mạnh sự đáng tin."
+ },
+ "surface": {
+  "s": [
+   "bề mặt; lớp ngoài",
+   "nổi lên mặt nước",
+   "lộ ra; được biết đến"
+  ],
+  "c": [
+   "một bề mặt nhẵn",
+   "bề mặt Trái Đất",
+   "bên dưới bề mặt",
+   "sức căng bề mặt"
+  ],
+  "t": "on the surface nghĩa là “trên bề mặt”, cũng có thể là “nhìn bề ngoài”."
+ },
+ "version": {
+  "s": [
+   "phiên bản; bản chuyển thể",
+   "cách kể; lời tường thuật"
+  ],
+  "c": [
+   "phiên bản mới nhất",
+   "phiên bản cập nhật",
+   "một cách kể về sự kiện",
+   "phiên bản điện ảnh"
+  ],
+  "t": "version chỉ các dạng khác nhau của cùng một thứ, cũng chỉ lời kể riêng của một người về sự việc."
+ },
+ "melt": {
+  "s": [
+   "tan chảy; làm tan",
+   "làm mềm lòng; xúc động"
+  ],
+  "c": [
+   "làm tan băng",
+   "tan biến dần",
+   "làm mềm lòng ai"
+  ],
+  "t": "melt là tan chảy do nhiệt; dissolve là hòa tan trong chất lỏng."
+ },
+ "widely": {
+  "s": [
+   "rộng rãi; phổ biến",
+   "khác biệt lớn"
+  ],
+  "c": [
+   "có sẵn khắp nơi",
+   "được sử dụng rộng rãi",
+   "được chấp nhận rộng rãi",
+   "khác nhau nhiều"
+  ],
+  "t": "widely chỉ phạm vi rộng; wide còn có thể nghĩa là mở rộng hết cỡ."
+ },
+ "stapler": {
+  "s": [
+   "cái dập ghim; kim bấm"
+  ],
+  "c": [
+   "dùng kim bấm",
+   "kim bấm để bàn",
+   "nạp ghim cho kim bấm"
+  ],
+  "t": "stapler là cái dập ghim; staple là ghim bấm, cũng là động từ."
+ },
+ "first-aid": {
+  "s": [
+   "sơ cứu; cấp cứu ban đầu"
+  ],
+  "c": [
+   "hộp sơ cứu",
+   "tập huấn sơ cứu",
+   "thiết bị sơ cứu"
+  ],
+  "t": "Danh từ viết first aid; đứng trước danh từ thì có thể thêm gạch nối."
+ },
+ "joy": {
+  "s": [
+   "niềm vui; sự hân hoan",
+   "điều/ người mang lại niềm vui"
+  ],
+  "c": [
+   "mang lại niềm vui",
+   "nhảy cẫng lên vì vui",
+   "nước mắt hạnh phúc",
+   "những niềm vui khi làm cha mẹ"
+  ],
+  "t": "Niềm vui thường không đếm được; điều đem lại niềm vui thì đếm được, như a joy."
+ },
+ "skip": {
+  "s": [
+   "bỏ qua; bỏ; vắng mặt",
+   "nhảy chân sáo; nhảy dây"
+  ],
+  "c": [
+   "bỏ bữa sáng",
+   "trốn một tiết học",
+   "bỏ qua một bước",
+   "nhảy dây"
+  ],
+  "t": "skip đi thẳng với tân ngữ; skipped, skipping phải gấp đôi chữ p."
+ },
+ "guard": {
+  "s": [
+   "người bảo vệ; lính gác",
+   "canh giữ; bảo vệ; trông chừng",
+   "bộ phận bảo vệ; tấm chắn"
+  ],
+  "c": [
+   "nhân viên bảo vệ",
+   "đề phòng",
+   "cảnh giác",
+   "tấm chắn bảo vệ"
+  ],
+  "t": "guard against nghĩa là phòng tránh một rủi ro hoặc sai sót."
+ },
+ "underline": {
+  "s": [
+   "gạch chân",
+   "nhấn mạnh; làm nổi bật"
+  ],
+  "c": [
+   "gạch chân một từ",
+   "nhấn mạnh tầm quan trọng của",
+   "làm nổi bật nhu cầu về"
+  ],
+  "t": "Nghĩa gốc là gạch chân bên dưới, cũng thường dùng để nhấn mạnh tầm quan trọng."
+ },
+ "stream": {
+  "s": [
+   "con suối; dòng suối",
+   "dòng người hoặc vật liên tục",
+   "chảy; phát trực tuyến"
+  ],
+  "c": [
+   "suối trên núi",
+   "dòng khách đến liên tục",
+   "phát nhạc trực tuyến"
+  ],
+  "t": "a stream of chỉ dòng người hoặc vật nối tiếp nhau."
+ },
+ "ballet": {
+  "s": [
+   "ba lê; vở ba lê"
+  ],
+  "c": [
+   "vũ công ba lê",
+   "đoàn ba lê",
+   "các buổi học ba lê",
+   "ba lê cổ điển"
+  ],
+  "t": "Chữ t cuối không đọc; tiếng Anh–Anh nhấn âm đầu, tiếng Anh–Mỹ nhấn âm sau."
+ },
+ "disappointment": {
+  "s": [
+   "sự thất vọng; nỗi buồn",
+   "người/điều gây thất vọng"
+  ],
+  "c": [
+   "khiến tôi thất vọng",
+   "một nỗi thất vọng cay đắng",
+   "đối mặt với sự thất vọng"
+  ],
+  "t": "Nói cảm xúc thường không đếm được; nói điều gây thất vọng thì dùng a disappointment."
+ },
+ "workout": {
+  "s": [
+   "buổi tập luyện; bài tập thể dục"
+  ],
+  "c": [
+   "tập luyện hằng ngày",
+   "buổi tập cường độ cao",
+   "lịch tập thể dục"
+  ],
+  "t": "workout là danh từ; cụm động từ work out viết rời nhau."
+ },
+ "angel": {
+  "s": [
+   "thiên thần",
+   "người tốt bụng; người đáng yêu"
+  ],
+  "c": [
+   "thiên thần hộ mệnh",
+   "một người cực kỳ tốt bụng",
+   "đôi cánh thiên thần"
+  ],
+  "t": "Gọi ai đó là an angel có thể nghĩa là họ rất tốt hoặc đã giúp đỡ rất nhiều."
+ },
+ "loss": {
+  "s": [
+   "sự mất mát; sự thất lạc; thiệt hại",
+   "khoản lỗ",
+   "sự thua cuộc"
+  ],
+  "c": [
+   "mất thính lực",
+   "mất việc làm",
+   "bối rối; lỗ vốn",
+   "thiệt hại tài chính"
+  ],
+  "t": "loss là danh từ, lose là động từ, quá khứ và quá khứ phân từ là lost."
+ },
+ "farming": {
+  "s": [
+   "nông nghiệp; canh tác"
+  ],
+  "c": [
+   "canh tác hữu cơ",
+   "chăn nuôi bò sữa",
+   "canh tác thâm canh",
+   "canh tác bền vững"
+  ],
+  "t": "Nói chung về nông nghiệp thì thường không đếm được; chăn nuôi cũng dùng farming."
+ },
+ "achievement": {
+  "s": [
+   "thành tựu; thành tích",
+   "sự đạt được; sự hoàn thành"
+  ],
+  "c": [
+   "một thành tựu lớn",
+   "cảm giác thành tựu",
+   "thành tích học tập",
+   "việc đạt được mục tiêu"
+  ],
+  "t": "Thành tựu cụ thể thì đếm được; việc đạt được mục tiêu thì thường không đếm được."
+ },
+ "spill": {
+  "s": [
+   "làm đổ; tràn ra; rơi vãi",
+   "vết đổ; sự tràn"
+  ],
+  "c": [
+   "làm đổ đồ uống",
+   "vụ tràn dầu",
+   "tràn ra; lan sang",
+   "tiết lộ bí mật"
+  ],
+  "t": "Quá khứ và quá khứ phân từ có thể là spilled hoặc spilt."
+ },
+ "guesthouse": {
+  "s": [
+   "nhà nghỉ; nhà trọ nhỏ"
+  ],
+  "c": [
+   "ở một nhà nghỉ",
+   "nhà nghỉ do gia đình điều hành",
+   "nhà nghỉ ven biển"
+  ],
+  "t": "Thường chỉ chỗ lưu trú nhỏ, không dùng cho khách sạn lớn."
+ },
+ "sharp": {
+  "s": [
+   "sắc bén; nhọn",
+   "đột ngột; rõ rệt",
+   "nhạy bén; lanh lợi"
+  ],
+  "c": [
+   "con dao sắc",
+   "tăng mạnh",
+   "sự tương phản rõ rệt",
+   "đầu óc nhạy bén"
+  ],
+  "t": "Khi tả sự thay đổi, sharp thường chỉ sự thay đổi lớn và đột ngột, như a sharp rise."
+ },
+ "account": {
+  "s": [
+   "tài khoản",
+   "lời kể; bản tường thuật",
+   "giải thích; chiếm (tỷ lệ)"
+  ],
+  "c": [
+   "mở tài khoản",
+   "kể lại",
+   "giải thích; chiếm",
+   "cân nhắc; tính đến"
+  ],
+  "t": "account for có thể nghĩa là giải thích nguyên nhân hoặc chiếm một tỷ lệ nào đó."
+ },
+ "unkind": {
+  "s": [
+   "không tử tế; cay nghiệt"
+  ],
+  "c": [
+   "những lời cay nghiệt",
+   "đối xử không tử tế với ai",
+   "hành vi không tử tế"
+  ],
+  "t": "Nói đối xử không tử tế với ai dùng be unkind to someone."
+ },
+ "silence": {
+  "s": [
+   "sự im lặng; sự yên tĩnh",
+   "làm im đi; bịt miệng"
+  ],
+  "c": [
+   "lặng lẽ",
+   "phá vỡ sự im lặng",
+   "hoàn toàn im lặng",
+   "dập tắt chỉ trích"
+  ],
+  "t": "in silence nghĩa là âm thầm; silent là tính từ."
+ },
+ "border": {
+  "s": [
+   "biên giới; ranh giới",
+   "viền; mép trang trí",
+   "giáp với; tiếp giáp"
+  ],
+  "c": [
+   "vượt qua biên giới",
+   "kiểm soát biên giới",
+   "có chung biên giới",
+   "đường viền trang trí"
+  ],
+  "t": "Động từ border đi thẳng với địa điểm; border on còn có thể nghĩa là gần như."
+ },
+ "acceptable": {
+  "s": [
+   "chấp nhận được; đạt yêu cầu"
+  ],
+  "c": [
+   "tiêu chuẩn chấp nhận được",
+   "được xã hội chấp nhận",
+   "mọi người đều chấp nhận được"
+  ],
+  "t": "acceptable nghĩa là đạt yêu cầu, không có nghĩa là xuất sắc."
+ },
+ "embarrassing": {
+  "s": [
+   "đáng xấu hổ; gây ngượng ngùng"
+  ],
+  "c": [
+   "một sai lầm đáng xấu hổ",
+   "một tình huống khó xử",
+   "vô cùng ngượng ngùng"
+  ],
+  "t": "Sự việc làm người khác ngượng dùng embarrassing; người cảm thấy ngượng dùng embarrassed."
+ },
+ "booklet": {
+  "s": [
+   "tập sách nhỏ; sổ tay mỏng"
+  ],
+  "c": [
+   "tập thông tin",
+   "sách hướng dẫn",
+   "một tập sách nhỏ về"
+  ],
+  "t": "-let thường chỉ nhỏ; booklet là cuốn sách mỏng nhỏ."
+ },
+ "hunting": {
+  "s": [
+   "sự săn bắn",
+   "sự tìm kiếm"
+  ],
+  "c": [
+   "săn bắn trái phép",
+   "lệnh cấm săn bắn",
+   "tìm việc",
+   "tìm nhà"
+  ],
+  "t": "Thường không đếm được; job hunting nghĩa là tìm việc."
+ },
+ "novel": {
+  "s": [
+   "tiểu thuyết",
+   "mới lạ; độc đáo"
+  ],
+  "c": [
+   "viết một cuốn tiểu thuyết",
+   "tiểu thuyết lịch sử",
+   "cách tiếp cận mới lạ"
+  ],
+  "t": "Làm danh từ là tiểu thuyết dài; làm tính từ là mới mẻ."
+ },
+ "wise": {
+  "s": [
+   "khôn ngoan; sáng suốt"
+  ],
+  "c": [
+   "một quyết định sáng suốt",
+   "lời khuyên khôn ngoan",
+   "làm việc gì là khôn ngoan"
+  ],
+  "t": "wise nhấn mạnh phán đoán sáng suốt; clever nhấn mạnh sự thông minh, nhanh trí."
+ },
+ "priest": {
+  "s": [
+   "linh mục; tu sĩ; thầy tế"
+  ],
+  "c": [
+   "linh mục xứ",
+   "linh mục Công giáo",
+   "được thụ phong linh mục"
+  ],
+  "t": "Không phải mọi tu sĩ đều gọi là priest; nhà sư thường gọi là monk."
+ },
+ "negative": {
+  "s": [
+   "tiêu cực; bất lợi",
+   "phủ định; âm tính",
+   "âm; nhỏ hơn không"
+  ],
+  "c": [
+   "tác động tiêu cực",
+   "thái độ tiêu cực",
+   "xét nghiệm âm tính",
+   "số âm"
+  ],
+  "t": "Kết quả xét nghiệm negative nghĩa là âm tính, không phải kết quả xấu."
+ },
+ "consumer": {
+  "s": [
+   "người tiêu dùng"
+  ],
+  "c": [
+   "quyền lợi người tiêu dùng",
+   "nhu cầu tiêu dùng",
+   "hàng tiêu dùng",
+   "bảo vệ người tiêu dùng"
+  ],
+  "t": "consumer nhấn mạnh người tiêu dùng; customer nhấn mạnh mối quan hệ giao dịch với cửa hàng."
+ },
+ "marriage": {
+  "s": [
+   "hôn nhân; việc kết hôn",
+   "sự kết hợp chặt chẽ"
+  ],
+  "c": [
+   "một cuộc hôn nhân hạnh phúc",
+   "giấy đăng ký kết hôn",
+   "lễ cưới",
+   "cuộc hôn nhân với ai"
+  ],
+  "t": "marriage là quan hệ hôn nhân; wedding chủ yếu là đám cưới."
+ },
+ "tournament": {
+  "s": [
+   "giải đấu; vòng đấu"
+  ],
+  "c": [
+   "đăng cai giải đấu",
+   "đăng ký tham gia giải đấu",
+   "giành chiến thắng giải đấu",
+   "giải quần vợt"
+  ],
+  "t": "Thường gồm nhiều trận; một trận đơn thường dùng match hoặc game."
+ },
+ "pregnant": {
+  "s": [
+   "có thai; mang thai"
+  ],
+  "c": [
+   "có thai",
+   "phụ nữ mang thai",
+   "sắp đến ngày sinh"
+  ],
+  "t": "Nói mang thai được bao lâu có thể dùng six months pregnant."
+ },
+ "mat": {
+  "s": [
+   "tấm thảm nhỏ; chiếu",
+   "làm rối bù"
+  ],
+  "c": [
+   "thảm yoga",
+   "thảm cao su",
+   "thảm nhà tắm",
+   "thảm tập"
+  ],
+  "t": "mat thường là tấm thảm nhỏ có công dụng cụ thể, khác với carpet."
+ },
+ "press": {
+  "s": [
+   "nhấn; ấn",
+   "báo chí; giới báo chí",
+   "thúc giục; đòi"
+  ],
+  "c": [
+   "nhấn nút",
+   "tự do báo chí",
+   "họp báo",
+   "thúc giục cải cách"
+  ],
+  "t": "Báo chí thường dùng the press; nhấn nút không cần push down."
+ },
+ "persuade": {
+  "s": [
+   "thuyết phục; khuyên nhủ",
+   "làm cho tin"
+  ],
+  "c": [
+   "thuyết phục ai làm gì",
+   "làm ai tin điều gì",
+   "khó thuyết phục"
+  ],
+  "t": "persuade sb to do nhấn mạnh đã thuyết phục được, không chỉ là đề xuất."
+ },
+ "racing": {
+  "s": [
+   "đua; môn đua",
+   "dùng để đua"
+  ],
+  "c": [
+   "đua ngựa",
+   "đua xe",
+   "xe đua",
+   "xe đạp đua"
+  ],
+  "t": "Tên môn thể thao thường không đếm được; một cuộc đua là a race."
+ },
+ "lavatory": {
+  "s": [
+   "nhà vệ sinh; toilet"
+  ],
+  "c": [
+   "nhà vệ sinh công cộng",
+   "cửa nhà vệ sinh",
+   "tiện nghi vệ sinh"
+  ],
+  "t": "Khá trang trọng, hay gặp trong tiếng Anh–Anh; hằng ngày thường dùng toilet."
+ },
+ "bomb": {
+  "s": [
+   "quả bom",
+   "ném bom; oanh tạc"
+  ],
+  "c": [
+   "quả bom chưa nổ",
+   "gỡ ngòi bom",
+   "đội xử lý bom"
+  ],
+  "t": "Chữ b cuối không đọc; bombing chỉ việc ném bom hoặc đánh bom."
+ }
+}

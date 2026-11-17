@@ -5,21 +5,38 @@ import { useAtlas } from "../atlas/context";
 import { openWord } from "../lib/router";
 import { Illustration } from "./Illustration";
 
+/** Lowercase and strip Vietnamese diacritics so "moi truong" finds "môi trường". */
+const fold = (s: string) =>
+  s.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/đ/g, "d");
+
+const glossCache = new WeakMap<WordRef, string>();
+const gloss = (w: WordRef) => {
+  let g = glossCache.get(w);
+  if (g === undefined) {
+    g = fold(w.zh.replace(/^[a-z.]+\s+/, ""));
+    glossCache.set(w, g);
+  }
+  return g;
+};
+
 export function searchAtlas(atlas: Atlas, raw: string, limit = 40): WordRef[] {
   const q = raw.trim().toLowerCase();
   if (!q) return [];
-  const zh = /[一-鿿]/.test(q);
+  const fq = fold(q);
+  const viOnly = fq !== q; // typed with Vietnamese diacritics: search meanings only
   const hits: [number, WordRef][] = [];
   for (const w of atlas.words) {
     let score = 0;
-    if (zh) {
-      const i = w.zh.indexOf(q);
-      if (i >= 0) score = 60 - Math.min(40, i) - w.zh.length * 0.2;
-    } else {
+    if (!viOnly) {
       const word = w.word.toLowerCase();
       if (word === q) score = 1000;
       else if (word.startsWith(q)) score = 500 - word.length;
       else if (word.includes(q)) score = 200 - word.indexOf(q) - word.length;
+    }
+    if (!score && fq.length >= 2) {
+      const g = gloss(w);
+      const i = g.indexOf(fq);
+      if (i >= 0 && (i === 0 || !/[a-z0-9]/.test(g[i - 1]))) score = 60 - Math.min(40, i) - g.length * 0.2;
     }
     if (score > 0) hits.push([score, w]);
   }
@@ -48,13 +65,13 @@ export function Palette({ open, onClose }: { open: boolean; onClose: () => void 
   };
   return (
     <div className="palette-root" onMouseDown={(e) => e.target === e.currentTarget && onClose()}>
-      <div className="palette" role="dialog" aria-modal="true" aria-label="搜索单词">
+      <div className="palette" role="dialog" aria-modal="true" aria-label="Tìm từ">
         <label className="palette-input">
           <Search size={20} />
           <input
             ref={input}
             value={q}
-            placeholder="搜索英文或中文，例如 serendipity / 环境"
+            placeholder="Tìm tiếng Anh hoặc tiếng Việt, ví dụ: environment / môi trường"
             onChange={(e) => setQ(e.target.value)}
             onKeyDown={(e) => {
               if (e.key === "Escape") onClose();
@@ -94,11 +111,11 @@ export function Palette({ open, onClose }: { open: boolean; onClose: () => void 
               {i === sel && <CornerDownLeft size={15} className="palette-enter" />}
             </li>
           ))}
-          {q && !results.length && <li className="palette-empty">没有找到「{q}」</li>}
+          {q && !results.length && <li className="palette-empty">Không tìm thấy “{q}”</li>}
           {!q && (
             <li className="palette-hint">
-              {atlas.count.toLocaleString()} 个词条 · 支持英文前缀与中文释义搜索 · <kbd>↑</kbd>
-              <kbd>↓</kbd> 选择 <kbd>↵</kbd> 打开
+              {atlas.count.toLocaleString()} từ · Tìm được theo tiếng Anh và nghĩa tiếng Việt · <kbd>↑</kbd>
+              <kbd>↓</kbd> chọn <kbd>↵</kbd> mở
             </li>
           )}
         </ul>

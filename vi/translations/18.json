@@ -1,0 +1,1246 @@
+{
+ "either": {
+  "s": [
+   "một trong hai; mỗi bên",
+   "một trong hai (người/vật)",
+   "cũng không"
+  ],
+  "c": [
+   "dù theo cách nào",
+   "một trong hai bên; mỗi bên",
+   "cũng không",
+   "một trong hai người/vật đó"
+  ],
+  "t": "either ... or ... là cấu trúc chọn một trong hai; either ở cuối câu phủ định nghĩa là “cũng không”."
+ },
+ "camp": {
+  "s": [
+   "trại; khu cắm trại",
+   "cắm trại; dựng trại",
+   "phe; phái"
+  ],
+  "c": [
+   "dựng trại",
+   "đi cắm trại",
+   "trại hè",
+   "các phe đối lập"
+  ],
+  "t": "go camping nghĩa là đi cắm trại; camp cũng có thể chỉ phe có cùng quan điểm."
+ },
+ "suddenly": {
+  "s": [
+   "đột nhiên; bỗng"
+  ],
+  "c": [
+   "đột nhiên xuất hiện",
+   "chợt nhận ra",
+   "dừng lại đột ngột"
+  ],
+  "t": "Có thể đặt đầu câu hoặc trước động từ; nhấn mạnh sự thay đổi bất ngờ, không báo trước."
+ },
+ "gas": {
+  "s": [
+   "chất khí; khí",
+   "khí đốt",
+   "xăng (tiếng Anh Mỹ)"
+  ],
+  "c": [
+   "khí nhà kính",
+   "khí đốt thiên nhiên",
+   "rò rỉ khí gas",
+   "trạm xăng (Mỹ)"
+  ],
+  "t": "Chỉ chung chất khí thì thường không đếm được; nhiều loại khí dùng gases."
+ },
+ "scissors": {
+  "s": [
+   "cái kéo"
+  ],
+  "c": [
+   "một chiếc kéo",
+   "kéo sắc",
+   "cắt bằng kéo"
+  ],
+  "t": "Thường dùng ở số nhiều; một chiếc kéo nói a pair of scissors."
+ },
+ "goldfish": {
+  "s": [
+   "cá vàng"
+  ],
+  "c": [
+   "nuôi cá vàng",
+   "cho cá vàng ăn",
+   "ao cá vàng"
+  ],
+  "t": "goldfish có số ít và số nhiều giống nhau: one goldfish, two goldfish."
+ },
+ "tail": {
+  "s": [
+   "cái đuôi; phần đuôi",
+   "bám theo; theo dõi"
+  ],
+  "c": [
+   "vẫy đuôi",
+   "cái đuôi xù",
+   "phần cuối cùng"
+  ],
+  "t": "tail là cái đuôi; tale là câu chuyện; hai từ đồng âm."
+ },
+ "own": {
+  "s": [
+   "của riêng mình",
+   "sở hữu"
+  ],
+  "c": [
+   "phòng riêng của tôi",
+   "sở hữu một ngôi nhà",
+   "một mình; tự lập",
+   "của riêng bạn"
+  ],
+  "t": "own với nghĩa “của riêng” thường đứng sau từ sở hữu như my own."
+ },
+ "celebrate": {
+  "s": [
+   "kỷ niệm; ăn mừng",
+   "ca ngợi; tôn vinh"
+  ],
+  "c": [
+   "ăn mừng sinh nhật",
+   "ăn mừng một thành tựu",
+   "tôn vinh sự đa dạng"
+  ],
+  "t": "Ăn mừng điều gì dùng celebrate; chúc mừng ai dùng congratulate."
+ },
+ "wooden": {
+  "s": [
+   "bằng gỗ",
+   "cứng đơ; thiếu tự nhiên"
+  ],
+  "c": [
+   "sàn gỗ",
+   "đồ nội thất bằng gỗ",
+   "thìa gỗ",
+   "màn trình diễn cứng nhắc"
+  ],
+  "t": "wooden là làm bằng gỗ; woody thường chỉ tính chất của gỗ hoặc giống gỗ."
+ },
+ "necessary": {
+  "s": [
+   "cần thiết; thiết yếu"
+  ],
+  "c": [
+   "nếu cần",
+   "các biện pháp phòng ngừa cần thiết",
+   "cần thiết cho",
+   "hoàn toàn cần thiết"
+  ],
+  "t": "Thường dùng it is necessary to do; necessarily nghĩa là “tất yếu”."
+ },
+ "suggest": {
+  "s": [
+   "đề nghị; gợi ý",
+   "cho thấy; ngụ ý"
+  ],
+  "c": [
+   "đề xuất một giải pháp",
+   "đề nghị làm việc gì",
+   "ngụ ý rất rõ",
+   "bằng chứng cho thấy rằng"
+  ],
+  "t": "Dùng suggest doing hoặc suggest that + mệnh đề, không dùng suggest to do."
+ },
+ "air-conditioning": {
+  "s": [
+   "điều hòa không khí; hệ thống điều hòa"
+  ],
+  "c": [
+   "hệ thống điều hòa",
+   "điều hòa trung tâm",
+   "bật điều hòa"
+  ],
+  "t": "Không đếm được; một chiếc máy điều hòa là an air conditioner."
+ },
+ "messy": {
+  "s": [
+   "bừa bộn; lộn xộn",
+   "rắc rối; phức tạp"
+  ],
+  "c": [
+   "căn phòng bừa bộn",
+   "chữ viết cẩu thả",
+   "tình huống rắc rối"
+  ],
+  "t": "messy có thể chỉ đồ đạc lộn xộn, cũng có thể chỉ tình huống phức tạp khó xử lý."
+ },
+ "recently": {
+  "s": [
+   "gần đây; mới đây"
+  ],
+  "c": [
+   "cho đến gần đây",
+   "chỉ mới đây",
+   "mới được xuất bản gần đây"
+  ],
+  "t": "Có thể dùng với quá khứ đơn hoặc hiện tại hoàn thành, không chỉ hiện tại hoàn thành."
+ },
+ "mostly": {
+  "s": [
+   "chủ yếu; phần lớn"
+  ],
+  "c": [
+   "phần lớn thời gian nắng",
+   "chủ yếu làm bằng",
+   "chủ yếu vì"
+  ],
+  "t": "mostly chỉ phần lớn trường hợp; almost chỉ “suýt” hoặc “gần như”."
+ },
+ "musical": {
+  "s": [
+   "thuộc âm nhạc; có năng khiếu âm nhạc",
+   "nhạc kịch; phim ca nhạc",
+   "du dương; êm tai"
+  ],
+  "c": [
+   "nhạc cụ",
+   "năng khiếu âm nhạc",
+   "buổi biểu diễn âm nhạc",
+   "một vở nhạc kịch sân khấu"
+  ],
+  "t": "Là tính từ nghĩa là “thuộc âm nhạc”; là danh từ đếm được nghĩa là nhạc kịch."
+ },
+ "shake": {
+  "s": [
+   "lắc; rung; run",
+   "làm chấn động; làm lung lay",
+   "sự lắc; sự rung"
+  ],
+  "c": [
+   "bắt tay",
+   "lắc đầu",
+   "run lên vì sợ",
+   "làm lung lay niềm tin"
+  ],
+  "t": "Động từ bất quy tắc: shake – shook – shaken."
+ },
+ "litre": {
+  "s": [
+   "lít (đơn vị thể tích)"
+  ],
+  "c": [
+   "một lít sữa",
+   "nửa lít",
+   "lít trên phút"
+  ],
+  "t": "Anh Anh viết litre, Anh Mỹ viết liter; số nhiều thêm s."
+ },
+ "haircut": {
+  "s": [
+   "việc cắt tóc; kiểu tóc"
+  ],
+  "c": [
+   "đi cắt tóc",
+   "kiểu tóc ngắn",
+   "cần cắt tóc"
+  ],
+  "t": "Nói get hoặc have a haircut, không nói cut a haircut."
+ },
+ "expect": {
+  "s": [
+   "dự đoán; dự kiến",
+   "đòi hỏi; mong đợi",
+   "chờ đợi; mong ai đến"
+  ],
+  "c": [
+   "dự kiến làm việc gì",
+   "mong ai làm việc gì",
+   "hoàn toàn dự đoán được",
+   "đúng như dự đoán"
+  ],
+  "t": "expect thiên về việc cho rằng sẽ xảy ra; hope thiên về việc mong muốn xảy ra."
+ },
+ "pineapple": {
+  "s": [
+   "quả dứa; quả thơm"
+  ],
+  "c": [
+   "dứa tươi",
+   "nước ép dứa",
+   "dứa cắt miếng"
+  ],
+  "t": "Cả quả dứa đếm được; phần thịt quả dùng làm đồ ăn thường không đếm được."
+ },
+ "bone": {
+  "s": [
+   "xương",
+   "lọc xương"
+  ],
+  "c": [
+   "gãy xương",
+   "độ chắc của xương",
+   "tủy xương",
+   "mật độ xương"
+  ],
+  "t": "Khi là động từ, bone nghĩa là lọc xương; boneless nghĩa là không xương."
+ },
+ "mirror": {
+  "s": [
+   "cái gương",
+   "phản ánh; giống với"
+  ],
+  "c": [
+   "soi gương",
+   "gương soi toàn thân",
+   "phản ánh những thay đổi",
+   "phản ánh thực tế"
+  ],
+  "t": "Soi gương dùng look in the mirror, không dùng look the mirror."
+ },
+ "hut": {
+  "s": [
+   "túp lều; chòi"
+  ],
+  "c": [
+   "nhà gỗ nhỏ",
+   "chòi trên núi",
+   "túp lều tranh"
+  ],
+  "t": "hut nhấn mạnh sự nhỏ và đơn sơ, thường không phải nhà ở đầy đủ tiện nghi."
+ },
+ "sour": {
+  "s": [
+   "chua",
+   "chua; thiu",
+   "trở nên tồi tệ; làm xấu đi"
+  ],
+  "c": [
+   "vị chua",
+   "bị chua; hỏng",
+   "quan hệ xấu đi"
+  ],
+  "t": "go sour có thể chỉ thức ăn hỏng, cũng có thể chỉ quan hệ trở nên tệ."
+ },
+ "currency": {
+  "s": [
+   "tiền tệ; tiền",
+   "sự lưu hành; sự phổ biến"
+  ],
+  "c": [
+   "ngoại tệ",
+   "đồng tiền địa phương",
+   "đổi tiền",
+   "dần phổ biến"
+  ],
+  "t": "Một loại tiền cụ thể thì đếm được; tiền tệ nói chung thường không đếm được."
+ },
+ "qualification": {
+  "s": [
+   "bằng cấp; chứng chỉ",
+   "trình độ; điều kiện đủ tư cách",
+   "điều kiện hạn chế; sự bảo lưu"
+  ],
+  "c": [
+   "bằng cấp học thuật",
+   "chứng chỉ nghề nghiệp",
+   "điều kiện đầu vào",
+   "không chút bảo lưu"
+  ],
+  "t": "Khi nói về bằng cấp hoặc trình độ thường dùng số nhiều qualifications."
+ },
+ "issue": {
+  "s": [
+   "vấn đề; chủ đề quan trọng",
+   "ban hành; phát hành; cấp",
+   "số (báo, tạp chí)"
+  ],
+  "c": [
+   "giải quyết một vấn đề",
+   "một vấn đề gây tranh cãi",
+   "đưa ra cảnh báo",
+   "số mới nhất"
+  ],
+  "t": "issue với nghĩa “vấn đề” thường chỉ chủ đề cần thảo luận, không nhất thiết là khó khăn."
+ },
+ "indoors": {
+  "s": [
+   "trong nhà; vào trong nhà"
+  ],
+  "c": [
+   "ở trong nhà",
+   "vào trong nhà",
+   "nuôi thú cưng trong nhà"
+  ],
+  "t": "indoors là trạng từ; để bổ nghĩa cho danh từ dùng indoor, như indoor sports."
+ },
+ "amaze": {
+  "s": [
+   "làm kinh ngạc; làm sửng sốt"
+  ],
+  "c": [
+   "luôn khiến người ta kinh ngạc",
+   "khiến khán giả kinh ngạc",
+   "ngạc nhiên về"
+  ],
+  "t": "Người cảm thấy ngạc nhiên dùng amazed; sự vật gây ngạc nhiên dùng amazing."
+ },
+ "maker": {
+  "s": [
+   "người làm ra; nhà sản xuất"
+  ],
+  "c": [
+   "nhà sản xuất đồ nội thất",
+   "hãng xe hơi",
+   "người ra quyết định"
+  ],
+  "t": "Thường đi với tên sản phẩm; người ra quyết định là decision maker."
+ },
+ "solution": {
+  "s": [
+   "giải pháp; lời giải",
+   "dung dịch"
+  ],
+  "c": [
+   "giải pháp cho một vấn đề",
+   "tìm ra giải pháp",
+   "một giải pháp khả thi",
+   "dung dịch muối"
+  ],
+  "t": "Giải pháp cho ... dùng solution to, không dùng solution of."
+ },
+ "therefore": {
+  "s": [
+   "do đó; vì vậy"
+  ],
+  "c": [
+   "do đó kết luận",
+   "do đó cần thiết",
+   "và vì vậy"
+  ],
+  "t": "Là trạng từ, không thể chỉ dùng dấu phẩy để nối hai câu hoàn chỉnh."
+ },
+ "routine": {
+  "s": [
+   "thói quen; lịch trình thường ngày",
+   "thường lệ; theo thông lệ",
+   "một chuỗi động tác biểu diễn"
+  ],
+  "c": [
+   "lịch sinh hoạt hằng ngày",
+   "kiểm tra định kỳ",
+   "một bài tập luyện",
+   "thiết lập thói quen cố định"
+  ],
+  "t": "Danh từ chỉ trình tự cố định; tính từ chỉ việc làm theo lệ thường."
+ },
+ "claim": {
+  "s": [
+   "tuyên bố; cho rằng",
+   "đòi; nhận về",
+   "lời khẳng định; yêu cầu bồi thường"
+  ],
+  "c": [
+   "tuyên bố rằng",
+   "nhận trách nhiệm về",
+   "yêu cầu bồi thường",
+   "đưa ra khẳng định hoặc yêu cầu bồi thường"
+  ],
+  "t": "claim nhấn mạnh lời nói của ai đó, không có nghĩa là đã được chứng minh."
+ },
+ "confidence": {
+  "s": [
+   "sự tự tin; niềm tin",
+   "sự tin tưởng"
+  ],
+  "c": [
+   "xây dựng sự tự tin",
+   "tin tưởng ai",
+   "thiếu tự tin",
+   "một cách bí mật"
+  ],
+  "t": "Tin tưởng vào ai hoặc điều gì dùng confidence in."
+ },
+ "volunteer": {
+  "s": [
+   "tình nguyện viên",
+   "xung phong; tình nguyện"
+  ],
+  "c": [
+   "công việc tình nguyện",
+   "xung phong giúp đỡ",
+   "làm tình nguyện cho tổ chức từ thiện",
+   "tuyển tình nguyện viên"
+  ],
+  "t": "Tình nguyện làm gì dùng volunteer to do; voluntary là tính từ thường gặp."
+ },
+ "switch": {
+  "s": [
+   "công tắc",
+   "chuyển; đổi",
+   "sự chuyển đổi; sự thay đổi"
+  ],
+  "c": [
+   "công tắc đèn",
+   "tắt",
+   "chuyển sang",
+   "chuyển đổi"
+  ],
+  "t": "switch on/off là bật/tắt thiết bị; switch to nghĩa là chuyển sang."
+ },
+ "block": {
+  "s": [
+   "khối; tảng",
+   "chặn; làm tắc",
+   "dãy nhà; tòa nhà lớn"
+  ],
+  "c": [
+   "một tòa chung cư",
+   "chặn lối vào",
+   "một tảng băng",
+   "dãy nhà trong thành phố"
+  ],
+  "t": "a block of flats là tòa chung cư, một cách nói phổ biến trong tiếng Anh Anh."
+ },
+ "mild": {
+  "s": [
+   "nhẹ; không nghiêm trọng",
+   "ôn hòa; ấm áp",
+   "nhạt; không cay"
+  ],
+  "c": [
+   "triệu chứng nhẹ",
+   "thời tiết ôn hòa",
+   "vị nhạt",
+   "đau đầu nhẹ"
+  ],
+  "t": "mild có thể tả triệu chứng, thời tiết và hương vị; không có nghĩa là “vô hại”."
+ },
+ "hostel": {
+  "s": [
+   "nhà trọ giá rẻ; hostel",
+   "nơi tạm trú"
+  ],
+  "c": [
+   "nhà trọ thanh niên",
+   "ở nhà trọ",
+   "chỗ ở nhà trọ"
+  ],
+  "t": "hostel thường có phòng nhiều giường; hotel thường có phòng riêng."
+ },
+ "inch": {
+  "s": [
+   "inch (đơn vị chiều dài)",
+   "nhích từng chút"
+  ],
+  "c": [
+   "dày một inch",
+   "nhích dần về phía trước",
+   "từng chút một"
+  ],
+  "t": "Ký hiệu inch là ″; khi là động từ nghĩa là nhích đi từng chút."
+ },
+ "sister-in-law": {
+  "s": [
+   "chị/em dâu; chị/em chồng; chị/em vợ"
+  ],
+  "c": [
+   "chị/em dâu tương lai",
+   "gia đình chị/em dâu của tôi"
+  ],
+  "t": "Chỉ chị em thuộc quan hệ thông gia, không phải chị em kế; số nhiều là sisters-in-law."
+ },
+ "rope": {
+  "s": [
+   "dây thừng; dây chão",
+   "buộc bằng dây thừng"
+  ],
+  "c": [
+   "một đoạn dây thừng",
+   "dây leo núi",
+   "nhảy dây",
+   "dùng dây thừng rào lại một khu vực"
+  ],
+  "t": "Chỉ chất liệu chung dùng rope; một sợi dây là a rope."
+ },
+ "pour": {
+  "s": [
+   "rót; đổ; trút",
+   "mưa như trút nước",
+   "tuôn vào; tràn ra"
+  ],
+  "c": [
+   "đổ vào; đổ dồn vào",
+   "đổ ra; tuôn ra",
+   "mưa như trút nước",
+   "đổ nhiều tiền vào"
+  ],
+  "t": "Đổ vào dùng pour into; đổ ra dùng pour out of."
+ },
+ "awesome": {
+  "s": [
+   "tuyệt vời; cực hay",
+   "đáng kinh ngạc; đáng nể sợ"
+  ],
+  "c": [
+   "một trải nghiệm tuyệt vời",
+   "cảnh đẹp tuyệt vời",
+   "sức mạnh đáng nể sợ"
+  ],
+  "t": "Nghĩa “siêu hay” khá khẩu ngữ; văn viết trang trọng nên chọn từ cụ thể hơn."
+ },
+ "comic": {
+  "s": [
+   "hài hước; thuộc hài kịch",
+   "truyện tranh",
+   "diễn viên hài"
+  ],
+  "c": [
+   "khả năng bắt nhịp hài",
+   "truyện tranh nhiều ô",
+   "truyện tranh",
+   "hiệu ứng hài hước"
+  ],
+  "t": "comic liên quan đến hài kịch; comical nhấn mạnh sự buồn cười."
+ },
+ "content": {
+  "s": [
+   "nội dung; hàm lượng",
+   "hài lòng; mãn nguyện",
+   "làm hài lòng; làm thỏa mãn"
+  ],
+  "c": [
+   "nội dung trực tuyến",
+   "hàm lượng đường",
+   "hài lòng với",
+   "tự bằng lòng với"
+  ],
+  "t": "Danh từ nhấn âm đầu, tính từ và động từ nhấn âm sau; mục lục dùng contents."
+ },
+ "dozen": {
+  "s": [
+   "một tá; mười hai",
+   "hàng chục; nhiều"
+  ],
+  "c": [
+   "một tá trứng",
+   "nửa tá; sáu cái",
+   "hàng chục người"
+  ],
+  "t": "two dozen không thêm s; dozens of nghĩa là rất nhiều."
+ },
+ "development": {
+  "s": [
+   "sự phát triển; sự phát dục",
+   "sự phát triển (sản phẩm, đất đai); sự nghiên cứu phát triển",
+   "diễn biến mới; tình hình mới"
+  ],
+  "c": [
+   "phát triển kinh tế",
+   "sự phát triển của trẻ",
+   "phát triển sản phẩm",
+   "phát triển bền vững"
+  ],
+  "t": "Phát triển nói chung thường không đếm được; khi nghĩa là “diễn biến mới” thì đếm được."
+ },
+ "currently": {
+  "s": [
+   "hiện nay; hiện tại"
+  ],
+  "c": [
+   "hiện đang có sẵn",
+   "hiện đang làm việc",
+   "hiện đang được xây dựng"
+  ],
+  "t": "Nghĩa là “hiện nay”, thường đứng trước động từ thường và sau động từ be."
+ },
+ "freezing": {
+  "s": [
+   "lạnh cóng; đóng băng",
+   "điểm đóng băng"
+  ],
+  "c": [
+   "lạnh buốt",
+   "nhiệt độ ở điểm đóng băng hoặc thấp hơn",
+   "dưới điểm đóng băng",
+   "điểm đóng băng"
+  ],
+  "t": "I'm freezing nghĩa là tôi lạnh cóng, không nhất thiết là nước thật sự đóng băng."
+ },
+ "fitness": {
+  "s": [
+   "sức khỏe thể chất; thể lực",
+   "sự phù hợp; sự đủ năng lực"
+  ],
+  "c": [
+   "thể trạng",
+   "mức thể lực",
+   "năng lực làm việc",
+   "trung tâm thể hình"
+  ],
+  "t": "Danh từ không đếm được; fitness for chỉ mức độ phù hợp với việc gì."
+ },
+ "summary": {
+  "s": [
+   "bản tóm tắt; tổng kết",
+   "tóm tắt; sơ lược"
+  ],
+  "c": [
+   "một bản tóm tắt ngắn gọn",
+   "bản tóm tắt của",
+   "tóm lại",
+   "bản tóm tắt điều hành"
+  ],
+  "t": "a summary of theo sau là đối tượng được tóm tắt; in summary dùng để kết luận."
+ },
+ "statue": {
+  "s": [
+   "tượng; pho tượng"
+  ],
+  "c": [
+   "tượng đồng",
+   "tượng đá cẩm thạch",
+   "dựng tượng",
+   "khánh thành tượng"
+  ],
+  "t": "statue là bức tượng; status là địa vị, chú ý phân biệt chính tả."
+ },
+ "political": {
+  "s": [
+   "thuộc chính trị; thuộc đảng phái"
+  ],
+  "c": [
+   "đảng chính trị",
+   "sự ổn định chính trị",
+   "tranh luận chính trị",
+   "hệ thống chính trị"
+  ],
+  "t": "political là tính từ; politics là chính trị, politician là chính trị gia."
+ },
+ "cabbage": {
+  "s": [
+   "bắp cải; cải bắp"
+  ],
+  "c": [
+   "bắp cải tím",
+   "bắp cải thái sợi",
+   "một bắp cải"
+  ],
+  "t": "Cả bắp là a cabbage (đếm được); khi là nguyên liệu nấu ăn thường không đếm được."
+ },
+ "inexpensive": {
+  "s": [
+   "rẻ; giá phải chăng"
+  ],
+  "c": [
+   "lựa chọn thay thế rẻ",
+   "tương đối rẻ",
+   "chỗ ở giá rẻ"
+  ],
+  "t": "Trung tính hơn cheap, thường không ngụ ý chất lượng kém."
+ },
+ "rug": {
+  "s": [
+   "thảm nhỏ",
+   "chăn dày; chăn đắp"
+  ],
+  "c": [
+   "thảm len",
+   "thảm dệt",
+   "thảm trước lò sưởi"
+  ],
+  "t": "rug thường chỉ phủ một phần sàn; carpet có thể trải kín cả phòng."
+ },
+ "agent": {
+  "s": [
+   "đại lý; người đại diện",
+   "điệp viên",
+   "tác nhân; chất"
+  ],
+  "c": [
+   "đại lý du lịch",
+   "người môi giới bất động sản",
+   "chất tẩy rửa",
+   "tác nhân thay đổi"
+  ],
+  "t": "agent không chỉ là điệp viên; trong cleaning agent, agent nghĩa là “chất”."
+ },
+ "port": {
+  "s": [
+   "cảng; thành phố cảng",
+   "cổng (máy tính); cổng kết nối",
+   "mạn trái (tàu, máy bay)"
+  ],
+  "c": [
+   "một cảng tấp nập",
+   "thành phố cảng",
+   "cổng USB",
+   "mạn trái"
+  ],
+  "t": "Khi chỉ mạn trái, từ trái nghĩa là starboard (mạn phải)."
+ },
+ "workplace": {
+  "s": [
+   "nơi làm việc"
+  ],
+  "c": [
+   "an toàn nơi làm việc",
+   "ở nơi làm việc",
+   "văn hóa công sở",
+   "đào tạo tại chỗ"
+  ],
+  "t": "Chỉ chung văn phòng, nhà máy, v.v.; không chỉ riêng văn phòng."
+ },
+ "intelligent": {
+  "s": [
+   "thông minh; có khả năng hiểu tốt",
+   "thông minh (hệ thống)"
+  ],
+  "c": [
+   "rất thông minh",
+   "hệ thống thông minh",
+   "quyết định sáng suốt"
+  ],
+  "t": "intelligent là thông minh; intelligible là dễ hiểu."
+ },
+ "employment": {
+  "s": [
+   "việc làm; sự thuê mướn",
+   "sự sử dụng; sự vận dụng"
+  ],
+  "c": [
+   "cơ hội việc làm",
+   "việc làm toàn thời gian",
+   "tìm việc",
+   "tỷ lệ việc làm"
+  ],
+  "t": "Thường không đếm được; một công việc dùng a job, không dùng an employment."
+ },
+ "equator": {
+  "s": [
+   "đường xích đạo"
+  ],
+  "c": [
+   "gần xích đạo",
+   "băng qua xích đạo",
+   "phía bắc xích đạo"
+  ],
+  "t": "Thường có the trước equator; tính từ là equatorial."
+ },
+ "suncream": {
+  "s": [
+   "kem chống nắng"
+  ],
+  "c": [
+   "thoa kem chống nắng",
+   "một tuýp kem chống nắng",
+   "kem chống nắng chỉ số cao"
+  ],
+  "t": "Chủ yếu dùng trong tiếng Anh Anh; cũng thường viết là sun cream."
+ },
+ "signed": {
+  "s": [
+   "đã ký; có chữ ký",
+   "đã ký (quá khứ của sign)"
+  ],
+  "c": [
+   "hợp đồng đã ký",
+   "bản có chữ ký",
+   "thỏa thuận đã ký"
+  ],
+  "t": "signed có thể là tính từ; “được ký bởi ai” dùng signed by."
+ },
+ "waterproof": {
+  "s": [
+   "chống thấm nước; không thấm nước",
+   "làm cho chống thấm nước"
+  ],
+  "c": [
+   "áo khoác chống nước",
+   "ủng chống nước",
+   "chất liệu chống thấm",
+   "chống thấm cho mái nhà"
+  ],
+  "t": "water-resistant chỉ có khả năng chịu nước ở mức nhất định, kém hơn waterproof."
+ },
+ "disabled": {
+  "s": [
+   "khuyết tật"
+  ],
+  "c": [
+   "người khuyết tật",
+   "lối đi cho người khuyết tật",
+   "chỗ đỗ xe dành cho người khuyết tật"
+  ],
+  "t": "Có thể nói disabled people hoặc people with disabilities, tùy theo mong muốn của người đó."
+ },
+ "supply": {
+  "s": [
+   "cung cấp; cấp",
+   "nguồn cung; lượng cung cấp",
+   "vật tư; nhu yếu phẩm"
+  ],
+  "c": [
+   "cung cấp cho ai thứ gì",
+   "cấp nước",
+   "cung và cầu",
+   "vật tư y tế"
+  ],
+  "t": "supply A with B = supply B to A; vật tư thường dùng supplies."
+ },
+ "full-time": {
+  "s": [
+   "toàn thời gian; chính khóa",
+   "toàn thời gian"
+  ],
+  "c": [
+   "việc làm toàn thời gian",
+   "sinh viên chính quy",
+   "làm việc toàn thời gian"
+  ],
+  "t": "Khi bổ nghĩa cho danh từ thì giữ dấu gạch nối, như a full-time job."
+ },
+ "multiply": {
+  "s": [
+   "nhân; làm phép nhân",
+   "tăng nhanh; sinh sôi"
+  ],
+  "c": [
+   "nhân với",
+   "tăng nhanh; sinh sôi nhanh chóng",
+   "tăng gấp mười lần"
+  ],
+  "t": "A nhân B nói multiply A by B; quá khứ là multiplied."
+ },
+ "request": {
+  "s": [
+   "yêu cầu; lời đề nghị",
+   "yêu cầu; đề nghị"
+  ],
+  "c": [
+   "đưa ra yêu cầu",
+   "yêu cầu cung cấp thông tin",
+   "theo yêu cầu",
+   "xin phép"
+  ],
+  "t": "Danh từ đi với for; động từ đi thẳng với tân ngữ: request information."
+ },
+ "recycle": {
+  "s": [
+   "tái chế"
+  ],
+  "c": [
+   "tái chế rác sinh hoạt",
+   "giấy tái chế",
+   "tái chế chai nhựa"
+  ],
+  "t": "recycle là xử lý để dùng lại; reuse nhấn mạnh việc dùng lại trực tiếp."
+ },
+ "conference": {
+  "s": [
+   "hội nghị; hội thảo"
+  ],
+  "c": [
+   "tham dự hội nghị",
+   "tổ chức hội nghị",
+   "họp báo",
+   "địa điểm hội nghị"
+  ],
+  "t": "Chỉ cuộc họp chính thức; tham dự hội nghị dùng attend a conference."
+ },
+ "roast": {
+  "s": [
+   "nướng; quay",
+   "được nướng",
+   "thịt nướng; bữa thịt nướng"
+  ],
+  "c": [
+   "rau củ nướng",
+   "gà nướng",
+   "bữa thịt nướng ngày Chủ nhật"
+  ],
+  "t": "roast thường dùng cho thịt và rau củ; bánh mì và bánh ngọt thường dùng bake."
+ },
+ "hero": {
+  "s": [
+   "anh hùng; người được ngưỡng mộ",
+   "nam chính; nhân vật nam chính"
+  ],
+  "c": [
+   "anh hùng dân tộc",
+   "anh hùng địa phương",
+   "người hùng thầm lặng",
+   "nam chính phim hành động"
+  ],
+  "t": "Số nhiều là heroes; hero trong truyện không nhất thiết có phẩm chất cao đẹp."
+ },
+ "chop": {
+  "s": [
+   "chặt; băm; bổ",
+   "nhát chặt",
+   "sườn (thịt có xương)"
+  ],
+  "c": [
+   "thái rau",
+   "chặt cây",
+   "bổ củi",
+   "sườn cừu"
+  ],
+  "t": "Quá khứ chopped, tiếp diễn chopping, đều gấp đôi chữ p."
+ },
+ "olive": {
+  "s": [
+   "ô-liu; cây ô-liu",
+   "xanh ô-liu; màu nâu nhạt"
+  ],
+  "c": [
+   "dầu ô-liu",
+   "rừng ô-liu",
+   "làn da màu nâu nhạt"
+  ],
+  "t": "olive có thể chỉ quả, cây hoặc màu sắc; olive oil thường không đếm được."
+ },
+ "sadness": {
+  "s": [
+   "nỗi buồn; sự đau buồn"
+  ],
+  "c": [
+   "nỗi buồn sâu sắc",
+   "cảm giác buồn",
+   "đau buồn khôn xiết"
+  ],
+  "t": "Thường là danh từ không đếm được; a sense of sadness nghĩa là một cảm giác buồn."
+ },
+ "cab": {
+  "s": [
+   "xe taxi",
+   "buồng lái"
+  ],
+  "c": [
+   "vẫy taxi",
+   "đi taxi",
+   "cước phí taxi",
+   "buồng lái xe tải"
+  ],
+  "t": "Với nghĩa xe taxi thì đồng nghĩa với taxi; cũng có thể chỉ buồng lái của xe tải, v.v."
+ },
+ "chapter": {
+  "s": [
+   "chương (sách)",
+   "giai đoạn quan trọng (đời người, lịch sử)",
+   "chi nhánh địa phương của một tổ chức"
+  ],
+  "c": [
+   "chương mở đầu",
+   "một chương mới",
+   "một giai đoạn trong lịch sử",
+   "chi nhánh địa phương"
+  ],
+  "t": "Một chương sách dùng chapter; phần nhỏ hơn trong chương thường là section."
+ },
+ "update": {
+  "s": [
+   "cập nhật; thông báo tin mới",
+   "tin mới nhất; bản cập nhật"
+  ],
+  "c": [
+   "cập nhật phần mềm",
+   "cập nhật tình hình cho ai về việc gì",
+   "bản cập nhật phần mềm",
+   "cập nhật định kỳ"
+  ],
+  "t": "Động từ nhấn âm sau; danh từ nhấn âm đầu, đọc là /ˈʌpdeɪt/."
+ },
+ "concentrate": {
+  "s": [
+   "tập trung chú ý",
+   "tập trung; dồn lại",
+   "chất cô đặc"
+  ],
+  "c": [
+   "tập trung vào một nhiệm vụ",
+   "dồn nguồn lực vào",
+   "nước ép trái cây cô đặc"
+  ],
+  "t": "concentrate on theo sau là danh từ hoặc danh động từ, nghĩa là tập trung vào."
+ },
+ "gorgeous": {
+  "s": [
+   "rất đẹp; lộng lẫy",
+   "tuyệt vời; dễ chịu"
+  ],
+  "c": [
+   "phong cảnh tuyệt đẹp",
+   "thời tiết tuyệt vời",
+   "trông rất đẹp"
+  ],
+  "t": "Mạnh hơn beautiful, thường dùng để khen trong khẩu ngữ."
+ },
+ "glance": {
+  "s": [
+   "liếc nhìn; nhìn lướt",
+   "cái liếc; cái nhìn lướt"
+  ],
+  "c": [
+   "liếc nhìn",
+   "nhìn qua một chút",
+   "thoạt nhìn",
+   "trao đổi ánh mắt"
+  ],
+  "t": "glance at là liếc nhanh; stare at là nhìn chằm chằm."
+ },
+ "embarrass": {
+  "s": [
+   "làm ngượng; làm bối rối"
+  ],
+  "c": [
+   "làm ai xấu hổ",
+   "vô cùng bối rối",
+   "một khoảnh khắc khó xử"
+  ],
+  "t": "Người cảm thấy ngượng dùng embarrassed; sự việc gây ngượng dùng embarrassing."
+ },
+ "tube": {
+  "s": [
+   "ống",
+   "tuýp",
+   "tàu điện ngầm Luân Đôn"
+  ],
+  "c": [
+   "một tuýp kem đánh răng",
+   "một ống nhựa",
+   "đi tàu điện ngầm Luân Đôn"
+  ],
+  "t": "the tube chỉ riêng tàu điện ngầm Luân Đôn; một tuýp kem đánh răng dùng a tube of."
+ },
+ "vehicle": {
+  "s": [
+   "xe cộ; phương tiện giao thông",
+   "phương tiện; công cụ"
+  ],
+  "c": [
+   "xe điện",
+   "xe thương mại",
+   "công cụ thúc đẩy thay đổi"
+  ],
+  "t": "Khi chỉ phương tiện giao thông thì đếm được, không chỉ riêng ô tô."
+ },
+ "environmental": {
+  "s": [
+   "thuộc môi trường tự nhiên; thân thiện với môi trường",
+   "thuộc môi trường xung quanh"
+  ],
+  "c": [
+   "bảo vệ môi trường",
+   "tác động môi trường",
+   "các yếu tố môi trường",
+   "sự tàn phá môi trường"
+  ],
+  "t": "environmental là tính từ; bản thân “môi trường” là environment."
+ },
+ "starfish": {
+  "s": [
+   "sao biển"
+  ],
+  "c": [
+   "sao biển ở vũng đá",
+   "quần thể sao biển",
+   "một nhánh của sao biển"
+  ],
+  "t": "Số ít và số nhiều thường giống nhau; sao biển là động vật không xương sống, không phải loài cá."
+ },
+ "incredible": {
+  "s": [
+   "khó tin; không thể tin được",
+   "tuyệt vời; vô cùng lớn"
+  ],
+  "c": [
+   "một thành tựu đáng kinh ngạc",
+   "một lượng rất lớn",
+   "thấy khó tin"
+  ],
+  "t": "incredible có thể nghĩa là khó tin, cũng dùng trong khẩu ngữ để khen “tuyệt vời”."
+ },
+ "ladder": {
+  "s": [
+   "cái thang",
+   "nấc thang thăng tiến; hệ thống thứ bậc"
+  ],
+  "c": [
+   "leo thang",
+   "nấc thang sự nghiệp",
+   "nấc thang mua nhà"
+  ],
+  "t": "ladder là thang di động; stairs là cầu thang trong tòa nhà."
+ },
+ "responsibility": {
+  "s": [
+   "trách nhiệm; sự chịu trách nhiệm",
+   "nhiệm vụ; bổn phận"
+  ],
+  "c": [
+   "chịu trách nhiệm về",
+   "tinh thần trách nhiệm",
+   "nhận trách nhiệm",
+   "cùng chia sẻ trách nhiệm"
+  ],
+  "t": "Trách nhiệm nói chung thường không đếm được; nhiệm vụ cụ thể thì đếm được; thường đi với for."
+ },
+ "electrician": {
+  "s": [
+   "thợ điện"
+  ],
+  "c": [
+   "thợ điện có chứng chỉ",
+   "thợ điện học việc",
+   "gọi thợ điện"
+  ],
+  "t": "electrician là thợ điện; kỹ sư điện là electrical engineer."
+ },
+ "destination": {
+  "s": [
+   "điểm đến; nơi đến"
+  ],
+  "c": [
+   "đến nơi cần đến",
+   "điểm đến du lịch",
+   "điểm đến cuối cùng"
+  ],
+  "t": "reach a destination không thêm to; arrive at đi với điểm đến."
+ },
+ "shiny": {
+  "s": [
+   "sáng bóng; lấp lánh"
+  ],
+  "c": [
+   "đôi giày bóng loáng",
+   "bề mặt sáng bóng",
+   "mái tóc bóng mượt"
+  ],
+  "t": "Chỉ bề mặt phản chiếu ánh sáng, không có nghĩa là bản thân vật phát sáng."
+ },
+ "giant": {
+  "s": [
+   "khổng lồ",
+   "người khổng lồ",
+   "tập đoàn lớn; nhân vật kiệt xuất"
+  ],
+  "c": [
+   "một bước nhảy vọt",
+   "màn hình khổng lồ",
+   "ông lớn ngành công nghệ"
+  ],
+  "t": "Khi là tính từ thường đứng trước danh từ; khi là danh từ có thể chỉ “ông lớn” của một ngành."
+ },
+ "unit": {
+  "s": [
+   "đơn vị; bộ phận",
+   "thiết bị; bộ phận máy",
+   "phòng ban; tổ; đơn vị quân đội"
+  ],
+  "c": [
+   "đơn vị đo lường",
+   "đơn vị gia đình",
+   "thiết bị điều hòa",
+   "khoa chăm sóc đặc biệt"
+  ],
+  "t": "Đơn vị đo lường thường dùng a unit of, theo sau là thứ được đo."
+ }
+}

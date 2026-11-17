@@ -1,0 +1,1246 @@
+{
+ "toll": {
+  "s": [
+   "phí cầu đường",
+   "số thương vong; thiệt hại nặng nề",
+   "rung chuông chậm rãi"
+  ],
+  "c": [
+   "trả phí cầu đường",
+   "số người chết",
+   "gây tổn hại cho",
+   "tiếng chuông ngân chậm"
+  ],
+  "t": "take a toll on nghĩa là gây tổn hại; death toll là số người chết."
+ },
+ "sexual": {
+  "s": [
+   "thuộc tình dục; liên quan đến giới tính",
+   "hữu tính (sinh sản)"
+  ],
+  "c": [
+   "sức khoẻ tình dục",
+   "sinh sản hữu tính",
+   "sự hấp dẫn tình dục"
+  ],
+  "t": "sexual nghĩa là liên quan đến tình dục; sexy mới thường mang nghĩa quyến rũ."
+ },
+ "participation": {
+  "s": [
+   "sự tham gia"
+  ],
+  "c": [
+   "sự tham gia vào",
+   "tham gia tích cực",
+   "sự tham gia của công chúng",
+   "khuyến khích tham gia"
+  ],
+  "t": "Thường không đếm được; tham gia hoạt động nào dùng participation in."
+ },
+ "fascinate": {
+  "s": [
+   "làm say mê; thu hút sâu sắc"
+  ],
+  "c": [
+   "thu hút khán giả",
+   "bị say mê bởi",
+   "luôn khiến người ta say mê"
+  ],
+  "t": "Điều gây say mê dùng fascinating; người cảm thấy say mê dùng fascinated."
+ },
+ "axis": {
+  "s": [
+   "trục; trục quay",
+   "trục toạ độ"
+  ],
+  "c": [
+   "quay quanh trục của nó",
+   "trục hoành",
+   "trục tung",
+   "trục quay"
+  ],
+  "t": "Số nhiều là axes /ˈæksiːz/, cần phân biệt với số nhiều của axe."
+ },
+ "statistics": {
+  "s": [
+   "số liệu thống kê",
+   "môn thống kê; thống kê học"
+  ],
+  "c": [
+   "số liệu thống kê chính thức",
+   "tổng hợp số liệu thống kê",
+   "số liệu thống kê cho thấy",
+   "học thống kê"
+  ],
+  "t": "Chỉ số liệu thì động từ chia số nhiều; chỉ môn thống kê thì động từ chia số ít."
+ },
+ "storage": {
+  "s": [
+   "sự lưu trữ; sự cất giữ",
+   "lưu trữ dữ liệu; dung lượng lưu trữ"
+  ],
+  "c": [
+   "không gian lưu trữ",
+   "lưu trữ năng lượng",
+   "lưu trữ đám mây",
+   "đang được cất giữ"
+  ],
+  "t": "storage thường không đếm được; một phòng kho cụ thể dùng a storeroom."
+ },
+ "conjunction": {
+  "s": [
+   "liên từ",
+   "sự kết hợp; sự đồng thời xảy ra"
+  ],
+  "c": [
+   "kết hợp với; cùng với",
+   "liên từ đẳng lập",
+   "liên từ phụ thuộc"
+  ],
+  "t": "in conjunction with thường nghĩa là cùng với hoặc kết hợp với."
+ },
+ "meditate": {
+  "s": [
+   "thiền; tĩnh tâm",
+   "suy ngẫm; trầm tư"
+  ],
+  "c": [
+   "thiền mỗi ngày",
+   "suy ngẫm sâu về điều gì",
+   "học cách thiền"
+  ],
+  "t": "Suy ngẫm sâu về điều gì thường dùng meditate on hoặc upon."
+ },
+ "anxious": {
+  "s": [
+   "lo lắng; bồn chồn",
+   "khao khát; nóng lòng"
+  ],
+  "c": [
+   "lo lắng về",
+   "nóng lòng làm vừa lòng",
+   "cảm thấy lo lắng"
+  ],
+  "t": "anxious about diễn tả lo lắng; anxious to do thường diễn tả sự nóng lòng."
+ },
+ "justify": {
+  "s": [
+   "biện minh; chứng minh là hợp lý"
+  ],
+  "c": [
+   "biện minh cho một quyết định",
+   "chứng minh chi phí là hợp lý",
+   "biện minh cho việc làm gì"
+  ],
+  "t": "Sau justify đi danh từ hoặc danh động từ, không đi với động từ nguyên mẫu có to."
+ },
+ "fragrance": {
+  "s": [
+   "hương thơm; mùi thơm",
+   "nước hoa; hương liệu"
+  ],
+  "c": [
+   "hương thơm dịu nhẹ",
+   "hương hoa",
+   "hương liệu thêm vào",
+   "sản phẩm không mùi"
+  ],
+  "t": "fragrance thường chỉ mùi dễ chịu; smell có thể thơm hoặc hôi."
+ },
+ "genius": {
+  "s": [
+   "thiên tài",
+   "tài năng thiên bẩm; năng khiếu phi thường"
+  ],
+  "c": [
+   "một thiên tài toán học",
+   "tài năng sáng tạo",
+   "người rất giỏi về",
+   "một ý tưởng thiên tài"
+  ],
+  "t": "Chỉ người thiên tài thì đếm được; chỉ tài năng phi thường thì thường không đếm được."
+ },
+ "bibliography": {
+  "s": [
+   "thư mục tham khảo; danh mục tài liệu"
+  ],
+  "c": [
+   "lập thư mục tham khảo",
+   "thư mục có chú giải",
+   "thư mục phong phú"
+  ],
+  "t": "bibliography là danh sách tài liệu; biography là tiểu sử."
+ },
+ "inherit": {
+  "s": [
+   "thừa kế (tài sản)",
+   "thừa hưởng qua di truyền",
+   "tiếp quản; kế thừa"
+  ],
+  "c": [
+   "thừa kế tài sản",
+   "thừa kế một khối tài sản lớn",
+   "thừa hưởng các đặc điểm di truyền",
+   "thừa kế từ"
+  ],
+  "t": "Hay dùng inherit sth from sb; cũng dùng cho đặc điểm di truyền."
+ },
+ "squirrel": {
+  "s": [
+   "con sóc",
+   "tích trữ; cất giấu"
+  ],
+  "c": [
+   "sóc xám",
+   "sóc đỏ",
+   "lén tích cóp tiền"
+  ],
+  "t": "Khi là động từ thường dùng squirrel away, nghĩa là lặng lẽ cất trữ."
+ },
+ "aluminium": {
+  "s": [
+   "nhôm"
+  ],
+  "c": [
+   "giấy nhôm",
+   "hợp kim nhôm",
+   "lon nhôm",
+   "nhôm tái chế"
+  ],
+  "t": "Anh–Mỹ thường viết aluminum, đọc /əˈluːmɪnəm/."
+ },
+ "spy": {
+  "s": [
+   "gián điệp; điệp viên",
+   "làm gián điệp; theo dõi lén",
+   "bỗng thấy; trông thấy"
+  ],
+  "c": [
+   "theo dõi ai một cách lén lút",
+   "tiểu thuyết điệp viên",
+   "mạng lưới gián điệp"
+  ],
+  "t": "Theo dõi ai dùng spy on; quá khứ và quá khứ phân từ là spied."
+ },
+ "lighting": {
+  "s": [
+   "hệ thống chiếu sáng; hiệu ứng ánh sáng"
+  ],
+  "c": [
+   "chiếu sáng đường phố",
+   "ánh sáng tự nhiên",
+   "chiếu sáng kém",
+   "hiệu ứng ánh sáng"
+  ],
+  "t": "Khi nói chiếu sáng nói chung thì không đếm được; một bóng đèn dùng a light."
+ },
+ "hostage": {
+  "s": [
+   "con tin"
+  ],
+  "c": [
+   "bắt ai làm con tin",
+   "giữ ai làm con tin",
+   "thả con tin",
+   "đàm phán giải cứu con tin"
+  ],
+  "t": "Trong take hoặc hold someone hostage, hostage không có mạo từ phía trước."
+ },
+ "overlapping": {
+  "s": [
+   "chồng lên nhau một phần; trùng lặp",
+   "chồng chéo; giao nhau"
+  ],
+  "c": [
+   "trách nhiệm chồng chéo",
+   "lợi ích chung",
+   "các hình tròn giao nhau"
+  ],
+  "t": "Nhấn mạnh sự trùng một phần, không nhất thiết hoàn toàn giống nhau; cũng dùng cho thời gian trùng nhau."
+ },
+ "abnormal": {
+  "s": [
+   "bất thường; dị thường"
+  ],
+  "c": [
+   "hành vi bất thường",
+   "tăng trưởng bất thường",
+   "nhịp tim bất thường"
+  ],
+  "t": "Thường dùng trong y học hoặc hiện tượng bất thường, không nên tuỳ tiện dùng để đánh giá con người."
+ },
+ "enhance": {
+  "s": [
+   "nâng cao; tăng cường; cải thiện"
+  ],
+  "c": [
+   "nâng cao hiệu suất",
+   "cải thiện chất lượng của",
+   "nâng cao danh tiếng của ai"
+  ],
+  "t": "Nhấn mạnh việc tăng chất lượng, hiệu quả hay giá trị, không chỉ tăng số lượng."
+ },
+ "percussion": {
+  "s": [
+   "nhạc cụ gõ; bộ gõ"
+  ],
+  "c": [
+   "nhạc cụ gõ",
+   "chơi bộ gõ",
+   "dàn bộ gõ"
+  ],
+  "t": "Chỉ chung thì không đếm được; một nhạc cụ gõ cụ thể dùng a percussion instrument."
+ },
+ "compensate": {
+  "s": [
+   "bồi thường; đền bù",
+   "bù đắp; bù trừ"
+  ],
+  "c": [
+   "bồi thường tổn thất cho ai",
+   "bù đắp sự thiếu hụt",
+   "bồi thường đầy đủ"
+  ],
+  "t": "Bồi thường ai dùng compensate sb for sth; bù đắp dùng compensate for."
+ },
+ "commit": {
+  "s": [
+   "phạm (tội, lỗi)",
+   "cam kết; hứa chắc",
+   "đầu tư (tiền, nguồn lực)"
+  ],
+  "c": [
+   "phạm tội",
+   "cam kết làm việc gì",
+   "dành nguồn lực cho",
+   "tận tâm với"
+  ],
+  "t": "Trong commit to, to là giới từ nên theo sau là danh từ hoặc danh động từ."
+ },
+ "devote": {
+  "s": [
+   "dành; cống hiến"
+  ],
+  "c": [
+   "dành thời gian cho",
+   "dành nguồn lực cho",
+   "tận tâm với"
+  ],
+  "t": "Trong devote…to, to là giới từ nên theo sau là danh từ hoặc danh động từ."
+ },
+ "self": {
+  "s": [
+   "bản thân; con người thật của mình"
+  ],
+  "c": [
+   "ý thức về bản thân",
+   "con người thật của bạn",
+   "con người thường ngày của bạn"
+  ],
+  "t": "self là danh từ; để nói “bản thân tôi” thường dùng myself."
+ },
+ "dental": {
+  "s": [
+   "thuộc răng; thuộc nha khoa"
+  ],
+  "c": [
+   "chăm sóc răng",
+   "điều trị nha khoa",
+   "khám răng",
+   "chỉ nha khoa"
+  ],
+  "t": "dental là tính từ; nha sĩ là dentist."
+ },
+ "punch": {
+  "s": [
+   "đấm; thụi",
+   "cú đấm",
+   "đục lỗ"
+  ],
+  "c": [
+   "đấm vào bao cát",
+   "tung một cú đấm",
+   "đục một cái lỗ",
+   "dụng cụ đục lỗ"
+  ],
+  "t": "punch là đấm bằng nắm tay; slap thường là tát bằng lòng bàn tay."
+ },
+ "dine": {
+  "s": [
+   "dùng bữa; ăn tối"
+  ],
+  "c": [
+   "ăn ngoài",
+   "dùng bữa với bạn bè",
+   "dùng bữa tại nhà hàng"
+  ],
+  "t": "Trang trọng hơn eat, thường không đi thẳng với món ăn làm tân ngữ."
+ },
+ "knot": {
+  "s": [
+   "nút thắt; nút",
+   "thắt nút; buộc chặt",
+   "hải lý/giờ (đơn vị tốc độ)"
+  ],
+  "c": [
+   "thắt nút",
+   "gỡ nút",
+   "nút thắt chặt",
+   "tốc độ hai mươi hải lý một giờ"
+  ],
+  "t": "Chữ k không đọc; knot trong tốc độ tàu là một hải lý mỗi giờ."
+ },
+ "drift": {
+  "s": [
+   "trôi dạt; bồng bềnh",
+   "dần lệch hướng; đi lang thang vô định",
+   "ý chính; đại ý"
+  ],
+  "c": [
+   "dần xa cách",
+   "dần ngủ thiếp đi",
+   "từ từ rời đi",
+   "hiểu đại ý"
+  ],
+  "t": "drift nhấn mạnh việc bị nước hay gió cuốn đi, hoặc thiếu phương hướng rõ ràng."
+ },
+ "adapt": {
+  "s": [
+   "thích nghi; làm cho thích nghi",
+   "chuyển thể; điều chỉnh"
+  ],
+  "c": [
+   "thích nghi với sự thay đổi",
+   "điều chỉnh phương pháp dạy học",
+   "chuyển thể tiểu thuyết thành phim truyền hình"
+  ],
+  "t": "adapt to theo sau là danh từ hoặc danh động từ; đừng nhầm với adopt (áp dụng)."
+ },
+ "temptation": {
+  "s": [
+   "sự cám dỗ; điều cám dỗ"
+  ],
+  "c": [
+   "cưỡng lại cám dỗ",
+   "không cưỡng lại được cám dỗ",
+   "sự cám dỗ làm việc gì"
+  ],
+  "t": "Hay dùng the temptation to do, chỉ sự cám dỗ muốn làm điều gì."
+ },
+ "cigar": {
+  "s": [
+   "xì gà"
+  ],
+  "c": [
+   "khói xì gà",
+   "hộp xì gà",
+   "hút xì gà"
+  ],
+  "t": "cigar là xì gà; cigarette là thuốc lá thường được cuốn bằng giấy."
+ },
+ "mutual": {
+  "s": [
+   "lẫn nhau; qua lại",
+   "chung; cùng"
+  ],
+  "c": [
+   "tôn trọng lẫn nhau",
+   "đôi bên cùng có lợi",
+   "người bạn chung",
+   "theo thoả thuận của hai bên"
+  ],
+  "t": "mutual friend là bạn chung, không phải bạn của nhau."
+ },
+ "goodness": {
+  "s": [
+   "lòng tốt; đức hạnh",
+   "chất dinh dưỡng; phần bổ dưỡng",
+   "trời ơi"
+  ],
+  "c": [
+   "hoàn toàn vì lòng tốt",
+   "dinh dưỡng tự nhiên",
+   "ơn trời",
+   "trời ơi"
+  ],
+  "t": "Khi là danh từ thường không đếm được; My goodness diễn tả sự ngạc nhiên."
+ },
+ "charcoal": {
+  "s": [
+   "than củi",
+   "than chì vẽ"
+  ],
+  "c": [
+   "vỉ nướng than",
+   "tranh vẽ than chì",
+   "than hoạt tính",
+   "sản xuất than củi"
+  ],
+  "t": "charcoal thường không đếm được; coal là than đá, không phải than củi."
+ },
+ "fragile": {
+  "s": [
+   "dễ vỡ; dễ hư hỏng",
+   "mong manh; không vững chắc"
+  ],
+  "c": [
+   "thuỷ tinh dễ vỡ",
+   "hệ sinh thái mong manh",
+   "sự phục hồi mong manh"
+  ],
+  "t": "Vừa chỉ vật dễ vỡ, vừa chỉ kinh tế hay cảm xúc mong manh."
+ },
+ "rib": {
+  "s": [
+   "xương sườn",
+   "sườn (thịt)",
+   "trêu chọc thân thiện"
+  ],
+  "c": [
+   "xương sườn bị gãy",
+   "lồng ngực",
+   "sườn nướng",
+   "trêu ai về việc gì"
+  ],
+  "t": "Chỉ sườn ăn thường dùng số nhiều ribs; động từ rib mang tính thân mật."
+ },
+ "lonesome": {
+  "s": [
+   "cô đơn; hiu quạnh",
+   "vắng vẻ; heo hút"
+  ],
+  "c": [
+   "cảm thấy cô đơn",
+   "một con đường vắng vẻ"
+  ],
+  "t": "Thường gặp trong Anh–Mỹ; lonely thông dụng hơn, còn alone chỉ có nghĩa một mình."
+ },
+ "coffin": {
+  "s": [
+   "quan tài; áo quan"
+  ],
+  "c": [
+   "một chiếc quan tài gỗ",
+   "khiêng quan tài",
+   "nhân tố đẩy đến thất bại"
+  ],
+  "t": "Trong Anh–Mỹ, casket cũng thường chỉ quan tài."
+ },
+ "transaction": {
+  "s": [
+   "giao dịch; việc xử lý nghiệp vụ"
+  ],
+  "c": [
+   "giao dịch tài chính",
+   "hoàn tất giao dịch",
+   "phí giao dịch",
+   "giao dịch trực tuyến"
+  ],
+  "t": "Thường đếm được: một giao dịch là a transaction."
+ },
+ "catalog": {
+  "s": [
+   "danh mục; catalô",
+   "lập danh mục; ghi chép hệ thống"
+  ],
+  "c": [
+   "danh mục trực tuyến",
+   "danh mục sản phẩm",
+   "danh mục thư viện",
+   "lập danh mục cho bộ sưu tập"
+  ],
+  "t": "catalog là cách viết phổ biến trong Anh–Mỹ; Anh–Anh thường viết catalogue."
+ },
+ "remote": {
+  "s": [
+   "xa xôi; hẻo lánh",
+   "từ xa",
+   "rất nhỏ; khó có khả năng"
+  ],
+  "c": [
+   "ngôi làng hẻo lánh",
+   "làm việc từ xa",
+   "điều khiển từ xa",
+   "khả năng rất nhỏ"
+  ],
+  "t": "remote cũng có thể là danh từ, trong khẩu ngữ chỉ cái điều khiển từ xa."
+ },
+ "dumb": {
+  "s": [
+   "ngu ngốc; ngớ ngẩn",
+   "chết lặng; không nói nên lời",
+   "câm (cách gọi cũ)"
+  ],
+  "c": [
+   "một lỗi ngớ ngẩn",
+   "sững sờ không nói nên lời",
+   "đơn giản hoá quá mức"
+  ],
+  "t": "Chữ b cuối không đọc; dùng để nói người ngu có tính xúc phạm, còn nghĩa “câm” đã lỗi thời.",
+  "n": "Dùng để chỉ người ngu ngốc có thể gây xúc phạm; cách dùng chỉ người không nói được đã lỗi thời."
+ },
+ "breed": {
+  "s": [
+   "sinh sản; gây giống",
+   "giống (vật nuôi)",
+   "gây ra; nảy sinh"
+  ],
+  "c": [
+   "mùa sinh sản",
+   "một giống chó",
+   "gây giống động vật",
+   "gây ra sự oán giận"
+  ],
+  "t": "Quá khứ và quá khứ phân từ đều là bred; breed (giống) khác species (loài)."
+ },
+ "nerve": {
+  "s": [
+   "dây thần kinh",
+   "dũng khí; sự gan dạ",
+   "sự trơ trẽn; sự láo xược"
+  ],
+  "c": [
+   "tổn thương thần kinh",
+   "mất can đảm",
+   "có gan làm việc gì"
+  ],
+  "t": "nerve nghĩa là dũng khí thường không đếm được; nerves có thể chỉ trạng thái căng thẳng."
+ },
+ "proposal": {
+  "s": [
+   "đề xuất; đề nghị; kế hoạch",
+   "lời cầu hôn"
+  ],
+  "c": [
+   "đưa ra đề xuất",
+   "phê duyệt đề xuất",
+   "đề xuất làm việc gì",
+   "lời cầu hôn"
+  ],
+  "t": "proposal to do nghĩa là đề xuất làm việc gì, thường là danh từ đếm được."
+ },
+ "sustainable": {
+  "s": [
+   "bền vững (không gây hại môi trường)",
+   "có thể duy trì lâu dài"
+  ],
+  "c": [
+   "phát triển bền vững",
+   "nông nghiệp bền vững",
+   "giao thông bền vững",
+   "tăng trưởng bền vững"
+  ],
+  "t": "renewable nhấn mạnh khả năng tái tạo; sustainable nhấn mạnh tính bền vững."
+ },
+ "expansion": {
+  "s": [
+   "sự mở rộng; sự bành trướng; sự giãn nở"
+  ],
+  "c": [
+   "mở rộng đô thị",
+   "mở rộng kinh tế",
+   "giãn nở nhiệt",
+   "mở rộng nhanh chóng"
+  ],
+  "t": "Động từ là expand; danh từ đổi thành expansion."
+ },
+ "pottery": {
+  "s": [
+   "đồ gốm",
+   "nghề làm gốm; nghệ thuật gốm",
+   "xưởng gốm; lò gốm"
+  ],
+  "c": [
+   "đồ gốm thủ công",
+   "lớp học làm gốm",
+   "bàn xoay làm gốm",
+   "mảnh gốm vỡ"
+  ],
+  "t": "Chỉ đồ gốm nói chung thì không đếm được; một món dùng a piece of pottery."
+ },
+ "dependence": {
+  "s": [
+   "sự phụ thuộc; sự dựa vào",
+   "sự nghiện; sự lệ thuộc"
+  ],
+  "c": [
+   "sự phụ thuộc vào",
+   "giảm sự phụ thuộc",
+   "phụ thuộc về tài chính",
+   "nghiện thuốc"
+  ],
+  "t": "Cụm cố định là dependence on, không dùng dependence of."
+ },
+ "boast": {
+  "s": [
+   "khoe khoang; tự phụ",
+   "có (điều đáng tự hào)",
+   "lời khoe khoang"
+  ],
+  "c": [
+   "khoe khoang về thành tích",
+   "khoe rằng",
+   "lời khoe khoang suông"
+  ],
+  "t": "Khoe về điều gì dùng boast about; nghĩa “có” thì đi thẳng với tân ngữ."
+ },
+ "conservative": {
+  "s": [
+   "bảo thủ; thủ cựu",
+   "thận trọng; ước lượng thấp",
+   "người bảo thủ"
+  ],
+  "c": [
+   "quan điểm bảo thủ",
+   "ước tính thận trọng",
+   "cách tiếp cận thận trọng"
+  ],
+  "t": "Viết thường thường nghĩa là bảo thủ; viết hoa có thể chỉ đảng Bảo thủ."
+ },
+ "turnip": {
+  "s": [
+   "củ cải turnip; củ cải tròn"
+  ],
+  "c": [
+   "củ cải turnip nướng",
+   "lá củ cải turnip",
+   "súp củ cải turnip"
+  ],
+  "t": "Chỉ củ turnip, đừng nhầm với radish (củ cải đỏ) hay swede (củ cải Thuỵ Điển)."
+ },
+ "conductor": {
+  "s": [
+   "nhạc trưởng",
+   "chất dẫn (nhiệt, điện)",
+   "người soát vé"
+  ],
+  "c": [
+   "nhạc trưởng dàn nhạc giao hưởng",
+   "chất dẫn nhiệt tốt",
+   "nhân viên soát vé tàu"
+  ],
+  "t": "Chất dẫn thường đi với of heat hoặc of electricity."
+ },
+ "encounter": {
+  "s": [
+   "gặp phải; chạm trán",
+   "cuộc gặp tình cờ"
+  ],
+  "c": [
+   "gặp khó khăn",
+   "gặp phải sự kháng cự",
+   "cuộc gặp tình cờ",
+   "cuộc chạm trán với"
+  ],
+  "t": "Động từ đi thẳng với tân ngữ; danh từ hay dùng an encounter with."
+ },
+ "acid": {
+  "s": [
+   "axit",
+   "có tính axit; chua",
+   "gay gắt; châm chọc"
+  ],
+  "c": [
+   "mưa axit",
+   "axit dạ dày",
+   "đất chua",
+   "lời nhận xét cay độc"
+  ],
+  "t": "acid có thể là danh từ hoặc tính từ; acidic thường chỉ tính chất có tính axit."
+ },
+ "proportion": {
+  "s": [
+   "tỷ lệ; phần",
+   "mối quan hệ tỷ lệ; sự cân xứng"
+  ],
+  "c": [
+   "một phần lớn",
+   "tương ứng với",
+   "không cân xứng"
+  ],
+  "t": "Sau a proportion of, động từ chia số ít hay số nhiều tuỳ danh từ được nói đến."
+ },
+ "sniff": {
+  "s": [
+   "ngửi; hít mũi",
+   "tiếng hít mũi; sự ngửi",
+   "coi thường"
+  ],
+  "c": [
+   "ngửi mùi trong không khí",
+   "đánh hơi ra; phát hiện",
+   "coi thường"
+  ],
+  "t": "sniff at có thể là coi thường; sniff out nghĩa là đánh hơi hoặc tìm ra."
+ },
+ "faithfully": {
+  "s": [
+   "trung thành; tận tuỵ",
+   "đúng nguyên bản; chính xác"
+  ],
+  "c": [
+   "phục vụ trung thành",
+   "tái hiện đúng nguyên bản",
+   "Trân trọng (kết thư trang trọng)"
+  ],
+  "t": "Trong thư trang trọng kiểu Anh, khi không biết tên người nhận thường kết bằng Yours faithfully."
+ },
+ "furnish": {
+  "s": [
+   "trang bị đồ đạc",
+   "cung cấp; cấp cho"
+  ],
+  "c": [
+   "trang bị đồ đạc cho căn hộ",
+   "cung cấp bằng chứng cho ai",
+   "đầy đủ đồ đạc"
+  ],
+  "t": "furnish A with B là cung cấp B cho A; nghĩa “cung cấp” khá trang trọng."
+ },
+ "farewell": {
+  "s": [
+   "lời chia tay; sự từ biệt",
+   "tạm biệt; bảo trọng",
+   "chia tay; tiễn biệt"
+  ],
+  "c": [
+   "tiệc chia tay",
+   "chào tạm biệt ai",
+   "lời từ biệt thân tình"
+  ],
+  "t": "Trang trọng hơn goodbye, thường dùng cho lần chia xa lâu hoặc lời từ biệt long trọng."
+ },
+ "glitter": {
+  "s": [
+   "lấp lánh; óng ánh",
+   "kim tuyến",
+   "ánh sáng chói lọi; vẻ hào nhoáng"
+  ],
+  "c": [
+   "lấp lánh dưới ánh nắng",
+   "kim tuyến vàng",
+   "hào quang của danh tiếng"
+  ],
+  "t": "Làm động từ nghĩa là lấp lánh; nghĩa “kim tuyến” thường không đếm được."
+ },
+ "flock": {
+  "s": [
+   "đàn (chim, cừu)",
+   "đổ xô; kéo đến đông đảo"
+  ],
+  "c": [
+   "một đàn cừu",
+   "một đàn chim",
+   "đổ xô đến",
+   "tụ tập lại với nhau"
+  ],
+  "t": "Đàn chim và đàn cừu dùng flock; đàn bò thường dùng herd."
+ },
+ "generator": {
+  "s": [
+   "máy phát điện",
+   "bộ tạo; trình tạo"
+  ],
+  "c": [
+   "máy phát điện dự phòng",
+   "máy phát điện chạy dầu",
+   "bộ tạo số ngẫu nhiên"
+  ],
+  "t": "Cấu tạo từ generate cộng -or, có thể chỉ máy móc hoặc chương trình."
+ },
+ "pesticide": {
+  "s": [
+   "thuốc trừ sâu; thuốc bảo vệ thực vật"
+  ],
+  "c": [
+   "việc sử dụng thuốc trừ sâu",
+   "dư lượng thuốc trừ sâu",
+   "phun thuốc trừ sâu",
+   "giảm sử dụng thuốc trừ sâu"
+  ],
+  "t": "pesticide là thuốc bảo vệ thực vật nói chung; insecticide chỉ riêng thuốc diệt côn trùng."
+ },
+ "hose": {
+  "s": [
+   "ống mềm; vòi nước",
+   "xịt rửa bằng vòi; tưới nước"
+  ],
+  "c": [
+   "vòi tưới vườn",
+   "vòi chữa cháy",
+   "xịt rửa sạch bằng vòi"
+  ],
+  "t": "hose là ống mềm uốn được; pipe thường là ống cứng hơn."
+ },
+ "cling": {
+  "s": [
+   "bám chặt; ôm chặt",
+   "dính sát; bám vào",
+   "bám lấy; không chịu từ bỏ"
+  ],
+  "c": [
+   "ôm chặt lấy ai",
+   "bám lấy quyền lực",
+   "vẫn bám lấy hy vọng rằng"
+  ],
+  "t": "Quá khứ và quá khứ phân từ đều là clung; thường đi với to."
+ },
+ "clash": {
+  "s": [
+   "sự xung đột; sự trùng lịch",
+   "xung đột; không hợp",
+   "tiếng loảng xoảng (kim loại)"
+  ],
+  "c": [
+   "xung đột lợi ích",
+   "xung đột với",
+   "trùng lịch",
+   "tiếng chũm chọe va nhau"
+  ],
+  "t": "clash with có thể là trùng thời gian, bất đồng ý kiến hoặc màu sắc không hợp."
+ },
+ "counter": {
+  "s": [
+   "quầy; mặt bàn bếp",
+   "phản bác; chống lại; bù trừ",
+   "ngược lại; đối nghịch"
+  ],
+  "c": [
+   "mặt bàn bếp",
+   "bán không cần đơn",
+   "bác bỏ một lập luận",
+   "đi ngược lại"
+  ],
+  "t": "Động từ có thể đi thẳng với tân ngữ; run counter to nghĩa là đi ngược với."
+ },
+ "decimal": {
+  "s": [
+   "số thập phân",
+   "thập phân; hệ thập phân"
+  ],
+  "c": [
+   "dấu thập phân",
+   "chữ số thập phân",
+   "hệ thập phân"
+  ],
+  "t": "Làm tròn đến hai chữ số thập phân nói to two decimal places."
+ },
+ "liver": {
+  "s": [
+   "gan",
+   "gan (làm thức ăn)"
+  ],
+  "c": [
+   "bệnh gan",
+   "chức năng gan",
+   "ghép gan"
+  ],
+  "t": "Chỉ bộ phận cơ thể thường nói the liver; khi là thức ăn thường không đếm được."
+ },
+ "behalf": {
+  "s": [
+   "thay mặt; vì lợi ích của ai"
+  ],
+  "c": [
+   "thay mặt ai",
+   "thay mặt ai; vì ai",
+   "hành động thay mặt cho"
+  ],
+  "t": "Thường chỉ dùng trong on behalf of hoặc on someone's behalf."
+ },
+ "jerk": {
+  "s": [
+   "giật mạnh; chuyển động đột ngột",
+   "cú giật; chuyển động đột ngột",
+   "kẻ đáng ghét; đồ ngốc"
+  ],
+  "c": [
+   "giật mạnh về phía trước",
+   "giật phắt ra",
+   "một cú giật đột ngột"
+  ],
+  "t": "Nhấn mạnh động tác đột ngột và ngắn; gọi ai là a jerk là bất lịch sự."
+ },
+ "lens": {
+  "s": [
+   "thấu kính; tròng kính",
+   "thuỷ tinh thể (mắt)"
+  ],
+  "c": [
+   "ống kính máy ảnh",
+   "kính áp tròng",
+   "ống kính góc rộng"
+  ],
+  "t": "Số nhiều là lenses; kính áp tròng thường dùng contact lenses."
+ },
+ "sideways": {
+  "s": [
+   "sang một bên; nghiêng",
+   "ngang; sang bên"
+  ],
+  "c": [
+   "di chuyển sang ngang",
+   "nghiêng người",
+   "liếc nhìn sang bên",
+   "chuyển công tác ngang cấp"
+  ],
+  "t": "Có thể là trạng từ hoặc tính từ; không cần thêm -ly."
+ },
+ "deeply": {
+  "s": [
+   "rất; sâu sắc",
+   "sâu; tận đáy"
+  ],
+  "c": [
+   "vô cùng lo lắng",
+   "ăn sâu bám rễ",
+   "hít thở sâu",
+   "bị ảnh hưởng sâu sắc"
+  ],
+  "t": "Khi chỉ mức độ, thường đi với từ chỉ cảm xúc, như deeply worried."
+ },
+ "octopus": {
+  "s": [
+   "bạch tuộc"
+  ],
+  "c": [
+   "xúc tu bạch tuộc",
+   "hành vi của bạch tuộc",
+   "một con bạch tuộc khổng lồ"
+  ],
+  "t": "Số nhiều thường dùng là octopuses; xúc tu thường gọi là arms."
+ },
+ "former": {
+  "s": [
+   "cũ; trước đây; tiền nhiệm",
+   "cái đầu tiên (trong hai cái)"
+  ],
+  "c": [
+   "đồng nghiệp cũ",
+   "cựu tổng thống",
+   "khu công nghiệp trước đây"
+  ],
+  "t": "the former chỉ cái đầu trong hai cái được nhắc, the latter chỉ cái sau."
+ },
+ "slot": {
+  "s": [
+   "khe; khe nhét xu",
+   "khung giờ; vị trí trong lịch",
+   "nhét vào; xếp vào"
+  ],
+  "c": [
+   "khe nhét xu",
+   "khung giờ",
+   "đặt vật gì vào đúng chỗ"
+  ],
+  "t": "slot làm động từ thường đi với into; không có nghĩa “theo dõi”."
+ },
+ "astronomy": {
+  "s": [
+   "thiên văn học"
+  ],
+  "c": [
+   "học thiên văn học",
+   "thiên văn học quan sát",
+   "thiên văn nghiệp dư"
+  ],
+  "t": "astronomy là thiên văn học; astrology là chiêm tinh học."
+ },
+ "scold": {
+  "s": [
+   "mắng; la rầy"
+  ],
+  "c": [
+   "mắng ai vì việc gì",
+   "mắng ai vì đã làm gì"
+  ],
+  "t": "Dùng scold someone for doing để chỉ mắng ai vì hành động nào đó."
+ },
+ "circuit": {
+  "s": [
+   "mạch điện",
+   "vòng; đường đua vòng",
+   "vòng tour; chuỗi địa điểm"
+  ],
+  "c": [
+   "mạch điện",
+   "đoản mạch",
+   "bảng mạch",
+   "đường đua"
+  ],
+  "t": "Mạch điện và lộ trình vòng đều dùng circuit; short circuit là chập mạch."
+ },
+ "freshen": {
+  "s": [
+   "làm tươi mới; làm sạch sẽ",
+   "rửa mặt chải đầu; làm tỉnh táo",
+   "mạnh lên (gió)"
+  ],
+  "c": [
+   "rửa mặt chải đầu",
+   "làm thoáng không khí",
+   "làm thơm miệng"
+  ],
+  "t": "freshen up thường chỉ việc rửa ráy sơ qua; khi chủ ngữ là gió thì nghĩa là gió mạnh lên."
+ },
+ "evident": {
+  "s": [
+   "rõ ràng; hiển nhiên"
+  ],
+  "c": [
+   "rõ ràng",
+   "trở nên rõ ràng",
+   "có thể thấy rõ từ"
+  ],
+  "t": "Hay dùng It is evident that... nghĩa là rõ ràng rằng..."
+ },
+ "lottery": {
+  "s": [
+   "xổ số; rút thăm trúng thưởng",
+   "sự rút thăm; chuyện may rủi"
+  ],
+  "c": [
+   "một tờ vé số",
+   "trúng xổ số",
+   "buổi quay số xổ số",
+   "bằng cách bốc thăm"
+  ],
+  "t": "by lottery nghĩa là bằng bốc thăm, không nhất thiết liên quan đến mua vé."
+ },
+ "retail": {
+  "s": [
+   "bán lẻ",
+   "thuộc bán lẻ",
+   "bán lẻ; bán với giá"
+  ],
+  "c": [
+   "giá bán lẻ",
+   "ngành bán lẻ",
+   "bán lẻ trực tuyến",
+   "cửa hàng bán lẻ"
+  ],
+  "t": "retail là bán lẻ cho người tiêu dùng; wholesale là bán buôn."
+ },
+ "canyon": {
+  "s": [
+   "hẻm núi"
+  ],
+  "c": [
+   "hẻm núi sâu",
+   "vách hẻm núi",
+   "đáy hẻm núi"
+  ],
+  "t": "canyon nhấn mạnh thung lũng sâu và hai bên dốc đứng; valley là thung lũng nói chung."
+ },
+ "terminal": {
+  "s": [
+   "nhà ga; ga cuối",
+   "giai đoạn cuối; không chữa được",
+   "thiết bị đầu cuối máy tính"
+  ],
+  "c": [
+   "nhà ga sân bay",
+   "bệnh nan y",
+   "thiết bị đầu cuối máy tính"
+  ],
+  "t": "terminal illness là bệnh không thể chữa khỏi và gây tử vong."
+ },
+ "rage": {
+  "s": [
+   "cơn thịnh nộ; cơn giận dữ",
+   "nổi cơn thịnh nộ",
+   "hoành hành; dữ dội liên tục"
+  ],
+  "c": [
+   "nổi cơn thịnh nộ",
+   "run lên vì giận",
+   "cơn giận khi lái xe",
+   "bão hoành hành"
+  ],
+  "t": "rage mạnh hơn anger; all the rage nghĩa là đang rất thịnh hành."
+ },
+ "bullet": {
+  "s": [
+   "viên đạn",
+   "dấu đầu dòng"
+  ],
+  "c": [
+   "bắn một viên đạn",
+   "vết thương do đạn",
+   "các gạch đầu dòng"
+  ],
+  "t": "bullet là viên đạn; bullet point là gạch đầu dòng trong danh sách."
+ },
+ "tornado": {
+  "s": [
+   "lốc xoáy; vòi rồng"
+  ],
+  "c": [
+   "một cơn lốc xoáy mạnh",
+   "cảnh báo lốc xoáy",
+   "thiệt hại do lốc xoáy"
+  ],
+  "t": "Số nhiều có thể viết tornadoes hoặc tornados."
+ },
+ "instinct": {
+  "s": [
+   "bản năng; thiên tính",
+   "trực giác"
+  ],
+  "c": [
+   "bản năng sinh tồn",
+   "theo bản năng",
+   "tin vào trực giác của bạn",
+   "năng khiếu bẩm sinh về"
+  ],
+  "t": "instinct thường là bản năng bẩm sinh; intuition thiên về phán đoán bằng trực giác."
+ },
+ "privilege": {
+  "s": [
+   "đặc quyền; sự ưu đãi",
+   "vinh dự; niềm vinh hạnh"
+  ],
+  "c": [
+   "hưởng đặc quyền",
+   "một vinh dự hiếm có",
+   "có vinh dự được",
+   "đặc quyền giai cấp"
+  ],
+  "t": "Khi nói vinh dự thường dùng have the privilege of doing."
+ },
+ "controversial": {
+  "s": [
+   "gây tranh cãi"
+  ],
+  "c": [
+   "một vấn đề gây tranh cãi",
+   "một quyết định gây tranh cãi",
+   "gây tranh cãi lớn"
+  ],
+  "t": "Chỉ việc gây bất đồng, không có nghĩa là sai hay bị ghét."
+ },
+ "insufficient": {
+  "s": [
+   "không đủ; thiếu"
+  ],
+  "c": [
+   "không đủ kinh phí",
+   "bằng chứng không đủ",
+   "không đủ để đáp ứng nhu cầu"
+  ],
+  "t": "Khá trang trọng; hay dùng insufficient for hoặc insufficient to do."
+ },
+ "viewing": {
+  "s": [
+   "việc xem; việc theo dõi",
+   "buổi xem nhà; buổi tham quan",
+   "xem; xem xét"
+  ],
+  "c": [
+   "xem truyền hình",
+   "buổi tham quan riêng",
+   "sắp xếp buổi xem nhà"
+  ],
+  "t": "Danh từ có thể chỉ hoạt động xem; a viewing thường là một buổi xem nhà."
+ }
+}

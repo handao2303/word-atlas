@@ -1,0 +1,1247 @@
+{
+ "twelfth": {
+  "s": [
+   "thứ mười hai",
+   "một phần mười hai"
+  ],
+  "c": [
+   "sinh nhật lần thứ mười hai",
+   "thế kỷ thứ mười hai",
+   "một phần mười hai của"
+  ],
+  "t": "Số thứ tự của twelve là twelfth: chú ý ve đổi thành f."
+ },
+ "belt": {
+  "s": [
+   "thắt lưng; dây lưng",
+   "vành đai; khu vực",
+   "dây curoa; băng tải"
+  ],
+  "c": [
+   "thắt lưng da",
+   "thắt dây an toàn/thắt lưng",
+   "vành đai xanh (quanh thành phố)",
+   "băng chuyền"
+  ],
+  "t": "Ngoài nghĩa thắt lưng, belt còn chỉ khu vực dạng dải, như green belt."
+ },
+ "fireman": {
+  "s": [
+   "lính cứu hỏa nam"
+  ],
+  "c": [
+   "một lính cứu hỏa dũng cảm",
+   "mũ bảo hiểm của lính cứu hỏa",
+   "lính cứu hỏa tình nguyện"
+  ],
+  "t": "Số nhiều là firemen; cách nói trung tính hiện đại hơn là firefighter."
+ },
+ "interview": {
+  "s": [
+   "buổi phỏng vấn (tuyển dụng); cuộc gặp trao đổi",
+   "cuộc phỏng vấn (báo chí); cuộc trò chuyện nghiên cứu",
+   "phỏng vấn"
+  ],
+  "c": [
+   "phỏng vấn xin việc",
+   "tiến hành phỏng vấn",
+   "phỏng vấn ứng viên",
+   "cuộc phỏng vấn chuyên sâu"
+  ],
+  "t": "interviewer là người đặt câu hỏi; interviewee là người được phỏng vấn."
+ },
+ "similar": {
+  "s": [
+   "tương tự; giống nhau"
+  ],
+  "c": [
+   "tương tự với",
+   "các đặc điểm tương tự",
+   "nhìn chung tương tự"
+  ],
+  "t": "Dùng similar to, không dùng similar with; similar không có nghĩa là identical."
+ },
+ "whole": {
+  "s": [
+   "toàn bộ; trọn vẹn",
+   "tổng thể; toàn bộ"
+  ],
+  "c": [
+   "cả ngày",
+   "nói chung; như một tổng thể",
+   "nhìn chung",
+   "hàng loạt; đủ loại"
+  ],
+  "t": "Chú ý trật tự từ: the whole day nghĩa là all the day (cả ngày)."
+ },
+ "thought": {
+  "s": [
+   "ý nghĩ; suy nghĩ",
+   "sự suy nghĩ; sự cân nhắc",
+   "đã nghĩ (quá khứ của think)"
+  ],
+  "c": [
+   "cân nhắc điều gì",
+   "chìm trong suy tư",
+   "một ý nghĩ chợt đến",
+   "điều đáng suy ngẫm"
+  ],
+  "t": "Khi chỉ một ý nghĩ cụ thể thì đếm được; khi chỉ quá trình suy nghĩ thì thường không đếm được."
+ },
+ "loudly": {
+  "s": [
+   "to tiếng; ầm ĩ"
+  ],
+  "c": [
+   "nói to",
+   "cười lớn",
+   "reo hò lớn tiếng"
+  ],
+  "t": "loudly nhấn mạnh âm lượng lớn; aloud nhấn mạnh việc phát ra tiếng thay vì đọc thầm."
+ },
+ "weight": {
+  "s": [
+   "trọng lượng; cân nặng",
+   "vật nặng; quả tạ",
+   "tầm quan trọng; sức ảnh hưởng"
+  ],
+  "c": [
+   "giảm cân",
+   "tăng cân",
+   "nâng tạ",
+   "coi trọng"
+  ],
+  "t": "weight là danh từ; weigh là động từ: How much does it weigh?"
+ },
+ "folder": {
+  "s": [
+   "bìa hồ sơ; tập đựng giấy",
+   "thư mục (máy tính)"
+  ],
+  "c": [
+   "tạo thư mục",
+   "thư mục dùng chung",
+   "lưu tệp vào thư mục"
+  ],
+  "t": "file là tệp; folder là thư mục chứa các tệp."
+ },
+ "steal": {
+  "s": [
+   "ăn trộm; lấy cắp",
+   "lẻn đi; di chuyển lén",
+   "món hời"
+  ],
+  "c": [
+   "lấy trộm của ai",
+   "đánh cắp ý tưởng",
+   "chiếm hết sự chú ý"
+  ],
+  "t": "Quá khứ là stole, quá khứ phân từ là stolen; tân ngữ thường là đồ vật."
+ },
+ "modern": {
+  "s": [
+   "hiện đại; thuộc thời cận đại",
+   "mới; hợp thời"
+  ],
+  "c": [
+   "xã hội hiện đại",
+   "công nghệ hiện đại",
+   "kiến trúc hiện đại"
+  ],
+  "t": "modern nhấn mạnh tính hiện đại hoặc kiểu mới; không nhất thiết là vừa mới được làm ra."
+ },
+ "opinion": {
+  "s": [
+   "ý kiến; quan điểm"
+  ],
+  "c": [
+   "theo tôi",
+   "dư luận",
+   "bày tỏ ý kiến",
+   "sự bất đồng ý kiến"
+  ],
+  "t": "Để nói “theo tôi” dùng in my opinion, không dùng according to me."
+ },
+ "patient": {
+  "s": [
+   "bệnh nhân",
+   "kiên nhẫn; nhẫn nại"
+  ],
+  "c": [
+   "điều trị bệnh nhân",
+   "chăm sóc bệnh nhân",
+   "kiên nhẫn với"
+  ],
+  "t": "Là danh từ thì nghĩa là “bệnh nhân”; là tính từ thường đi với with."
+ },
+ "robot": {
+  "s": [
+   "rô-bốt; máy móc tự động"
+  ],
+  "c": [
+   "rô-bốt công nghiệp",
+   "cánh tay rô-bốt",
+   "rô-bốt tự hành"
+  ],
+  "t": "robot là danh từ đếm được; robotics chỉ ngành rô-bốt học."
+ },
+ "father-in-law": {
+  "s": [
+   "bố chồng; bố vợ"
+  ],
+  "c": [
+   "bố chồng/bố vợ tương lai",
+   "bố chồng/bố vợ lớn tuổi"
+  ],
+  "t": "Không phải bố dượng; bố dượng là stepfather."
+ },
+ "leader": {
+  "s": [
+   "người lãnh đạo; người dẫn dắt",
+   "người/tổ chức dẫn đầu"
+  ],
+  "c": [
+   "trưởng nhóm",
+   "nhà lãnh đạo chính trị",
+   "doanh nghiệp dẫn đầu thị trường",
+   "kỹ năng lãnh đạo"
+  ],
+  "t": "leader chỉ người lãnh đạo; leadership chỉ khả năng lãnh đạo hoặc ban lãnh đạo."
+ },
+ "subway": {
+  "s": [
+   "tàu điện ngầm (Mỹ)",
+   "đường hầm đi bộ (Anh)"
+  ],
+  "c": [
+   "đi tàu điện ngầm",
+   "ga tàu điện ngầm",
+   "tuyến tàu điện ngầm",
+   "đường hầm dành cho người đi bộ"
+  ],
+  "t": "Trong tiếng Anh Mỹ là tàu điện ngầm; trong tiếng Anh Anh thường chỉ đường hầm cho người đi bộ."
+ },
+ "pleased": {
+  "s": [
+   "vui; hài lòng"
+  ],
+  "c": [
+   "hài lòng với",
+   "vui khi nghe",
+   "rất vui được gặp bạn"
+  ],
+  "t": "Hài lòng với kết quả dùng pleased with; nghe tin vui dùng pleased to hear."
+ },
+ "main": {
+  "s": [
+   "chính; quan trọng nhất",
+   "ống dẫn chính; đường dây chính"
+  ],
+  "c": [
+   "lý do chính",
+   "lối vào chính",
+   "mối quan tâm chính",
+   "ống dẫn nước chính"
+  ],
+  "t": "Tính từ main thường đứng trước danh từ; trạng từ “chủ yếu” là mainly."
+ },
+ "drugstore": {
+  "s": [
+   "hiệu thuốc (bán cả đồ dùng hằng ngày)"
+  ],
+  "c": [
+   "hiệu thuốc địa phương",
+   "chuỗi hiệu thuốc",
+   "quầy trong hiệu thuốc"
+  ],
+  "t": "Chủ yếu dùng trong tiếng Anh Mỹ; tiếng Anh Anh thường dùng chemist’s hoặc pharmacy."
+ },
+ "several": {
+  "s": [
+   "vài; một vài",
+   "một vài (người/vật)"
+  ],
+  "c": [
+   "nhiều lần",
+   "nhiều năm",
+   "vài người trong số họ",
+   "vì nhiều lý do"
+  ],
+  "t": "Theo sau là danh từ đếm được số nhiều; several of đi với từ hạn định hoặc đại từ."
+ },
+ "hairdresser": {
+  "s": [
+   "thợ cắt tóc; thợ làm tóc"
+  ],
+  "c": [
+   "thợ làm tóc có tay nghề",
+   "đi tiệm cắt tóc",
+   "tiệm làm tóc"
+  ],
+  "t": "hairdresser chỉ người; the hairdresser's thường chỉ tiệm cắt tóc."
+ },
+ "customer": {
+  "s": [
+   "khách hàng"
+  ],
+  "c": [
+   "dịch vụ khách hàng",
+   "khách quen",
+   "mức độ hài lòng của khách hàng",
+   "lòng trung thành của khách hàng"
+  ],
+  "t": "customer là khách hàng nói chung; client thường chỉ khách hàng của dịch vụ chuyên môn."
+ },
+ "collect": {
+  "s": [
+   "thu thập; sưu tầm",
+   "đến lấy; đón",
+   "quyên góp; thu (tiền)"
+  ],
+  "c": [
+   "thu thập dữ liệu",
+   "nhận bưu kiện",
+   "quyên góp tiền",
+   "sưu tầm tem"
+  ],
+  "t": "Trong tiếng Anh Anh, collect someone có thể nghĩa là đi đón ai."
+ },
+ "frog": {
+  "s": [
+   "con ếch"
+  ],
+  "c": [
+   "ếch cây",
+   "quần thể ếch",
+   "trứng ếch"
+  ],
+  "t": "Danh từ đếm được, số nhiều là frogs; toad là con cóc."
+ },
+ "magic": {
+  "s": [
+   "phép thuật; ảo thuật",
+   "sức hấp dẫn; điều kỳ diệu",
+   "có phép thuật; thuộc ảo thuật"
+  ],
+  "c": [
+   "trò ảo thuật",
+   "cây đũa phép",
+   "giải pháp kỳ diệu"
+  ],
+  "t": "magic thường chỉ phép thuật hoặc ảo thuật; magical còn dùng để tả trải nghiệm tuyệt vời."
+ },
+ "topic": {
+  "s": [
+   "chủ đề; đề tài"
+  ],
+  "c": [
+   "chủ đề thảo luận",
+   "chủ đề gây tranh cãi",
+   "đổi chủ đề",
+   "đề tài nghiên cứu"
+  ],
+  "t": "topic là chủ đề thảo luận hoặc viết; title là tiêu đề của bài viết, v.v."
+ },
+ "horrible": {
+  "s": [
+   "tồi tệ; đáng ghét",
+   "khủng khiếp; kinh hoàng"
+  ],
+  "c": [
+   "mùi khó chịu",
+   "một trải nghiệm tồi tệ",
+   "thời tiết xấu"
+  ],
+  "t": "horrible thường chỉ điều rất tệ; horrific thường chỉ điều ghê rợn, thảm khốc."
+ },
+ "extra": {
+  "s": [
+   "thêm; phụ",
+   "thêm; đặc biệt",
+   "khoản phụ; diễn viên quần chúng"
+  ],
+  "c": [
+   "thời gian thêm",
+   "phụ phí",
+   "đặc biệt cẩn thận",
+   "trả thêm tiền"
+  ],
+  "t": "Là tính từ thì nghĩa là “thêm”; trong pay extra thì extra là trạng từ."
+ },
+ "against": {
+  "s": [
+   "chống lại; phản đối",
+   "dựa vào; tựa vào",
+   "phòng chống; bảo vệ khỏi"
+  ],
+  "c": [
+   "bỏ phiếu phản đối",
+   "tựa vào",
+   "bảo vệ khỏi; phòng chống",
+   "trái luật"
+  ],
+  "t": "against là giới từ, theo sau là danh từ, đại từ hoặc danh động từ."
+ },
+ "smartphone": {
+  "s": [
+   "điện thoại thông minh"
+  ],
+  "c": [
+   "ứng dụng điện thoại thông minh",
+   "người dùng điện thoại thông minh",
+   "nghiện điện thoại thông minh"
+  ],
+  "t": "smartphone là danh từ đếm được, thường viết liền thành một từ."
+ },
+ "exact": {
+  "s": [
+   "chính xác; đúng",
+   "đòi hỏi; bắt buộc phải trả"
+  ],
+  "c": [
+   "vị trí chính xác",
+   "số lượng chính xác",
+   "bản sao y hệt",
+   "gây ra tổn thất nặng nề"
+  ],
+  "t": "exact nhấn mạnh sự không sai một li; trạng từ là exactly."
+ },
+ "photocopy": {
+  "s": [
+   "bản photo",
+   "photo; sao chụp"
+  ],
+  "c": [
+   "photo một bản",
+   "bản photo của tài liệu",
+   "photo một mẫu đơn"
+  ],
+  "t": "Vừa là danh từ vừa là động từ; số nhiều và ngôi thứ ba số ít đều là photocopies."
+ },
+ "smoking": {
+  "s": [
+   "việc hút thuốc"
+  ],
+  "c": [
+   "bỏ hút thuốc",
+   "hút thuốc thụ động",
+   "lệnh cấm hút thuốc"
+  ],
+  "t": "Chỉ hoạt động hút thuốc thì không đếm được; “bỏ thuốc” có thể nói give up smoking."
+ },
+ "guy": {
+  "s": [
+   "anh chàng; gã"
+  ],
+  "c": [
+   "một anh chàng tốt bụng",
+   "một chàng trai trẻ",
+   "một người bình thường"
+  ],
+  "t": "guy là từ thân mật; trong văn viết trang trọng thường dùng man hoặc person."
+ },
+ "compare": {
+  "s": [
+   "so sánh; đối chiếu",
+   "ví như; so với",
+   "sánh được với"
+  ],
+  "c": [
+   "so sánh giá cả",
+   "so sánh A với B",
+   "ví A như B; so sánh A với B",
+   "sánh được với; không thua kém"
+  ],
+  "t": "So sánh có thể dùng with hoặc to; khi mang nghĩa ví von thì thường dùng to."
+ },
+ "coloured": {
+  "s": [
+   "có màu; được tô màu"
+  ],
+  "c": [
+   "kính màu",
+   "bút chì màu",
+   "có màu sắc rực rỡ"
+  ],
+  "t": "Anh Anh viết coloured, Anh Mỹ viết colored; tránh dùng để chỉ nhóm người.",
+  "n": "Dùng để chỉ người da màu nói chung thường lỗi thời và xúc phạm; ở một số nơi có cách dùng mang nghĩa bản sắc riêng."
+ },
+ "suitcase": {
+  "s": [
+   "va-li; hành lý xách tay"
+  ],
+  "c": [
+   "xếp va-li",
+   "dỡ đồ khỏi va-li",
+   "va-li có bánh xe"
+  ],
+  "t": "suitcase đếm được; luggage là từ chỉ hành lý nói chung và không đếm được."
+ },
+ "poster": {
+  "s": [
+   "áp phích; tranh dán tường"
+  ],
+  "c": [
+   "dán áp phích",
+   "thiết kế áp phích",
+   "áp phích quảng cáo",
+   "chiến dịch áp phích"
+  ],
+  "t": "poster là áp phích; postcard là bưu thiếp, cần phân biệt."
+ },
+ "gift": {
+  "s": [
+   "quà tặng",
+   "năng khiếu; tài năng",
+   "tặng; biếu"
+  ],
+  "c": [
+   "quà sinh nhật",
+   "năng khiếu ngôn ngữ",
+   "cửa hàng quà tặng"
+  ],
+  "t": "Khi chỉ năng khiếu thường dùng a gift for, theo sau là danh từ hoặc danh động từ."
+ },
+ "blouse": {
+  "s": [
+   "áo sơ mi nữ; áo kiểu nữ"
+  ],
+  "c": [
+   "áo sơ mi lụa nữ",
+   "áo sơ mi nữ dài tay",
+   "áo sơ mi nữ rộng"
+  ],
+  "t": "Thường chỉ áo sơ mi nữ; shirt có phạm vi dùng rộng hơn."
+ },
+ "detail": {
+  "s": [
+   "chi tiết; thông tin cụ thể",
+   "mức độ chi tiết",
+   "nêu chi tiết; trình bày tỉ mỉ"
+  ],
+  "c": [
+   "một cách chi tiết",
+   "chú ý đến chi tiết",
+   "thông tin liên hệ",
+   "thông tin cụ thể hơn"
+  ],
+  "t": "in detail không dùng số nhiều; thông tin liên hệ là contact details."
+ },
+ "perhaps": {
+  "s": [
+   "có lẽ; có thể",
+   "có lẽ (gợi ý hoặc đề nghị nhẹ nhàng)"
+  ],
+  "c": [
+   "có lẽ không",
+   "có lẽ là tốt nhất",
+   "có lẽ chúng ta có thể"
+  ],
+  "t": "perhaps trang trọng hơn maybe một chút; đặt đầu câu để lời gợi ý nhẹ nhàng hơn."
+ },
+ "bakery": {
+  "s": [
+   "tiệm bánh; lò bánh"
+  ],
+  "c": [
+   "tiệm bánh địa phương",
+   "chủ tiệm bánh",
+   "sản phẩm bánh nướng"
+  ],
+  "t": "bakery chỉ cửa hàng hoặc nơi làm bánh; đồ nướng nói chung là baked goods."
+ },
+ "serve": {
+  "s": [
+   "phục vụ (món ăn); cung cấp; tiếp khách",
+   "phục vụ; làm nhiệm vụ",
+   "dùng làm; có tác dụng"
+  ],
+  "c": [
+   "dọn bữa ăn",
+   "phục vụ khách hàng",
+   "phục vụ cộng đồng",
+   "dùng làm; đóng vai trò"
+  ],
+  "t": "serve as đi với vai trò hoặc công dụng; không dùng serve for theo cách này."
+ },
+ "neighbour": {
+  "s": [
+   "hàng xóm; người/vật ở gần"
+  ],
+  "c": [
+   "hàng xóm sát vách",
+   "hàng xóm gần",
+   "các nước láng giềng"
+  ],
+  "t": "Anh Anh viết neighbour, Anh Mỹ viết neighbor."
+ },
+ "click": {
+  "s": [
+   "nhấp chuột; bấm",
+   "tiếng lách cách; cú nhấp",
+   "chợt hiểu ra"
+  ],
+  "c": [
+   "nhấp vào liên kết",
+   "một cú nhấp chuột",
+   "tiếng lách cách sắc gọn"
+  ],
+  "t": "Nhấp vào liên kết dùng click on; it clicked có thể nghĩa là chợt hiểu ra."
+ },
+ "jog": {
+  "s": [
+   "chạy bộ chậm",
+   "cuộc chạy bộ chậm",
+   "hích nhẹ; huých nhẹ"
+  ],
+  "c": [
+   "đi chạy bộ",
+   "chạy bộ chậm dọc theo",
+   "gợi lại trí nhớ của ai"
+  ],
+  "t": "jog someone's memory nghĩa là “gợi lại trí nhớ của ai”."
+ },
+ "least": {
+  "s": [
+   "ít nhất; lượng nhỏ nhất",
+   "ít nhất; ở mức thấp nhất",
+   "lượng ít nhất; mức thấp nhất"
+  ],
+  "c": [
+   "ít nhất",
+   "rẻ nhất",
+   "càng không; nhất là không"
+  ],
+  "t": "least là dạng so sánh nhất của little; với danh từ đếm được dùng fewest."
+ },
+ "microwave": {
+  "s": [
+   "lò vi sóng",
+   "hâm/nấu bằng lò vi sóng",
+   "vi sóng"
+  ],
+  "c": [
+   "lò vi sóng",
+   "hâm nóng thức ăn bằng lò vi sóng",
+   "bức xạ vi sóng"
+  ],
+  "t": "Khi là động từ có thể đi thẳng với tân ngữ chỉ đồ ăn: microwave the soup."
+ },
+ "butterfly": {
+  "s": [
+   "con bướm",
+   "bơi bướm"
+  ],
+  "c": [
+   "cánh bướm",
+   "các loài bướm",
+   "bơi bướm"
+  ],
+  "t": "Số nhiều là butterflies; nghĩa “bơi bướm” thường không đếm được."
+ },
+ "canadian": {
+  "s": [
+   "thuộc Canada; thuộc người Canada",
+   "người Canada"
+  ],
+  "c": [
+   "văn hóa Canada",
+   "công dân Canada",
+   "đô la Canada"
+  ],
+  "t": "Từ chỉ quốc tịch viết hoa chữ cái đầu; danh từ số nhiều là Canadians."
+ },
+ "congratulations": {
+  "s": [
+   "lời chúc mừng",
+   "chúc mừng!"
+  ],
+  "c": [
+   "chúc mừng thành công của bạn",
+   "gửi lời chúc mừng",
+   "lời chúc mừng nồng nhiệt"
+  ],
+  "t": "Lời chúc mừng thường dùng ở số nhiều; congratulations on theo sau là danh từ hoặc danh động từ."
+ },
+ "reach": {
+  "s": [
+   "đến; đạt được",
+   "với tay; với tới",
+   "tầm với; phạm vi ảnh hưởng"
+  ],
+  "c": [
+   "đến nơi cần đến",
+   "đạt được thỏa thuận",
+   "với tay lấy cái gì",
+   "ngoài tầm với"
+  ],
+  "t": "Khi nghĩa là “đến”, reach đi thẳng với địa điểm: reach the station, không thêm at."
+ },
+ "neck": {
+  "s": [
+   "cổ",
+   "chỗ thắt hẹp; cổ (chai)"
+  ],
+  "c": [
+   "đau cổ",
+   "cổ cứng",
+   "cổ chai"
+  ],
+  "t": "neck là cái cổ; throat là cổ họng, đừng nhầm lẫn."
+ },
+ "car-park": {
+  "s": [
+   "bãi đỗ xe"
+  ],
+  "c": [
+   "bãi đỗ xe nhiều tầng",
+   "bãi đỗ xe ngầm",
+   "lối vào bãi đỗ xe"
+  ],
+  "t": "Tiếng Anh Anh thường dùng car park; tiếng Anh Mỹ gọi bãi đỗ xe ngoài trời là parking lot.",
+  "n": "Chuẩn hóa chính tả: danh từ này thường viết là car park, không có dấu gạch nối."
+ },
+ "lamp": {
+  "s": [
+   "đèn"
+  ],
+  "c": [
+   "đèn bàn làm việc",
+   "đèn đầu giường",
+   "đèn cây",
+   "bật đèn"
+  ],
+  "t": "lamp là thiết bị đèn; light còn có thể chỉ ánh sáng."
+ },
+ "grape": {
+  "s": [
+   "quả nho"
+  ],
+  "c": [
+   "một chùm nho",
+   "nho không hạt",
+   "nước ép nho"
+  ],
+  "t": "Một quả nho là a grape, một chùm là a bunch of grapes."
+ },
+ "pan": {
+  "s": [
+   "chảo; khay nướng",
+   "chê bai thậm tệ",
+   "quay lia máy"
+  ],
+  "c": [
+   "chảo rán",
+   "khay nướng",
+   "bị các nhà phê bình chê thậm tệ",
+   "quay lia máy qua cả cảnh"
+  ],
+  "t": "Khi là động từ, quá khứ là panned, hiện tại phân từ là panning."
+ },
+ "step": {
+  "s": [
+   "bước chân; bậc thang",
+   "bước (trong quy trình); biện pháp",
+   "bước; đặt chân; giẫm"
+  ],
+  "c": [
+   "bước một bước; thực hiện một biện pháp",
+   "từng bước một",
+   "thực hiện các biện pháp để",
+   "giẫm lên"
+  ],
+  "t": "take steps to do sth nghĩa là “thực hiện các biện pháp để làm gì”."
+ },
+ "foggy": {
+  "s": [
+   "có sương mù; mù sương",
+   "mơ hồ; lơ mơ"
+  ],
+  "c": [
+   "thời tiết sương mù",
+   "một buổi sáng sương mù",
+   "điều kiện sương mù dày đặc"
+  ],
+  "t": "foggy có thể tả thời tiết, cũng có thể tả trí nhớ mơ hồ."
+ },
+ "double": {
+  "s": [
+   "gấp đôi; đôi",
+   "tăng gấp đôi; làm gấp đôi",
+   "gấp đôi; lượng gấp đôi"
+  ],
+  "c": [
+   "gấp đôi số lượng",
+   "tăng gấp đôi về kích thước",
+   "kiểm tra kỹ lại",
+   "phòng đôi"
+  ],
+  "t": "double nghĩa là trở thành gấp hai lần ban đầu, tức tăng thêm 100%."
+ },
+ "carpet": {
+  "s": [
+   "thảm trải sàn"
+  ],
+  "c": [
+   "trải thảm",
+   "thảm trải kín sàn",
+   "giặt thảm"
+  ],
+  "t": "carpet thường chỉ thảm phủ diện tích lớn; rug là tấm thảm nhỏ có thể di chuyển."
+ },
+ "twin": {
+  "s": [
+   "một trong hai người sinh đôi",
+   "thành đôi; sinh đôi"
+  ],
+  "c": [
+   "cặp song sinh cùng trứng",
+   "chị/em gái sinh đôi",
+   "hai chiếc giường đơn"
+  ],
+  "t": "a twin là một người trong cặp sinh đôi; twins là cả hai người."
+ },
+ "through": {
+  "s": [
+   "xuyên qua; xuyên suốt",
+   "thông qua; nhờ vào",
+   "từ đầu đến cuối; suốt"
+  ],
+  "c": [
+   "đi xuyên qua",
+   "qua kinh nghiệm",
+   "đọc từ đầu đến cuối",
+   "suốt đêm"
+  ],
+  "t": "through nhấn mạnh đi xuyên bên trong; across nhấn mạnh băng ngang trên bề mặt."
+ },
+ "equipment": {
+  "s": [
+   "thiết bị; dụng cụ; trang bị"
+  ],
+  "c": [
+   "dụng cụ thể thao",
+   "thiết bị y tế",
+   "trang bị an toàn",
+   "một thiết bị"
+  ],
+  "t": "Danh từ không đếm được; muốn nói một thiết bị dùng a piece of equipment."
+ },
+ "trouble": {
+  "s": [
+   "rắc rối; khó khăn; sự cố",
+   "làm phiền; gây lo lắng"
+  ],
+  "c": [
+   "gặp khó khăn khi làm việc gì",
+   "gặp rắc rối",
+   "trục trặc động cơ",
+   "chịu khó làm việc gì"
+  ],
+  "t": "Để nói “gặp khó khăn khi làm gì” dùng have trouble doing."
+ },
+ "glue": {
+  "s": [
+   "keo; hồ dán",
+   "dán bằng keo"
+  ],
+  "c": [
+   "keo dạng thỏi",
+   "keo dán gỗ",
+   "dán lại với nhau",
+   "dán mắt vào màn hình"
+  ],
+  "t": "Khi là danh từ thường không đếm được; be glued to có thể nghĩa là dán mắt vào."
+ },
+ "argue": {
+  "s": [
+   "cãi nhau; tranh luận",
+   "lập luận; cho rằng"
+  ],
+  "c": [
+   "tranh cãi với ai",
+   "tranh cãi về điều gì",
+   "cho rằng",
+   "lập luận ủng hộ"
+  ],
+  "t": "argue that thường dùng trong văn nghị luận, để nêu một quan điểm có lý lẽ."
+ },
+ "safe": {
+  "s": [
+   "an toàn; không nguy hiểm",
+   "chắc chắn; ít rủi ro",
+   "két sắt"
+  ],
+  "c": [
+   "bình an vô sự",
+   "nước uống an toàn",
+   "khoản đầu tư an toàn",
+   "giữ ai được an toàn"
+  ],
+  "t": "safe là tính từ, safety là danh từ: chú ý phân biệt từ loại."
+ },
+ "tasty": {
+  "s": [
+   "ngon; hợp khẩu vị"
+  ],
+  "c": [
+   "bữa ăn ngon",
+   "món ăn vặt ngon",
+   "món ăn ngon"
+  ],
+  "t": "tasty chỉ đồ ăn ngon; tasteful chỉ sự có gu thẩm mỹ."
+ },
+ "behaviour": {
+  "s": [
+   "hành vi; cách cư xử",
+   "cách vận hành; phản ứng"
+  ],
+  "c": [
+   "hành vi tốt",
+   "hành vi người tiêu dùng",
+   "hành vi của động vật",
+   "các kiểu hành vi"
+  ],
+  "t": "Thường không đếm được; Anh Anh viết behaviour, Anh Mỹ viết behavior."
+ },
+ "stamp": {
+  "s": [
+   "con tem",
+   "con dấu; dấu in",
+   "đóng dấu; giậm chân"
+  ],
+  "c": [
+   "tem bưu chính",
+   "sưu tầm tem",
+   "đóng dấu vào hộ chiếu",
+   "giậm chân"
+  ],
+  "t": "Con tem là a stamp; “dán tem lên phong bì” dùng put a stamp on."
+ },
+ "unfortunately": {
+  "s": [
+   "không may; đáng tiếc là"
+  ],
+  "c": [
+   "không may cho ai",
+   "tiếc là không"
+  ],
+  "t": "Thường đặt đầu câu, theo sau là dấu phẩy, để bày tỏ sự tiếc nuối về cả sự việc."
+ },
+ "usual": {
+  "s": [
+   "thường lệ; quen thuộc"
+  ],
+  "c": [
+   "như thường lệ",
+   "thói quen thường ngày",
+   "hơn thường lệ"
+  ],
+  "t": "as usual nghĩa là “như mọi khi”; than usual nghĩa là “hơn bình thường”."
+ },
+ "method": {
+  "s": [
+   "phương pháp; cách thức",
+   "tính hệ thống; sự có phương pháp"
+  ],
+  "c": [
+   "phương pháp giảng dạy",
+   "phương pháp nghiên cứu",
+   "phương thức thanh toán",
+   "phương pháp hiệu quả"
+  ],
+  "t": "Thường dùng a method of/for doing sth để nói cách làm việc gì."
+ },
+ "square": {
+  "s": [
+   "hình vuông",
+   "quảng trường",
+   "vuông; bình phương"
+  ],
+  "c": [
+   "quảng trường thị trấn",
+   "mét vuông",
+   "căn bậc hai",
+   "bàn vuông"
+  ],
+  "t": "Diện tích dùng square metres; chiều dài dùng metres, đừng nhầm."
+ },
+ "bottom": {
+  "s": [
+   "đáy; phần thấp nhất",
+   "mông",
+   "dưới cùng"
+  ],
+  "c": [
+   "ở đáy của",
+   "ngăn dưới cùng của kệ",
+   "từ trên xuống dưới"
+  ],
+  "t": "Ở đáy của vật gì thì dùng at the bottom of."
+ },
+ "crocodile": {
+  "s": [
+   "cá sấu"
+  ],
+  "c": [
+   "môi trường sống của cá sấu",
+   "trứng cá sấu",
+   "nước mắt cá sấu; sự thương xót giả tạo"
+  ],
+  "t": "alligator là cá sấu mõm ngắn (cá sấu Mỹ), không phải cùng loài với crocodile."
+ },
+ "clap": {
+  "s": [
+   "vỗ tay",
+   "tiếng vỗ tay; tiếng nổ giòn"
+  ],
+  "c": [
+   "vỗ tay",
+   "vỗ tay theo nhịp",
+   "một tiếng sấm"
+  ],
+  "t": "Quá khứ là clapped; hiện tại phân từ là clapping, gấp đôi chữ p."
+ },
+ "noon": {
+  "s": [
+   "buổi trưa; giữa trưa"
+  ],
+  "c": [
+   "vào buổi trưa",
+   "khoảng trưa",
+   "trước buổi trưa"
+  ],
+  "t": "Nói at noon, không nói in noon; giữa trưa là 12 p.m."
+ },
+ "discussion": {
+  "s": [
+   "cuộc thảo luận; sự bàn bạc",
+   "bài luận bàn; sự bàn luận"
+  ],
+  "c": [
+   "thảo luận",
+   "thảo luận nhóm",
+   "đang được thảo luận",
+   "thảo luận sâu"
+  ],
+  "t": "Danh từ discussion đi với about hoặc of; động từ discuss theo sau trực tiếp là chủ đề."
+ },
+ "wedding": {
+  "s": [
+   "đám cưới; lễ cưới"
+  ],
+  "c": [
+   "nghi lễ cưới",
+   "tiệc cưới",
+   "kỷ niệm ngày cưới",
+   "dự đám cưới"
+  ],
+  "t": "wedding là lễ cưới; marriage là quan hệ hôn nhân."
+ },
+ "blood": {
+  "s": [
+   "máu",
+   "quan hệ huyết thống; dòng dõi"
+  ],
+  "c": [
+   "huyết áp",
+   "xét nghiệm máu",
+   "hiến máu",
+   "mạch máu"
+  ],
+  "t": "blood thường không đếm được; một lần xét nghiệm máu là a blood test."
+ },
+ "wallet": {
+  "s": [
+   "ví; bóp"
+  ],
+  "c": [
+   "ví da",
+   "ví điện tử",
+   "ví bị mất"
+  ],
+  "t": "wallet thường chỉ loại ví gấp để đựng tiền giấy và thẻ."
+ },
+ "according": {
+  "s": [
+   "theo như; theo lời",
+   "theo; dựa vào"
+  ],
+  "c": [
+   "theo nghiên cứu",
+   "theo kế hoạch",
+   "theo nhu cầu"
+  ],
+  "t": "Thường dùng cụm according to, không dùng according riêng như một tính từ."
+ },
+ "bowling": {
+  "s": [
+   "môn bowling",
+   "cú ném bóng (cricket)"
+  ],
+  "c": [
+   "đi chơi bowling",
+   "sân bowling",
+   "quả bóng bowling",
+   "ném bóng nhanh (cricket)"
+  ],
+  "t": "Chơi bowling dùng go bowling; từ này còn chỉ cú ném bóng trong môn cricket."
+ },
+ "crowd": {
+  "s": [
+   "đám đông; khán giả",
+   "chen chúc; tụ tập"
+  ],
+  "c": [
+   "một đám đông lớn",
+   "thu hút đám đông",
+   "chen vào",
+   "kiểm soát đám đông"
+  ],
+  "t": "a crowd of đi với danh từ số nhiều; crowded nghĩa là đông đúc."
+ },
+ "oven": {
+  "s": [
+   "lò nướng"
+  ],
+  "c": [
+   "làm nóng lò nướng trước",
+   "nướng trong lò",
+   "nhiệt độ lò nướng"
+  ],
+  "t": "oven là lò nướng kín; bếp nấu phía trên thường gọi là hob hoặc stove."
+ },
+ "worst": {
+  "s": [
+   "tệ nhất; nghiêm trọng nhất",
+   "tệ nhất; nặng nhất",
+   "tình huống tệ nhất; phần tệ nhất"
+  ],
+  "c": [
+   "kết quả xấu nhất có thể xảy ra",
+   "trong trường hợp xấu nhất",
+   "chuẩn bị cho tình huống xấu nhất",
+   "bị ảnh hưởng nặng nhất"
+  ],
+  "t": "worst là dạng so sánh nhất của bad và badly; dạng so sánh hơn là worse."
+ },
+ "quietly": {
+  "s": [
+   "nhẹ nhàng; yên lặng",
+   "lặng lẽ; kín đáo"
+  ],
+  "c": [
+   "nói khẽ",
+   "ngồi yên lặng",
+   "tự tin một cách kín đáo"
+  ],
+  "t": "quietly là trạng từ; đừng nhầm với quite (khá)."
+ },
+ "cute": {
+  "s": [
+   "dễ thương; đáng yêu"
+  ],
+  "c": [
+   "một em bé dễ thương",
+   "nụ cười dễ thương",
+   "trông dễ thương"
+  ],
+  "t": "Mang tính khẩu ngữ, thường dùng cho em bé, thú nhỏ hoặc vẻ ngoài đáng yêu."
+ },
+ "coach": {
+  "s": [
+   "huấn luyện viên",
+   "xe khách đường dài",
+   "huấn luyện; kèm cặp"
+  ],
+  "c": [
+   "huấn luyện viên thể thao",
+   "đi bằng xe khách",
+   "huấn luyện một đội",
+   "kèm ai ôn thi"
+  ],
+  "t": "Trong tiếng Anh Anh, coach còn nghĩa là xe khách đường dài, còn bus thường chỉ xe buýt."
+ },
+ "engine": {
+  "s": [
+   "động cơ",
+   "động lực thúc đẩy",
+   "công cụ phần mềm lõi"
+  ],
+  "c": [
+   "khởi động động cơ",
+   "động cơ phản lực",
+   "công cụ tìm kiếm",
+   "động lực tăng trưởng"
+  ],
+  "t": "engine thường chỉ động cơ đốt nhiên liệu; động cơ điện thường dùng motor."
+ },
+ "law": {
+  "s": [
+   "luật; pháp luật",
+   "ngành luật",
+   "định luật; quy luật"
+  ],
+  "c": [
+   "vi phạm pháp luật",
+   "thi hành luật",
+   "học luật",
+   "các định luật vật lý"
+  ],
+  "t": "Một đạo luật cụ thể thì đếm được; ngành luật dùng law không đếm được."
+ },
+ "bill": {
+  "s": [
+   "hóa đơn",
+   "dự luật",
+   "tờ tiền giấy"
+  ],
+  "c": [
+   "thanh toán hóa đơn",
+   "hóa đơn tiền điện",
+   "thông qua dự luật",
+   "tờ một đô la"
+  ],
+  "t": "bill là dự luật đang được xem xét; chỉ khi được thông qua và có hiệu lực mới thành luật."
+ },
+ "should": {
+  "s": [
+   "nên; cần phải",
+   "chắc là; hẳn sẽ",
+   "lẽ ra đã phải"
+  ],
+  "c": [
+   "nên làm việc gì",
+   "lẽ ra đã phải làm",
+   "hẳn có thể"
+  ],
+  "t": "Là động từ khuyết thiếu, theo sau là động từ nguyên mẫu; should have done thường chỉ việc lẽ ra nên làm mà chưa làm."
+ },
+ "environment": {
+  "s": [
+   "môi trường tự nhiên",
+   "môi trường sống hoặc làm việc"
+  ],
+  "c": [
+   "bảo vệ môi trường",
+   "môi trường tự nhiên",
+   "môi trường làm việc",
+   "môi trường học tập"
+  ],
+  "t": "Khi nói chung về môi trường tự nhiên thường dùng the environment."
+ },
+ "perfect": {
+  "s": [
+   "hoàn hảo; phù hợp nhất",
+   "hoàn thiện; làm cho thành thạo",
+   "(thì) hoàn thành"
+  ],
+  "c": [
+   "thời điểm vừa vặn",
+   "rất phù hợp với",
+   "hoàn thiện một kỹ thuật",
+   "thì hiện tại hoàn thành"
+  ],
+  "t": "Tính từ nhấn âm đầu; động từ nhấn âm hai: /pəˈfekt/ (Anh)."
+ }
+}

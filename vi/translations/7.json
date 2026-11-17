@@ -1,0 +1,1269 @@
+{
+ "dog": {
+  "s": [
+   "con chó",
+   "đeo bám; gây phiền toái kéo dài"
+  ],
+  "c": [
+   "dắt chó đi dạo",
+   "chó dẫn đường",
+   "chó hoang",
+   "bị các vấn đề đeo bám"
+  ],
+  "t": "Động từ thường gặp ở dạng bị động be dogged by, nghĩa là bị (vấn đề) đeo bám lâu dài."
+ },
+ "wine": {
+  "s": [
+   "rượu vang"
+  ],
+  "c": [
+   "rượu vang đỏ",
+   "rượu vang trắng",
+   "sản xuất rượu vang",
+   "một chai rượu vang"
+  ],
+  "t": "Nói chung thì không đếm được; nhiều loại rượu vang có thể dùng wines."
+ },
+ "talk": {
+  "s": [
+   "nói chuyện; trò chuyện; bàn luận",
+   "cuộc trò chuyện; cuộc hội đàm",
+   "bài nói chuyện; buổi thuyết trình"
+  ],
+  "c": [
+   "nói về điều gì",
+   "nói chuyện với ai",
+   "thuyết trình",
+   "tổ chức hội đàm"
+  ],
+  "t": "talk about đi với chủ đề; talk to hoặc with đi với người."
+ },
+ "office": {
+  "s": [
+   "văn phòng; tòa nhà văn phòng",
+   "cơ quan; văn phòng dịch vụ",
+   "chức vụ; chức vụ công"
+  ],
+  "c": [
+   "giờ làm việc",
+   "trụ sở chính",
+   "giữ chức vụ",
+   "nhậm chức"
+  ],
+  "t": "Ở văn phòng dùng in the office; đang giữ chức vụ công dùng in office."
+ },
+ "pants": {
+  "s": [
+   "quần dài (Anh-Mỹ)",
+   "quần lót (Anh-Anh)"
+  ],
+  "c": [
+   "một chiếc quần",
+   "quần rộng",
+   "quần lót"
+  ],
+  "t": "Anh-Mỹ chỉ quần dài, Anh-Anh thường chỉ quần lót; đếm bằng a pair of."
+ },
+ "friend": {
+  "s": [
+   "bạn; bạn bè"
+  ],
+  "c": [
+   "bạn thân",
+   "bạn thời thơ ấu",
+   "kết bạn với",
+   "giữ liên lạc với bạn bè"
+  ],
+  "t": "“Kết bạn với ai” dùng make friends with, friends ở dạng số nhiều."
+ },
+ "sure": {
+  "s": [
+   "chắc chắn; có cơ sở",
+   "chắc chắn sẽ; nhất định",
+   "tất nhiên; được thôi"
+  ],
+  "c": [
+   "đảm bảo; kiểm tra chắc chắn",
+   "chắc chắn về",
+   "nhất định sẽ; nhớ phải",
+   "chắc chắn; nhất định"
+  ],
+  "t": "be sure of diễn tả sự chắc chắn; be sure to có thể diễn tả điều chắc chắn xảy ra hoặc dùng để nhắc nhở."
+ },
+ "very": {
+  "s": [
+   "rất; vô cùng",
+   "chính là; đúng là"
+  ],
+  "c": [
+   "rất quan trọng",
+   "rất cẩn thận",
+   "ngay từ đầu",
+   "hoàn toàn giống nhau"
+  ],
+  "t": "very thường bổ nghĩa cho tính từ hoặc trạng từ; với động từ thường dùng very much."
+ },
+ "dancing": {
+  "s": [
+   "khiêu vũ; nhảy múa"
+  ],
+  "c": [
+   "đi khiêu vũ",
+   "khiêu vũ giao tế",
+   "múa dân gian"
+  ],
+  "t": "Khi chỉ hoạt động thì thường không đếm được; “đi nhảy” dùng go dancing."
+ },
+ "more": {
+  "s": [
+   "nhiều hơn; thêm",
+   "hơn; hơn nữa",
+   "nhiều hơn; thêm nữa"
+  ],
+  "c": [
+   "hơn",
+   "ngày càng nhiều",
+   "có nhiều khả năng hơn",
+   "thêm thông tin"
+  ],
+  "t": "Có thể bổ nghĩa cho danh từ đếm được và không đếm được; là dạng so sánh hơn của many và much."
+ },
+ "book": {
+  "s": [
+   "sách",
+   "đặt trước; đặt chỗ"
+  ],
+  "c": [
+   "đọc sách",
+   "mượn sách",
+   "đặt chuyến bay",
+   "đặt lịch hẹn"
+  ],
+  "t": "Khi là động từ, book nghĩa là đặt trước, có thể đi thẳng với phòng, vé máy bay,..."
+ },
+ "home": {
+  "s": [
+   "nhà; chỗ ở; quê hương",
+   "ở nhà; về nhà",
+   "thuộc gia đình; trong nước"
+  ],
+  "c": [
+   "cảm thấy thoải mái như ở nhà",
+   "trở về nhà",
+   "quê hương; tổ quốc",
+   "rời khỏi nhà"
+  ],
+  "t": "Khi là trạng từ, home không có to đứng trước: go home."
+ },
+ "date": {
+  "s": [
+   "ngày tháng",
+   "cuộc hẹn hò",
+   "xác định niên đại; có từ"
+  ],
+  "c": [
+   "ấn định ngày",
+   "đi hẹn hò",
+   "có từ; bắt nguồn từ",
+   "ngày hết hạn"
+  ],
+  "t": "date back to nghĩa là có từ thời nào, không dùng ở dạng bị động."
+ },
+ "club": {
+  "s": [
+   "câu lạc bộ; hội",
+   "hộp đêm; vũ trường",
+   "gậy đánh gôn; cái gậy"
+  ],
+  "c": [
+   "gia nhập câu lạc bộ",
+   "câu lạc bộ thể thao",
+   "thành viên câu lạc bộ",
+   "gậy đánh gôn"
+  ],
+  "t": "join a club nghĩa là gia nhập câu lạc bộ, không dùng join in a club."
+ },
+ "hundred": {
+  "s": [
+   "một trăm"
+  ],
+  "c": [
+   "một trăm người",
+   "hai trăm",
+   "hàng trăm"
+  ],
+  "t": "Sau số cụ thể dùng hundred; nói hàng trăm một cách chung chung dùng hundreds of."
+ },
+ "toilet": {
+  "s": [
+   "bồn cầu",
+   "nhà vệ sinh; toa-lét"
+  ],
+  "c": [
+   "xả nước bồn cầu",
+   "nhà vệ sinh công cộng",
+   "giấy vệ sinh",
+   "nắp bồn cầu"
+  ],
+  "t": "Trong Anh-Mỹ toilet thường chỉ bồn cầu; hỏi nhà vệ sinh công cộng thường dùng restroom."
+ },
+ "grandmother": {
+  "s": [
+   "bà nội; bà ngoại"
+  ],
+  "c": [
+   "bà ngoại",
+   "bà nội",
+   "cụ bà"
+  ],
+  "t": "Có thể chỉ bà nội hoặc bà ngoại; trong khẩu ngữ thường dùng grandma."
+ },
+ "japan": {
+  "s": [
+   "Nhật Bản"
+  ],
+  "c": [
+   "thăm Nhật Bản",
+   "ở Nhật Bản",
+   "du lịch đến Nhật Bản"
+  ],
+  "t": "Tên quốc gia viết hoa chữ cái đầu, thường không có the; người Nhật hoặc tiếng Nhật là Japanese."
+ },
+ "lion": {
+  "s": [
+   "sư tử"
+  ],
+  "c": [
+   "một bầy sư tử",
+   "bờm sư tử",
+   "phần lớn nhất"
+  ],
+  "t": "Bầy sư tử là a pride of lions; sư tử cái là lioness."
+ },
+ "exercise": {
+  "s": [
+   "sự tập luyện; bài tập",
+   "tập thể dục; vận động",
+   "thực hiện; sử dụng (quyền, sức mạnh)"
+  ],
+  "c": [
+   "tập luyện thường xuyên",
+   "làm bài tập",
+   "thận trọng",
+   "thực hiện quyền của mình"
+  ],
+  "t": "Nói chung về vận động thì không đếm được; một bài tập hay một động tác thì đếm được."
+ },
+ "wall": {
+  "s": [
+   "bức tường; tường rào",
+   "xây tường bao quanh; ngăn bằng tường"
+  ],
+  "c": [
+   "tường đá",
+   "tường ranh giới",
+   "ngăn bằng tường"
+  ],
+  "t": "Tranh treo trên tường dùng on; vật gắn vào trong tường dùng in."
+ },
+ "some": {
+  "s": [
+   "một vài; một ít",
+   "một số người; một số thứ",
+   "khoảng; độ"
+  ],
+  "c": [
+   "một số trong",
+   "một thời gian",
+   "một vài lời khuyên",
+   "khoảng hai mươi năm"
+  ],
+  "t": "Có thể bổ nghĩa cho danh từ số nhiều hoặc không đếm được; khi đọc nhẹ thường là /səm/."
+ },
+ "interested": {
+  "s": [
+   "quan tâm; thấy hứng thú",
+   "có liên quan; có quyền lợi"
+  ],
+  "c": [
+   "quan tâm đến",
+   "muốn nghe",
+   "các bên liên quan"
+  ],
+  "t": "Người cảm thấy hứng thú dùng interested; theo sau là in + danh từ hoặc danh động từ."
+ },
+ "which": {
+  "s": [
+   "nào; những ... nào",
+   "cái nào; những cái nào",
+   "mà; điều đó"
+  ],
+  "c": [
+   "cái nào trong số",
+   "cái nào",
+   "trong trường hợp đó"
+  ],
+  "t": "which dùng khi lựa chọn trong phạm vi giới hạn; what có phạm vi mở hơn."
+ },
+ "way": {
+  "s": [
+   "cách; phương pháp",
+   "đường; hướng đi",
+   "rất; xa"
+  ],
+  "c": [
+   "một cách hiệu quả",
+   "tìm ra cách",
+   "trên đường",
+   "đắt hơn rất nhiều"
+  ],
+  "t": "“Cách để làm gì” có thể dùng way to do hoặc way of doing."
+ },
+ "arm": {
+  "s": [
+   "cánh tay",
+   "tay vịn; bộ phận nhô ra",
+   "trang bị vũ khí; trang bị"
+  ],
+  "c": [
+   "khoanh tay",
+   "tay vịn của ghế",
+   "trang bị kiến thức cho ai"
+  ],
+  "t": "Nghĩa “vũ khí” dùng dạng số nhiều arms; arm cũng có thể là động từ."
+ },
+ "woman": {
+  "s": [
+   "phụ nữ; người phụ nữ"
+  ],
+  "c": [
+   "phụ nữ trẻ",
+   "phụ nữ đi làm",
+   "quyền của phụ nữ"
+  ],
+  "t": "Số nhiều women đọc /ˈwɪmɪn/, chú ý âm tiết đầu thay đổi."
+ },
+ "next": {
+  "s": [
+   "tiếp theo; kế tiếp",
+   "tiếp theo; lần tới"
+  ],
+  "c": [
+   "tuần sau",
+   "bước tiếp theo",
+   "lần sau",
+   "ngay bên cạnh"
+  ],
+  "t": "“Tuần sau” là next week, không có the; the next week nghĩa là tuần kế tiếp đó."
+ },
+ "bookstore": {
+  "s": [
+   "hiệu sách; nhà sách"
+  ],
+  "c": [
+   "hiệu sách trực tuyến",
+   "hiệu sách trong trường",
+   "hiệu sách cũ"
+  ],
+  "t": "bookstore là từ thường dùng trong Anh-Mỹ; nơi mượn sách là library."
+ },
+ "police": {
+  "s": [
+   "cảnh sát; công an",
+   "giữ gìn trật tự; giám sát thực thi"
+  ],
+  "c": [
+   "sĩ quan cảnh sát",
+   "đồn cảnh sát",
+   "báo cảnh sát",
+   "giữ trật tự cho một sự kiện"
+  ],
+  "t": "the police làm chủ ngữ thì động từ chia số nhiều; một cảnh sát dùng a police officer."
+ },
+ "young": {
+  "s": [
+   "trẻ; non",
+   "con (của thú vật)"
+  ],
+  "c": [
+   "những người trẻ",
+   "trẻ nhỏ",
+   "từ nhỏ",
+   "nuôi con của chúng"
+  ],
+  "t": "the young chỉ nhóm người trẻ; con non của động vật cũng có thể dùng young."
+ },
+ "photo": {
+  "s": [
+   "bức ảnh; ảnh"
+  ],
+  "c": [
+   "chụp ảnh",
+   "ảnh gia đình",
+   "album ảnh",
+   "một bức ảnh của"
+  ],
+  "t": "photo là cách nói tắt thông dụng của photograph; số nhiều là photos."
+ },
+ "everybody": {
+  "s": [
+   "mọi người; ai cũng"
+  ],
+  "c": [
+   "tất cả những người khác",
+   "hầu như ai cũng",
+   "tất cả những người liên quan"
+  ],
+  "t": "Làm chủ ngữ thì động từ dùng số ít: Everybody is ready."
+ },
+ "orange": {
+  "s": [
+   "quả cam",
+   "màu cam",
+   "màu cam (danh từ)"
+  ],
+  "c": [
+   "nước cam",
+   "vỏ cam",
+   "màu cam tươi"
+  ],
+  "t": "Quả cam đếm được; khi chỉ màu cam thì thường không đếm được."
+ },
+ "cinema": {
+  "s": [
+   "rạp chiếu phim",
+   "điện ảnh; ngành điện ảnh"
+  ],
+  "c": [
+   "đi xem phim",
+   "vé xem phim",
+   "điện ảnh thế giới",
+   "điện ảnh độc lập"
+  ],
+  "t": "Anh-Anh thường nói go to the cinema, Anh-Mỹ thường nói go to the movies."
+ },
+ "match": {
+  "s": [
+   "trận đấu",
+   "hợp; ăn khớp; sánh được",
+   "que diêm"
+  ],
+  "c": [
+   "thắng một trận đấu",
+   "ghép A với B",
+   "quẹt diêm",
+   "một cặp hoàn hảo"
+  ],
+  "t": "match nhấn mạnh sự hợp nhau; fit thường chỉ vừa kích cỡ."
+ },
+ "dining-room": {
+  "s": [
+   "phòng ăn"
+  ],
+  "c": [
+   "bàn ăn trong phòng ăn",
+   "đồ nội thất phòng ăn",
+   "một phòng ăn rộng rãi"
+  ],
+  "t": "Ngày nay thường viết là dining room, chỉ căn phòng dùng để ăn."
+ },
+ "need": {
+  "s": [
+   "cần; phải",
+   "nhu cầu; sự cần thiết",
+   "cảnh thiếu thốn; hoàn cảnh khó khăn"
+  ],
+  "c": [
+   "cần làm gì",
+   "đáp ứng nhu cầu cơ bản",
+   "đang gặp khó khăn",
+   "nhu cầu cấp thiết"
+  ],
+  "t": "need to do nghĩa là cần làm gì; need doing nghĩa là cần được làm."
+ },
+ "hungry": {
+  "s": [
+   "đói",
+   "khao khát"
+  ],
+  "c": [
+   "cảm thấy đói",
+   "nhịn đói",
+   "khao khát thành công"
+  ],
+  "t": "hungry for theo sau là danh từ, diễn tả sự khao khát điều gì."
+ },
+ "ago": {
+  "s": [
+   "trước đây; cách đây"
+  ],
+  "c": [
+   "cách đây vài ngày",
+   "cách đây rất lâu",
+   "cách đây không lâu",
+   "mới cách đây một năm"
+  ],
+  "t": "ago đứng sau khoảng thời gian, thường đi với thì quá khứ đơn."
+ },
+ "fruit": {
+  "s": [
+   "trái cây; quả",
+   "thành quả; kết quả",
+   "ra quả"
+  ],
+  "c": [
+   "trái cây tươi",
+   "nước ép trái cây",
+   "ra quả; đạt được thành quả",
+   "thành quả lao động"
+  ],
+  "t": "Nói chung về trái cây thì không đếm được; fruits có thể chỉ các loại hoặc thành quả."
+ },
+ "son": {
+  "s": [
+   "con trai"
+  ],
+  "c": [
+   "con trai một",
+   "con trai cả",
+   "nuôi dạy con trai"
+  ],
+  "t": "son đồng âm với sun; người đàn ông trưởng thành vẫn là son của cha mẹ."
+ },
+ "over": {
+  "s": [
+   "phía trên; qua",
+   "hơn; trên",
+   "kết thúc"
+  ],
+  "c": [
+   "qua cầu",
+   "hơn một nửa",
+   "kết thúc",
+   "khắp thế giới"
+  ],
+  "t": "over có thể chỉ băng qua hoặc vượt quá; be over nghĩa là kết thúc."
+ },
+ "vegetable": {
+  "s": [
+   "rau; rau củ"
+  ],
+  "c": [
+   "rau tươi",
+   "rau ăn lá",
+   "súp rau",
+   "vườn rau"
+  ],
+  "t": "Thường là danh từ đếm được; nói chung về nhiều loại rau dùng vegetables."
+ },
+ "dictionary": {
+  "s": [
+   "từ điển"
+  ],
+  "c": [
+   "từ điển song ngữ",
+   "từ điển trực tuyến",
+   "tra từ điển",
+   "mục từ trong từ điển"
+  ],
+  "t": "Tra một từ dùng look up a word in a dictionary."
+ },
+ "maybe": {
+  "s": [
+   "có lẽ; có thể"
+  ],
+  "c": [
+   "có lẽ để sau",
+   "có lẽ không",
+   "có lẽ lần sau"
+  ],
+  "t": "maybe là trạng từ; may be là động từ khuyết thiếu + be."
+ },
+ "they": {
+  "s": [
+   "họ; chúng nó",
+   "họ (chỉ người không rõ giới tính hoặc phi nhị phân)"
+  ],
+  "c": [
+   "họ là",
+   "họ có",
+   "người ta nói"
+  ],
+  "t": "They ở nghĩa số ít vẫn đi với are, have, không dùng is, has."
+ },
+ "many": {
+  "s": [
+   "nhiều",
+   "nhiều; nhiều người hoặc vật"
+  ],
+  "c": [
+   "bao nhiêu",
+   "quá nhiều",
+   "nhiều trong số",
+   "rất nhiều"
+  ],
+  "t": "many đi với danh từ đếm được số nhiều; much đi với danh từ không đếm được."
+ },
+ "cook": {
+  "s": [
+   "nấu; nấu chín; nấu ăn",
+   "người nấu ăn; đầu bếp"
+  ],
+  "c": [
+   "nấu một bữa ăn",
+   "nấu từ nguyên liệu thô",
+   "người nấu ăn ngon",
+   "nấu bằng lửa nhỏ"
+  ],
+  "t": "cook có thể chỉ đầu bếp; cooker trong Anh-Anh là bếp nấu."
+ },
+ "away": {
+  "s": [
+   "đi; xa",
+   "vắng mặt; đi vắng"
+  ],
+  "c": [
+   "đi đi; đi khỏi",
+   "ở xa",
+   "xa nhà",
+   "cất đi"
+  ],
+  "t": "away là trạng từ; nói “xa nơi nào” dùng away from."
+ },
+ "salad": {
+  "s": [
+   "món salad; món rau trộn"
+  ],
+  "c": [
+   "salad rau xanh",
+   "salad trái cây",
+   "nước sốt salad"
+  ],
+  "t": "Có thể chỉ một phần salad (đếm được) hoặc món salad nói chung (không đếm được)."
+ },
+ "out": {
+  "s": [
+   "ở ngoài; ra ngoài; không ở nhà",
+   "tắt; ngừng hoạt động",
+   "công khai; ra mắt"
+  ],
+  "c": [
+   "đi ra ngoài",
+   "ăn ngoài",
+   "ra mắt; phát hành",
+   "dập lửa"
+  ],
+  "t": "out thường là trạng từ; để nói “ở bên ngoài một nơi nào” có thể dùng outside."
+ },
+ "excited": {
+  "s": [
+   "hào hứng; phấn khích"
+  ],
+  "c": [
+   "hào hứng về",
+   "hào hứng khi nghe",
+   "trở nên phấn khích"
+  ],
+  "t": "Người cảm thấy hào hứng dùng excited; điều khiến người ta hào hứng dùng exciting."
+ },
+ "invite": {
+  "s": [
+   "mời",
+   "kêu gọi; gây ra (phản ứng)"
+  ],
+  "c": [
+   "mời ai ăn tối",
+   "mời ai làm gì",
+   "kêu gọi phản hồi",
+   "gây ra chỉ trích"
+  ],
+  "t": "invite sb to + hoạt động; invite sb to do + hành động."
+ },
+ "phone": {
+  "s": [
+   "điện thoại",
+   "gọi điện cho"
+  ],
+  "c": [
+   "nghe điện thoại",
+   "đang nghe điện thoại",
+   "điện thoại di động",
+   "gọi lại cho ai"
+  ],
+  "t": "Khi là động từ, phone đi thẳng với người: phone someone, không thêm to."
+ },
+ "miss": {
+  "s": [
+   "lỡ; không kịp",
+   "nhớ; thấy thiếu",
+   "trượt; không nhận ra"
+  ],
+  "c": [
+   "lỡ chuyến xe buýt",
+   "bỏ lỡ cơ hội",
+   "nhớ ai",
+   "không hiểu ra vấn đề"
+  ],
+  "t": "miss theo sau là danh từ hoặc danh động từ, không dùng to do."
+ },
+ "travel": {
+  "s": [
+   "du lịch; di chuyển",
+   "chuyến đi; việc đi lại",
+   "truyền; lan đi"
+  ],
+  "c": [
+   "đi du lịch nước ngoài",
+   "đi bằng tàu hỏa",
+   "du lịch hàng không",
+   "bảo hiểm du lịch"
+  ],
+  "t": "Nói chung về việc đi du lịch thì travel không đếm được; một chuyến đi dùng a trip."
+ },
+ "follow": {
+  "s": [
+   "đi theo; đi dọc theo",
+   "làm theo; tuân theo",
+   "hiểu; theo dõi kịp"
+  ],
+  "c": [
+   "làm theo hướng dẫn",
+   "nghe theo lời khuyên",
+   "đi theo một con đường mòn",
+   "theo dõi một lập luận"
+  ],
+  "t": "follow đi thẳng với tân ngữ: follow me, không thêm with."
+ },
+ "american": {
+  "s": [
+   "thuộc nước Mỹ; thuộc người Mỹ",
+   "người Mỹ"
+  ],
+  "c": [
+   "tiếng Anh Mỹ",
+   "văn hóa Mỹ",
+   "một công dân Mỹ"
+  ],
+  "t": "Luôn viết hoa chữ cái đầu; thường chỉ nước Mỹ, không phải cả châu Mỹ."
+ },
+ "russian": {
+  "s": [
+   "thuộc Nga; thuộc tiếng Nga",
+   "người Nga",
+   "tiếng Nga"
+  ],
+  "c": [
+   "văn học Nga",
+   "người nói tiếng Nga",
+   "học tiếng Nga"
+  ],
+  "t": "Phải viết hoa chữ cái đầu; khi chỉ ngôn ngữ thường không dùng mạo từ."
+ },
+ "weather": {
+  "s": [
+   "thời tiết",
+   "vượt qua; chống chịu được",
+   "bị phong hóa; bị thời tiết bào mòn"
+  ],
+  "c": [
+   "dự báo thời tiết",
+   "thời tiết khắc nghiệt",
+   "điều kiện thời tiết",
+   "vượt qua bão; vượt qua khủng hoảng"
+  ],
+  "t": "Với nghĩa thời tiết thì không đếm được; climate chỉ khí hậu lâu dài."
+ },
+ "twice": {
+  "s": [
+   "hai lần",
+   "gấp đôi"
+  ],
+  "c": [
+   "hai lần một tuần",
+   "gấp đôi",
+   "suy nghĩ kỹ",
+   "gấp đôi kích thước"
+  ],
+  "t": "“Gấp đôi” thường dùng twice as ... as hoặc twice the + danh từ."
+ },
+ "sing": {
+  "s": [
+   "hát; ca hát",
+   "hót; kêu líu lo (chim)"
+  ],
+  "c": [
+   "hát một bài",
+   "hát theo",
+   "hát trong dàn hợp xướng"
+  ],
+  "t": "Động từ bất quy tắc: sing - sang - sung."
+ },
+ "university": {
+  "s": [
+   "trường đại học"
+  ],
+  "c": [
+   "học đại học",
+   "bằng đại học",
+   "khuôn viên đại học",
+   "học phí đại học"
+  ],
+  "t": "Dùng a university chứ không dùng an, vì âm đầu là phụ âm /j/."
+ },
+ "give": {
+  "s": [
+   "cho; tặng",
+   "đem lại; cung cấp",
+   "tổ chức; thực hiện"
+  ],
+  "c": [
+   "đưa ra lời khuyên",
+   "thuyết trình",
+   "cho ai cơ hội",
+   "cho phép"
+  ],
+  "t": "give sb sth = give sth to sb; quá khứ là gave."
+ },
+ "shirt": {
+  "s": [
+   "áo sơ mi"
+  ],
+  "c": [
+   "áo sơ mi cotton",
+   "áo sơ mi ngắn tay",
+   "cài khuy áo sơ mi"
+  ],
+  "t": "shirt thường chỉ áo sơ mi; áo thun là T-shirt."
+ },
+ "britain": {
+  "s": [
+   "nước Anh; Vương quốc Anh; Anh quốc"
+  ],
+  "c": [
+   "khắp nước Anh",
+   "nước Anh hiện đại",
+   "Vương quốc Anh (Great Britain)"
+  ],
+  "t": "Britain thường chỉ Vương quốc Anh; Great Britain không bao gồm Bắc Ireland."
+ },
+ "giraffe": {
+  "s": [
+   "hươu cao cổ"
+  ],
+  "c": [
+   "một đàn hươu cao cổ",
+   "hươu cao cổ con",
+   "bảo tồn hươu cao cổ"
+  ],
+  "t": "Trọng âm rơi vào âm tiết thứ hai, số nhiều thường chỉ thêm -s."
+ },
+ "behind": {
+  "s": [
+   "phía sau; đằng sau",
+   "ở phía sau; chậm trễ",
+   "đứng sau; là nguyên nhân của"
+  ],
+  "c": [
+   "ở hậu trường",
+   "bị tụt lại",
+   "chậm so với tiến độ"
+  ],
+  "t": "behind có thể là giới từ hoặc trạng từ; fall behind nghĩa là bị tụt lại."
+ },
+ "cheap": {
+  "s": [
+   "rẻ; giá thấp",
+   "rẻ tiền; kém chất lượng"
+  ],
+  "c": [
+   "vé giá rẻ",
+   "lao động giá rẻ",
+   "rẻ mà vui vẻ",
+   "một lựa chọn thay thế rẻ"
+  ],
+  "t": "cheap đôi khi hàm ý chất lượng kém; dùng inexpensive để nói trung tính."
+ },
+ "great": {
+  "s": [
+   "tuyệt vời; xuất sắc",
+   "to lớn; rất lớn",
+   "vĩ đại; kiệt xuất"
+  ],
+  "c": [
+   "một cơ hội tuyệt vời",
+   "rất quan trọng",
+   "rất nhiều",
+   "một thành tựu xuất sắc"
+  ],
+  "t": "a great deal of đi với danh từ không đếm được, nghĩa là rất nhiều."
+ },
+ "rain": {
+  "s": [
+   "mưa; nước mưa",
+   "mưa; trời mưa"
+  ],
+  "c": [
+   "mưa lớn",
+   "mưa như trút nước",
+   "mưa to",
+   "khả năng có mưa"
+  ],
+  "t": "rain là danh từ thường không đếm được; nói trời mưa dùng It rains."
+ },
+ "good": {
+  "s": [
+   "tốt; chất lượng",
+   "có lợi; tốt cho",
+   "điều tốt; lợi ích"
+  ],
+  "c": [
+   "chất lượng tốt",
+   "giỏi về",
+   "tốt cho; có lợi cho",
+   "làm điều tốt; có ích"
+  ],
+  "t": "good là tính từ; bổ nghĩa cho động từ thường dùng well."
+ },
+ "both": {
+  "s": [
+   "cả hai",
+   "cả hai; cả hai bên"
+  ],
+  "c": [
+   "cả hai bên",
+   "cả hai người họ",
+   "vừa ... vừa ..."
+  ],
+  "t": "both chỉ hai đối tượng; both A and B làm chủ ngữ thì động từ chia số nhiều."
+ },
+ "inside": {
+  "s": [
+   "bên trong; vào trong (giới từ)",
+   "ở bên trong; vào trong (trạng từ)",
+   "bên trong; mặt trong"
+  ],
+  "c": [
+   "bên trong tòa nhà",
+   "ở trong nhà",
+   "ở phía trong",
+   "từ bên trong"
+  ],
+  "t": "inside theo sau là danh từ thì là giới từ; đứng một mình có thể là trạng từ."
+ },
+ "eraser": {
+  "s": [
+   "cục tẩy; cái gôm"
+  ],
+  "c": [
+   "tẩy bút chì",
+   "dùng tẩy"
+  ],
+  "t": "eraser thường dùng trong Anh-Mỹ; Anh-Anh thường nói rubber."
+ },
+ "trip": {
+  "s": [
+   "chuyến đi; chuyến du lịch",
+   "vấp ngã; làm ai vấp"
+  ],
+  "c": [
+   "đi chơi; đi du lịch",
+   "chuyến công tác",
+   "chuyến đi dã ngoại của trường",
+   "vấp phải"
+  ],
+  "t": "trip là danh từ đếm được; travel khi chỉ hoạt động du lịch thì thường không đếm được."
+ },
+ "driver": {
+  "s": [
+   "tài xế; người lái xe",
+   "yếu tố thúc đẩy",
+   "trình điều khiển (phần mềm)"
+  ],
+  "c": [
+   "tài xế xe buýt",
+   "động lực chính của tăng trưởng",
+   "cài trình điều khiển"
+  ],
+  "t": "a driver of change chỉ yếu tố thúc đẩy sự thay đổi."
+ },
+ "one": {
+  "s": [
+   "một",
+   "một cái; một thứ (thay thế danh từ)",
+   "người ta; ai đó (nói chung)"
+  ],
+  "c": [
+   "từng cái một",
+   "lẫn nhau",
+   "từng cái một"
+  ],
+  "t": "one thay thế cho danh từ đếm được số ít; số nhiều dùng ones."
+ },
+ "writer": {
+  "s": [
+   "nhà văn; tác giả"
+  ],
+  "c": [
+   "nhà văn chuyên nghiệp",
+   "nhà văn viết du ký",
+   "người viết tự do",
+   "tác giả truyện ngắn"
+  ],
+  "t": "writer có phạm vi rộng; author thường chỉ tác giả của một tác phẩm cụ thể."
+ },
+ "british": {
+  "s": [
+   "thuộc Anh; thuộc người Anh",
+   "người Anh (nói chung)"
+  ],
+  "c": [
+   "văn hóa Anh",
+   "công dân Anh",
+   "tiếng Anh Anh"
+  ],
+  "t": "Chỉ người Anh nói chung dùng the British; một người dùng a Briton."
+ },
+ "bed": {
+  "s": [
+   "cái giường",
+   "lòng sông; đáy biển; đáy hồ",
+   "luống; bồn (hoa)"
+  ],
+  "c": [
+   "đi ngủ",
+   "dọn giường",
+   "lòng sông",
+   "bồn hoa"
+  ],
+  "t": "go to bed nghĩa là đi ngủ, không có the; make the bed nghĩa là dọn giường."
+ },
+ "same": {
+  "s": [
+   "giống nhau; cùng một",
+   "cùng một điều; điều tương tự"
+  ],
+  "c": [
+   "giống như",
+   "cùng lúc",
+   "giữ nguyên không đổi",
+   "cùng tuổi"
+  ],
+  "t": "Thường dùng the same; khi so sánh dùng the same as."
+ },
+ "video": {
+  "s": [
+   "video; đoạn phim",
+   "quay video"
+  ],
+  "c": [
+   "xem video",
+   "quay video",
+   "đoạn video ngắn",
+   "cuộc gọi video"
+  ],
+  "t": "Một đoạn video dùng a video; khi nói về phương tiện video nói chung có thể không đếm được."
+ },
+ "during": {
+  "s": [
+   "trong suốt; trong khi"
+  ],
+  "c": [
+   "vào ban ngày",
+   "trong mùa hè",
+   "trong giờ làm việc"
+  ],
+  "t": "during theo sau là danh từ; while thường theo sau là mệnh đề; for chỉ độ dài thời gian."
+ },
+ "cloud": {
+  "s": [
+   "đám mây",
+   "một đám (khói, bụi...)",
+   "làm mờ (đánh giá); làm rối trí"
+  ],
+  "c": [
+   "mây đen",
+   "một đám bụi",
+   "làm mờ phán đoán của ai"
+  ],
+  "t": "Động từ cloud có thể nghĩa là làm đánh giá không rõ ràng, ví dụ cloud your judgment."
+ },
+ "alive": {
+  "s": [
+   "còn sống",
+   "đầy sức sống; nhộn nhịp"
+  ],
+  "c": [
+   "sống sót",
+   "giữ cho sống; duy trì",
+   "trở nên sống động",
+   "nhộn nhịp hoạt động"
+  ],
+  "t": "Thường đứng sau động từ nối; trước danh từ dùng live, ví dụ a live fish."
+ },
+ "circle": {
+  "s": [
+   "hình tròn; vòng tròn",
+   "giới; vòng giao tiếp",
+   "đi vòng quanh; khoanh tròn"
+  ],
+  "c": [
+   "vẽ một hình tròn",
+   "thành một vòng tròn",
+   "vòng xã giao",
+   "lượn vòng trên cao"
+  ],
+  "t": "circle là hình tròn; cycle thường chỉ chu kỳ hoặc vòng tuần hoàn."
+ },
+ "pardon": {
+  "s": [
+   "xin nhắc lại; xin lỗi?",
+   "tha thứ; ân xá",
+   "sự ân xá; sự tha thứ"
+  ],
+  "c": [
+   "xin lỗi (nhờ nhường đường, làm phiền)",
+   "xin lỗi, bạn nói gì ạ?",
+   "ân xá"
+  ],
+  "t": "Khi không nghe rõ có thể nói Pardon? với giọng lên cao ở cuối câu."
+ },
+ "succeed": {
+  "s": [
+   "thành công; đạt được mục tiêu",
+   "kế nhiệm; kế vị"
+  ],
+  "c": [
+   "thành công trong việc làm gì",
+   "thành công với tư cách quản lý",
+   "kế nhiệm ai làm chủ tịch"
+  ],
+  "t": "Để nói thành công làm được điều gì dùng succeed in doing, không dùng to do."
+ },
+ "easily": {
+  "s": [
+   "dễ dàng; một cách thoải mái",
+   "chắc chắn; rõ ràng là",
+   "rất có thể"
+  ],
+  "c": [
+   "dễ tiếp cận",
+   "dễ hiểu",
+   "chắc chắn là tốt nhất",
+   "rất có thể xảy ra"
+  ],
+  "t": "easily có thể bổ nghĩa cho dạng so sánh nhất: easily the best nghĩa là vượt xa các đối thủ."
+ },
+ "bit": {
+  "s": [
+   "một chút; một ít; mảnh nhỏ",
+   "bit (đơn vị thông tin)"
+  ],
+  "c": [
+   "một chút",
+   "một chút xíu",
+   "từng chút một",
+   "những thứ lặt vặt"
+  ],
+  "t": "a bit of theo sau là danh từ; a bit có thể bổ nghĩa cho tính từ; bit cũng là quá khứ của bite."
+ },
+ "typing": {
+  "s": [
+   "việc đánh máy; việc gõ phím"
+  ],
+  "c": [
+   "tốc độ gõ phím",
+   "gõ mười ngón",
+   "kỹ năng đánh máy",
+   "lỗi đánh máy"
+  ],
+  "t": "Là danh từ thì không đếm được; cũng là hiện tại phân từ của type."
+ },
+ "male": {
+  "s": [
+   "thuộc nam giới; giống đực",
+   "nam giới; con đực"
+  ],
+  "c": [
+   "nam sinh viên",
+   "nam y tá",
+   "nam và nữ; đực và cái"
+  ],
+  "t": "male có thể là tính từ hoặc danh từ; nói về đàn ông trong giao tiếp hằng ngày thường dùng man."
+ },
+ "album": {
+  "s": [
+   "album nhạc",
+   "album ảnh; tập sưu tầm tem"
+  ],
+  "c": [
+   "phát hành album",
+   "album đầu tay",
+   "album ảnh"
+  ],
+  "t": "Album nhạc dùng album; đĩa đơn dùng single."
+ },
+ "burn": {
+  "s": [
+   "cháy; đốt cháy",
+   "làm bỏng; bị bỏng",
+   "vết bỏng"
+  ],
+  "c": [
+   "đốt nhiên liệu hóa thạch",
+   "đốt calo",
+   "bị bỏng tay",
+   "bỏng nặng"
+  ],
+  "t": "Quá khứ và quá khứ phân từ có thể là burnt hoặc burned."
+ },
+ "knock": {
+  "s": [
+   "gõ; đập",
+   "va vào; làm đổ",
+   "tiếng gõ; cú va"
+  ],
+  "c": [
+   "gõ cửa",
+   "làm đổ cái gì",
+   "đâm ngã; phá bỏ",
+   "tiếng gõ lớn"
+  ],
+  "t": "Chữ k ở đầu không đọc; gõ cửa dùng knock on hoặc at the door."
+ },
+ "ski": {
+  "s": [
+   "trượt tuyết",
+   "ván trượt tuyết"
+  ],
+  "c": [
+   "đi trượt tuyết",
+   "khu nghỉ dưỡng trượt tuyết",
+   "dốc trượt tuyết",
+   "một đôi ván trượt tuyết"
+  ],
+  "t": "Quá khứ skied, hiện tại phân từ skiing; số nhiều của ski là skis."
+ },
+ "sneaker": {
+  "s": [
+   "giày thể thao (Anh-Mỹ)"
+  ],
+  "c": [
+   "một đôi giày thể thao",
+   "giày chạy bộ",
+   "đi giày thể thao"
+  ],
+  "t": "Anh-Mỹ thường dùng sneakers; Anh-Anh thường nói trainers."
+ },
+ "bell": {
+  "s": [
+   "cái chuông; cái chuông nhỏ",
+   "tiếng chuông"
+  ],
+  "c": [
+   "rung chuông; gợi nhớ điều gì",
+   "chuông cửa",
+   "chuông nhà thờ"
+  ],
+  "t": "ring a bell còn nghĩa là “nghe quen quen”, gợi nhớ điều gì."
+ }
+}

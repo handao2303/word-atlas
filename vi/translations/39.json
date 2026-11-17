@@ -1,0 +1,1243 @@
+{
+ "dim": {
+  "s": [
+   "mờ tối; yếu ớt",
+   "mơ hồ; không rõ",
+   "làm mờ đi; mờ đi"
+  ],
+  "c": [
+   "ánh sáng mờ tối",
+   "ký ức mơ hồ",
+   "làm dịu đèn",
+   "không tán thành"
+  ],
+  "t": "Khi biến đổi dạng thì gấp đôi chữ m: dimmer, dimmest, dimmed."
+ },
+ "intelligence": {
+  "s": [
+   "trí thông minh; khả năng hiểu",
+   "tình báo; thông tin tình báo"
+  ],
+  "c": [
+   "trí tuệ nhân tạo",
+   "trí tuệ cảm xúc",
+   "thu thập thông tin tình báo",
+   "cơ quan tình báo"
+  ],
+  "t": "Thường không đếm được; intelligence agency là cơ quan tình báo."
+ },
+ "triangular": {
+  "s": [
+   "hình tam giác",
+   "ba bên"
+  ],
+  "c": [
+   "hình tam giác",
+   "một mảnh hình tam giác",
+   "quan hệ ba bên"
+  ],
+  "t": "triangle là danh từ; triangular là tính từ."
+ },
+ "tutorial": {
+  "s": [
+   "buổi phụ đạo; giờ thảo luận nhóm nhỏ",
+   "bài hướng dẫn; hướng dẫn thực hành"
+  ],
+  "c": [
+   "tham dự buổi phụ đạo",
+   "video hướng dẫn",
+   "hướng dẫn từng bước"
+  ],
+  "t": "Có thể chỉ buổi học nhóm nhỏ, cũng có thể là tài liệu hướng dẫn dạng chữ hay video."
+ },
+ "stroll": {
+  "s": [
+   "đi dạo thong thả",
+   "cuộc đi dạo; sự dạo bước"
+  ],
+  "c": [
+   "đi dạo",
+   "dạo bước dọc bãi biển",
+   "một cuộc đi dạo thong thả"
+  ],
+  "t": "Nhấn mạnh sự thư thả, không vội; danh từ hay đi với take hoặc go for."
+ },
+ "plentiful": {
+  "s": [
+   "dồi dào; phong phú"
+  ],
+  "c": [
+   "nguồn cung dồi dào",
+   "tài nguyên phong phú",
+   "thức ăn dồi dào"
+  ],
+  "t": "Chỉ vật chất hay cơ hội dồi dào, không dùng để nói một người giàu có."
+ },
+ "psychologist": {
+  "s": [
+   "nhà tâm lý học; chuyên viên tâm lý"
+  ],
+  "c": [
+   "nhà tâm lý học lâm sàng",
+   "nhà tâm lý học giáo dục",
+   "tham khảo ý kiến chuyên viên tâm lý"
+  ],
+  "t": "Chữ p đầu không đọc; không giống bác sĩ tâm thần psychiatrist."
+ },
+ "trunk": {
+  "s": [
+   "thân cây",
+   "vòi voi",
+   "cốp xe (Anh–Mỹ)"
+  ],
+  "c": [
+   "thân cây",
+   "vòi của con voi",
+   "cốp xe ô tô"
+  ],
+  "t": "Cốp xe trong Anh–Mỹ gọi là trunk, Anh–Anh gọi là boot."
+ },
+ "literary": {
+  "s": [
+   "thuộc văn học",
+   "văn chương; mang tính văn học"
+  ],
+  "c": [
+   "tác phẩm văn học",
+   "phê bình văn học",
+   "một lễ hội văn học",
+   "ngôn ngữ văn chương"
+  ],
+  "t": "literary là thuộc văn học; literal là theo nghĩa đen."
+ },
+ "honor": {
+  "s": [
+   "danh dự; sự kính trọng",
+   "tôn vinh; vinh danh",
+   "giữ lời; thực hiện"
+  ],
+  "c": [
+   "để tôn vinh",
+   "một vinh dự lớn",
+   "thực hiện cam kết",
+   "khách danh dự"
+  ],
+  "t": "Cách viết Anh–Mỹ; Anh–Anh viết honour, và h là âm câm."
+ },
+ "status": {
+  "s": [
+   "địa vị xã hội; thân phận",
+   "tình trạng; trạng thái"
+  ],
+  "c": [
+   "địa vị xã hội",
+   "tình trạng hôn nhân",
+   "trạng thái hiện tại",
+   "biểu tượng địa vị"
+  ],
+  "t": "Vừa chỉ địa vị xã hội, vừa chỉ tình trạng hiện tại, cần xét ngữ cảnh."
+ },
+ "adequate": {
+  "s": [
+   "đủ; đạt yêu cầu"
+  ],
+  "c": [
+   "nguồn kinh phí đủ",
+   "sự chuẩn bị đầy đủ",
+   "đủ để đảm nhiệm công việc"
+  ],
+  "t": "Chỉ đạt mức cần thiết, không có nghĩa là xuất sắc; hay dùng với for hoặc to."
+ },
+ "optional": {
+  "s": [
+   "tuỳ chọn; không bắt buộc"
+  ],
+  "c": [
+   "môn học tự chọn",
+   "phụ kiện tuỳ chọn",
+   "hoàn toàn tự nguyện"
+  ],
+  "t": "optional là không bắt buộc, không có nghĩa là “tuỳ tiện” hay “ngẫu nhiên”."
+ },
+ "frequency": {
+  "s": [
+   "tần suất; số lần xảy ra",
+   "tần số (dao động, sóng)"
+  ],
+  "c": [
+   "tần suất của",
+   "ngày càng thường xuyên",
+   "tần số cao",
+   "tần số vô tuyến"
+  ],
+  "t": "Tần suất cao hay thấp dùng high hoặc low; xảy ra nhiều lần không có nghĩa là nhanh."
+ },
+ "demonstrate": {
+  "s": [
+   "chứng minh; cho thấy",
+   "trình diễn; thị phạm",
+   "biểu tình"
+  ],
+  "c": [
+   "cho thấy rằng",
+   "trình diễn cách",
+   "thể hiện sự tận tâm với",
+   "biểu tình phản đối"
+  ],
+  "t": "Chứng minh điều gì thường dùng mệnh đề demonstrate that."
+ },
+ "disapproval": {
+  "s": [
+   "sự không tán thành; sự phản đối"
+  ],
+  "c": [
+   "bày tỏ sự không tán thành",
+   "sự bất bình đối với điều gì",
+   "vẻ mặt không tán thành",
+   "sự phản đối của công chúng"
+  ],
+  "t": "Thường không đếm được; không tán thành điều gì dùng disapproval of."
+ },
+ "sane": {
+  "s": [
+   "tỉnh táo; sáng suốt",
+   "minh mẫn; tâm trí lành mạnh"
+  ],
+  "c": [
+   "cách xử lý sáng suốt",
+   "quyết định tỉnh táo",
+   "giúp ai giữ được sự tỉnh táo"
+  ],
+  "t": "Khi nghĩa là sáng suốt thì gần với sensible; không phải mọi bệnh tâm lý đều ảnh hưởng đến lý trí."
+ },
+ "concept": {
+  "s": [
+   "khái niệm; quan niệm"
+  ],
+  "c": [
+   "khái niệm cơ bản",
+   "nắm được một khái niệm",
+   "khái niệm về",
+   "khái niệm trừu tượng"
+  ],
+  "t": "Danh từ đếm được; hay dùng the concept of để giới thiệu một khái niệm cụ thể."
+ },
+ "sigh": {
+  "s": [
+   "thở dài",
+   "tiếng thở dài"
+  ],
+  "c": [
+   "tiếng thở phào nhẹ nhõm",
+   "thở dài một hơi",
+   "thở dài thườn thượt"
+  ],
+  "t": "Chữ gh không đọc; thở dài cũng có thể là thả lỏng, không nhất thiết buồn."
+ },
+ "convinced": {
+  "s": [
+   "tin chắc; bị thuyết phục"
+  ],
+  "c": [
+   "tin chắc rằng",
+   "tin chắc về điều gì",
+   "hoàn toàn bị thuyết phục",
+   "vẫn tin chắc"
+  ],
+  "t": "Người bị thuyết phục dùng convinced; điều có sức thuyết phục dùng convincing."
+ },
+ "contemporary": {
+  "s": [
+   "đương đại; hiện đại",
+   "cùng thời; đồng thời",
+   "người cùng thời"
+  ],
+  "c": [
+   "nghệ thuật đương đại",
+   "xã hội đương đại",
+   "những ghi chép đương thời",
+   "người cùng thời với ai"
+  ],
+  "t": "Trong nghệ thuật là “đương đại”; trong ngữ cảnh lịch sử có thể là “thời đó”."
+ },
+ "solo": {
+  "s": [
+   "màn độc tấu; đơn ca",
+   "đơn độc; solo",
+   "một mình"
+  ],
+  "c": [
+   "độc tấu piano",
+   "buổi biểu diễn một mình",
+   "sự nghiệp solo",
+   "đi du lịch một mình"
+  ],
+  "t": "Có thể là danh từ, tính từ và trạng từ; người độc tấu là soloist."
+ },
+ "arabian": {
+  "s": [
+   "thuộc bán đảo Ả Rập",
+   "ngựa Ả Rập"
+  ],
+  "c": [
+   "bán đảo Ả Rập",
+   "ngựa Ả Rập",
+   "biển Ả Rập"
+  ],
+  "t": "Arabian thường chỉ bán đảo hoặc giống ngựa; ngôn ngữ dùng Arabic, người thường dùng Arab."
+ },
+ "whisper": {
+  "s": [
+   "thì thầm; nói nhỏ",
+   "tiếng thì thầm",
+   "lời đồn thầm kín"
+  ],
+  "c": [
+   "thì thầm với ai",
+   "thì thầm",
+   "chỉ hơn tiếng thì thầm một chút"
+  ],
+  "t": "Thì thầm với ai dùng whisper to someone; nói nhỏ dùng in a whisper."
+ },
+ "gravel": {
+  "s": [
+   "sỏi; đá dăm"
+  ],
+  "c": [
+   "lối đi rải sỏi",
+   "đường lái xe rải sỏi",
+   "mỏ khai thác sỏi"
+  ],
+  "t": "Thường không đếm được; một viên sỏi nhỏ dùng a pebble."
+ },
+ "curriculum": {
+  "s": [
+   "chương trình học; hệ thống môn học"
+  ],
+  "c": [
+   "chương trình học của trường",
+   "chương trình quốc gia",
+   "chương trình cốt lõi",
+   "cải cách chương trình học"
+  ],
+  "t": "Số nhiều là curricula hoặc curriculums; không chỉ một môn học riêng lẻ."
+ },
+ "welfare": {
+  "s": [
+   "phúc lợi; sức khoẻ và hạnh phúc",
+   "trợ cấp xã hội; cứu trợ"
+  ],
+  "c": [
+   "phúc lợi động vật",
+   "phúc lợi xã hội",
+   "trợ cấp phúc lợi"
+  ],
+  "t": "Danh từ không đếm được; khi đứng trước danh từ khác vẫn là danh từ."
+ },
+ "offensive": {
+  "s": [
+   "xúc phạm; gây khó chịu",
+   "mang tính tấn công",
+   "cuộc tấn công; chiến dịch"
+  ],
+  "c": [
+   "ngôn từ xúc phạm",
+   "thấy điều gì thật khó chịu",
+   "chiến thuật tấn công",
+   "phát động một cuộc tấn công"
+  ],
+  "t": "Cảm thấy bị xúc phạm dùng offended, không dùng offensive."
+ },
+ "territory": {
+  "s": [
+   "lãnh thổ; vùng quản hạt",
+   "lãnh địa (của động vật)",
+   "lĩnh vực; phạm vi"
+  ],
+  "c": [
+   "lãnh thổ quốc gia",
+   "bảo vệ lãnh thổ",
+   "lĩnh vực xa lạ",
+   "bước vào lĩnh vực mới"
+  ],
+  "t": "Nghĩa lãnh thổ có thể đếm được hoặc không; một vùng quản hạt cụ thể dùng a territory."
+ },
+ "warehouse": {
+  "s": [
+   "nhà kho; kho hàng",
+   "cất hàng vào kho"
+  ],
+  "c": [
+   "công nhân kho",
+   "không gian kho bãi",
+   "kho tự động"
+  ],
+  "t": "Chỉ toà nhà lớn để chứa hàng; cách dùng như động từ khá trang trọng."
+ },
+ "fame": {
+  "s": [
+   "danh tiếng; sự nổi tiếng"
+  ],
+  "c": [
+   "trở nên nổi tiếng",
+   "nổi danh",
+   "danh tiếng quốc tế",
+   "danh tiếng lâu dài"
+  ],
+  "t": "fame thường không đếm được; tính từ famous thường đi với for."
+ },
+ "prior": {
+  "s": [
+   "trước; có từ trước"
+  ],
+  "c": [
+   "kinh nghiệm trước đó",
+   "kiến thức có sẵn",
+   "thông báo trước",
+   "trước khi"
+  ],
+  "t": "prior thường đứng trước danh từ; prior to tương đương before."
+ },
+ "sewage": {
+  "s": [
+   "nước thải; chất thải sinh hoạt"
+  ],
+  "c": [
+   "nước thải chưa xử lý",
+   "xử lý nước thải",
+   "thải bỏ nước thải",
+   "hệ thống thoát nước thải"
+  ],
+  "t": "Không đếm được; sewage là nước thải, còn sewer mới là cống thoát nước."
+ },
+ "ratio": {
+  "s": [
+   "tỷ lệ; tỷ số"
+  ],
+  "c": [
+   "tỷ lệ của A so với B",
+   "tỷ lệ học sinh trên giáo viên",
+   "tỷ lệ cao"
+  ],
+  "t": "Tỷ lệ của A so với B dùng the ratio of A to B, chú ý thứ tự."
+ },
+ "poll": {
+  "s": [
+   "cuộc thăm dò dư luận",
+   "cuộc bỏ phiếu; việc bầu cử",
+   "thăm dò ý kiến; nhận được phiếu"
+  ],
+  "c": [
+   "thăm dò dư luận",
+   "tiến hành thăm dò dư luận",
+   "đi bỏ phiếu",
+   "kết quả thăm dò"
+  ],
+  "t": "Thăm dò dư luận thường dùng opinion poll; the polls chỉ cuộc bầu cử."
+ },
+ "intersection": {
+  "s": [
+   "giao lộ; ngã tư",
+   "điểm giao nhau; giao"
+  ],
+  "c": [
+   "ngã tư đông đúc",
+   "tại giao lộ",
+   "giao của hai tập hợp"
+  ],
+  "t": "Giao lộ thường dùng at an intersection."
+ },
+ "surroundings": {
+  "s": [
+   "môi trường xung quanh; cảnh vật xung quanh"
+  ],
+  "c": [
+   "môi trường yên tĩnh",
+   "môi trường thiên nhiên",
+   "môi trường xa lạ",
+   "môi trường dễ chịu"
+  ],
+  "t": "Luôn dùng ở dạng số nhiều; khi làm chủ ngữ động từ cũng chia số nhiều."
+ },
+ "unbearable": {
+  "s": [
+   "không thể chịu nổi"
+  ],
+  "c": [
+   "cơn đau không chịu nổi",
+   "cái nóng không chịu nổi",
+   "tiếng ồn không thể chịu đựng"
+  ],
+  "t": "bear ở đây nghĩa là chịu đựng; unbearable có sắc thái rất mạnh."
+ },
+ "filter": {
+  "s": [
+   "bộ lọc; lưới lọc",
+   "lọc; sàng lọc",
+   "lọt qua dần; lan truyền dần"
+  ],
+  "c": [
+   "bộ lọc không khí",
+   "lọc bỏ tạp chất",
+   "lọc kết quả tìm kiếm",
+   "ánh sáng lọt qua"
+  ],
+  "t": "Sau filter out là thứ bị loại bỏ, không phải thứ được giữ lại."
+ },
+ "consume": {
+  "s": [
+   "tiêu thụ; tiêu hao",
+   "ăn; uống",
+   "choán hết tâm trí; thiêu rụi"
+  ],
+  "c": [
+   "tiêu thụ năng lượng",
+   "ăn thức ăn",
+   "bị nỗi sợ chiếm lấy"
+  ],
+  "t": "Khi nghĩa là ăn uống thì trang trọng hơn eat và drink; danh từ là consumption."
+ },
+ "numerous": {
+  "s": [
+   "nhiều; đông đảo"
+  ],
+  "c": [
+   "nhiều nghiên cứu",
+   "nhiều dịp",
+   "nhiều lợi ích"
+  ],
+  "t": "Bổ nghĩa cho danh từ đếm được số nhiều, không đi trực tiếp với danh từ không đếm được."
+ },
+ "pace": {
+  "s": [
+   "tốc độ; nhịp độ",
+   "bước chân; một bước",
+   "đi đi lại lại"
+  ],
+  "c": [
+   "theo nhịp độ của riêng mình",
+   "theo kịp",
+   "tốc độ thay đổi",
+   "đi đi lại lại"
+  ],
+  "t": "Nói tốc độ nào dùng at a ... pace; keep pace with nghĩa là theo kịp."
+ },
+ "dread": {
+  "s": [
+   "sợ hãi; e ngại",
+   "nỗi sợ; nỗi lo âu"
+  ],
+  "c": [
+   "sợ phải làm việc gì",
+   "cảm giác sợ hãi",
+   "làm ai đầy sợ hãi"
+  ],
+  "t": "Sợ phải làm việc gì thường dùng dread doing."
+ },
+ "narrative": {
+  "s": [
+   "bài tường thuật; câu chuyện",
+   "cách diễn giải; khung quan điểm",
+   "thuộc tự sự"
+  ],
+  "c": [
+   "câu chuyện cá nhân",
+   "cách diễn giải chủ đạo",
+   "cấu trúc tự sự"
+  ],
+  "t": "Danh từ chỉ câu chuyện hay lời kể; tính từ thường bổ nghĩa cho cấu trúc hay kỹ thuật."
+ },
+ "eruption": {
+  "s": [
+   "sự phun trào (núi lửa)",
+   "sự bùng nổ đột ngột"
+  ],
+  "c": [
+   "núi lửa phun trào",
+   "cơn giận bùng nổ",
+   "dự đoán núi lửa phun trào"
+  ],
+  "t": "Thường đi với volcanic; cũng có thể chỉ cảm xúc bùng nổ đột ngột."
+ },
+ "clause": {
+  "s": [
+   "điều khoản",
+   "mệnh đề"
+  ],
+  "c": [
+   "một điều khoản trong hợp đồng",
+   "thêm một điều khoản",
+   "mệnh đề chính",
+   "mệnh đề quan hệ"
+  ],
+  "t": "Trong ngữ pháp, clause có chủ ngữ và vị ngữ; phrase thường không có."
+ },
+ "subscribe": {
+  "s": [
+   "đăng ký đặt mua; theo dõi",
+   "tán thành; đồng tình"
+  ],
+  "c": [
+   "đặt mua tạp chí dài hạn",
+   "đăng ký theo dõi kênh",
+   "tán thành quan điểm cho rằng"
+  ],
+  "t": "Cả đăng ký và tán thành đều dùng subscribe to, to là giới từ."
+ },
+ "beak": {
+  "s": [
+   "mỏ chim"
+  ],
+  "c": [
+   "chiếc mỏ nhọn",
+   "chiếc mỏ cong",
+   "trong mỏ của nó"
+  ],
+  "t": "Mỏ chim có thể là beak hoặc bill; miệng người thường dùng mouth."
+ },
+ "chorus": {
+  "s": [
+   "điệp khúc",
+   "dàn hợp xướng; đồng thanh",
+   "đồng thanh nói; đồng thanh hát"
+  ],
+  "c": [
+   "hát điệp khúc",
+   "hát hòa vào điệp khúc",
+   "một loạt tiếng tán thành"
+  ],
+  "t": "chorus của bài hát là điệp khúc lặp lại, đối lập với verse (đoạn đầu)."
+ },
+ "supportive": {
+  "s": [
+   "biết hỗ trợ; ủng hộ"
+  ],
+  "c": [
+   "một gia đình biết hỗ trợ",
+   "một môi trường hỗ trợ",
+   "ủng hộ"
+  ],
+  "t": "Hay dùng be supportive of để diễn tả ủng hộ ai hoặc điều gì."
+ },
+ "utterly": {
+  "s": [
+   "hoàn toàn; tuyệt đối"
+  ],
+  "c": [
+   "kiệt sức hoàn toàn",
+   "hoàn toàn không thể",
+   "vô lý hết sức"
+  ],
+  "t": "Thường bổ nghĩa cho tính từ mạnh hoặc tiêu cực, như impossible, ridiculous."
+ },
+ "democratic": {
+  "s": [
+   "dân chủ; thuộc chế độ dân chủ",
+   "bình đẳng tham gia quyết định"
+  ],
+  "c": [
+   "xã hội dân chủ",
+   "bầu cử dân chủ",
+   "quy trình dân chủ",
+   "nguyên tắc dân chủ"
+  ],
+  "t": "democratic viết thường là dân chủ nói chung, không chỉ riêng một đảng phái nào."
+ },
+ "peninsula": {
+  "s": [
+   "bán đảo"
+  ],
+  "c": [
+   "một bán đảo hẹp",
+   "mũi bán đảo",
+   "trên một bán đảo"
+  ],
+  "t": "Bán đảo nối liền với đất liền; island là đảo bốn bề là nước."
+ },
+ "bound": {
+  "s": [
+   "chắc chắn sẽ; nhất định",
+   "đang đi tới; hướng đến",
+   "nhảy vọt; chạy nhảy"
+  ],
+  "c": [
+   "chắc chắn sẽ làm",
+   "đang đi tới",
+   "bị ràng buộc bởi pháp luật",
+   "gắn chặt với"
+  ],
+  "t": "bound to theo sau là động từ; bound for theo sau là nơi đến."
+ },
+ "submission": {
+  "s": [
+   "sự nộp; tài liệu đã nộp",
+   "sự phục tùng; sự khuất phục"
+  ],
+  "c": [
+   "hạn chót nộp",
+   "nộp đơn",
+   "tài liệu nộp bằng văn bản",
+   "phục tùng quyền lực"
+  ],
+  "t": "Chỉ hành động nộp thì thường không đếm được; một bản tài liệu nộp thì đếm được."
+ },
+ "allowance": {
+  "s": [
+   "trợ cấp; tiền tiêu vặt",
+   "hạn mức; định mức",
+   "sự châm chước; sự cân nhắc"
+  ],
+  "c": [
+   "trợ cấp nhà ở",
+   "trợ cấp hằng ngày",
+   "hạn mức hành lý",
+   "châm chước; tính đến"
+  ],
+  "t": "Nghĩa tiền tiêu vặt phổ biến trong Anh–Mỹ; Anh–Anh thường dùng pocket money."
+ },
+ "smuggle": {
+  "s": [
+   "buôn lậu; vận chuyển lén"
+  ],
+  "c": [
+   "buôn lậu hàng hoá",
+   "buôn lậu thứ gì vào một nước",
+   "buôn lậu thứ gì qua biên giới"
+  ],
+  "t": "Hay dùng smuggle sth into/out of nơi nào, nghĩa là lén đưa vào hoặc ra."
+ },
+ "astonish": {
+  "s": [
+   "làm kinh ngạc"
+  ],
+  "c": [
+   "làm khán giả kinh ngạc",
+   "kinh ngạc về",
+   "kinh ngạc khi phát hiện"
+  ],
+  "t": "Người cảm thấy ngạc nhiên dùng astonished; điều gây ngạc nhiên dùng astonishing."
+ },
+ "realistic": {
+  "s": [
+   "thực tế; khả thi",
+   "chân thực; sống động như thật"
+  ],
+  "c": [
+   "kỳ vọng thực tế",
+   "đặt mục tiêu khả thi",
+   "bức chân dung chân thực"
+  ],
+  "t": "realistic nhấn mạnh sát thực tế hoặc chân thực; real nhấn mạnh sự tồn tại thật."
+ },
+ "pearl": {
+  "s": [
+   "ngọc trai"
+  ],
+  "c": [
+   "vòng cổ ngọc trai",
+   "ngọc trai nuôi",
+   "một chuỗi ngọc trai",
+   "lời vàng ý ngọc"
+  ],
+  "t": "a pearl là một viên ngọc trai; một chuỗi dùng a string of pearls."
+ },
+ "chill": {
+  "s": [
+   "cái lạnh; hơi lạnh",
+   "làm lạnh; ướp lạnh",
+   "thư giãn; nghỉ ngơi"
+  ],
+  "c": [
+   "hơi lạnh trong không khí",
+   "ướp lạnh bột",
+   "thư giãn"
+  ],
+  "t": "chill là làm lạnh hoặc ướp lạnh, không nhất thiết đông cứng; chill out là khẩu ngữ, nghĩa là thư giãn."
+ },
+ "rake": {
+  "s": [
+   "cái cào; cái bừa",
+   "cào; vun"
+  ],
+  "c": [
+   "cào làm vườn",
+   "cào lá rụng",
+   "cào đất"
+  ],
+  "t": "rake up có thể là cào gom lại, hoặc khơi lại chuyện cũ khó chịu."
+ },
+ "recreational": {
+  "s": [
+   "giải trí; thư giãn"
+  ],
+  "c": [
+   "hoạt động giải trí",
+   "cơ sở vật chất giải trí",
+   "mục đích giải trí"
+  ],
+  "t": "Thường bổ nghĩa cho activities hoặc facilities, nhấn mạnh giải trí chứ không phải công việc."
+ },
+ "threat": {
+  "s": [
+   "mối đe doạ; nguy cơ",
+   "lời đe doạ"
+  ],
+  "c": [
+   "đe doạ đến",
+   "đang bị đe doạ",
+   "đưa ra lời đe doạ",
+   "mối đe doạ nghiêm trọng"
+  ],
+  "t": "Danh từ là threat; động từ là threaten."
+ },
+ "resolve": {
+  "s": [
+   "giải quyết; hoá giải",
+   "quyết tâm; quyết định",
+   "sự quyết tâm; ý chí kiên định"
+  ],
+  "c": [
+   "giải quyết tranh chấp",
+   "giải quyết vấn đề",
+   "quyết tâm làm việc gì",
+   "củng cố quyết tâm của ai"
+  ],
+  "t": "resolve a problem là giải quyết vấn đề; resolve to do là quyết tâm làm gì."
+ },
+ "pursuit": {
+  "s": [
+   "sự theo đuổi; sự mưu cầu",
+   "sự truy đuổi; sự truy bắt",
+   "thú tiêu khiển; sở thích"
+  ],
+  "c": [
+   "theo đuổi; truy đuổi",
+   "việc theo đuổi tri thức",
+   "các thú vui giải trí"
+  ],
+  "t": "Nghĩa theo đuổi hay truy đuổi thường không đếm được; thú tiêu khiển thì đếm được."
+ },
+ "atomic": {
+  "s": [
+   "thuộc nguyên tử",
+   "thuộc năng lượng nguyên tử; hạt nhân"
+  ],
+  "c": [
+   "cấu trúc nguyên tử",
+   "năng lượng nguyên tử",
+   "số nguyên tử",
+   "đồng hồ nguyên tử"
+  ],
+  "t": "atomic nhấn mạnh nguyên tử; nuclear thiên về hạt nhân hoặc năng lượng hạt nhân."
+ },
+ "brainstorm": {
+  "s": [
+   "động não; hoạt động nhóm tìm ý tưởng",
+   "buổi động não; cuộc họp nghĩ ý tưởng"
+  ],
+  "c": [
+   "động não tìm ý tưởng",
+   "cùng nghĩ ra các giải pháp",
+   "buổi họp động não"
+  ],
+  "t": "Thường là động từ, đi thẳng với tân ngữ như ideas hoặc solutions."
+ },
+ "vocational": {
+  "s": [
+   "hướng nghiệp; thuộc nghề nghiệp"
+  ],
+  "c": [
+   "đào tạo nghề",
+   "giáo dục nghề nghiệp",
+   "chứng chỉ nghề",
+   "khoá học nghề"
+  ],
+  "t": "Thường bổ nghĩa cho education và training, nhấn mạnh kỹ năng nghề cụ thể."
+ },
+ "manner": {
+  "s": [
+   "cách thức; phương thức",
+   "thái độ; cử chỉ",
+   "phép lịch sự; phép tắc"
+  ],
+  "c": [
+   "theo cách chuyên nghiệp",
+   "thái độ thân thiện",
+   "lịch sự; có cư xử tốt",
+   "phép tắc ăn uống"
+  ],
+  "t": "Nghĩa “phép lịch sự” dùng số nhiều manners."
+ },
+ "disposal": {
+  "s": [
+   "sự thải bỏ; sự xử lý",
+   "sự tuỳ ý sử dụng; sự sẵn có"
+  ],
+  "c": [
+   "xử lý chất thải",
+   "xử lý an toàn",
+   "theo ý bạn sử dụng"
+  ],
+  "t": "at someone's disposal nghĩa là sẵn sàng để ai sử dụng hay sắp đặt."
+ },
+ "isolation": {
+  "s": [
+   "sự cô lập; sự tách biệt",
+   "sự cách ly"
+  ],
+  "c": [
+   "sự cô lập xã hội",
+   "riêng lẻ; tách riêng",
+   "khu cách ly",
+   "cảm giác cô đơn"
+  ],
+  "t": "in isolation có thể là riêng lẻ, hoặc xét tách khỏi bối cảnh."
+ },
+ "cheeky": {
+  "s": [
+   "láo xược nhưng đáng yêu; trơ tráo"
+  ],
+  "c": [
+   "nụ cười tinh nghịch",
+   "lời nhận xét xấc xược",
+   "lời đề nghị trơ tráo"
+  ],
+  "t": "cheeky là tinh nghịch, hơi xấc; không phải mập mạp (mập mạp dùng chubby)."
+ },
+ "controversy": {
+  "s": [
+   "tranh cãi công khai; cuộc tranh luận"
+  ],
+  "c": [
+   "gây ra tranh cãi",
+   "tranh cãi về",
+   "một chủ đề gây tranh cãi",
+   "giữa những tranh cãi"
+  ],
+  "t": "Thường chỉ tranh cãi công khai về một vấn đề, không phải cãi vã thông thường."
+ },
+ "master": {
+  "s": [
+   "nắm vững; thành thạo",
+   "bậc thầy; người tài giỏi",
+   "chính; tổng"
+  ],
+  "c": [
+   "nắm vững một kỹ năng",
+   "bậc thầy về",
+   "kế hoạch tổng thể",
+   "bằng thạc sĩ"
+  ],
+  "t": "Động từ đi thẳng với tân ngữ; bằng thạc sĩ viết master's degree."
+ },
+ "obesity": {
+  "s": [
+   "chứng béo phì"
+  ],
+  "c": [
+   "béo phì ở trẻ em",
+   "phòng ngừa béo phì",
+   "tỷ lệ béo phì"
+  ],
+  "t": "Danh từ không đếm được; có thể dùng people with obesity để chỉ người mắc bệnh."
+ },
+ "fleece": {
+  "s": [
+   "lông cừu; bộ lông cừu",
+   "vải lông cừu; áo lông cừu",
+   "lừa đảo; chặt chém"
+  ],
+  "c": [
+   "lông của con cừu",
+   "áo khoác lông cừu",
+   "vải lông cừu tổng hợp"
+  ],
+  "t": "Nghĩa vải thường không đếm được; a fleece có thể là một chiếc áo lông cừu."
+ },
+ "numb": {
+  "s": [
+   "tê; mất cảm giác",
+   "tê dại; chai lì cảm xúc",
+   "làm tê liệt; làm mất cảm giác"
+  ],
+  "c": [
+   "bị tê",
+   "cảm thấy tê",
+   "đờ ra vì sốc",
+   "làm giảm đau"
+  ],
+  "t": "Chữ b cuối không đọc; vừa chỉ tê cơ thể, vừa chỉ tê liệt cảm xúc."
+ },
+ "observe": {
+  "s": [
+   "quan sát; nhận thấy",
+   "tuân thủ; giữ (phong tục)",
+   "nhận xét; nói"
+  ],
+  "c": [
+   "quan sát kỹ",
+   "tuân thủ các quy tắc",
+   "giữ gìn truyền thống"
+  ],
+  "t": "observe sb doing sth nghĩa là thấy ai đang làm gì."
+ },
+ "outlet": {
+  "s": [
+   "điểm bán hàng; cửa hàng",
+   "lối thoát; cách giải toả",
+   "cửa ra; miệng xả"
+  ],
+  "c": [
+   "cửa hàng bán lẻ",
+   "lối thoát cho sự sáng tạo",
+   "cách giải toả sự bực bội",
+   "cửa thoát nước"
+  ],
+  "t": "outlet for thường chỉ nơi để bộc lộ; trong Anh–Mỹ cũng là ổ cắm điện."
+ },
+ "accessory": {
+  "s": [
+   "phụ kiện; đồ đi kèm",
+   "phụ kiện thời trang",
+   "kẻ tòng phạm; đồng phạm"
+  ],
+  "c": [
+   "phụ kiện máy ảnh",
+   "phụ kiện thời trang",
+   "tòng phạm trong một vụ phạm tội"
+  ],
+  "t": "Phụ kiện thường dùng số nhiều accessories; sau nghĩa tòng phạm hay có to."
+ },
+ "publicity": {
+  "s": [
+   "sự chú ý của công chúng; sự đưa tin",
+   "quảng bá; tuyên truyền"
+  ],
+  "c": [
+   "được báo chí đưa tin tích cực",
+   "đưa tin tiêu cực",
+   "thu hút sự chú ý của truyền thông",
+   "chiến dịch quảng bá"
+  ],
+  "t": "Không đếm được; khác advertising, không nhất thiết là quảng cáo trả tiền."
+ },
+ "suck": {
+  "s": [
+   "hút; mút",
+   "hút vào; hút đi",
+   "tệ; dở (khẩu ngữ)"
+  ],
+  "c": [
+   "mút ngón tay cái",
+   "hút bằng ống hút",
+   "hít không khí vào",
+   "hút nước đi"
+  ],
+  "t": "Nghĩa “rất tệ” là khẩu ngữ, không nên dùng trong bài viết học thuật."
+ },
+ "treaty": {
+  "s": [
+   "hiệp ước; điều ước"
+  ],
+  "c": [
+   "ký hiệp ước",
+   "hiệp ước hoà bình",
+   "phê chuẩn hiệp ước",
+   "nghĩa vụ theo hiệp ước"
+  ],
+  "t": "Thường chỉ thoả thuận chính thức giữa các quốc gia, không chỉ quá trình đàm phán."
+ },
+ "stable": {
+  "s": [
+   "ổn định; vững chắc",
+   "chuồng ngựa"
+  ],
+  "c": [
+   "thu nhập ổn định",
+   "giữ ổn định",
+   "môi trường ổn định",
+   "tình trạng ổn định"
+  ],
+  "t": "Là tính từ thì nghĩa là ổn định; là danh từ đếm được thì nghĩa là chuồng ngựa."
+ },
+ "division": {
+  "s": [
+   "sự chia; sự phân chia",
+   "bộ phận; phòng ban",
+   "sự chia rẽ; bất đồng"
+  ],
+  "c": [
+   "phân công lao động",
+   "phân chia trách nhiệm",
+   "bộ phận nghiên cứu",
+   "chia rẽ xã hội"
+  ],
+  "t": "Còn là phép chia trong toán học; divide là động từ tương ứng."
+ },
+ "rooster": {
+  "s": [
+   "gà trống"
+  ],
+  "c": [
+   "gà trống gáy",
+   "tiếng gáy của gà trống"
+  ],
+  "t": "rooster thường dùng trong Anh–Mỹ; cockerel đặc biệt chỉ gà trống còn non."
+ },
+ "competent": {
+  "s": [
+   "có năng lực; đủ khả năng"
+  ],
+  "c": [
+   "giáo viên đủ năng lực",
+   "đủ năng lực về",
+   "vững vàng về kỹ thuật"
+  ],
+  "t": "Hay dùng be competent at doing để chỉ đủ khả năng làm việc gì."
+ },
+ "margin": {
+  "s": [
+   "lề trang; mép",
+   "chênh lệch; khoảng cách; biên độ",
+   "biên lợi nhuận"
+  ],
+  "c": [
+   "lề rộng; chênh lệch lớn",
+   "biên lợi nhuận",
+   "biên độ sai số",
+   "biên độ an toàn"
+  ],
+  "t": "by a narrow margin nghĩa là với cách biệt rất nhỏ."
+ },
+ "virtually": {
+  "s": [
+   "gần như; hầu như",
+   "theo cách ảo; trực tuyến"
+  ],
+  "c": [
+   "gần như không thể",
+   "gần như giống hệt",
+   "gần như tất cả"
+  ],
+  "t": "Thường nghĩa là “gần như”, không giống actually (thực sự)."
+ },
+ "coldness": {
+  "s": [
+   "sự lạnh; cái lạnh",
+   "sự lạnh nhạt; sự lãnh đạm"
+  ],
+  "c": [
+   "độ lạnh của nước",
+   "sự lạnh nhạt về tình cảm",
+   "đáp lại một cách lạnh nhạt"
+  ],
+  "t": "Có thể chỉ nhiệt độ thấp hoặc thái độ không thân thiện; thường không đếm được."
+ },
+ "conventional": {
+  "s": [
+   "thông thường; quy ước; truyền thống"
+  ],
+  "c": [
+   "phương pháp thông thường",
+   "quan niệm phổ biến",
+   "y học thông thường",
+   "nông nghiệp thông thường"
+  ],
+  "t": "conventional nhấn mạnh việc theo lề thói, không nhất thiết lâu đời."
+ },
+ "fortress": {
+  "s": [
+   "pháo đài; thành luỹ"
+  ],
+  "c": [
+   "một pháo đài thời Trung cổ",
+   "pháo đài được phòng thủ kiên cố",
+   "pháo đài trên đảo"
+  ],
+  "t": "Chỉ nơi phòng thủ kiên cố; castle nhấn mạnh toà lâu đài."
+ },
+ "inadequate": {
+  "s": [
+   "không đủ; không đạt",
+   "cảm thấy bất lực; thiếu tự tin"
+  ],
+  "c": [
+   "thiếu kinh phí",
+   "cơ sở vật chất không đủ",
+   "không đủ để đảm đương nhiệm vụ",
+   "cảm thấy bất lực"
+  ],
+  "t": "Hay dùng inadequate for; chỉ thiếu về số lượng hoặc chưa đạt về chất lượng."
+ },
+ "effectiveness": {
+  "s": [
+   "tính hiệu quả; hiệu lực"
+  ],
+  "c": [
+   "đánh giá hiệu quả",
+   "nâng cao hiệu quả",
+   "chứng minh hiệu quả",
+   "hiệu quả chi phí"
+  ],
+  "t": "effectiveness nhấn mạnh kết quả; efficiency nhấn mạnh hiệu suất về thời gian và nguồn lực."
+ },
+ "pollutant": {
+  "s": [
+   "chất gây ô nhiễm"
+  ],
+  "c": [
+   "chất gây ô nhiễm không khí",
+   "chất ô nhiễm có hại",
+   "chất ô nhiễm công nghiệp"
+  ],
+  "t": "pollutant là chất ô nhiễm cụ thể, đếm được; pollution là sự ô nhiễm."
+ },
+ "reflection": {
+  "s": [
+   "hình phản chiếu; bóng",
+   "sự suy ngẫm; sự ngẫm nghĩ",
+   "sự phản ánh; biểu hiện"
+  ],
+  "c": [
+   "hình phản chiếu trong gương",
+   "sau khi suy nghĩ kỹ",
+   "sự phản ánh của xã hội"
+  ],
+  "t": "on reflection nghĩa là sau khi suy xét kỹ; a reflection of nghĩa là biểu hiện của."
+ },
+ "actual": {
+  "s": [
+   "thực tế; có thật"
+  ],
+  "c": [
+   "chi phí thực tế",
+   "kết quả thực tế",
+   "kích thước thực tế"
+  ],
+  "t": "actual là thực tế, không có nghĩa “hiện tại” (đó là current)."
+ },
+ "occasional": {
+  "s": [
+   "thỉnh thoảng; không thường xuyên"
+  ],
+  "c": [
+   "những lần ghé thăm thỉnh thoảng",
+   "những vấn đề thỉnh thoảng xảy ra",
+   "người thỉnh thoảng dùng"
+  ],
+  "t": "occasional bổ nghĩa cho danh từ; occasionally bổ nghĩa cho động từ."
+ },
+ "bitterly": {
+  "s": [
+   "cay đắng; uất ức",
+   "vô cùng; hết sức"
+  ],
+  "c": [
+   "vô cùng thất vọng",
+   "rét buốt",
+   "than phiền cay đắng",
+   "khóc nức nở"
+  ],
+  "t": "Thường bổ nghĩa cho cảm xúc tiêu cực hoặc cold, không nên dùng bừa với tính từ tích cực."
+ }
+}

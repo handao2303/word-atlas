@@ -1,0 +1,1223 @@
+{
+ "considerably": {
+  "s": [
+   "đáng kể; rất nhiều"
+  ],
+  "c": [
+   "cao hơn nhiều",
+   "khác biệt rất lớn",
+   "giảm mạnh"
+  ],
+  "t": "Thường bổ nghĩa cho so sánh hơn hoặc động từ chỉ thay đổi, diễn tả sự khác biệt hoặc thay đổi lớn."
+ },
+ "note-taking": {
+  "s": [
+   "việc ghi chép"
+  ],
+  "c": [
+   "kỹ thuật ghi chép",
+   "ghi chép hiệu quả",
+   "chiến lược ghi chép"
+  ],
+  "t": "Thường không đếm được; cụm động từ là take notes."
+ },
+ "democracy": {
+  "s": [
+   "dân chủ; chế độ dân chủ",
+   "quốc gia dân chủ"
+  ],
+  "c": [
+   "dân chủ đại nghị",
+   "dân chủ đại diện",
+   "củng cố thể chế dân chủ"
+  ],
+  "t": "Khi chỉ chế độ thì thường không đếm được; khi chỉ một quốc gia dân chủ thì đếm được."
+ },
+ "chaos": {
+  "s": [
+   "sự hỗn loạn; tình trạng vô trật tự"
+  ],
+  "c": [
+   "trong hỗn loạn",
+   "gây hỗn loạn",
+   "hoàn toàn hỗn loạn",
+   "giao thông hỗn loạn"
+  ],
+  "t": "Danh từ không đếm được; ch phát âm /k/, không phải /tʃ/."
+ },
+ "magnet": {
+  "s": [
+   "nam châm",
+   "người hoặc vật có sức hút"
+  ],
+  "c": [
+   "nam châm dán tủ lạnh",
+   "nam châm mạnh",
+   "nơi thu hút du khách"
+  ],
+  "t": "Nghĩa bóng chỉ sức hút với một nhóm người thường dùng a magnet for."
+ },
+ "stack": {
+  "s": [
+   "chồng; đống ngay ngắn",
+   "chất thành đống; xếp chồng",
+   "rất nhiều"
+  ],
+  "c": [
+   "một chồng sách",
+   "chất thành đống",
+   "rất nhiều việc"
+  ],
+  "t": "stacks of nghĩa là “rất nhiều”, dùng không trang trọng."
+ },
+ "sophisticated": {
+  "s": [
+   "phức tạp tinh vi; tiên tiến",
+   "từng trải; có gu tinh tế"
+  ],
+  "c": [
+   "công nghệ tiên tiến",
+   "thiết bị tinh vi",
+   "phân tích tinh tế và sâu sắc"
+  ],
+  "t": "Tả thiết bị thì là tinh vi, tiên tiến; tả người có thể là từng trải."
+ },
+ "herbal": {
+  "s": [
+   "thuộc thảo mộc; làm từ thảo mộc"
+  ],
+  "c": [
+   "trà thảo mộc",
+   "thuốc thảo dược",
+   "liệu pháp thảo dược"
+  ],
+  "t": "Anh-Anh đọc âm h, Anh-Mỹ thường không đọc h."
+ },
+ "tenant": {
+  "s": [
+   "người thuê nhà; người thuê đất"
+  ],
+  "c": [
+   "người thuê mới",
+   "người có ý định thuê",
+   "quyền của người thuê nhà"
+  ],
+  "t": "tenant là người thuê, landlord là chủ nhà; hai vai trò tương ứng nhau."
+ },
+ "manual": {
+  "s": [
+   "thủ công; bằng tay",
+   "lao động chân tay",
+   "sách hướng dẫn"
+  ],
+  "c": [
+   "lao động chân tay",
+   "điều khiển bằng tay",
+   "hướng dẫn sử dụng",
+   "sách hướng dẫn người dùng"
+  ],
+  "t": "Làm tính từ chỉ thủ công hoặc chân tay; làm danh từ chỉ sách hướng dẫn."
+ },
+ "expertise": {
+  "s": [
+   "kiến thức chuyên môn; kỹ năng chuyên sâu"
+  ],
+  "c": [
+   "chuyên môn kỹ thuật",
+   "chuyên môn trong lĩnh vực nào đó",
+   "phát triển chuyên môn",
+   "tận dụng chuyên môn"
+  ],
+  "t": "Không đếm được; chuyên môn trong lĩnh vực nào dùng expertise in."
+ },
+ "competitive": {
+  "s": [
+   "cạnh tranh gay gắt; mang tính cạnh tranh",
+   "hiếu thắng",
+   "có sức cạnh tranh"
+  ],
+  "c": [
+   "thị trường cạnh tranh gay gắt",
+   "giá cạnh tranh",
+   "lợi thế cạnh tranh",
+   "cạnh tranh rất khốc liệt"
+  ],
+  "t": "Tả người thường là hiếu thắng; tả giá cả là có tính cạnh tranh."
+ },
+ "summit": {
+  "s": [
+   "đỉnh núi; đỉnh cao",
+   "hội nghị thượng đỉnh"
+  ],
+  "c": [
+   "lên đến đỉnh núi",
+   "hội nghị thượng đỉnh về khí hậu",
+   "tổ chức hội nghị thượng đỉnh",
+   "cuộc họp thượng đỉnh"
+  ],
+  "t": "Đỉnh núi thường dùng the summit of; hội nghị thượng đỉnh dùng a summit."
+ },
+ "spirit": {
+  "s": [
+   "tinh thần; ý chí; khí phách",
+   "linh hồn; hồn ma",
+   "rượu mạnh"
+  ],
+  "c": [
+   "tinh thần đồng đội",
+   "tinh thần chiến đấu",
+   "tâm trạng phấn chấn",
+   "tinh thần hợp tác"
+  ],
+  "t": "Khi nghĩa là “tâm trạng” hoặc chỉ rượu mạnh nói chung, thường dùng số nhiều spirits."
+ },
+ "wealth": {
+  "s": [
+   "của cải; sự giàu có",
+   "số lượng lớn; sự phong phú"
+  ],
+  "c": [
+   "tích lũy của cải",
+   "phân phối của cải",
+   "kinh nghiệm phong phú"
+  ],
+  "t": "wealth thường không đếm được; a wealth of nghĩa là rất nhiều thứ có giá trị."
+ },
+ "reduction": {
+  "s": [
+   "sự giảm; sự hạ thấp; sự thu nhỏ"
+  ],
+  "c": [
+   "giảm chi phí",
+   "giảm đáng kể",
+   "giảm lượng khí thải",
+   "giảm giá"
+  ],
+  "t": "reduction in đi với đối tượng bị giảm, of có thể đi với mức giảm."
+ },
+ "vary": {
+  "s": [
+   "khác nhau; thay đổi",
+   "thay đổi; làm đa dạng"
+  ],
+  "c": [
+   "rất khác nhau",
+   "khác nhau tùy nơi",
+   "thay đổi theo",
+   "làm đa dạng chế độ ăn"
+  ],
+  "t": "vary from A to B chỉ phạm vi; vary in chỉ khác nhau ở một mặt nào đó."
+ },
+ "mid-term": {
+  "s": [
+   "giữa kỳ; giữa nhiệm kỳ",
+   "kỳ thi giữa kỳ"
+  ],
+  "c": [
+   "thi giữa kỳ",
+   "đánh giá giữa kỳ",
+   "bầu cử giữa kỳ"
+  ],
+  "t": "Cũng thường viết midterm; làm danh từ chỉ kỳ thi giữa kỳ, phổ biến trong Anh-Mỹ."
+ },
+ "obligation": {
+  "s": [
+   "nghĩa vụ; trách nhiệm"
+  ],
+  "c": [
+   "nghĩa vụ pháp lý",
+   "nghĩa vụ đạo đức",
+   "thực hiện nghĩa vụ",
+   "không có nghĩa vụ"
+  ],
+  "t": "Thường dùng have an obligation to do, nghĩa là có nghĩa vụ làm gì."
+ },
+ "regard": {
+  "s": [
+   "coi là; xem như",
+   "sự tôn trọng; sự quan tâm",
+   "lời chào hỏi"
+  ],
+  "c": [
+   "coi ... như",
+   "rất tôn trọng ...",
+   "liên quan đến",
+   "gửi lời hỏi thăm của tôi"
+  ],
+  "t": "“Coi A là B” dùng regard A as B, không dùng to be."
+ },
+ "moisture": {
+  "s": [
+   "hơi ẩm; độ ẩm"
+  ],
+  "c": [
+   "giữ ẩm",
+   "hút ẩm",
+   "độ ẩm của đất",
+   "hàm lượng nước"
+  ],
+  "t": "Không đếm được; moisture là độ ẩm, không phải lượng mưa."
+ },
+ "variable": {
+  "s": [
+   "hay thay đổi; có thể thay đổi",
+   "biến số; yếu tố thay đổi"
+  ],
+  "c": [
+   "chi phí biến đổi",
+   "thời tiết thất thường",
+   "biến độc lập",
+   "biến phụ thuộc"
+  ],
+  "t": "Làm tính từ chỉ có thể thay đổi; làm danh từ đếm được chỉ biến số."
+ },
+ "statistic": {
+  "s": [
+   "một số liệu thống kê"
+  ],
+  "c": [
+   "số liệu thống kê nói lên vấn đề",
+   "số liệu thống kê đáng lo ngại",
+   "số liệu thống kê chính thức",
+   "thống kê thất nghiệp"
+  ],
+  "t": "Statistics chỉ số liệu thì động từ chia số nhiều; chỉ ngành thống kê thì chia số ít."
+ },
+ "thoughtful": {
+  "s": [
+   "chu đáo; ân cần",
+   "trầm tư; suy nghĩ sâu"
+  ],
+  "c": [
+   "cử chỉ chu đáo",
+   "ai đó rất chu đáo",
+   "suy nghĩ thấu đáo",
+   "vẻ trầm tư"
+  ],
+  "t": "Chu đáo dùng thoughtful of someone; thoughtful không nhất thiết có nghĩa lo lắng."
+ },
+ "terrify": {
+  "s": [
+   "làm khiếp sợ"
+  ],
+  "c": [
+   "làm ai đó vô cùng sợ hãi",
+   "rất sợ hãi",
+   "bị ... dọa cho khiếp vía"
+  ],
+  "t": "Ngoại động từ; terrified tả người, terrifying tả điều đáng sợ."
+ },
+ "mediterranean": {
+  "s": [
+   "Địa Trung Hải",
+   "thuộc Địa Trung Hải"
+  ],
+  "c": [
+   "Địa Trung Hải",
+   "khí hậu Địa Trung Hải",
+   "chế độ ăn Địa Trung Hải"
+  ],
+  "t": "Khi chỉ vùng biển thường dùng the Mediterranean, viết hoa chữ cái đầu."
+ },
+ "prefix": {
+  "s": [
+   "tiền tố"
+  ],
+  "c": [
+   "tiền tố phủ định",
+   "thêm tiền tố",
+   "tiền tố phổ biến"
+  ],
+  "t": "prefix đứng đầu từ, suffix đứng cuối từ; cả hai gọi chung là affix."
+ },
+ "likelihood": {
+  "s": [
+   "khả năng; xác suất"
+  ],
+  "c": [
+   "khả năng của ...",
+   "tăng khả năng",
+   "giảm khả năng",
+   "rất có khả năng"
+  ],
+  "t": "Thường dùng likelihood of doing hoặc likelihood that + mệnh đề."
+ },
+ "broadcast": {
+  "s": [
+   "phát sóng; truyền thanh",
+   "chương trình phát sóng; buổi phát sóng"
+  ],
+  "c": [
+   "phát sóng trực tiếp",
+   "bản tin thời sự",
+   "phát một chương trình"
+  ],
+  "t": "Quá khứ và quá khứ phân từ thường đều là broadcast."
+ },
+ "slang": {
+  "s": [
+   "tiếng lóng"
+  ],
+  "c": [
+   "dùng tiếng lóng",
+   "một từ lóng",
+   "tiếng lóng trên mạng"
+  ],
+  "t": "Thường không đếm được; một cách nói lóng là a slang term."
+ },
+ "obtain": {
+  "s": [
+   "đạt được; có được"
+  ],
+  "c": [
+   "xin được giấy phép",
+   "thu thập thông tin",
+   "đạt được trình độ",
+   "có được sự đồng ý"
+  ],
+  "t": "Trang trọng hơn get; thường dùng obtain sth from sb hoặc từ một cơ quan."
+ },
+ "emission": {
+  "s": [
+   "khí thải; lượng phát thải",
+   "sự phát ra; sự thải ra"
+  ],
+  "c": [
+   "khí thải carbon",
+   "khí thải xe cộ",
+   "giảm phát thải",
+   "tiêu chuẩn khí thải"
+  ],
+  "t": "Khi chỉ khí thải hoặc lượng phát thải thường dùng số nhiều emissions; động từ là emit."
+ },
+ "outstanding": {
+  "s": [
+   "xuất sắc; nổi bật",
+   "chưa xử lý; chưa thanh toán"
+  ],
+  "c": [
+   "thành tựu xuất sắc",
+   "màn trình diễn xuất sắc",
+   "khoản nợ chưa trả",
+   "vấn đề chưa giải quyết"
+  ],
+  "t": "outstanding debt là khoản nợ chưa trả, không phải “khoản nợ xuất sắc”."
+ },
+ "evil": {
+  "s": [
+   "độc ác; hiểm độc",
+   "điều ác; tội ác; tai họa"
+  ],
+  "c": [
+   "thiện và ác",
+   "ý đồ xấu xa",
+   "điều xấu bất đắc dĩ phải chấp nhận"
+  ],
+  "t": "Mạnh hơn bad nhiều, thường liên quan đến điều sai trái nghiêm trọng về đạo đức."
+ },
+ "poker": {
+  "s": [
+   "bài xì phé (poker)",
+   "que cời lửa"
+  ],
+  "c": [
+   "chơi poker",
+   "mặt lạnh như tiền",
+   "que cời lửa lò sưởi"
+  ],
+  "t": "poker là một trò chơi bài cụ thể, không chỉ mọi trò bài."
+ },
+ "suicide": {
+  "s": [
+   "tự tử; hành vi tự sát"
+  ],
+  "c": [
+   "phòng ngừa tự tử",
+   "nguy cơ tự tử",
+   "chết do tự tử"
+  ],
+  "t": "Cách nói trung tính thường dùng die by suicide để tránh kỳ thị."
+ },
+ "investigation": {
+  "s": [
+   "cuộc điều tra; sự tìm hiểu",
+   "sự nghiên cứu; sự khảo sát"
+  ],
+  "c": [
+   "tiến hành điều tra",
+   "mở cuộc điều tra",
+   "cuộc điều tra về",
+   "đang bị điều tra"
+  ],
+  "t": "Điều tra về việc gì dùng investigation into; under investigation nghĩa là đang bị điều tra."
+ },
+ "agreeable": {
+  "s": [
+   "dễ chịu; dễ thương",
+   "sẵn lòng đồng ý"
+  ],
+  "c": [
+   "thời tiết dễ chịu",
+   "người bầu bạn dễ chịu",
+   "tán thành một đề xuất"
+  ],
+  "t": "be agreeable to sth nghĩa là sẵn lòng chấp nhận điều gì, khá trang trọng."
+ },
+ "encyclopaedia": {
+  "s": [
+   "bách khoa toàn thư"
+  ],
+  "c": [
+   "bách khoa toàn thư trực tuyến",
+   "một mục từ bách khoa",
+   "tra cứu bách khoa toàn thư"
+  ],
+  "t": "Cách viết Anh-Anh; Anh-Mỹ thường viết encyclopedia."
+ },
+ "paraphrase": {
+  "s": [
+   "diễn đạt lại bằng lời của mình",
+   "bản diễn đạt lại; diễn giải"
+  ],
+  "c": [
+   "diễn đạt lại một đoạn văn",
+   "diễn đạt lại chính xác",
+   "diễn đạt lại bằng lời của mình"
+  ],
+  "t": "Diễn đạt lại phải giữ nguyên nghĩa; summarize thiên về tóm tắt ý chính."
+ },
+ "alliance": {
+  "s": [
+   "liên minh; đồng minh"
+  ],
+  "c": [
+   "lập liên minh",
+   "liên minh chiến lược",
+   "liên minh quân sự"
+  ],
+  "t": "Thường dùng form an alliance with, nghĩa là liên minh với ai."
+ },
+ "ecology": {
+  "s": [
+   "sinh thái học",
+   "hệ sinh thái; mối quan hệ sinh thái"
+  ],
+  "c": [
+   "sinh thái học biển",
+   "sinh thái học rừng",
+   "nghiên cứu sinh thái học"
+  ],
+  "t": "ecology chỉ sinh thái học hoặc mối quan hệ sinh thái, không đồng nghĩa với environment."
+ },
+ "fin": {
+  "s": [
+   "vây cá; bộ phận hình vây",
+   "chân vịt lặn"
+  ],
+  "c": [
+   "vây lưng",
+   "vây đuôi; đuôi máy bay",
+   "vây cá mập",
+   "chân vịt lặn"
+  ],
+  "t": "Khi chỉ chân vịt lặn thường dùng số nhiều fins."
+ },
+ "postal": {
+  "s": [
+   "thuộc bưu chính; qua đường bưu điện"
+  ],
+  "c": [
+   "dịch vụ bưu chính",
+   "nhân viên bưu điện",
+   "địa chỉ gửi thư",
+   "mã bưu chính"
+  ],
+  "t": "postal là tính từ; cước phí gửi thư dùng danh từ postage."
+ },
+ "aside": {
+  "s": [
+   "sang một bên; ở bên cạnh",
+   "tạm gác lại; để dành",
+   "lời nói bên lề; lời thì thầm; chuyện ngoài lề"
+  ],
+  "c": [
+   "tránh sang một bên",
+   "để dành tiền",
+   "tạm gác bất đồng",
+   "ngoại trừ"
+  ],
+  "t": "aside thường là trạng từ; “ngoài ... ra” dùng aside from."
+ },
+ "unsatisfactory": {
+  "s": [
+   "không thỏa đáng; không đạt yêu cầu"
+  ],
+  "c": [
+   "kết quả không như mong muốn",
+   "màn thể hiện không đạt",
+   "điều kiện kém"
+  ],
+  "t": "Tả sự việc chưa đủ tốt; sự không hài lòng của người dùng dissatisfied."
+ },
+ "equip": {
+  "s": [
+   "trang bị; cung cấp thiết bị",
+   "trang bị kiến thức hoặc năng lực"
+  ],
+  "c": [
+   "trang bị cho vật gì",
+   "trang bị kỹ năng cho học sinh",
+   "căn bếp đầy đủ thiết bị"
+  ],
+  "t": "Thường dùng equip A with B; quá khứ equipped gấp đôi chữ p."
+ },
+ "slum": {
+  "s": [
+   "khu ổ chuột"
+  ],
+  "c": [
+   "nhà ở khu ổ chuột",
+   "cư dân khu ổ chuột",
+   "giải tỏa khu ổ chuột"
+  ],
+  "t": "Chỉ khu đô thị có điều kiện sống tồi tàn, không đồng nghĩa với mọi khu thu nhập thấp."
+ },
+ "outdated": {
+  "s": [
+   "lỗi thời; cũ kỹ"
+  ],
+  "c": [
+   "thiết bị cũ kỹ",
+   "thông tin lỗi thời",
+   "quan niệm cổ hủ"
+  ],
+  "t": "Nhấn mạnh không còn phù hợp do thời đại thay đổi, không chỉ là đã lâu đời."
+ },
+ "blossom": {
+  "s": [
+   "hoa (trên cây); chùm hoa",
+   "nở hoa",
+   "phát triển; thịnh vượng"
+  ],
+  "c": [
+   "hoa anh đào",
+   "đang nở hoa",
+   "phát triển thành"
+  ],
+  "t": "Thường chỉ hoa của cây; blossom into có thể dùng nghĩa bóng là trưởng thành thành."
+ },
+ "ambitious": {
+  "s": [
+   "đầy tham vọng; có hoài bão",
+   "hoành tráng; đầy thách thức"
+  ],
+  "c": [
+   "mục tiêu đầy tham vọng",
+   "kế hoạch đầy tham vọng",
+   "rất có hoài bão",
+   "thanh niên có hoài bão"
+  ],
+  "t": "Tả người là có hoài bão; tả kế hoạch nhấn mạnh mục tiêu lớn, độ khó cao."
+ },
+ "fulfil": {
+  "s": [
+   "thực hiện; hoàn thành",
+   "đáp ứng; thỏa mãn",
+   "hiện thực hóa"
+  ],
+  "c": [
+   "thực hiện lời hứa",
+   "đáp ứng yêu cầu",
+   "phát huy hết tiềm năng",
+   "thực hiện ước mơ"
+  ],
+  "t": "Anh-Anh viết fulfil, Anh-Mỹ viết fulfill; quá khứ đều là fulfilled."
+ },
+ "specialist": {
+  "s": [
+   "chuyên gia; bác sĩ chuyên khoa",
+   "chuyên môn; chuyên biệt"
+  ],
+  "c": [
+   "chuyên gia trong lĩnh vực",
+   "đi khám bác sĩ chuyên khoa",
+   "kiến thức chuyên môn",
+   "đào tạo chuyên môn"
+  ],
+  "t": "Danh từ đi với in để chỉ lĩnh vực chuyên môn; tính từ thường bổ nghĩa cho knowledge."
+ },
+ "fatal": {
+  "s": [
+   "gây tử vong",
+   "có tính hủy diệt; dẫn đến thất bại"
+  ],
+  "c": [
+   "tai nạn chết người",
+   "vết thương chí mạng",
+   "khuyết điểm chí mạng",
+   "cuối cùng gây tử vong"
+  ],
+  "t": "fatal nhấn mạnh gây chết người hoặc dẫn đến thất bại; fateful chỉ điều có ảnh hưởng quyết định."
+ },
+ "novelist": {
+  "s": [
+   "tiểu thuyết gia"
+  ],
+  "c": [
+   "tiểu thuyết gia lịch sử",
+   "tiểu thuyết gia ăn khách",
+   "người muốn trở thành tiểu thuyết gia"
+  ],
+  "t": "novelist thường chỉ người viết tiểu thuyết dài; novel là tiểu thuyết."
+ },
+ "fossil": {
+  "s": [
+   "hóa thạch"
+  ],
+  "c": [
+   "nhiên liệu hóa thạch",
+   "hồ sơ hóa thạch",
+   "bằng chứng hóa thạch"
+  ],
+  "t": "fossil fuels là các nhiên liệu hóa thạch như than, dầu mỏ, khí đốt."
+ },
+ "eyesight": {
+  "s": [
+   "thị lực"
+  ],
+  "c": [
+   "thị lực kém",
+   "thị lực tốt",
+   "làm hại thị lực"
+  ],
+  "t": "eyesight là danh từ không đếm được, không nói an eyesight."
+ },
+ "flaw": {
+  "s": [
+   "khuyết điểm; thiếu sót",
+   "làm hỏng; gây khiếm khuyết"
+  ],
+  "c": [
+   "khuyết điểm cơ bản",
+   "lỗi thiết kế",
+   "khuyết điểm chí mạng",
+   "lỗ hổng trong lập luận"
+  ],
+  "t": "Danh từ đếm được; khuyết điểm của vật gì thường dùng a flaw in sth."
+ },
+ "overdue": {
+  "s": [
+   "quá hạn; chậm trễ",
+   "đáng lẽ phải có từ lâu"
+  ],
+  "c": [
+   "khoản tiền quá hạn",
+   "sách thư viện quá hạn chưa trả",
+   "đã quá muộn"
+  ],
+  "t": "long overdue nhấn mạnh “lẽ ra phải có từ lâu”, không chỉ là muộn."
+ },
+ "instruct": {
+  "s": [
+   "chỉ thị; ra lệnh",
+   "dạy; hướng dẫn"
+  ],
+  "c": [
+   "chỉ thị cho ai làm gì",
+   "dạy ai về",
+   "đưa ra chỉ thị cho nhân viên"
+  ],
+  "t": "instruct sb to do là chỉ thị; instruct sb in là dạy."
+ },
+ "urban": {
+  "s": [
+   "thuộc đô thị; thành thị"
+  ],
+  "c": [
+   "phát triển đô thị",
+   "khu vực đô thị",
+   "quy hoạch đô thị",
+   "dân số đô thị"
+  ],
+  "t": "urban chỉ thành thị, rural chỉ nông thôn."
+ },
+ "announcer": {
+  "s": [
+   "phát thanh viên; người dẫn chương trình trực tiếp"
+  ],
+  "c": [
+   "phát thanh viên đài",
+   "phát thanh viên truyền hình",
+   "người thông báo tại sân vận động"
+  ],
+  "t": "announcer phụ trách thông báo; journalist thiên về phỏng vấn, đưa tin."
+ },
+ "flatten": {
+  "s": [
+   "làm phẳng; trở nên phẳng",
+   "san phẳng; phá hủy"
+  ],
+  "c": [
+   "cán phẳng bột",
+   "san phẳng tòa nhà",
+   "ổn định lại"
+  ],
+  "t": "flatten out cũng có thể chỉ giá cả hoặc đường cong dần ổn định."
+ },
+ "invoice": {
+  "s": [
+   "hóa đơn; bản kê thanh toán",
+   "xuất hóa đơn cho"
+  ],
+  "c": [
+   "xuất hóa đơn",
+   "thanh toán hóa đơn",
+   "hóa đơn chưa thanh toán",
+   "xuất hóa đơn cho ai về khoản nào đó"
+  ],
+  "t": "invoice dùng để yêu cầu thanh toán; receipt là biên lai đã thanh toán."
+ },
+ "scholarship": {
+  "s": [
+   "học bổng",
+   "học thuật; học vấn"
+  ],
+  "c": [
+   "nhận học bổng",
+   "học bổng toàn phần",
+   "nghiên cứu học thuật"
+  ],
+  "t": "Khi chỉ học bổng thì đếm được; khi chỉ học thuật hoặc học vấn thì không đếm được."
+ },
+ "media": {
+  "s": [
+   "phương tiện truyền thông; truyền thông"
+  ],
+  "c": [
+   "truyền thông đại chúng",
+   "đưa tin trên truyền thông",
+   "mạng xã hội",
+   "truyền thông tin tức"
+  ],
+  "t": "Nói chung về truyền thông tin tức thường dùng the media; một phương tiện riêng lẻ là medium."
+ },
+ "commander": {
+  "s": [
+   "chỉ huy"
+  ],
+  "c": [
+   "chỉ huy quân sự",
+   "chỉ huy hải quân",
+   "tổng tư lệnh"
+  ],
+  "t": "Chỉ người chỉ huy nói chung; khi là quân hàm cụ thể thì cấp bậc khác nhau theo từng nước."
+ },
+ "fury": {
+  "s": [
+   "cơn thịnh nộ; sự giận dữ",
+   "sự dữ dội; sự hung bạo"
+  ],
+  "c": [
+   "giận đến run người",
+   "khơi dậy cơn thịnh nộ",
+   "sự dữ dội của cơn bão"
+  ],
+  "t": "Mạnh hơn anger; in a fury nghĩa là nổi cơn thịnh nộ."
+ },
+ "portable": {
+  "s": [
+   "xách tay; gọn nhẹ"
+  ],
+  "c": [
+   "thiết bị xách tay",
+   "sạc dự phòng di động",
+   "thiết bị di động"
+  ],
+  "t": "Nhấn mạnh dễ mang theo hoặc di chuyển, không nhất thiết bỏ vừa túi."
+ },
+ "reign": {
+  "s": [
+   "thời kỳ trị vì",
+   "trị vì; cai trị",
+   "ngự trị; thống trị"
+  ],
+  "c": [
+   "dưới triều đại của ...",
+   "thời kỳ trị vì lâu dài",
+   "hoàn toàn thống trị",
+   "hỗn loạn bao trùm"
+  ],
+  "t": "Đồng âm với rain; reign là sự trị vì, rein là dây cương."
+ },
+ "bruise": {
+  "s": [
+   "vết bầm; vết thâm tím",
+   "làm bầm tím; làm thâm"
+  ],
+  "c": [
+   "vết bầm nặng",
+   "dễ bị bầm tím",
+   "đầu gối bầm tím"
+  ],
+  "t": "bruise thường không rách da; cut là vết đứt rách da."
+ },
+ "complication": {
+  "s": [
+   "yếu tố làm phức tạp; rắc rối",
+   "biến chứng"
+  ],
+  "c": [
+   "rắc rối bất ngờ",
+   "biến chứng nghiêm trọng",
+   "tránh rắc rối hoặc biến chứng",
+   "biến chứng sau phẫu thuật"
+  ],
+  "t": "Có thể chỉ rắc rối bổ sung hoặc biến chứng do bệnh hay điều trị gây ra."
+ },
+ "paw": {
+  "s": [
+   "bàn chân thú; chân vuốt",
+   "cào; quờ chân"
+  ],
+  "c": [
+   "chân trước",
+   "dấu chân thú",
+   "cào cửa bằng chân"
+  ],
+  "t": "paw chỉ cả bàn chân; claw là móng vuốt nhọn."
+ },
+ "poke": {
+  "s": [
+   "chọc; thọc",
+   "thò ra; thò ra ngoài",
+   "cú chọc; cú thúc"
+  ],
+  "c": [
+   "chọc thủng",
+   "thò đầu ra",
+   "chế giễu"
+  ],
+  "t": "poke fun at nghĩa là chế giễu, không phải “chọc”."
+ },
+ "detach": {
+  "s": [
+   "tháo ra; tách rời",
+   "tách mình ra; thoát khỏi ảnh hưởng"
+  ],
+  "c": [
+   "tách khỏi",
+   "rút dây kết nối",
+   "tách mình khỏi"
+  ],
+  "t": "Thường dùng detach A from B; detachable nghĩa là có thể tháo rời."
+ },
+ "relay": {
+  "s": [
+   "cuộc chạy tiếp sức",
+   "chuyển tiếp; truyền lại",
+   "rơ-le"
+  ],
+  "c": [
+   "chạy tiếp sức",
+   "chuyển thông tin",
+   "truyền đạt thông tin",
+   "rơ-le"
+  ],
+  "t": "Động từ cũng đọc /rɪˈleɪ/; relay a message nghĩa là chuyển lời nhắn."
+ },
+ "gene": {
+  "s": [
+   "gen"
+  ],
+  "c": [
+   "biểu hiện gen",
+   "liệu pháp gen",
+   "thừa hưởng một gen"
+  ],
+  "t": "gene là danh từ đếm được; genetics là di truyền học."
+ },
+ "stare": {
+  "s": [
+   "nhìn chằm chằm; nhìn chăm chú",
+   "cái nhìn chằm chằm"
+  ],
+  "c": [
+   "nhìn chằm chằm",
+   "nhìn đăm đăm",
+   "ánh mắt thẫn thờ"
+  ],
+  "t": "stare at nhấn mạnh nhìn lâu; glance at là liếc nhìn."
+ },
+ "mankind": {
+  "s": [
+   "loài người; nhân loại"
+  ],
+  "c": [
+   "tương lai của nhân loại",
+   "lịch sử nhân loại",
+   "vì lợi ích của nhân loại"
+  ],
+  "t": "Chỉ toàn thể loài người, không chỉ nam giới; cách nói bao hàm hơn là humankind."
+ },
+ "graceful": {
+  "s": [
+   "duyên dáng; thanh nhã"
+  ],
+  "c": [
+   "động tác uyển chuyển",
+   "đường cong đẹp mắt",
+   "vũ công có dáng múa duyên dáng"
+  ],
+  "t": "graceful thường tả dáng điệu đẹp; gracious thường chỉ sự tử tế, lịch sự."
+ },
+ "closely": {
+  "s": [
+   "kỹ lưỡng; chặt chẽ",
+   "mật thiết; gần gũi",
+   "sát; gần"
+  ],
+  "c": [
+   "theo dõi chặt chẽ",
+   "liên quan mật thiết",
+   "hợp tác chặt chẽ với",
+   "nhìn kỹ"
+  ],
+  "t": "look closely là nhìn kỹ; stand close là đứng gần."
+ },
+ "formula": {
+  "s": [
+   "công thức",
+   "phương pháp; công thức pha chế",
+   "sữa công thức cho trẻ sơ sinh"
+  ],
+  "c": [
+   "công thức toán học",
+   "công thức thành công",
+   "sữa công thức cho trẻ"
+  ],
+  "t": "Số nhiều có thể là formulas hoặc formulae; “phương pháp” thường đi với for."
+ },
+ "unreasonable": {
+  "s": [
+   "vô lý; không biết điều",
+   "quá đáng; quá mức"
+  ],
+  "c": [
+   "yêu cầu quá đáng",
+   "hành vi vô lý",
+   "kỳ vọng vô lý"
+  ],
+  "t": "Có thể tả người không biết điều, cũng có thể tả yêu cầu hoặc giá cả quá mức."
+ },
+ "mill": {
+  "s": [
+   "cối xay; máy nghiền",
+   "nhà máy; xưởng chế biến",
+   "nghiền; xay"
+  ],
+  "c": [
+   "nhà máy bột; cối xay",
+   "nhà máy thép",
+   "nhà máy giấy",
+   "xay ngũ cốc"
+  ],
+  "t": "mill thường chỉ nhà máy chế biến nguyên liệu; nhà máy thông thường dùng factory."
+ },
+ "overwhelming": {
+  "s": [
+   "áp đảo; cực lớn",
+   "quá sức chịu đựng"
+  ],
+  "c": [
+   "đại đa số",
+   "bằng chứng thuyết phục",
+   "sự ủng hộ áp đảo",
+   "áp lực quá sức chịu đựng"
+  ],
+  "t": "Nhấn mạnh mức độ rất lớn; có thể tả sự ủng hộ hoặc áp lực."
+ },
+ "minister": {
+  "s": [
+   "bộ trưởng",
+   "mục sư",
+   "chăm sóc; giúp đỡ"
+  ],
+  "c": [
+   "bộ trưởng giáo dục",
+   "thủ tướng",
+   "mục sư nhà thờ",
+   "chăm lo nhu cầu của ai"
+  ],
+  "t": "Nghĩa động từ khá trang trọng, thường dùng minister to để chỉ chăm sóc."
+ },
+ "valid": {
+  "s": [
+   "có hiệu lực; được công nhận",
+   "có cơ sở; hợp lý"
+  ],
+  "c": [
+   "vé có hiệu lực",
+   "lý do chính đáng",
+   "có hiệu lực trong; áp dụng cho",
+   "mối lo ngại có cơ sở"
+  ],
+  "t": "valid for đi với khoảng thời gian có hiệu lực; valid until đi với thời điểm hết hạn."
+ },
+ "prohibit": {
+  "s": [
+   "cấm chính thức",
+   "ngăn cản; làm cho không thể"
+  ],
+  "c": [
+   "nghiêm cấm",
+   "cấm ai làm gì",
+   "cấm sử dụng"
+  ],
+  "t": "Dùng prohibit doing hoặc prohibit sb from doing."
+ },
+ "jellyfish": {
+  "s": [
+   "sứa"
+  ],
+  "c": [
+   "vết đốt của sứa",
+   "một đàn sứa lớn",
+   "quần thể sứa"
+  ],
+  "t": "Số nhiều thường vẫn là jellyfish; nó không phải loài cá."
+ },
+ "miracle": {
+  "s": [
+   "phép màu; điều kỳ diệu"
+  ],
+  "c": [
+   "tạo ra phép màu",
+   "điều kỳ diệu của y học",
+   "phương thuốc thần kỳ"
+  ],
+  "t": "work miracles nghĩa là tạo ra phép màu, cũng có thể nói phóng đại về hiệu quả kinh ngạc."
+ },
+ "establish": {
+  "s": [
+   "thành lập; sáng lập",
+   "xác lập; được công nhận",
+   "xác minh; chứng minh"
+  ],
+  "c": [
+   "thành lập doanh nghiệp",
+   "gây dựng danh tiếng",
+   "xác minh sự thật",
+   "thiết lập mối liên hệ"
+  ],
+  "t": "establish là ngoại động từ, theo sau là cơ quan, chế độ, sự thật, v.v."
+ },
+ "criteria": {
+  "s": [
+   "các tiêu chí; tiêu chuẩn (số nhiều)"
+  ],
+  "c": [
+   "đáp ứng tiêu chí",
+   "tiêu chí sàng lọc",
+   "tiêu chí đánh giá"
+  ],
+  "t": "criteria là số nhiều, số ít là criterion; dùng criteria are."
+ },
+ "interact": {
+  "s": [
+   "giao tiếp; tương tác",
+   "tác động qua lại"
+  ],
+  "c": [
+   "tương tác với",
+   "tương tác xã hội",
+   "giao tiếp lẫn nhau"
+  ],
+  "t": "Nội động từ: tương tác với ai dùng interact with someone."
+ },
+ "superstitious": {
+  "s": [
+   "mê tín"
+  ],
+  "c": [
+   "niềm tin mê tín",
+   "mê tín về",
+   "tập tục mê tín"
+  ],
+  "t": "Thường dùng be superstitious about, nghĩa là mê tín về điều gì."
+ },
+ "congress": {
+  "s": [
+   "quốc hội; nghị viện",
+   "đại hội; hội nghị chuyên đề"
+  ],
+  "c": [
+   "đại hội toàn quốc",
+   "đại hội quốc tế",
+   "nghị sĩ quốc hội"
+  ],
+  "t": "Khi chỉ Quốc hội Mỹ hoặc cơ quan tương tự thì thường viết hoa Congress."
+ },
+ "panic": {
+  "s": [
+   "sự hoảng loạn; nỗi kinh hoàng",
+   "hoảng loạn; gây hoảng loạn"
+  ],
+  "c": [
+   "hoảng hốt",
+   "cơn hoảng loạn",
+   "gây hoảng loạn",
+   "mua sắm hoảng loạn"
+  ],
+  "t": "Quá khứ panicked, hiện tại phân từ panicking đều phải thêm k sau c."
+ },
+ "cement": {
+  "s": [
+   "xi măng",
+   "củng cố; thắt chặt"
+  ],
+  "c": [
+   "một bao xi măng",
+   "trộn xi măng",
+   "củng cố mối quan hệ"
+  ],
+  "t": "cement là xi măng; concrete là bê tông gồm xi măng, cát, đá."
+ },
+ "severe": {
+  "s": [
+   "nghiêm trọng; dữ dội",
+   "nghiêm khắc; khắc nghiệt"
+  ],
+  "c": [
+   "cơn đau dữ dội",
+   "thời tiết khắc nghiệt",
+   "thiếu hụt nghiêm trọng",
+   "hình phạt nghiêm khắc"
+  ],
+  "t": "Có thể bổ nghĩa cho cơn đau, thời tiết, sự thiếu hụt hoặc hình phạt để chỉ mức độ nặng."
+ },
+ "function": {
+  "s": [
+   "chức năng; tác dụng",
+   "hoạt động; vận hành",
+   "hàm số"
+  ],
+  "c": [
+   "phát huy tác dụng",
+   "hoạt động bình thường",
+   "đóng vai trò là",
+   "chức năng cơ bản"
+  ],
+  "t": "function as theo sau là danh từ, nghĩa là đóng vai trò là."
+ },
+ "presumably": {
+  "s": [
+   "có lẽ; theo phỏng đoán"
+  ],
+  "c": [
+   "có lẽ là vì",
+   "có lẽ là để",
+   "theo phỏng đoán là đúng"
+  ],
+  "t": "Diễn tả phỏng đoán có căn cứ, không mang sắc thái chắc chắn như certainly."
+ }
+}

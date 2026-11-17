@@ -1,0 +1,1238 @@
+{
+ "predictable": {
+  "s": [
+   "có thể đoán trước; dễ đoán",
+   "sáo mòn; thiếu mới mẻ"
+  ],
+  "c": [
+   "kết quả dễ đoán",
+   "mô thức có thể dự đoán",
+   "rất dễ đoán"
+  ],
+  "t": "Có thể chỉ kết quả đoán được, cũng có thể chê cốt truyện sáo mòn."
+ },
+ "uncover": {
+  "s": [
+   "phát hiện; vạch trần",
+   "mở nắp; bỏ vật che phủ"
+  ],
+  "c": [
+   "phát hiện bằng chứng",
+   "làm sáng tỏ sự thật",
+   "phát hiện một vấn đề"
+  ],
+  "t": "Có thể chỉ việc bỏ vật che phủ ra, cũng có thể là phát hiện sự thật bị giấu kín."
+ },
+ "harsh": {
+  "s": [
+   "nghiêm khắc; khắc nghiệt",
+   "khắc nghiệt; khắc khổ (điều kiện)",
+   "chói tai; chói mắt; gắt"
+  ],
+  "c": [
+   "lời chỉ trích khắc nghiệt",
+   "điều kiện khắc nghiệt",
+   "hình phạt nghiêm khắc",
+   "ánh sáng chói mắt"
+  ],
+  "t": "Mạnh hơn strict, nhấn mạnh sự khắc nghiệt đến mức khó chịu hoặc khó chịu đựng."
+ },
+ "resemble": {
+  "s": [
+   "giống; tương tự với"
+  ],
+  "c": [
+   "rất giống",
+   "giống hệt",
+   "giống nhau"
+  ],
+  "t": "Đi thẳng với tân ngữ: resemble someone, không thêm to hay with."
+ },
+ "saddle": {
+  "s": [
+   "yên ngựa; yên xe đạp",
+   "thắng yên ngựa",
+   "đặt gánh nặng lên (ai)"
+  ],
+  "c": [
+   "chỉnh yên xe",
+   "thắng yên cho ngựa",
+   "bị đè nặng bởi nợ nần"
+  ],
+  "t": "saddle someone with nghĩa là đặt lên ai gánh nặng không mong muốn."
+ },
+ "fate": {
+  "s": [
+   "số phận; thiên mệnh",
+   "kết cục; số phận (của ai, vật gì)"
+  ],
+  "c": [
+   "phó mặc cho số phận",
+   "định đoạt số phận của ai",
+   "chịu chung số phận"
+  ],
+  "t": "Nghĩa “thiên mệnh” thường không đếm được; a terrible fate chỉ kết cục bi thảm."
+ },
+ "desperate": {
+  "s": [
+   "tuyệt vọng; liều lĩnh",
+   "khao khát cháy bỏng; rất cần",
+   "nguy cấp; nghiêm trọng"
+  ],
+  "c": [
+   "rất cần giúp đỡ",
+   "liều mạng muốn trốn thoát",
+   "một nỗ lực liều lĩnh",
+   "biện pháp cực đoan bất đắc dĩ"
+  ],
+  "t": "Khao khát điều gì dùng desperate for; khao khát làm việc gì dùng to do."
+ },
+ "skeleton": {
+  "s": [
+   "bộ xương; khung xương",
+   "khung cơ bản; dàn ý"
+  ],
+  "c": [
+   "bộ xương người",
+   "bộ xương khủng long",
+   "đội ngũ nhân viên tối thiểu"
+  ],
+  "t": "skeleton staff là số nhân viên tối thiểu cần để duy trì hoạt động."
+ },
+ "precaution": {
+  "s": [
+   "biện pháp phòng ngừa"
+  ],
+  "c": [
+   "thực hiện biện pháp phòng ngừa",
+   "như một biện pháp đề phòng",
+   "biện pháp an toàn",
+   "biện pháp phòng cháy"
+  ],
+  "t": "Hay dùng take precautions; as a precaution nghĩa là để phòng xa."
+ },
+ "candidate": {
+  "s": [
+   "ứng viên; người ứng tuyển",
+   "thí sinh"
+  ],
+  "c": [
+   "ứng viên cho một vị trí",
+   "ứng viên phù hợp",
+   "ứng cử viên",
+   "thí sinh"
+  ],
+  "t": "candidate for đi kèm vị trí ứng tuyển hoặc chức vụ tranh cử."
+ },
+ "encyclopedia": {
+  "s": [
+   "bách khoa toàn thư"
+  ],
+  "c": [
+   "bách khoa toàn thư trực tuyến",
+   "mục từ bách khoa",
+   "tra cứu bách khoa toàn thư"
+  ],
+  "t": "Anh–Anh cũng hay viết là encyclopaedia."
+ },
+ "swollen": {
+  "s": [
+   "sưng; phồng",
+   "dâng cao (nước)"
+  ],
+  "c": [
+   "mắt cá chân sưng",
+   "hạch sưng",
+   "con sông nước dâng"
+  ],
+  "t": "Cũng là quá khứ phân từ của swell; quá khứ là swelled."
+ },
+ "reputation": {
+  "s": [
+   "danh tiếng; tiếng tăm"
+  ],
+  "c": [
+   "xây dựng danh tiếng",
+   "làm tổn hại danh tiếng của ai",
+   "tiếng tốt về chất lượng"
+  ],
+  "t": "Dùng reputation for + đặc điểm; danh tiếng có thể tốt hoặc xấu."
+ },
+ "refresh": {
+  "s": [
+   "làm tỉnh táo; làm sảng khoái",
+   "làm mới; tải lại",
+   "gợi lại; ôn lại"
+  ],
+  "c": [
+   "cảm thấy sảng khoái",
+   "tải lại trang",
+   "gợi lại trí nhớ",
+   "ôn lại kỹ năng"
+  ],
+  "t": "Người thấy tỉnh táo dùng refreshed; điều làm sảng khoái dùng refreshing."
+ },
+ "silky": {
+  "s": [
+   "mượt như lụa",
+   "êm dịu; ngọt ngào (giọng)"
+  ],
+  "c": [
+   "mái tóc mượt bóng",
+   "kết cấu mượt như lụa",
+   "mượt mà như lụa",
+   "giọng nói êm ái"
+  ],
+  "t": "silky nhấn mạnh sự mượt như lụa, không nhất thiết làm bằng lụa thật."
+ },
+ "housekeeper": {
+  "s": [
+   "người giúp việc nhà; nhân viên buồng phòng"
+  ],
+  "c": [
+   "nhân viên buồng phòng khách sạn",
+   "người giúp việc ở lại nhà chủ",
+   "thuê người giúp việc"
+  ],
+  "t": "Chỉ người được thuê dọn dẹp nhà hoặc phòng, không phân biệt giới tính."
+ },
+ "strain": {
+  "s": [
+   "áp lực; gánh nặng",
+   "làm căng cơ; gắng sức quá mức",
+   "giống; chủng (vi sinh vật); biến thể"
+  ],
+  "c": [
+   "gây áp lực lên",
+   "chịu áp lực",
+   "bị căng cơ",
+   "một chủng virus"
+  ],
+  "t": "strain có thể chỉ chấn thương căng cơ; sprain chủ yếu là bong gân khớp."
+ },
+ "straighten": {
+  "s": [
+   "làm thẳng; trở nên thẳng",
+   "đứng thẳng người"
+  ],
+  "c": [
+   "thẳng lưng",
+   "đứng thẳng người; dọn dẹp gọn gàng",
+   "giải quyết vấn đề"
+  ],
+  "t": "straighten up có thể là đứng thẳng người hoặc dọn dẹp cho gọn gàng."
+ },
+ "accuracy": {
+  "s": [
+   "độ chính xác; sự đúng đắn"
+  ],
+  "c": [
+   "kiểm tra độ chính xác của",
+   "nâng cao độ chính xác",
+   "độ chính xác cao",
+   "tính chính xác về lịch sử"
+  ],
+  "t": "Thường là danh từ không đếm được; tính từ là accurate."
+ },
+ "debate": {
+  "s": [
+   "cuộc tranh luận; thảo luận",
+   "tranh luận; bàn cãi",
+   "cân nhắc kỹ"
+  ],
+  "c": [
+   "tranh luận công khai",
+   "cuộc tranh luận nảy lửa",
+   "thảo luận một vấn đề",
+   "cân nhắc xem có nên"
+  ],
+  "t": "Động từ có thể đi thẳng với vấn đề; debate whether to nghĩa là cân nhắc có nên làm gì."
+ },
+ "porch": {
+  "s": [
+   "hiên nhà; mái hiên"
+  ],
+  "c": [
+   "hiên trước nhà",
+   "hiên có mái che",
+   "ngồi ở hiên nhà"
+  ],
+  "t": "Chỉ khoảng không có mái che ngay trước cửa vào, không phải hành lang trong nhà."
+ },
+ "harvest": {
+  "s": [
+   "vụ thu hoạch; mùa gặt",
+   "gặt hái; thu hoạch"
+  ],
+  "c": [
+   "một vụ mùa bội thu",
+   "mùa thu hoạch",
+   "thu hoạch cây trồng"
+  ],
+  "t": "Là danh từ, có thể chỉ việc thu hoạch hoặc sản lượng nông sản thu được."
+ },
+ "found": {
+  "s": [
+   "thành lập; sáng lập",
+   "đã tìm thấy (quá khứ của find)"
+  ],
+  "c": [
+   "thành lập công ty",
+   "thành lập trường học",
+   "thành lập tổ chức từ thiện"
+  ],
+  "t": "Quá khứ của “thành lập” là founded; nguyên mẫu của “tìm thấy” là find."
+ },
+ "calcium": {
+  "s": [
+   "canxi"
+  ],
+  "c": [
+   "lượng canxi hấp thụ",
+   "thiếu canxi",
+   "thực phẩm bổ sung canxi",
+   "nguồn canxi"
+  ],
+  "t": "Danh từ không đếm được; ký hiệu hoá học là Ca."
+ },
+ "economically": {
+  "s": [
+   "về mặt kinh tế",
+   "tiết kiệm; hiệu quả kinh tế"
+  ],
+  "c": [
+   "khả thi về mặt kinh tế",
+   "có hoàn cảnh kinh tế khó khăn",
+   "phụ thuộc về kinh tế",
+   "sống tiết kiệm"
+  ],
+  "t": "Gồm cả nghĩa “về kinh tế” của economic và nghĩa “tiết kiệm” của economical."
+ },
+ "fort": {
+  "s": [
+   "pháo đài; thành luỹ"
+  ],
+  "c": [
+   "xây pháo đài",
+   "pháo đài ven biển",
+   "pháo đài bỏ hoang"
+  ],
+  "t": "fort thiên về quân sự phòng thủ; castle thường kiêm nơi ở của quý tộc."
+ },
+ "shrub": {
+  "s": [
+   "cây bụi"
+  ],
+  "c": [
+   "cây bụi có hoa",
+   "cây bụi thường xanh",
+   "cây bụi bản địa",
+   "trồng cây bụi"
+  ],
+  "t": "Danh từ đếm được, chỉ từng cây bụi; một khu cây bụi dùng shrubbery."
+ },
+ "academic": {
+  "s": [
+   "thuộc học tập; học thuật",
+   "giảng viên đại học; học giả",
+   "thuần lý thuyết; không thực tế"
+  ],
+  "c": [
+   "thành tích học tập",
+   "nghiên cứu học thuật",
+   "năm học",
+   "trình độ học vấn"
+  ],
+  "t": "Khi là danh từ chỉ giảng viên hoặc nhà nghiên cứu đại học, thường không chỉ sinh viên."
+ },
+ "polish": {
+  "s": [
+   "đánh bóng; mài nhẵn",
+   "trau chuốt; hoàn thiện",
+   "chất đánh bóng"
+  ],
+  "c": [
+   "đánh bóng giày",
+   "trau chuốt bài luận",
+   "chất đánh bóng đồ gỗ"
+  ],
+  "t": "polish viết thường là đánh bóng; Polish viết hoa nghĩa là thuộc Ba Lan, phát âm khác."
+ },
+ "landfill": {
+  "s": [
+   "bãi chôn lấp rác",
+   "việc chôn lấp rác"
+  ],
+  "c": [
+   "bãi chôn lấp rác",
+   "đưa rác đi chôn lấp",
+   "sức chứa của bãi chôn lấp"
+  ],
+  "t": "Khi chỉ bãi chôn lấp thì đếm được; khi chỉ việc xử lý bằng chôn lấp thì thường không đếm được."
+ },
+ "dealer": {
+  "s": [
+   "đại lý; thương nhân",
+   "người chia bài"
+  ],
+  "c": [
+   "đại lý ô tô",
+   "nhà buôn tác phẩm nghệ thuật",
+   "đại lý uy tín"
+  ],
+  "t": "Thường thêm loại hàng phía trước, như car dealer, để rõ lĩnh vực kinh doanh."
+ },
+ "verse": {
+  "s": [
+   "thơ; văn vần",
+   "khổ thơ; đoạn lời bài hát"
+  ],
+  "c": [
+   "thơ tự do",
+   "thơ không vần",
+   "bằng thơ",
+   "khổ thơ mở đầu"
+  ],
+  "t": "Chỉ thơ nói chung thì không đếm được; chỉ một khổ thơ thì đếm được."
+ },
+ "preference": {
+  "s": [
+   "sự ưa thích; sở thích",
+   "sự ưu tiên; quyền ưu tiên"
+  ],
+  "c": [
+   "sự ưa thích đối với",
+   "sở thích cá nhân",
+   "ưu tiên cho",
+   "thay vì; ưu tiên hơn"
+  ],
+  "t": "Ưa thích điều gì dùng preference for, không dùng to."
+ },
+ "era": {
+  "s": [
+   "thời đại; kỷ nguyên"
+  ],
+  "c": [
+   "kỷ nguyên số",
+   "một thời đại mới",
+   "sự kết thúc của một thời đại"
+  ],
+  "t": "era nhấn mạnh một thời kỳ có đặc điểm chung, không chỉ số năm cố định."
+ },
+ "trait": {
+  "s": [
+   "đặc điểm; nét tính cách"
+  ],
+  "c": [
+   "đặc điểm tính cách",
+   "đặc điểm di truyền",
+   "đặc điểm riêng biệt"
+  ],
+  "t": "trait là danh từ đếm được, thường chỉ tính cách hoặc đặc điểm di truyền."
+ },
+ "gay": {
+  "s": [
+   "đồng tính (nam)",
+   "liên quan đến người đồng tính"
+  ],
+  "c": [
+   "cặp đôi đồng tính",
+   "quyền của người đồng tính",
+   "công khai là người đồng tính"
+  ],
+  "t": "Thường là tính từ; nghĩa “vui vẻ” nay hiếm dùng."
+ },
+ "sympathetic": {
+  "s": [
+   "thông cảm; biết cảm thông",
+   "tán thành; ủng hộ"
+  ],
+  "c": [
+   "người biết lắng nghe và cảm thông",
+   "thái độ thông cảm",
+   "tán thành một đề xuất"
+  ],
+  "t": "Thường đi với to hoặc towards; không có nghĩa “dễ mến” (đó là likeable)."
+ },
+ "adolescent": {
+  "s": [
+   "thanh thiếu niên",
+   "thuộc tuổi dậy thì; thuộc thanh thiếu niên"
+  ],
+  "c": [
+   "sự phát triển của thanh thiếu niên",
+   "hành vi của thanh thiếu niên",
+   "sức khoẻ tâm thần thanh thiếu niên"
+  ],
+  "t": "Có thể là danh từ hoặc tính từ; trang trọng hơn teenager."
+ },
+ "peacock": {
+  "s": [
+   "con công đực"
+  ],
+  "c": [
+   "lông công",
+   "đuôi công đực",
+   "kiêu hãnh như con công"
+  ],
+  "t": "Nói chính xác, peacock là công đực, công cái là peahen."
+ },
+ "entirely": {
+  "s": [
+   "hoàn toàn; toàn bộ"
+  ],
+  "c": [
+   "hoàn toàn khác",
+   "hoàn toàn phụ thuộc vào",
+   "không hoàn toàn"
+  ],
+  "t": "not entirely nghĩa là không hoàn toàn, chứ không phải hoàn toàn không."
+ },
+ "parade": {
+  "s": [
+   "cuộc diễu hành; cuộc duyệt binh",
+   "diễu hành; xếp hàng đi",
+   "khoe khoang; phô trương"
+  ],
+  "c": [
+   "diễu hành trên phố",
+   "diễu hành lễ hội",
+   "diễu hành qua các con phố"
+  ],
+  "t": "parade thiên về diễu hành trình diễn; biểu tình phản đối thường dùng march."
+ },
+ "beneficial": {
+  "s": [
+   "có lợi; có ích"
+  ],
+  "c": [
+   "tác động có lợi",
+   "có lợi cho sức khoẻ",
+   "đôi bên cùng có lợi"
+  ],
+  "t": "Thường đi với to hoặc for để chỉ có lợi cho ai hay mặt nào."
+ },
+ "classic": {
+  "s": [
+   "kinh điển; được công nhận là xuất sắc",
+   "điển hình",
+   "tác phẩm kinh điển"
+  ],
+  "c": [
+   "ví dụ điển hình",
+   "tiểu thuyết kinh điển",
+   "tác phẩm kinh điển bất hủ"
+  ],
+  "t": "classic là kinh điển hoặc điển hình; nhạc cổ điển dùng classical."
+ },
+ "snore": {
+  "s": [
+   "ngáy",
+   "tiếng ngáy"
+  ],
+  "c": [
+   "ngáy to",
+   "bắt đầu ngáy",
+   "một tiếng ngáy lớn"
+  ],
+  "t": "Là động từ thường nội động từ; snoring có thể chỉ hiện tượng ngáy."
+ },
+ "digest": {
+  "s": [
+   "tiêu hoá",
+   "tiếp thu; hiểu thấu (thông tin)",
+   "bản tóm tắt; tạp chí văn tuyển"
+  ],
+  "c": [
+   "tiêu hoá thức ăn",
+   "tiếp thu thông tin",
+   "bản tóm tắt hàng tháng"
+  ],
+  "t": "Danh từ nhấn âm đầu, đọc /ˈdaɪdʒest/."
+ },
+ "motto": {
+  "s": [
+   "phương châm; châm ngôn"
+  ],
+  "c": [
+   "phương châm cá nhân",
+   "khẩu hiệu của trường",
+   "chọn một châm ngôn"
+  ],
+  "t": "motto nhấn mạnh niềm tin dẫn đường; slogan thường là khẩu hiệu quảng bá."
+ },
+ "endure": {
+  "s": [
+   "chịu đựng; cam chịu",
+   "tồn tại lâu dài; bền bỉ"
+  ],
+  "c": [
+   "chịu đựng gian khổ",
+   "chịu đựng cơn đau",
+   "tồn tại hàng thế kỷ"
+  ],
+  "t": "Nghĩa “chịu đựng” đi thẳng với tân ngữ; nghĩa “tồn tại lâu” có thể không có tân ngữ."
+ },
+ "dam": {
+  "s": [
+   "đập nước",
+   "đắp đập; chặn nước"
+  ],
+  "c": [
+   "xây đập",
+   "đập thuỷ điện",
+   "đắp đập chắn sông"
+  ],
+  "t": "dam là đập chặn nước; reservoir là hồ chứa nước."
+ },
+ "sake": {
+  "s": [
+   "lợi ích; mục đích; vì (ai, điều gì)"
+  ],
+  "c": [
+   "vì lợi ích của ai",
+   "vì",
+   "để cho rõ ràng"
+  ],
+  "t": "Thường dùng trong for the sake of hoặc for someone's sake."
+ },
+ "groom": {
+  "s": [
+   "chải lông; chải chuốt",
+   "chú rể",
+   "đào tạo; chuẩn bị cho (vai trò)"
+  ],
+  "c": [
+   "chải lông cho ngựa",
+   "cô dâu và chú rể",
+   "đào tạo ai làm lãnh đạo"
+  ],
+  "t": "Đào tạo ai cho vai trò nào dùng groom someone for a role."
+ },
+ "polar": {
+  "s": [
+   "thuộc vùng cực",
+   "hoàn toàn đối lập"
+  ],
+  "c": [
+   "các vùng cực",
+   "chỏm băng ở cực",
+   "gấu bắc cực",
+   "hai thái cực đối lập"
+  ],
+  "t": "polar chỉ vùng hai cực; polar opposites nghĩa là hoàn toàn trái ngược nhau."
+ },
+ "delight": {
+  "s": [
+   "niềm vui sướng; sự thích thú",
+   "làm vui sướng; làm hài lòng",
+   "điều thú vị; điều làm vui lòng"
+  ],
+  "c": [
+   "một cách vui sướng",
+   "làm ai vui mừng là",
+   "lấy làm thích thú",
+   "thích làm việc gì"
+  ],
+  "t": "delighted chỉ người cảm thấy vui; delightful chỉ sự vật gây vui thích."
+ },
+ "uncertainty": {
+  "s": [
+   "sự không chắc chắn",
+   "yếu tố bất định"
+  ],
+  "c": [
+   "sự bất ổn kinh tế",
+   "một giai đoạn bất định",
+   "giảm sự bất định",
+   "sự bất định về tương lai"
+  ],
+  "t": "Chỉ trạng thái không chắc chắn nói chung thì không đếm được; các yếu tố chưa rõ cụ thể có thể dùng số nhiều."
+ },
+ "hurrah": {
+  "s": [
+   "hoan hô; muôn năm"
+  ],
+  "c": [
+   "hò reo hoan hô",
+   "màn trình diễn cuối cùng ngoạn mục"
+  ],
+  "t": "Nghĩa như hooray; thường đứng riêng, theo sau là dấu chấm than."
+ },
+ "renewable": {
+  "s": [
+   "tái tạo được (năng lượng, tài nguyên)",
+   "có thể gia hạn"
+  ],
+  "c": [
+   "năng lượng tái tạo",
+   "tài nguyên tái tạo",
+   "nguồn tái tạo",
+   "hợp đồng có thể gia hạn"
+  ],
+  "t": "Danh từ renewables dùng ở số nhiều, chỉ các nguồn năng lượng tái tạo."
+ },
+ "sunshade": {
+  "s": [
+   "dù che nắng; mái che nắng"
+  ],
+  "c": [
+   "dù che nắng bãi biển",
+   "tấm chắn nắng ô tô",
+   "dưới dù che nắng"
+  ],
+  "t": "sunshade dùng để che nắng; umbrella thường là ô che mưa."
+ },
+ "removal": {
+  "s": [
+   "sự loại bỏ; sự dọn đi",
+   "sự cách chức; sự bãi nhiệm",
+   "việc chuyển nhà; sự dọn nhà"
+  ],
+  "c": [
+   "thu dọn rác thải",
+   "tẩy vết bẩn",
+   "cách chức",
+   "công ty chuyển nhà"
+  ],
+  "t": "Nghĩa “chuyển nhà” dùng chủ yếu trong Anh–Anh; công ty chuyển nhà là removal company."
+ },
+ "rotate": {
+  "s": [
+   "xoay; quay",
+   "luân phiên; thay phiên"
+  ],
+  "c": [
+   "xoay theo chiều kim đồng hồ",
+   "luân canh cây trồng",
+   "luân phiên nhiệm vụ"
+  ],
+  "t": "Dùng được cả ngoại động từ lẫn nội động từ: rotate the wheel; the wheel rotates."
+ },
+ "enthusiasm": {
+  "s": [
+   "sự nhiệt tình; sự hăng hái"
+  ],
+  "c": [
+   "nhiệt tình đối với",
+   "một cách nhiệt tình",
+   "khơi dậy nhiệt huyết",
+   "mất nhiệt huyết"
+  ],
+  "t": "Nhiệt tình với điều gì dùng enthusiasm for; thường không đếm được."
+ },
+ "sneak": {
+  "s": [
+   "lẻn đi; rón rén",
+   "lén lấy; lén làm"
+  ],
+  "c": [
+   "lẻn ra ngoài",
+   "lẻn vào",
+   "liếc trộm",
+   "lén đưa vật gì qua mặt ai"
+  ],
+  "t": "Quá khứ thường là sneaked; Anh–Mỹ cũng hay dùng snuck."
+ },
+ "throne": {
+  "s": [
+   "ngai vàng; ngai",
+   "ngôi vua; quyền vua"
+  ],
+  "c": [
+   "ngồi trên ngai vàng",
+   "lên ngôi",
+   "người thừa kế ngai vàng"
+  ],
+  "t": "the throne có thể chỉ ngôi vua, không nhất thiết là chiếc ngai thật."
+ },
+ "downside": {
+  "s": [
+   "mặt trái; bất lợi"
+  ],
+  "c": [
+   "mặt trái của",
+   "một nhược điểm tiềm ẩn",
+   "xét về mặt bất lợi"
+  ],
+  "t": "Hay dùng the downside of/to sth để chỉ mặt trái của việc gì."
+ },
+ "escort": {
+  "s": [
+   "hộ tống; đi cùng",
+   "người hộ tống; đoàn hộ tống"
+  ],
+  "c": [
+   "hộ tống ai đến",
+   "đội cảnh sát hộ tống",
+   "dưới sự hộ tống"
+  ],
+  "t": "Động từ nhấn âm sau; danh từ Anh /ˈeskɔːt/, Mỹ /ˈeskɔːrt/."
+ },
+ "transmit": {
+  "s": [
+   "truyền; phát",
+   "lây truyền; truyền bệnh"
+  ],
+  "c": [
+   "truyền dữ liệu",
+   "phát tín hiệu",
+   "lây truyền virus"
+  ],
+  "t": "Quá khứ transmitted, dạng tiếp diễn transmitting, đều gấp đôi chữ t."
+ },
+ "identification": {
+  "s": [
+   "sự nhận dạng; sự giám định",
+   "giấy tờ tuỳ thân",
+   "sự đồng cảm; sự đồng nhất"
+  ],
+  "c": [
+   "giấy tờ tuỳ thân",
+   "nhận dạng loài",
+   "nhận diện sớm",
+   "sự đồng cảm với"
+  ],
+  "t": "Khi chỉ giấy tờ tuỳ thân thường không đếm được, có thể viết tắt là ID."
+ },
+ "motion": {
+  "s": [
+   "sự chuyển động; sự vận động",
+   "kiến nghị; đề nghị chính thức",
+   "ra hiệu bằng cử chỉ"
+  ],
+  "c": [
+   "đang chuyển động",
+   "khởi động",
+   "thông qua một kiến nghị",
+   "ra hiệu cho ai"
+  ],
+  "t": "Kiến nghị có thể dùng pass hoặc reject; in motion nghĩa là đang chuyển động."
+ },
+ "madness": {
+  "s": [
+   "sự điên rồ; hành động cực kỳ dại dột",
+   "chứng điên; loạn trí"
+  ],
+  "c": [
+   "hoàn toàn điên rồ",
+   "cực kỳ dại dột",
+   "một phút bồng bột"
+  ],
+  "t": "Cách dùng chỉ bệnh tâm thần đã lỗi thời và có thể gây xúc phạm; không dùng để chẩn đoán."
+ },
+ "unaware": {
+  "s": [
+   "không biết; không nhận ra"
+  ],
+  "c": [
+   "không nhận ra",
+   "hoàn toàn không hay biết",
+   "vẫn không hay biết"
+  ],
+  "t": "Thường dùng be unaware of hoặc be unaware that + mệnh đề."
+ },
+ "peer": {
+  "s": [
+   "người cùng trang lứa; người ngang hàng",
+   "nhìn chăm chú; nheo mắt nhìn",
+   "quý tộc Anh"
+  ],
+  "c": [
+   "áp lực từ bạn bè đồng trang lứa",
+   "bình duyệt đồng cấp",
+   "nhóm đồng trang lứa",
+   "nhìn chăm chú qua"
+  ],
+  "t": "Danh từ thường dùng số nhiều peers; động từ thường đi với through, at hoặc into."
+ },
+ "defence": {
+  "s": [
+   "sự phòng thủ; sự bảo vệ",
+   "sự biện hộ; lời bào chữa",
+   "hàng phòng ngự; cầu thủ phòng ngự"
+  ],
+  "c": [
+   "phòng vệ chống lại",
+   "để bảo vệ",
+   "tự vệ",
+   "chi tiêu quốc phòng"
+  ],
+  "t": "Anh–Anh viết defence; Anh–Mỹ viết defense."
+ },
+ "diameter": {
+  "s": [
+   "đường kính"
+  ],
+  "c": [
+   "có đường kính",
+   "đo đường kính",
+   "đường kính trong",
+   "đường kính ngoài"
+  ],
+  "t": "Đường kính là diameter, bán kính là radius; sau số đo thường dùng in diameter."
+ },
+ "senior": {
+  "s": [
+   "cấp cao; thâm niên",
+   "lớn tuổi; thuộc người cao tuổi",
+   "học sinh năm cuối; người cao tuổi"
+  ],
+  "c": [
+   "ban quản lý cấp cao",
+   "vị trí cấp cao",
+   "người cao tuổi",
+   "cấp bậc cao hơn ai"
+  ],
+  "t": "So sánh cấp bậc dùng senior to, không dùng senior than."
+ },
+ "activate": {
+  "s": [
+   "kích hoạt; khởi động"
+  ],
+  "c": [
+   "kích hoạt tài khoản",
+   "kích hoạt báo động",
+   "khởi động hệ thống"
+  ],
+  "t": "Nhấn mạnh việc làm cho thiết bị hoặc hệ thống bắt đầu hoạt động; trái nghĩa là deactivate."
+ },
+ "attribute": {
+  "s": [
+   "cho là do; quy cho",
+   "đặc điểm; thuộc tính"
+  ],
+  "c": [
+   "quy thành công cho",
+   "được cho là do",
+   "một đặc điểm then chốt"
+  ],
+  "t": "attribute A to B nghĩa là quy A cho B; danh từ nhấn âm đầu."
+ },
+ "multifunction": {
+  "s": [
+   "đa chức năng"
+  ],
+  "c": [
+   "máy in đa chức năng",
+   "thiết bị đa chức năng",
+   "màn hình đa chức năng"
+  ],
+  "t": "Là tính từ, thường đứng trước danh từ chỉ thiết bị; cũng có thể dùng multifunctional."
+ },
+ "sympathize": {
+  "s": [
+   "thông cảm; đồng cảm",
+   "tán thành; ủng hộ"
+  ],
+  "c": [
+   "thông cảm với ai",
+   "ủng hộ một sự nghiệp"
+  ],
+  "t": "Không đi thẳng với tân ngữ: dùng sympathize with; Anh–Anh cũng viết sympathise."
+ },
+ "steadily": {
+  "s": [
+   "đều đặn; liên tục",
+   "vững vàng"
+  ],
+  "c": [
+   "tăng đều",
+   "giảm đều",
+   "tăng trưởng đều",
+   "làm việc đều đặn"
+  ],
+  "t": "Trong viết biểu đồ hay dùng rise steadily, chỉ tăng đều chứ không tăng vọt."
+ },
+ "protein": {
+  "s": [
+   "chất đạm; protein"
+  ],
+  "c": [
+   "giàu protein",
+   "nguồn protein",
+   "protein thực vật",
+   "lượng protein hấp thụ"
+  ],
+  "t": "Khi là chất dinh dưỡng thường không đếm được; khi chỉ các loại khác nhau thì đếm được."
+ },
+ "logic": {
+  "s": [
+   "logic; lập luận",
+   "logic học"
+  ],
+  "c": [
+   "logic đằng sau việc gì",
+   "logic chặt chẽ",
+   "logic có sai sót",
+   "logic hình thức"
+  ],
+  "t": "Thường không đếm được; the logic behind nghĩa là lẽ đằng sau điều gì."
+ },
+ "radiation": {
+  "s": [
+   "bức xạ; năng lượng bức xạ",
+   "xạ trị"
+  ],
+  "c": [
+   "bức xạ tia cực tím",
+   "phơi nhiễm bức xạ",
+   "xạ trị",
+   "bức xạ mặt trời"
+  ],
+  "t": "Thường không đếm được; bức xạ không chỉ là bức xạ hạt nhân mà gồm cả ánh nắng."
+ },
+ "specialised": {
+  "s": [
+   "chuyên dụng; chuyên môn hoá"
+  ],
+  "c": [
+   "thiết bị chuyên dụng",
+   "kiến thức chuyên môn",
+   "đào tạo chuyên môn",
+   "chuyên môn hoá cao"
+  ],
+  "t": "Anh–Anh thường viết specialised, Anh–Mỹ thường viết specialized."
+ },
+ "pine": {
+  "s": [
+   "cây thông; gỗ thông",
+   "khao khát; héo hon vì nhớ"
+  ],
+  "c": [
+   "rừng thông",
+   "quả thông",
+   "khắc khoải nhớ ai",
+   "héo hon vì nhớ nhung"
+  ],
+  "t": "pine for nghĩa là khao khát hay nhớ nhung; pine away nghĩa là héo hon dần."
+ },
+ "folk": {
+  "s": [
+   "mọi người; người ta",
+   "dân gian; truyền thống",
+   "nhạc dân gian; dân ca"
+  ],
+  "c": [
+   "người dân địa phương",
+   "nhạc dân gian",
+   "truyện dân gian",
+   "múa dân gian"
+  ],
+  "t": "Chỉ “mọi người” thì dùng động từ số nhiều; my folks trong khẩu ngữ là bố mẹ."
+ },
+ "discipline": {
+  "s": [
+   "kỷ luật; tính tự giác",
+   "ngành học; môn học",
+   "trừng phạt; rèn luyện kỷ luật"
+  ],
+  "c": [
+   "tự rèn luyện kỷ luật",
+   "duy trì kỷ luật",
+   "ngành học thuật",
+   "tự ép mình làm việc gì"
+  ],
+  "t": "Nghĩa “kỷ luật” thường không đếm được; nghĩa “ngành học” thì đếm được."
+ },
+ "terrace": {
+  "s": [
+   "sân thượng; hiên ngoài trời",
+   "ruộng bậc thang",
+   "dãy nhà liền kề"
+  ],
+  "c": [
+   "sân thượng trên mái",
+   "sân hiên đầy nắng",
+   "ruộng lúa bậc thang",
+   "một dãy nhà liền kề"
+  ],
+  "t": "terrace thường là khoảng ngoài trời khá rộng, không giống balcony."
+ },
+ "forefinger": {
+  "s": [
+   "ngón trỏ"
+  ],
+  "c": [
+   "ngón cái và ngón trỏ",
+   "ngón trỏ phải",
+   "đầu ngón trỏ"
+  ],
+  "t": "Đồng nghĩa với index finger, đều là ngón trỏ kề ngón cái."
+ },
+ "anxiously": {
+  "s": [
+   "lo lắng; bồn chồn",
+   "háo hức; nóng lòng"
+  ],
+  "c": [
+   "sốt ruột chờ đợi",
+   "lo lắng nhìn",
+   "nóng lòng chờ"
+  ],
+  "t": "Thường mang sắc thái lo lắng; mong đợi vui vẻ thì dùng eagerly."
+ },
+ "boundary": {
+  "s": [
+   "ranh giới; đường biên",
+   "giới hạn; mức giới hạn"
+  ],
+  "c": [
+   "biên giới quốc gia",
+   "đặt ra giới hạn",
+   "vượt qua ranh giới",
+   "phá vỡ giới hạn"
+  ],
+  "t": "boundary nhấn mạnh đường phân chia; border thường dùng cho biên giới quốc gia hay khu vực."
+ },
+ "rebuild": {
+  "s": [
+   "xây dựng lại; tái thiết",
+   "khôi phục; xây lại (quan hệ, niềm tin)"
+  ],
+  "c": [
+   "xây lại ngôi nhà",
+   "xây dựng lại niềm tin",
+   "phục hồi nền kinh tế"
+  ],
+  "t": "Quá khứ và quá khứ phân từ đều là rebuilt."
+ },
+ "detergent": {
+  "s": [
+   "chất tẩy rửa; bột giặt"
+  ],
+  "c": [
+   "bột giặt",
+   "chất tẩy rửa dạng lỏng",
+   "chất tẩy rửa dịu nhẹ"
+  ],
+  "t": "Chỉ chất tẩy rửa nói chung thường không đếm được; chỉ các loại thì đếm được."
+ },
+ "freelance": {
+  "s": [
+   "làm tự do",
+   "theo kiểu tự do",
+   "làm nghề tự do"
+  ],
+  "c": [
+   "cây bút tự do",
+   "làm việc tự do",
+   "công việc tự do"
+  ],
+  "t": "Trong work freelance, freelance là trạng từ; freelancer là người làm nghề tự do."
+ },
+ "horizon": {
+  "s": [
+   "đường chân trời",
+   "tầm nhìn; hiểu biết"
+  ],
+  "c": [
+   "ở chân trời; sắp xảy ra",
+   "mở rộng tầm nhìn",
+   "ngoài đường chân trời"
+  ],
+  "t": "Nghĩa “tầm nhìn” thường dùng số nhiều: broaden your horizons."
+ },
+ "dimension": {
+  "s": [
+   "khía cạnh; phương diện",
+   "kích thước",
+   "chiều (không gian)"
+  ],
+  "c": [
+   "khía cạnh xã hội",
+   "thêm một khía cạnh mới",
+   "kích thước thực tế",
+   "ở dạng ba chiều"
+  ],
+  "t": "Khi chỉ kích thước dài rộng cao cụ thể, thường dùng số nhiều dimensions."
+ },
+ "thus": {
+  "s": [
+   "do đó; vì vậy",
+   "như vậy; theo cách này"
+  ],
+  "c": [
+   "do đó giảm chi phí",
+   "do đó giúp có thể",
+   "cho đến nay"
+  ],
+  "t": "thus là trạng từ, không dùng chỉ dấu phẩy để nối hai mệnh đề độc lập."
+ },
+ "textile": {
+  "s": [
+   "hàng dệt; vải vóc",
+   "thuộc dệt may"
+  ],
+  "c": [
+   "ngành dệt may",
+   "sản xuất hàng dệt",
+   "phế liệu dệt may",
+   "nhà máy dệt"
+  ],
+  "t": "Chỉ các loại hàng dệt nói chung thường dùng số nhiều textiles."
+ },
+ "craftsman": {
+  "s": [
+   "thợ thủ công; nghệ nhân"
+  ],
+  "c": [
+   "thợ thủ công lành nghề",
+   "bậc thầy thủ công",
+   "thợ thủ công truyền thống"
+  ],
+  "t": "Số nhiều là craftsmen; cách nói trung tính về giới là craftsperson."
+ },
+ "emit": {
+  "s": [
+   "thải ra; phát ra"
+  ],
+  "c": [
+   "phát sáng",
+   "phát ra bức xạ",
+   "thải khí nhà kính"
+  ],
+  "t": "Quá khứ emitted, dạng tiếp diễn emitting, đều gấp đôi chữ t."
+ },
+ "impatience": {
+  "s": [
+   "sự thiếu kiên nhẫn; sự bực bội",
+   "sự nóng lòng; sự sốt ruột"
+  ],
+  "c": [
+   "thiếu kiên nhẫn trước sự chậm trễ",
+   "tỏ ra thiếu kiên nhẫn",
+   "sự bực bội ngày một tăng",
+   "một cách sốt ruột"
+  ],
+  "t": "Thường không đếm được; thiếu kiên nhẫn với ai hay việc gì thường dùng with."
+ },
+ "organic": {
+  "s": [
+   "hữu cơ (canh tác)",
+   "thuộc chất hữu cơ; thuộc sinh vật",
+   "phát triển tự nhiên"
+  ],
+  "c": [
+   "thực phẩm hữu cơ",
+   "nông nghiệp hữu cơ",
+   "chất hữu cơ",
+   "tăng trưởng tự nhiên"
+  ],
+  "t": "Trong thực phẩm nghĩa là sản xuất hữu cơ; trong hoá học thường chỉ hợp chất chứa carbon."
+ },
+ "dismiss": {
+  "s": [
+   "gạt bỏ; không xem xét",
+   "sa thải; cách chức",
+   "cho về; giải tán"
+  ],
+  "c": [
+   "gạt bỏ mối lo ngại",
+   "bác bỏ một ý tưởng",
+   "sa thải ai khỏi công việc",
+   "gạt bỏ điều gì vì cho là không liên quan"
+  ],
+  "t": "dismiss A as B: cho A là B nên gạt bỏ."
+ }
+}

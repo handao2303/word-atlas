@@ -1,0 +1,1249 @@
+{
+ "design": {
+  "s": [
+   "thiết kế; hình dung",
+   "bản thiết kế; sự thiết kế",
+   "họa tiết trang trí"
+  ],
+  "c": [
+   "thiết kế một tòa nhà",
+   "được thiết kế để làm gì",
+   "thiết kế đồ họa",
+   "thiết kế nội thất"
+  ],
+  "t": "be designed to do nghĩa là “nhằm mục đích làm gì”."
+ },
+ "bright": {
+  "s": [
+   "sáng; rực rỡ",
+   "thông minh; lanh lợi",
+   "đầy hứa hẹn; vui vẻ"
+  ],
+  "c": [
+   "màu sắc rực rỡ",
+   "học sinh thông minh",
+   "tương lai tươi sáng",
+   "ánh nắng chói chang"
+  ],
+  "t": "Ánh sáng mạnh dùng bright; căn phòng tối dùng dim."
+ },
+ "boss": {
+  "s": [
+   "ông chủ; sếp",
+   "sai khiến; ra lệnh"
+  ],
+  "c": [
+   "nói chuyện với sếp",
+   "một người sếp biết hỗ trợ",
+   "làm chủ chính mình",
+   "sai bảo ai"
+  ],
+  "t": "boss mang tính khẩu ngữ; làm động từ thường dùng boss someone around."
+ },
+ "violin": {
+  "s": [
+   "đàn vĩ cầm; vi-ô-lông"
+  ],
+  "c": [
+   "chơi đàn vĩ cầm",
+   "lớp học vĩ cầm",
+   "bản concerto cho vĩ cầm"
+  ],
+  "t": "Người chơi vĩ cầm là violinist; nói chơi đàn thường dùng play the violin."
+ },
+ "rude": {
+  "s": [
+   "thô lỗ; bất lịch sự"
+  ],
+  "c": [
+   "thô lỗ với ai",
+   "hành vi thô lỗ",
+   "lời nói bất lịch sự"
+  ],
+  "t": "Thô lỗ với ai dùng rude to someone, không dùng rude with."
+ },
+ "glove": {
+  "s": [
+   "găng tay"
+  ],
+  "c": [
+   "một đôi găng tay",
+   "găng tay dùng một lần",
+   "găng tay bảo hộ",
+   "găng tay quyền anh"
+  ],
+  "t": "Một đôi găng tay là a pair of gloves; chú ý gloves dùng số nhiều."
+ },
+ "complete": {
+  "s": [
+   "hoàn thành; điền đầy đủ",
+   "đầy đủ; trọn vẹn",
+   "hoàn toàn; tuyệt đối"
+  ],
+  "c": [
+   "hoàn thành một khóa học",
+   "điền xong biểu mẫu",
+   "một bộ đầy đủ",
+   "thành công trọn vẹn"
+  ],
+  "t": "complete a form nghĩa là điền xong một biểu mẫu, không phải tạo ra biểu mẫu."
+ },
+ "kiss": {
+  "s": [
+   "hôn",
+   "nụ hôn"
+  ],
+  "c": [
+   "hôn tạm biệt ai",
+   "hôn ai một cái",
+   "một nụ hôn lên má"
+  ],
+  "t": "Hôn lên má ai dùng kiss someone on the cheek."
+ },
+ "space": {
+  "s": [
+   "không gian; chỗ trống; khoảng cách",
+   "vũ trụ; không gian vũ trụ",
+   "xếp cách quãng; để khoảng cách"
+  ],
+  "c": [
+   "không gian xanh",
+   "không gian vũ trụ",
+   "chỗ đỗ xe",
+   "khám phá vũ trụ"
+  ],
+  "t": "Khi chỉ không gian hay vũ trụ nói chung thì không đếm được; chỗ đỗ xe cụ thể thì đếm được."
+ },
+ "pronounce": {
+  "s": [
+   "phát âm; đọc",
+   "tuyên bố chính thức"
+  ],
+  "c": [
+   "đọc một từ",
+   "phát âm chính xác",
+   "tuyên bố ai vô tội"
+  ],
+  "t": "Danh từ là pronunciation, chú ý ở giữa không có chữ o như trong pronounce."
+ },
+ "ability": {
+  "s": [
+   "khả năng; năng lực"
+  ],
+  "c": [
+   "khả năng học tập",
+   "phát triển một năng lực",
+   "năng lực học tập",
+   "năng khiếu bẩm sinh"
+  ],
+  "t": "“Khả năng làm gì” dùng ability to do."
+ },
+ "recorder": {
+  "s": [
+   "máy ghi âm; thiết bị ghi",
+   "sáo dọc",
+   "người ghi chép"
+  ],
+  "c": [
+   "máy ghi âm kỹ thuật số",
+   "thiết bị ghi âm",
+   "thổi sáo dọc"
+  ],
+  "t": "play the recorder nghĩa là thổi sáo dọc, không phải bật máy ghi âm."
+ },
+ "along": {
+  "s": [
+   "dọc theo",
+   "tiến lên phía trước",
+   "cùng; đi cùng"
+  ],
+  "c": [
+   "dọc theo bờ biển",
+   "cùng đến",
+   "dẫn ai đi cùng",
+   "cùng với"
+  ],
+  "t": "along đi dọc theo chiều dài; across nhấn mạnh việc băng ngang từ bên này sang bên kia."
+ },
+ "madam": {
+  "s": [
+   "thưa bà; thưa quý bà (cách xưng hô lịch sự)"
+  ],
+  "c": [
+   "Kính gửi bà",
+   "Vâng, thưa bà",
+   "Bà chủ tịch"
+  ],
+  "t": "Dùng khi xưng hô trang trọng với phụ nữ; trong giao tiếp thân quen hằng ngày thường không dùng."
+ },
+ "missed": {
+  "s": [
+   "lỡ; không kịp",
+   "trượt; không nhận ra",
+   "nhớ; thấy thiếu"
+  ],
+  "c": [
+   "cơ hội bị bỏ lỡ",
+   "cuộc gọi nhỡ",
+   "lỡ hạn chót"
+  ],
+  "t": "Là quá khứ và quá khứ phân từ của miss; đuôi -ed đọc là /t/."
+ },
+ "gold": {
+  "s": [
+   "vàng; kim loại vàng",
+   "huy chương vàng",
+   "bằng vàng; màu vàng"
+  ],
+  "c": [
+   "vàng nguyên chất",
+   "huy chương vàng",
+   "trang sức vàng",
+   "dự trữ vàng"
+  ],
+  "t": "Khi là tên chất liệu thì thường không đếm được; a gold có thể chỉ một huy chương vàng."
+ },
+ "pronunciation": {
+  "s": [
+   "cách phát âm"
+  ],
+  "c": [
+   "phát âm rõ ràng",
+   "phát âm chính xác",
+   "cải thiện phát âm",
+   "luyện phát âm"
+  ],
+  "t": "Chú ý chính tả: pronunciation, ở giữa không có chữ o thứ hai như trong pronounce."
+ },
+ "training": {
+  "s": [
+   "sự đào tạo; sự huấn luyện",
+   "sự luyện tập thể lực; sự huấn luyện thể thao"
+  ],
+  "c": [
+   "đào tạo nghề",
+   "đào tạo tại chỗ",
+   "khóa đào tạo",
+   "luyện tập sức mạnh"
+  ],
+  "t": "Thường không đếm được; một buổi tập huấn có thể nói a training session."
+ },
+ "slice": {
+  "s": [
+   "lát mỏng; một lát",
+   "cắt thành lát mỏng",
+   "một phần; phần chia"
+  ],
+  "c": [
+   "một lát bánh mì",
+   "cắt lát mỏng",
+   "một phần thị phần"
+  ],
+  "t": "slice nhấn mạnh lát được cắt ra; piece chỉ chung một miếng hoặc một món."
+ },
+ "diet": {
+  "s": [
+   "chế độ ăn thường ngày",
+   "chế độ ăn kiêng; thực đơn riêng",
+   "ăn kiêng"
+  ],
+  "c": [
+   "chế độ ăn cân bằng",
+   "chế độ ăn giàu chất xơ",
+   "bắt đầu ăn kiêng"
+  ],
+  "t": "diet không nhất thiết là ăn kiêng, cũng có thể chỉ chế độ ăn hằng ngày."
+ },
+ "dutch": {
+  "s": [
+   "thuộc Hà Lan; thuộc người Hà Lan",
+   "tiếng Hà Lan",
+   "người Hà Lan (nói chung)"
+  ],
+  "c": [
+   "văn hóa Hà Lan",
+   "nói tiếng Hà Lan",
+   "người Hà Lan"
+  ],
+  "t": "Dutch viết hoa chữ cái đầu; the Dutch chỉ người Hà Lan nói chung."
+ },
+ "less": {
+  "s": [
+   "ít hơn",
+   "ít hơn; kém hơn",
+   "lượng ít hơn"
+  ],
+  "c": [
+   "ít hơn",
+   "ít có khả năng hơn",
+   "càng ngày càng ít",
+   "tới tận; không ít hơn"
+  ],
+  "t": "Dùng less với danh từ không đếm được; danh từ đếm được số nhiều thường dùng fewer."
+ },
+ "army": {
+  "s": [
+   "lục quân; quân đội",
+   "đội quân đông đảo"
+  ],
+  "c": [
+   "nhập ngũ",
+   "phục vụ trong quân đội",
+   "một đội quân tình nguyện viên"
+  ],
+  "t": "army chủ yếu chỉ lục quân; armed forces chỉ chung các binh chủng."
+ },
+ "broken": {
+  "s": [
+   "vỡ; gãy",
+   "hỏng; không hoạt động",
+   "ngắt quãng; không lưu loát"
+  ],
+  "c": [
+   "mảnh thủy tinh vỡ",
+   "xương bị gãy",
+   "tiếng Anh lủng củng",
+   "lời hứa bị phá vỡ"
+  ],
+  "t": "Cũng là quá khứ phân từ của break; quá khứ là broke."
+ },
+ "forest": {
+  "s": [
+   "rừng; khu rừng"
+  ],
+  "c": [
+   "rừng nhiệt đới",
+   "bảo tồn rừng",
+   "cháy rừng",
+   "rừng rậm"
+  ],
+  "t": "forest thường chỉ rừng lớn; wood có thể chỉ khu rừng nhỏ hơn."
+ },
+ "sausage": {
+  "s": [
+   "xúc xích; lạp xưởng"
+  ],
+  "c": [
+   "xúc xích nướng",
+   "xúc xích chay",
+   "thịt xay làm xúc xích"
+  ],
+  "t": "Một cây xúc xích đếm được; sausage meat chỉ thịt nhồi xúc xích, không đếm được."
+ },
+ "organize": {
+  "s": [
+   "tổ chức; chuẩn bị",
+   "sắp xếp; sắp đặt ngăn nắp"
+  ],
+  "c": [
+   "tổ chức một sự kiện",
+   "sắp xếp một cuộc họp",
+   "sắp xếp thời gian hợp lý",
+   "sắp xếp tập tin"
+  ],
+  "t": "Anh-Anh cũng thường viết organise; organize là cách viết phổ biến."
+ },
+ "donkey": {
+  "s": [
+   "con lừa"
+  ],
+  "c": [
+   "lừa thồ",
+   "cưỡi lừa",
+   "lừa kêu"
+  ],
+  "t": "Với nghĩa con vật thì donkey được dùng nhiều; dùng để gọi người thì mang nghĩa chê bai."
+ },
+ "wild": {
+  "s": [
+   "hoang dã; mọc tự nhiên",
+   "cuồng nhiệt; mất kiểm soát",
+   "thiên nhiên hoang dã"
+  ],
+  "c": [
+   "động vật hoang dã",
+   "ngoài tự nhiên",
+   "trở nên cuồng nhiệt",
+   "hoa dại"
+  ],
+  "t": "Để nói “ngoài tự nhiên” dùng in the wild, không được bỏ the."
+ },
+ "social": {
+  "s": [
+   "thuộc xã hội",
+   "thuộc giao tiếp; xã giao",
+   "sống theo bầy đàn"
+  ],
+  "c": [
+   "bất bình đẳng xã hội",
+   "kỹ năng giao tiếp",
+   "hoạt động giao lưu",
+   "thay đổi xã hội"
+  ],
+  "t": "social nghĩa là thuộc xã hội hoặc giao tiếp; sociable chỉ người dễ hòa đồng."
+ },
+ "hole": {
+  "s": [
+   "lỗ; hố; cái hang",
+   "lỗ hổng; điểm yếu"
+  ],
+  "c": [
+   "đào hố",
+   "lấp lỗ",
+   "một cái hố trên mặt đất",
+   "bới lông tìm vết"
+  ],
+  "t": "hole nghĩa là cái lỗ; whole nghĩa là toàn bộ; hai từ đồng âm."
+ },
+ "euro": {
+  "s": [
+   "đồng euro"
+  ],
+  "c": [
+   "khu vực đồng euro",
+   "thanh toán bằng euro",
+   "áp dụng đồng euro"
+  ],
+  "t": "Trong tiếng Anh thông thường số nhiều thường là euros; không phải nước EU nào cũng dùng euro."
+ },
+ "bookcase": {
+  "s": [
+   "tủ sách; giá sách"
+  ],
+  "c": [
+   "tủ sách bằng gỗ",
+   "tủ sách âm tường",
+   "tủ sách đầy sách"
+  ],
+  "t": "bookcase là cả cái tủ sách; bookshelf là kệ sách hoặc một tầng ngăn."
+ },
+ "rule": {
+  "s": [
+   "quy tắc; quy định",
+   "sự cai trị; sự thống trị",
+   "cai trị; phán quyết"
+  ],
+  "c": [
+   "tuân thủ quy tắc",
+   "vi phạm quy định",
+   "thông thường",
+   "loại trừ"
+  ],
+  "t": "as a rule nghĩa là “thường thì”; rule out nghĩa là “loại trừ”."
+ },
+ "brush": {
+  "s": [
+   "bàn chải; cọ",
+   "chải; quét; đánh",
+   "lướt nhẹ; sượt qua"
+  ],
+  "c": [
+   "đánh răng",
+   "chải tóc",
+   "cọ vẽ; chổi sơn",
+   "sượt qua"
+  ],
+  "t": "brush against nghĩa là lướt nhẹ qua; brush up on nghĩa là ôn lại."
+ },
+ "proud": {
+  "s": [
+   "tự hào; hãnh diện",
+   "kiêu ngạo; tự cao"
+  ],
+  "c": [
+   "tự hào về",
+   "tự hào là",
+   "khiến ai tự hào",
+   "quá sĩ diện để hỏi"
+  ],
+  "t": "be proud of theo sau là danh từ hoặc danh động từ, nghĩa là tự hào về điều gì."
+ },
+ "simple": {
+  "s": [
+   "đơn giản; dễ",
+   "giản dị; mộc mạc"
+  ],
+  "c": [
+   "giải pháp đơn giản",
+   "hướng dẫn dễ hiểu",
+   "giữ cho đơn giản"
+  ],
+  "t": "simple có thể nghĩa là dễ hoặc giản dị, không nhất thiết là sơ sài."
+ },
+ "yet": {
+  "s": [
+   "vẫn chưa; đã",
+   "nhưng; tuy nhiên",
+   "thậm chí hơn; còn nữa"
+  ],
+  "c": [
+   "chưa",
+   "vẫn chưa làm",
+   "lại thêm một",
+   "tốt hơn nữa"
+  ],
+  "t": "Nghĩa “vẫn chưa” thường đứng ở cuối câu phủ định; trong câu hỏi có thể nghĩa là “đã chưa”."
+ },
+ "jewelry": {
+  "s": [
+   "đồ trang sức; trang sức"
+  ],
+  "c": [
+   "một món trang sức",
+   "trang sức thủ công",
+   "trang sức vàng",
+   "trang sức giả"
+  ],
+  "t": "Đây là cách viết Anh-Mỹ, Anh-Anh viết jewellery; không đếm được, dùng piece để đếm."
+ },
+ "distance": {
+  "s": [
+   "khoảng cách; cự li",
+   "sự xa cách; sự cách biệt",
+   "tách mình ra; phân định ranh giới"
+  ],
+  "c": [
+   "khoảng cách đi bộ được",
+   "ở phía xa",
+   "giữ khoảng cách",
+   "phân định ranh giới với"
+  ],
+  "t": "in the distance nghĩa là ở phía xa; at a distance nghĩa là cách một khoảng."
+ },
+ "underground": {
+  "s": [
+   "dưới lòng đất; bí mật",
+   "ở dưới đất; một cách bí mật",
+   "tàu điện ngầm"
+  ],
+  "c": [
+   "ga tàu điện ngầm",
+   "bãi đỗ xe ngầm",
+   "đi tàu điện ngầm",
+   "hoạt động bí mật"
+  ],
+  "t": "Nghĩa “tàu điện ngầm” chủ yếu dùng trong Anh-Anh, trọng âm ở âm tiết đầu."
+ },
+ "refuse": {
+  "s": [
+   "từ chối; khước từ",
+   "rác thải; chất thải"
+  ],
+  "c": [
+   "từ chối làm gì",
+   "từ chối lời đề nghị",
+   "không cho phép",
+   "thu gom rác"
+  ],
+  "t": "Danh từ đọc /ˈrefjuːs/ (trọng âm đầu); động từ theo sau là to do, không theo sau là doing."
+ },
+ "lazy": {
+  "s": [
+   "lười biếng; không muốn cố gắng",
+   "nhàn nhã; lười nhác"
+  ],
+  "c": [
+   "lười đến mức không muốn",
+   "một buổi chiều nhàn nhã",
+   "cảm thấy uể oải"
+  ],
+  "t": "lazy afternoon là buổi chiều thư thả, không nhất thiết mang nghĩa chê."
+ },
+ "scary": {
+  "s": [
+   "đáng sợ; đáng lo ngại"
+  ],
+  "c": [
+   "phim kinh dị",
+   "trải nghiệm đáng sợ",
+   "trông đáng sợ"
+  ],
+  "t": "scary diễn tả điều khiến người ta sợ; scared diễn tả người cảm thấy sợ."
+ },
+ "grandson": {
+  "s": [
+   "cháu trai (nội hoặc ngoại)"
+  ],
+  "c": [
+   "cháu trai út",
+   "cháu trai đầu"
+  ],
+  "t": "Không phân biệt bên nội hay ngoại; vừa là cháu nội vừa là cháu ngoại trai."
+ },
+ "anywhere": {
+  "s": [
+   "bất cứ đâu; ở đâu cũng",
+   "ở nơi nào đó (trong câu hỏi và phủ định)"
+  ],
+  "c": [
+   "bất cứ nơi nào khác",
+   "từ bất cứ đâu",
+   "hầu như không đâu cả"
+  ],
+  "t": "Là trạng từ bất định, thường không làm danh từ; anywhere else nghĩa là ở nơi nào khác."
+ },
+ "flag": {
+  "s": [
+   "lá cờ",
+   "đánh dấu; gắn cờ; nhắc chú ý",
+   "suy giảm; yếu đi"
+  ],
+  "c": [
+   "kéo cờ",
+   "quốc kỳ",
+   "đánh dấu một vấn đề",
+   "sức lực suy giảm dần"
+  ],
+  "t": "Quá khứ flagged, tiếp diễn flagging, gấp đôi chữ g."
+ },
+ "marry": {
+  "s": [
+   "kết hôn với; cưới",
+   "làm lễ cưới cho"
+  ],
+  "c": [
+   "kết hôn với ai",
+   "kết hôn",
+   "lấy chồng/vợ sớm"
+  ],
+  "t": "Nói marry someone hoặc get married to, không nói marry with."
+ },
+ "seventh": {
+  "s": [
+   "thứ bảy",
+   "một phần bảy"
+  ],
+  "c": [
+   "tầng bảy",
+   "xếp thứ bảy",
+   "một phần bảy của"
+  ],
+  "t": "Số thứ tự thường có the đứng trước; không dùng the khi đã có từ sở hữu như my, his."
+ },
+ "natural": {
+  "s": [
+   "tự nhiên; thuộc thiên nhiên",
+   "bẩm sinh; thiên bẩm",
+   "bình thường; hợp lý"
+  ],
+  "c": [
+   "tài nguyên thiên nhiên",
+   "môi trường sống tự nhiên",
+   "tài năng thiên bẩm",
+   "hoàn toàn bình thường"
+  ],
+  "t": "natural nghĩa là tự nhiên (tính từ); nature là danh từ chỉ thiên nhiên."
+ },
+ "gardening": {
+  "s": [
+   "nghề làm vườn; việc trồng cây cảnh"
+  ],
+  "c": [
+   "dụng cụ làm vườn",
+   "làm vườn một chút",
+   "làm vườn cộng đồng"
+  ],
+  "t": "Thường là danh từ không đếm được: do some gardening."
+ },
+ "surfing": {
+  "s": [
+   "môn lướt sóng",
+   "việc lướt web"
+  ],
+  "c": [
+   "đi lướt sóng",
+   "lớp học lướt sóng",
+   "lướt web"
+  ],
+  "t": "Môn thể thao dùng go surfing; lướt web cũng có thể nói surf the internet."
+ },
+ "user": {
+  "s": [
+   "người dùng; người sử dụng"
+  ],
+  "c": [
+   "tài khoản người dùng",
+   "phản hồi của người dùng",
+   "người tham gia giao thông",
+   "người dùng thường xuyên"
+  ],
+  "t": "Chữ s trong use (động từ) và user đều đọc /z/."
+ },
+ "metro": {
+  "s": [
+   "tàu điện ngầm; hệ thống tàu điện ngầm"
+  ],
+  "c": [
+   "đi tàu điện ngầm",
+   "ga tàu điện ngầm",
+   "tuyến tàu điện ngầm",
+   "mạng lưới tàu điện ngầm"
+  ],
+  "t": "metro không chỉ có ở Pháp; đi tàu điện ngầm thường nói take the metro."
+ },
+ "save": {
+  "s": [
+   "cứu; cứu giúp",
+   "tiết kiệm; để dành",
+   "lưu; giữ lại"
+  ],
+  "c": [
+   "cứu một mạng người",
+   "tiết kiệm tiền; để dành tiền",
+   "tiết kiệm thời gian",
+   "lưu tập tin"
+  ],
+  "t": "save money có thể nghĩa là tiết kiệm hoặc gửi tiền để dành."
+ },
+ "jewellery": {
+  "s": [
+   "đồ trang sức; trang sức"
+  ],
+  "c": [
+   "một món trang sức",
+   "trang sức vàng",
+   "trang sức thủ công"
+  ],
+  "t": "Không đếm được; một món dùng a piece of; Anh-Mỹ viết jewelry."
+ },
+ "plastic": {
+  "s": [
+   "nhựa; chất dẻo",
+   "bằng nhựa",
+   "dễ uốn; dẻo"
+  ],
+  "c": [
+   "nhựa dùng một lần",
+   "rác thải nhựa",
+   "bao bì nhựa",
+   "nhựa tái chế"
+  ],
+  "t": "Khi chỉ vật liệu nhựa thì thường không đếm được; a plastic chỉ một loại nhựa."
+ },
+ "towards": {
+  "s": [
+   "về phía; hướng tới",
+   "đối với; về",
+   "góp vào; dành cho"
+  ],
+  "c": [
+   "đi về phía",
+   "thái độ đối với",
+   "nỗ lực hướng tới mục tiêu",
+   "đóng góp một phần chi phí"
+  ],
+  "t": "towards và toward có nghĩa như nhau; towards phổ biến hơn trong Anh-Anh."
+ },
+ "broccoli": {
+  "s": [
+   "súp lơ xanh; bông cải xanh"
+  ],
+  "c": [
+   "những nhánh bông cải xanh",
+   "bông cải xanh hấp",
+   "một cây bông cải xanh"
+  ],
+  "t": "Thường không đếm được; nhánh nhỏ gọi là broccoli florets."
+ },
+ "protect": {
+  "s": [
+   "bảo vệ; che chở"
+  ],
+  "c": [
+   "bảo vệ môi trường",
+   "phòng bệnh",
+   "bảo vệ khỏi tổn hại",
+   "bảo vệ quyền riêng tư"
+  ],
+  "t": "Thường dùng protect sb/sth from hoặc against, nghĩa là bảo vệ khỏi điều gì."
+ },
+ "strange": {
+  "s": [
+   "lạ lùng; kỳ quặc",
+   "lạ; không quen"
+  ],
+  "c": [
+   "hành vi kỳ lạ",
+   "cảm thấy không thoải mái",
+   "một nơi xa lạ",
+   "một tiếng động lạ"
+  ],
+  "t": "strange vừa có nghĩa kỳ lạ vừa có nghĩa xa lạ; stranger là người lạ."
+ },
+ "latest": {
+  "s": [
+   "mới nhất; gần đây nhất",
+   "tin mới nhất; điều mới nhất"
+  ],
+  "c": [
+   "nghiên cứu mới nhất",
+   "phiên bản mới nhất",
+   "chậm nhất là"
+  ],
+  "t": "latest nhấn mạnh mới nhất; last thường là cái trước hoặc cuối cùng."
+ },
+ "snake": {
+  "s": [
+   "con rắn",
+   "uốn lượn; ngoằn ngoèo"
+  ],
+  "c": [
+   "rắn độc",
+   "vết rắn cắn",
+   "uốn lượn qua"
+  ],
+  "t": "Làm động từ nghĩa là uốn lượn, thường đi với through hoặc along."
+ },
+ "wardrobe": {
+  "s": [
+   "tủ quần áo",
+   "toàn bộ quần áo của ai"
+  ],
+  "c": [
+   "tủ quần áo âm tường",
+   "tủ đồ tối giản dễ phối",
+   "bổ sung quần áo mới"
+  ],
+  "t": "Vừa chỉ cái tủ quần áo, vừa chỉ toàn bộ quần áo của một người."
+ },
+ "hometown": {
+  "s": [
+   "quê hương; quê nhà"
+  ],
+  "c": [
+   "trở về quê",
+   "rời quê hương",
+   "người dân quê nhà"
+  ],
+  "t": "Có thể là thị trấn hoặc thành phố, không nhất thiết là nơi sinh."
+ },
+ "smart": {
+  "s": [
+   "thông minh; khôn ngoan",
+   "gọn gàng; lịch sự; sành điệu",
+   "thông minh (công nghệ)"
+  ],
+  "c": [
+   "một lựa chọn khôn ngoan",
+   "quần áo lịch sự",
+   "công nghệ thông minh",
+   "trông gọn gàng lịch sự"
+  ],
+  "t": "Anh-Anh thường dùng smart để nói về ăn mặc gọn gàng, thời trang; Anh-Mỹ thường dùng với nghĩa thông minh."
+ },
+ "mother-in-law": {
+  "s": [
+   "mẹ chồng; mẹ vợ"
+  ],
+  "c": [
+   "mẹ chồng/mẹ vợ tương lai",
+   "mẹ chồng/mẹ vợ biết hỗ trợ"
+  ],
+  "t": "Chỉ mẹ của người phối ngẫu; số nhiều là mothers-in-law."
+ },
+ "goat": {
+  "s": [
+   "con dê"
+  ],
+  "c": [
+   "sữa dê",
+   "phô mai dê",
+   "một đàn dê"
+  ],
+  "t": "goat là dê, sheep là cừu; “vật tế thần” dùng scapegoat."
+ },
+ "clear": {
+  "s": [
+   "rõ ràng; minh bạch",
+   "trong; trong trẻo; quang đãng",
+   "dọn dẹp; dọn sạch"
+  ],
+  "c": [
+   "hướng dẫn rõ ràng",
+   "bằng chứng rõ ràng",
+   "trong suốt; rất rõ ràng",
+   "dọn bàn"
+  ],
+  "t": "make it clear that... nghĩa là nói rõ rằng..."
+ },
+ "blog": {
+  "s": [
+   "blog; nhật ký trực tuyến",
+   "viết blog"
+  ],
+  "c": [
+   "viết blog",
+   "bài đăng blog",
+   "blog du lịch",
+   "viết blog về điều gì"
+  ],
+  "t": "Một bài đăng gọi là a blog post; blog thường chỉ cả trang blog."
+ },
+ "digital": {
+  "s": [
+   "kỹ thuật số; số hóa"
+  ],
+  "c": [
+   "công nghệ số",
+   "kỹ năng số",
+   "khoảng cách số",
+   "máy ảnh kỹ thuật số"
+  ],
+  "t": "digital nhấn mạnh công nghệ số; muốn nói “thuộc về con số” dùng numerical."
+ },
+ "polite": {
+  "s": [
+   "lịch sự; lễ phép"
+  ],
+  "c": [
+   "lịch sự với ai",
+   "lời đề nghị lịch sự",
+   "cuộc trò chuyện xã giao",
+   "lời từ chối khéo"
+  ],
+  "t": "Lịch sự với ai dùng be polite to, không dùng polite with."
+ },
+ "energy": {
+  "s": [
+   "sức lực; sinh lực",
+   "năng lượng; nguồn năng lượng"
+  ],
+  "c": [
+   "tràn đầy năng lượng",
+   "năng lượng tái tạo",
+   "mức tiêu thụ năng lượng",
+   "tiết kiệm năng lượng"
+  ],
+  "t": "Khi chỉ sức lực hoặc năng lượng thì thường không đếm được, không nói an energy."
+ },
+ "government": {
+  "s": [
+   "chính phủ",
+   "sự cai trị; thể chế"
+  ],
+  "c": [
+   "chính quyền địa phương",
+   "chính phủ trung ương",
+   "chính sách của chính phủ",
+   "một thể chế chính trị"
+  ],
+  "t": "Trong Anh-Anh, khi chỉ nhóm người của chính phủ có thể đi với động từ số ít hoặc số nhiều."
+ },
+ "organise": {
+  "s": [
+   "tổ chức; chuẩn bị",
+   "sắp xếp; sắp đặt ngăn nắp"
+  ],
+  "c": [
+   "tổ chức một sự kiện",
+   "tổ chức một cuộc họp",
+   "sắp xếp thời gian",
+   "sắp xếp tập tin"
+  ],
+  "t": "organise thường gặp trong Anh-Anh; Anh-Mỹ thường viết organize."
+ },
+ "correctly": {
+  "s": [
+   "một cách đúng đắn; chính xác"
+  ],
+  "c": [
+   "trả lời đúng",
+   "nhận diện đúng",
+   "diễn giải đúng",
+   "nếu tôi nhớ không nhầm"
+  ],
+  "t": "Bổ nghĩa cho hành động; correct là tính từ hoặc động từ, không dùng như trạng từ."
+ },
+ "fair": {
+  "s": [
+   "công bằng; hợp lý",
+   "sáng da; sáng màu",
+   "hội chợ; phiên chợ"
+  ],
+  "c": [
+   "đối xử công bằng",
+   "giá hợp lý",
+   "tóc sáng màu",
+   "hội chợ thương mại"
+  ],
+  "t": "fair chỉ sự công bằng; fairly còn có thể nghĩa là “khá”."
+ },
+ "vacation": {
+  "s": [
+   "kỳ nghỉ; sự nghỉ phép",
+   "đi nghỉ"
+  ],
+  "c": [
+   "đang đi nghỉ",
+   "nghỉ phép",
+   "kỳ nghỉ hè",
+   "kỳ nghỉ có lương"
+  ],
+  "t": "Chủ yếu dùng trong Anh-Mỹ; Anh-Anh thường dùng holiday."
+ },
+ "traveler": {
+  "s": [
+   "du khách; người đi du lịch"
+  ],
+  "c": [
+   "du khách đi một mình",
+   "khách đi công tác",
+   "người hay đi du lịch"
+  ],
+  "t": "traveler là cách viết Anh-Mỹ; Anh-Anh thường viết traveller."
+ },
+ "tool": {
+  "s": [
+   "dụng cụ; công cụ",
+   "phương tiện; công cụ hỗ trợ"
+  ],
+  "c": [
+   "dụng cụ cầm tay",
+   "dụng cụ chạy điện",
+   "một công cụ hữu ích",
+   "công cụ học tập"
+  ],
+  "t": "tool là danh từ đếm được; equipment thường không đếm được."
+ },
+ "ankle": {
+  "s": [
+   "mắt cá chân; cổ chân"
+  ],
+  "c": [
+   "bị bong gân mắt cá",
+   "mắt cá chân sưng",
+   "đai hỗ trợ cổ chân"
+  ],
+  "t": "ankle là chỗ nối giữa bàn chân và cẳng chân, không phải gót chân (heel)."
+ },
+ "cereal": {
+  "s": [
+   "ngũ cốc ăn sáng",
+   "ngũ cốc; cây ngũ cốc"
+  ],
+  "c": [
+   "ngũ cốc ăn sáng",
+   "một bát ngũ cốc",
+   "cây ngũ cốc",
+   "ngũ cốc nguyên hạt"
+  ],
+  "t": "Khi nói chung về món ăn sáng thì thường không đếm được; chỉ các loại ngũ cốc dùng cereals."
+ },
+ "insect": {
+  "s": [
+   "côn trùng"
+  ],
+  "c": [
+   "vết côn trùng cắn",
+   "thuốc chống côn trùng",
+   "loài côn trùng"
+  ],
+  "t": "Danh từ đếm được; nhện có tám chân nên không phải côn trùng."
+ },
+ "frenchman": {
+  "s": [
+   "người đàn ông Pháp"
+  ],
+  "c": [
+   "một chàng trai Pháp",
+   "một người Pháp bản địa"
+  ],
+  "t": "Viết hoa chữ cái đầu, số nhiều là Frenchmen; không phân biệt giới dùng French person."
+ },
+ "manager": {
+  "s": [
+   "quản lý; giám đốc"
+  ],
+  "c": [
+   "quản lý dự án",
+   "quản lý cửa hàng",
+   "quản lý cấp cao",
+   "quản lý trực tiếp"
+  ],
+  "t": "manager chỉ người quản lý; management có thể chỉ công tác quản lý hoặc ban quản lý."
+ },
+ "alone": {
+  "s": [
+   "một mình; đơn độc",
+   "một mình; tự lực",
+   "chỉ riêng; chỉ một mình"
+  ],
+  "c": [
+   "sống một mình",
+   "đi du lịch một mình",
+   "để ai yên",
+   "tự mình làm lấy"
+  ],
+  "t": "alone nghĩa là một mình, không nhất thiết cô đơn; lonely nhấn mạnh cảm giác cô đơn."
+ },
+ "competition": {
+  "s": [
+   "sự cạnh tranh",
+   "cuộc thi; cuộc tranh tài"
+  ],
+  "c": [
+   "cạnh tranh gay gắt",
+   "cạnh tranh việc làm",
+   "tham gia cuộc thi",
+   "giành chiến thắng trong cuộc thi"
+  ],
+  "t": "Sự cạnh tranh thường không đếm được; một cuộc thi thì đếm được."
+ },
+ "beef": {
+  "s": [
+   "thịt bò"
+  ],
+  "c": [
+   "thịt bò nướng",
+   "thịt bò xay",
+   "thịt bò hầm",
+   "thịt bò nạc"
+  ],
+  "t": "Khi chỉ thức ăn thì thường không đếm được: some beef, không dùng a beef."
+ },
+ "discuss": {
+  "s": [
+   "thảo luận; bàn bạc",
+   "bàn luận; trình bày"
+  ],
+  "c": [
+   "thảo luận vấn đề",
+   "thảo luận điều gì với ai",
+   "thảo luận chi tiết"
+  ],
+  "t": "discuss đi thẳng với nội dung thảo luận: discuss sth, không thêm about."
+ },
+ "snack": {
+  "s": [
+   "đồ ăn nhẹ; món ăn vặt",
+   "ăn vặt; ăn nhẹ"
+  ],
+  "c": [
+   "đồ ăn vặt lành mạnh",
+   "bữa ăn nhẹ",
+   "ăn hạt làm đồ ăn vặt"
+  ],
+  "t": "Động từ thường dùng snack on sth, nghĩa là ăn vặt bằng món gì."
+ },
+ "ketchup": {
+  "s": [
+   "tương cà chua"
+  ],
+  "c": [
+   "tương cà chua",
+   "một chai tương cà chua",
+   "một chút tương cà bóp ra"
+  ],
+  "t": "Không đếm được; khác với tomato paste (cà chua cô đặc) dùng để nấu ăn."
+ },
+ "model": {
+  "s": [
+   "mô hình; kiểu mẫu",
+   "hình mẫu; tấm gương",
+   "người mẫu"
+  ],
+  "c": [
+   "mô hình thu nhỏ",
+   "mô hình máy tính",
+   "hình mẫu lý tưởng",
+   "người mẫu thời trang"
+  ],
+  "t": "model còn có thể là động từ, nghĩa là xây dựng mô hình hoặc làm người mẫu."
+ },
+ "photocopier": {
+  "s": [
+   "máy photocopy"
+  ],
+  "c": [
+   "dùng máy photocopy",
+   "máy photocopy văn phòng",
+   "máy photocopy màu"
+  ],
+  "t": "photocopier là cái máy; photocopy là bản sao hoặc hành động sao chụp."
+ },
+ "mail": {
+  "s": [
+   "thư từ; bưu điện",
+   "gửi thư; gửi qua bưu điện"
+  ],
+  "c": [
+   "gửi qua đường bưu điện",
+   "kiểm tra thư",
+   "gửi một bưu kiện"
+  ],
+  "t": "Khi là “thư từ” thì thường không đếm được; Anh-Anh thường dùng thêm post."
+ },
+ "weak": {
+  "s": [
+   "yếu; không có sức",
+   "kém; thiếu sức thuyết phục",
+   "nhạt; yếu"
+  ],
+  "c": [
+   "cảm thấy yếu",
+   "bằng chứng yếu",
+   "tín hiệu yếu",
+   "trà nhạt"
+  ],
+  "t": "weak đồng âm với week; weakness có thể là điểm yếu hoặc sự yếu đuối."
+ },
+ "invent": {
+  "s": [
+   "phát minh; sáng chế",
+   "bịa ra; hư cấu"
+  ],
+  "c": [
+   "phát minh ra một thiết bị",
+   "bịa ra lý do",
+   "bịa ra một câu chuyện"
+  ],
+  "t": "invent là tạo ra cái mới; discover là tìm ra cái vốn đã có."
+ },
+ "discover": {
+  "s": [
+   "phát hiện; khám phá"
+  ],
+  "c": [
+   "tìm ra phương thuốc",
+   "phát hiện loài mới",
+   "khám phá ra sự thật"
+  ],
+  "t": "discover là tìm ra cái đã tồn tại; invent là tạo ra cái mới."
+ },
+ "designer": {
+  "s": [
+   "nhà thiết kế",
+   "do nhà thiết kế nổi tiếng thiết kế; hàng hiệu"
+  ],
+  "c": [
+   "nhà thiết kế thời trang",
+   "nhà thiết kế đồ họa",
+   "nhà thiết kế nội thất",
+   "quần áo hàng hiệu"
+  ],
+  "t": "Làm tính từ thường đứng trước danh từ như quần áo, nhấn mạnh hàng hiệu của nhà thiết kế."
+ },
+ "stadium": {
+  "s": [
+   "sân vận động"
+  ],
+  "c": [
+   "sân bóng đá",
+   "sân vận động kín chỗ",
+   "sức chứa của sân vận động"
+  ],
+  "t": "Số nhiều có thể là stadiums hoặc stadia, dạng đầu phổ biến hơn."
+ },
+ "pupil": {
+  "s": [
+   "học sinh",
+   "con ngươi; đồng tử"
+  ],
+  "c": [
+   "học sinh tiểu học",
+   "cựu học sinh",
+   "đồng tử giãn"
+  ],
+  "t": "Trong Anh-Anh thường chỉ học sinh tiểu học và trung học; sinh viên đại học dùng student."
+ }
+}

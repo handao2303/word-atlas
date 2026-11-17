@@ -1,0 +1,1185 @@
+{
+ "incinerator": {
+  "s": [
+   "lò đốt"
+  ],
+  "c": [
+   "lò đốt rác",
+   "lò đốt công nghiệp",
+   "khí thải từ lò đốt"
+  ],
+  "t": "Thường chỉ lò đốt chất thải; nơi hỏa táng là crematorium."
+ },
+ "supreme": {
+  "s": [
+   "tối cao; cao nhất",
+   "cực độ; tột bậc"
+  ],
+  "c": [
+   "tòa án tối cao",
+   "quyền lực tối cao",
+   "sự tự tin tuyệt đối"
+  ],
+  "t": "Bản thân từ đã mang nghĩa “cao nhất”, thường không dùng dạng so sánh."
+ },
+ "boldness": {
+  "s": [
+   "sự táo bạo; lòng dũng cảm",
+   "sự nổi bật; sự rõ nét"
+  ],
+  "c": [
+   "thể hiện sự táo bạo",
+   "sự táo bạo về chính trị",
+   "độ rực rỡ của màu sắc"
+  ],
+  "t": "Có thể chỉ hành động táo bạo hoặc thiết kế, màu sắc nổi bật."
+ },
+ "analytic": {
+  "s": [
+   "có tính phân tích; giỏi phân tích"
+  ],
+  "c": [
+   "phương pháp phân tích",
+   "kỹ năng phân tích",
+   "khung phân tích"
+  ],
+  "t": "Nghĩa gần với analytical; khi mô tả năng lực phân tích thì analytical thường dùng hơn."
+ },
+ "discrepancy": {
+  "s": [
+   "sự không nhất quán; sự chênh lệch"
+  ],
+  "c": [
+   "sự chênh lệch giữa",
+   "một sự chênh lệch đáng kể",
+   "giải thích sự chênh lệch"
+  ],
+  "t": "Thường chỉ những thứ lẽ ra phải khớp nhau nhưng không khớp, đi với between hoặc in."
+ },
+ "amplification": {
+  "s": [
+   "sự khuếch đại (âm thanh, tín hiệu)",
+   "sự mở rộng; sự tăng cường"
+  ],
+  "c": [
+   "khuếch đại âm thanh",
+   "khuếch đại tín hiệu",
+   "thiết bị khuếch đại âm thanh"
+  ],
+  "t": "Thường chỉ việc tăng cường âm thanh, tín hiệu; cũng có thể chỉ ảnh hưởng được phóng đại."
+ },
+ "precedence": {
+  "s": [
+   "quyền ưu tiên; vị trí ưu tiên"
+  ],
+  "c": [
+   "được ưu tiên hơn",
+   "ưu tiên cho",
+   "có quyền ưu tiên hơn"
+  ],
+  "t": "Thường dùng take precedence over, nghĩa là được ưu tiên hơn."
+ },
+ "resonance": {
+  "s": [
+   "sự đồng cảm; sự cộng hưởng cảm xúc",
+   "độ vang; âm vang",
+   "sự cộng hưởng"
+  ],
+  "c": [
+   "sự đồng cảm về cảm xúc",
+   "sự đồng cảm về văn hóa",
+   "cộng hưởng từ"
+  ],
+  "t": "Nghĩa cảm xúc thường dùng have resonance for; nghĩa vật lý là cộng hưởng."
+ },
+ "apologetic": {
+  "s": [
+   "có vẻ xin lỗi; áy náy"
+  ],
+  "c": [
+   "nụ cười xin lỗi",
+   "giọng điệu áy náy",
+   "áy náy về"
+  ],
+  "t": "Thường theo sau là about hoặc for để nêu lý do xin lỗi."
+ },
+ "stoop": {
+  "s": [
+   "cúi xuống; khom người",
+   "hạ mình làm điều đê hèn",
+   "dáng lưng còng"
+  ],
+  "c": [
+   "cúi xuống nhặt thứ gì",
+   "hạ mình đến mức lừa dối",
+   "đi với dáng lưng còng"
+  ],
+  "t": "stoop to doing nghĩa là hạ mình làm điều xấu, trong đó to là giới từ."
+ },
+ "postmortem": {
+  "s": [
+   "khám nghiệm tử thi",
+   "phân tích sau sự kiện; tổng kết",
+   "sau khi chết"
+  ],
+  "c": [
+   "tiến hành khám nghiệm tử thi",
+   "khám nghiệm tử thi",
+   "phân tích sau sự kiện"
+  ],
+  "t": "Tiếng Anh Anh cũng hay viết post-mortem; có thể dùng bóng để chỉ việc tổng kết sau trận đấu hoặc dự án."
+ },
+ "certify": {
+  "s": [
+   "xác nhận chính thức; chứng nhận"
+  ],
+  "c": [
+   "chứng nhận rằng",
+   "chứng nhận là an toàn",
+   "được chứng nhận hữu cơ"
+  ],
+  "t": "Nhấn mạnh xác nhận chính thức hoặc có thẩm quyền, thường dùng certify that + mệnh đề."
+ },
+ "heighten": {
+  "s": [
+   "tăng cường; làm trầm trọng thêm"
+  ],
+  "c": [
+   "nâng cao nhận thức",
+   "làm căng thẳng thêm",
+   "làm lo ngại hơn"
+  ],
+  "t": "Thường dùng khi cảm xúc, nhận thức hoặc hiệu ứng tăng lên, ít dùng để chỉ chiều cao tăng."
+ },
+ "advocate": {
+  "s": [
+   "ủng hộ; chủ trương",
+   "người ủng hộ; người đề xướng"
+  ],
+  "c": [
+   "ủng hộ cải cách",
+   "chủ trương làm việc gì",
+   "người ủng hộ mạnh mẽ của"
+  ],
+  "t": "Danh từ kết thúc phát âm /kət/; động từ có thể theo sau là danh động từ, không dùng to do."
+ },
+ "tigress": {
+  "s": [
+   "hổ cái"
+  ],
+  "c": [
+   "hổ cái và đàn con",
+   "hổ cái hoang dã"
+  ],
+  "t": "tigress chỉ hổ cái; tiger có thể chỉ chung hổ, không nhất thiết là hổ đực."
+ },
+ "aptitude": {
+  "s": [
+   "năng khiếu; thiên bẩm"
+  ],
+  "c": [
+   "năng khiếu ngôn ngữ",
+   "bài kiểm tra năng khiếu",
+   "thể hiện năng khiếu về"
+  ],
+  "t": "Thường dùng aptitude for, theo sau là danh từ hoặc danh động từ."
+ },
+ "humiliate": {
+  "s": [
+   "làm nhục; làm mất mặt"
+  ],
+  "c": [
+   "làm nhục ai trước công chúng",
+   "cảm thấy bị làm nhục",
+   "vô cùng nhục nhã"
+  ],
+  "t": "Mạnh hơn embarrass, nhấn mạnh sự sỉ nhục và tổn hại lòng tự trọng."
+ },
+ "scrutiny": {
+  "s": [
+   "sự xem xét kỹ lưỡng; sự kiểm tra tỉ mỉ"
+  ],
+  "c": [
+   "bị xem xét kỹ",
+   "xem xét kỹ lưỡng",
+   "sự giám sát của công chúng",
+   "chịu sự xem xét"
+  ],
+  "t": "Danh từ không đếm được; under scrutiny nghĩa là bị xem xét nghiêm ngặt."
+ },
+ "amphibian": {
+  "s": [
+   "động vật lưỡng cư",
+   "phương tiện lội nước"
+  ],
+  "c": [
+   "các loài lưỡng cư",
+   "quần thể lưỡng cư",
+   "bảo tồn lưỡng cư"
+  ],
+  "t": "Danh từ chỉ động vật dùng amphibian; tính từ “lưỡng cư, thủy bộ” thường là amphibious."
+ },
+ "reinforcement": {
+  "s": [
+   "sự gia cố; sự tăng cường",
+   "sự củng cố (hành vi)",
+   "quân tiếp viện; lực lượng bổ sung"
+  ],
+  "c": [
+   "củng cố tích cực",
+   "gia cố kết cấu",
+   "điều quân tiếp viện"
+  ],
+  "t": "Khi chỉ quân tiếp viện hoặc người bổ sung thường dùng số nhiều reinforcements."
+ },
+ "fabricate": {
+  "s": [
+   "bịa đặt; làm giả",
+   "chế tạo; lắp ráp"
+  ],
+  "c": [
+   "làm giả bằng chứng",
+   "bịa một câu chuyện",
+   "bịa ra một lý do",
+   "chế tạo linh kiện"
+  ],
+  "t": "Có thể là bịa đặt thông tin hoặc chế tạo công nghiệp, cần xem tân ngữ."
+ },
+ "sorrowful": {
+  "s": [
+   "buồn bã; đau buồn"
+  ],
+  "c": [
+   "vẻ mặt buồn bã",
+   "giọng nói buồn bã",
+   "lời chia tay đau buồn"
+  ],
+  "t": "Trang trọng hơn sad, thường dùng cho nét mặt, giọng nói hoặc lời chia tay."
+ },
+ "overextend": {
+  "s": [
+   "ôm đồm quá sức; mở rộng quá mức"
+  ],
+  "c": [
+   "tự làm mình quá tải",
+   "vượt quá khả năng tài chính",
+   "khai thác quá mức nguồn lực"
+  ],
+  "t": "Thường dùng overextend oneself, nghĩa là nhận việc hoặc chi tiêu vượt quá khả năng."
+ },
+ "sportsmanship": {
+  "s": [
+   "tinh thần thể thao; phong thái thể thao"
+  ],
+  "c": [
+   "tinh thần thể thao tốt",
+   "thể hiện tinh thần thể thao",
+   "thiếu tinh thần thể thao"
+  ],
+  "t": "Danh từ không đếm được, nhấn mạnh sự công bằng và tôn trọng, không phải kỹ năng thi đấu."
+ },
+ "deviation": {
+  "s": [
+   "sự lệch khỏi; sự đi chệch",
+   "độ lệch"
+  ],
+  "c": [
+   "lệch khỏi chuẩn mực",
+   "độ lệch chuẩn",
+   "độ lệch đáng kể"
+  ],
+  "t": "Thường dùng deviation from; standard deviation là độ lệch chuẩn."
+ },
+ "optics": {
+  "s": [
+   "quang học"
+  ],
+  "c": [
+   "quang học hình học",
+   "quang học vật lý",
+   "công nghệ sợi quang"
+  ],
+  "t": "Khi chỉ môn quang học, dù kết thúc bằng s vẫn dùng động từ số ít."
+ },
+ "snowbound": {
+  "s": [
+   "bị tuyết chặn; bị mắc kẹt vì tuyết"
+  ],
+  "c": [
+   "ngôi làng bị tuyết vây",
+   "du khách bị mắc kẹt vì tuyết",
+   "vẫn bị tuyết mắc kẹt"
+  ],
+  "t": "Nhấn mạnh tuyết dày cản trở đi lại, không chỉ là phủ đầy tuyết."
+ },
+ "oversight": {
+  "s": [
+   "sự sơ suất; điều bỏ sót",
+   "sự giám sát"
+  ],
+  "c": [
+   "một sơ suất đáng tiếc",
+   "do sơ suất",
+   "giám sát độc lập",
+   "giám sát quản lý"
+  ],
+  "t": "Nghĩa “sơ suất” thường đếm được; nghĩa “giám sát” thường không đếm được."
+ },
+ "kerosene": {
+  "s": [
+   "dầu hỏa"
+  ],
+  "c": [
+   "đèn dầu hỏa",
+   "lò sưởi dầu hỏa",
+   "dầu hỏa hàng không"
+  ],
+  "t": "Danh từ không đếm được; trong tiếng Anh Anh đời thường cũng hay gọi là paraffin."
+ },
+ "temporal": {
+  "s": [
+   "thuộc thời gian",
+   "trần tục; không thuộc tôn giáo",
+   "thuộc thái dương"
+  ],
+  "c": [
+   "thứ tự thời gian",
+   "sự biến đổi theo thời gian",
+   "quyền lực thế tục",
+   "thùy thái dương"
+  ],
+  "t": "temporal là thuộc thời gian; temporary mới có nghĩa là tạm thời."
+ },
+ "redundant": {
+  "s": [
+   "thừa; không cần thiết",
+   "bị cho thôi việc do dư thừa lao động"
+  ],
+  "c": [
+   "cho ai thôi việc",
+   "thông tin thừa",
+   "trở nên không còn cần thiết"
+  ],
+  "t": "Trong tiếng Anh Anh, be made redundant nghĩa là bị cho thôi việc vì vị trí bị cắt giảm."
+ },
+ "righteous": {
+  "s": [
+   "ngay thẳng; chính trực",
+   "phẫn nộ chính đáng; tự cho là đúng"
+  ],
+  "c": [
+   "cơn giận chính đáng",
+   "sự phẫn nộ chính nghĩa",
+   "một sự nghiệp chính nghĩa"
+  ],
+  "t": "Sắc thái trang trọng; self-righteous là tự cho mình là đúng."
+ },
+ "lenient": {
+  "s": [
+   "khoan dung; không nghiêm khắc"
+  ],
+  "c": [
+   "khoan dung với ai",
+   "bản án nhẹ",
+   "sự đối xử khoan hồng"
+  ],
+  "t": "Khoan dung với ai dùng lenient with; thường liên quan đến quy tắc hoặc hình phạt."
+ },
+ "oblong": {
+  "s": [
+   "có hình chữ nhật",
+   "hình chữ nhật"
+  ],
+  "c": [
+   "bàn hình chữ nhật",
+   "hình chữ nhật",
+   "khay hình chữ nhật"
+  ],
+  "t": "Nhấn mạnh hình chữ nhật có chiều dài khác chiều rộng; không chỉ hình vuông."
+ },
+ "jeopardise": {
+  "s": [
+   "gây nguy hại; đe dọa"
+  ],
+  "c": [
+   "gây nguy hiểm cho an toàn",
+   "hủy hoại sự nghiệp",
+   "làm hại cơ hội thành công"
+  ],
+  "t": "Ngoại động từ, theo sau trực tiếp là tân ngữ; tiếng Anh Mỹ thường viết jeopardize."
+ },
+ "fluctuate": {
+  "s": [
+   "dao động; lên xuống"
+  ],
+  "c": [
+   "dao động mạnh",
+   "dao động giữa",
+   "dao động theo nhu cầu"
+  ],
+  "t": "Thường là nội động từ; dao động giữa hai giá trị dùng between."
+ },
+ "observance": {
+  "s": [
+   "sự tuân thủ",
+   "nghi lễ tôn giáo hoặc truyền thống"
+  ],
+  "c": [
+   "tuân thủ pháp luật",
+   "tuân thủ nghiêm ngặt",
+   "các nghi lễ tôn giáo"
+  ],
+  "t": "observance nghĩa là tuân thủ hoặc nghi lễ; observation là sự quan sát."
+ },
+ "ironical": {
+  "s": [
+   "mỉa mai; nói ngược",
+   "trớ trêu; ngược đời"
+  ],
+  "c": [
+   "một câu nói mỉa mai",
+   "giọng điệu mỉa mai",
+   "một bước ngoặt trớ trêu"
+  ],
+  "t": "Nghĩa cơ bản giống ironic, nhưng ironic được dùng nhiều hơn; không nhất thiết có ác ý."
+ },
+ "outward": {
+  "s": [
+   "bề ngoài; bên ngoài",
+   "hướng ra ngoài; đi ra",
+   "ra phía ngoài"
+  ],
+  "c": [
+   "vẻ bề ngoài",
+   "dấu hiệu bên ngoài",
+   "chuyến đi (lượt đi)",
+   "chuyển động hướng ra ngoài"
+  ],
+  "t": "Khi là phó từ, tiếng Anh Anh thường dùng outwards hơn."
+ },
+ "disperse": {
+  "s": [
+   "tản ra; giải tán"
+  ],
+  "c": [
+   "giải tán đám đông",
+   "phát tán hạt giống",
+   "tản ra nhanh chóng"
+  ],
+  "t": "Có thể là ngoại động từ hoặc nội động từ: giải tán đám đông hoặc đám đông tản đi."
+ },
+ "fungus": {
+  "s": [
+   "nấm"
+  ],
+  "c": [
+   "nấm đất",
+   "sự phát triển của nấm",
+   "các loại nấm ăn được"
+  ],
+  "t": "Số nhiều thường là fungi; nấm không thuộc giới thực vật."
+ },
+ "premise": {
+  "s": [
+   "tiền đề; giả định",
+   "nhà cửa và khuôn viên"
+  ],
+  "c": [
+   "tiền đề cơ bản",
+   "với tiền đề rằng",
+   "cơ sở kinh doanh",
+   "trong khuôn viên"
+  ],
+  "t": "Khi chỉ nhà cửa và khuôn viên thì dùng số nhiều premises."
+ },
+ "purity": {
+  "s": [
+   "sự tinh khiết; độ tinh khiết",
+   "sự trong sạch; sự thuần túy"
+  ],
+  "c": [
+   "độ tinh khiết của nước",
+   "độ tinh khiết cao",
+   "độ tinh khiết của vàng"
+  ],
+  "t": "Danh từ không đếm được; khi chỉ độ tinh khiết cụ thể thường dùng the purity of."
+ },
+ "autonomy": {
+  "s": [
+   "quyền tự chủ; quyền tự trị"
+  ],
+  "c": [
+   "quyền tự chủ lớn hơn",
+   "quyền tự trị khu vực",
+   "quyền tự chủ cá nhân",
+   "trao quyền tự chủ"
+  ],
+  "t": "Thường không đếm được; vừa chỉ tự trị của khu vực, vừa chỉ tự chủ của cá nhân hoặc tổ chức."
+ },
+ "know-how": {
+  "s": [
+   "bí quyết; kiến thức chuyên môn"
+  ],
+  "c": [
+   "kiến thức kỹ thuật",
+   "bí quyết thực tiễn",
+   "chuyển giao bí quyết"
+  ],
+  "t": "Danh từ không đếm được, nhấn mạnh năng lực thực hành, giữ nguyên dấu gạch nối."
+ },
+ "brisk": {
+  "s": [
+   "nhanh nhẹn; hoạt bát",
+   "sôi động; nhộn nhịp",
+   "se lạnh; sảng khoái"
+  ],
+  "c": [
+   "đi bộ nhanh",
+   "buôn bán sôi động",
+   "làn gió mát se lạnh"
+  ],
+  "t": "brisk walk là đi bộ nhanh, đầy sức sống, không phải chạy."
+ },
+ "polymer": {
+  "s": [
+   "polyme; hợp chất cao phân tử"
+  ],
+  "c": [
+   "polyme tổng hợp",
+   "polyme có thể phân hủy sinh học",
+   "chuỗi polyme"
+  ],
+  "t": "Polyme không chỉ là nhựa mà còn gồm cả chất tự nhiên như tinh bột."
+ },
+ "idiomatic": {
+  "s": [
+   "tự nhiên; đúng cách dùng bản ngữ",
+   "thuộc thành ngữ; chứa thành ngữ"
+  ],
+  "c": [
+   "tiếng Anh tự nhiên",
+   "cách diễn đạt mang tính thành ngữ",
+   "cách dùng thông dụng"
+  ],
+  "t": "Tự nhiên không có nghĩa là dùng nhiều thành ngữ; cách kết hợp từ tự nhiên cũng là idiomatic."
+ },
+ "supersede": {
+  "s": [
+   "thay thế; thay chỗ"
+  ],
+  "c": [
+   "thay thế các quy tắc hiện hành",
+   "bị thay thế bởi",
+   "thay thế các phiên bản trước"
+  ],
+  "t": "Chú ý đuôi viết là -sede, không phải -cede; thường dùng ở dạng bị động."
+ },
+ "census": {
+  "s": [
+   "cuộc điều tra dân số"
+  ],
+  "c": [
+   "tiến hành điều tra dân số",
+   "dữ liệu điều tra dân số",
+   "cuộc tổng điều tra dân số toàn quốc",
+   "mẫu phiếu điều tra dân số"
+  ],
+  "t": "census điều tra toàn bộ dân số, còn sample survey chỉ lấy mẫu."
+ },
+ "nickel": {
+  "s": [
+   "niken",
+   "đồng xu năm xu (Mỹ, Canada)"
+  ],
+  "c": [
+   "khai thác niken",
+   "hợp kim niken",
+   "dị ứng niken"
+  ],
+  "t": "Khi chỉ kim loại thì không đếm được; khi chỉ đồng xu năm xu thì đếm được."
+ },
+ "infringement": {
+  "s": [
+   "sự xâm phạm; sự vi phạm"
+  ],
+  "c": [
+   "vi phạm bản quyền",
+   "vi phạm bằng sáng chế",
+   "xâm phạm quyền"
+  ],
+  "t": "Thường đi với of; infringement of rights là xâm phạm quyền."
+ },
+ "enrich": {
+  "s": [
+   "làm phong phú; bổ sung",
+   "làm giàu",
+   "bổ sung dưỡng chất; làm màu mỡ"
+  ],
+  "c": [
+   "làm phong phú cuộc sống của mọi người",
+   "làm sâu sắc thêm hiểu biết",
+   "làm đất màu mỡ"
+  ],
+  "t": "enrich là ngoại động từ, thường đi với life, experience hoặc soil."
+ },
+ "astronomical": {
+  "s": [
+   "cực kỳ lớn; con số thiên văn",
+   "thuộc thiên văn học"
+  ],
+  "c": [
+   "chi phí khổng lồ",
+   "khoản tiền con số thiên văn",
+   "quan sát thiên văn"
+  ],
+  "t": "Khi nói về chi phí thường chỉ mức cao đến kinh ngạc; cũng có thể nghĩa là thuộc thiên văn học."
+ },
+ "disreputable": {
+  "s": [
+   "tai tiếng; không đáng tin",
+   "nhếch nhác; tồi tàn"
+  ],
+  "c": [
+   "công ty tai tiếng",
+   "hành vi đáng xấu hổ",
+   "nhân vật tai tiếng"
+  ],
+  "t": "Thường chỉ danh tiếng hoặc hành vi xấu, không chỉ vẻ ngoài tồi tàn."
+ },
+ "vicious": {
+  "s": [
+   "hung dữ; tàn bạo",
+   "độc ác; hiểm độc"
+  ],
+  "c": [
+   "cuộc tấn công hung tàn",
+   "vòng luẩn quẩn",
+   "tin đồn ác ý",
+   "nhận xét độc địa"
+  ],
+  "t": "vicious circle là “vòng luẩn quẩn”, các vấn đề làm trầm trọng lẫn nhau."
+ },
+ "agonize": {
+  "s": [
+   "day dứt suy nghĩ; lo lắng khôn nguôi"
+  ],
+  "c": [
+   "day dứt về một quyết định",
+   "lo lắng về tương lai"
+  ],
+  "t": "Thường dùng agonize over/about; tiếng Anh Anh cũng viết agonise."
+ },
+ "propulsion": {
+  "s": [
+   "sự đẩy tới; lực đẩy"
+  ],
+  "c": [
+   "hệ thống đẩy",
+   "động cơ đẩy bằng điện",
+   "đẩy phản lực"
+  ],
+  "t": "Thường không đếm được, hay dùng cho tàu thuyền, máy bay và tàu vũ trụ."
+ },
+ "harmonious": {
+  "s": [
+   "hòa thuận; êm đẹp",
+   "hài hòa; du dương"
+  ],
+  "c": [
+   "mối quan hệ hòa thuận",
+   "xã hội hài hòa",
+   "sự kết hợp hài hòa"
+  ],
+  "t": "Vừa mô tả quan hệ giữa người với người hòa thuận, vừa mô tả màu sắc, âm thanh hài hòa."
+ },
+ "generic": {
+  "s": [
+   "chung; không cụ thể",
+   "không nhãn hiệu; thuốc generic"
+  ],
+  "c": [
+   "thuật ngữ chung",
+   "lời khuyên chung chung",
+   "thuốc generic",
+   "phiên bản không thương hiệu"
+  ],
+  "t": "generic nhấn mạnh tính không cụ thể; generic medicine thường là thuốc generic."
+ },
+ "aural": {
+  "s": [
+   "thuộc thính giác; nghe"
+  ],
+  "c": [
+   "kỹ năng nghe",
+   "luyện nghe",
+   "nghe hiểu",
+   "bài kiểm tra nghe"
+  ],
+  "t": "aural là thuộc thính giác; oral là bằng miệng hoặc thuộc miệng."
+ },
+ "locomotive": {
+  "s": [
+   "đầu máy; đầu kéo xe lửa"
+  ],
+  "c": [
+   "đầu máy hơi nước",
+   "đầu máy diesel",
+   "đầu máy điện"
+  ],
+  "t": "Chỉ đầu máy cung cấp động lực, không phải cả đoàn tàu với các toa."
+ },
+ "mock": {
+  "s": [
+   "chế giễu; nhạo báng",
+   "giả; mô phỏng",
+   "kỳ thi thử"
+  ],
+  "c": [
+   "chế giễu giọng của ai",
+   "kỳ thi thử",
+   "buổi phỏng vấn thử"
+  ],
+  "t": "mock khi là động từ theo sau trực tiếp là tân ngữ, không thêm at."
+ },
+ "exertion": {
+  "s": [
+   "sự gắng sức; sự tiêu hao sức lực"
+  ],
+  "c": [
+   "gắng sức về thể chất",
+   "tiêu hao trí lực",
+   "gắng sức cường độ cao",
+   "gắng sức quá mức"
+  ],
+  "t": "Chủ yếu chỉ tiêu hao thể lực hoặc trí lực, không đồng nghĩa với try hard (cố gắng hết sức)."
+ },
+ "genocide": {
+  "s": [
+   "tội diệt chủng"
+  ],
+  "c": [
+   "thực hiện diệt chủng",
+   "ngăn chặn diệt chủng",
+   "nạn nhân của diệt chủng"
+  ],
+  "t": "Không chỉ là giết người hàng loạt, cốt lõi là cố ý hủy diệt một nhóm đặc thù."
+ },
+ "fallible": {
+  "s": [
+   "có thể sai; không hoàn toàn đáng tin"
+  ],
+  "c": [
+   "phán đoán của con người có thể sai",
+   "một hệ thống không hoàn toàn đáng tin"
+  ],
+  "t": "Nhấn mạnh có thể phạm sai lầm, không phải chắc chắn sai; trái nghĩa là infallible."
+ },
+ "transact": {
+  "s": [
+   "giao dịch; tiến hành kinh doanh"
+  ],
+  "c": [
+   "tiến hành kinh doanh",
+   "làm ăn với",
+   "giao dịch trực tuyến"
+  ],
+  "t": "Dùng trang trọng, thường dùng transact business để chỉ tiến hành kinh doanh."
+ },
+ "consolidate": {
+  "s": [
+   "củng cố; tăng cường",
+   "hợp nhất; gộp lại"
+  ],
+  "c": [
+   "củng cố kiến thức",
+   "củng cố quyền lực",
+   "củng cố thành quả",
+   "gộp các khoản nợ"
+  ],
+  "t": "Có thể chỉ củng cố thành quả đã có, hoặc gộp nhiều phần lại."
+ },
+ "manure": {
+  "s": [
+   "phân chuồng",
+   "bón phân chuồng"
+  ],
+  "c": [
+   "phân chuồng từ động vật",
+   "rải phân chuồng",
+   "phân chuồng đã ủ hoai kỹ"
+  ],
+  "t": "Danh từ thường không đếm được; fertilizer là phân bón nói chung, phạm vi rộng hơn."
+ },
+ "verge": {
+  "s": [
+   "bờ vực; ngưỡng",
+   "bãi cỏ ven đường",
+   "gần như; xấp xỉ"
+  ],
+  "c": [
+   "bên bờ tuyệt chủng",
+   "sắp làm gì",
+   "bãi cỏ ven đường",
+   "gần như phi lý"
+  ],
+  "t": "on the verge of theo sau là danh từ hoặc danh động từ; động từ thường đi với on."
+ },
+ "optimal": {
+  "s": [
+   "tối ưu; thích hợp nhất"
+  ],
+  "c": [
+   "điều kiện tối ưu",
+   "hiệu suất tối ưu",
+   "giải pháp tối ưu"
+  ],
+  "t": "Từ đã mang nghĩa “tốt nhất”, thường không dùng thêm most."
+ },
+ "resolutely": {
+  "s": [
+   "kiên quyết; quả quyết"
+  ],
+  "c": [
+   "hành động kiên quyết",
+   "kiên quyết phản đối",
+   "từ chối dứt khoát"
+  ],
+  "t": "Đây là phó từ; tính từ là resolute."
+ },
+ "upkeep": {
+  "s": [
+   "sự bảo dưỡng; sự duy trì; chi phí bảo dưỡng"
+  ],
+  "c": [
+   "bảo dưỡng định kỳ",
+   "chi phí bảo dưỡng",
+   "bảo dưỡng bất động sản"
+  ],
+  "t": "Danh từ không đếm được, vừa chỉ công việc bảo dưỡng, vừa chỉ chi phí bảo dưỡng."
+ },
+ "haunt": {
+  "s": [
+   "ám ảnh; day dứt",
+   "ma ám",
+   "nơi hay lui tới"
+  ],
+  "c": [
+   "bị ký ức ám ảnh",
+   "ma ám trong căn nhà cũ",
+   "nơi yêu thích hay lui tới"
+  ],
+  "t": "Khi là động từ theo sau trực tiếp là tân ngữ; be haunted by nghĩa là bị ám ảnh."
+ },
+ "comprise": {
+  "s": [
+   "gồm có; bao gồm",
+   "cấu thành; tạo nên"
+  ],
+  "c": [
+   "gồm nhiều phần",
+   "bao gồm nhiều dịch vụ",
+   "chiếm đa số"
+  ],
+  "t": "Cấu trúc an toàn nhất: cái tổng thể comprises các phần, không thêm of."
+ },
+ "royalty": {
+  "s": [
+   "hoàng tộc; thành viên hoàng gia",
+   "tiền bản quyền"
+  ],
+  "c": [
+   "một thành viên hoàng gia",
+   "trả tiền bản quyền",
+   "các khoản tiền bản quyền"
+  ],
+  "t": "Khi chỉ hoàng tộc thì không đếm được; khi chỉ tiền bản quyền thường dùng số nhiều royalties."
+ },
+ "perish": {
+  "s": [
+   "chết; bị hủy diệt",
+   "hư hỏng; lão hóa"
+  ],
+  "c": [
+   "chết vì lạnh",
+   "thiệt mạng trong đám cháy",
+   "cao su bị lão hóa"
+  ],
+  "t": "Thường là nội động từ; tiếng Anh Anh cũng dùng cho cao su, v.v. bị hỏng theo thời gian."
+ },
+ "transferable": {
+  "s": [
+   "có thể chuyển nhượng; có thể chuyển giao",
+   "có thể áp dụng vào bối cảnh khác"
+  ],
+  "c": [
+   "kỹ năng có thể chuyển đổi",
+   "vé có thể chuyển nhượng",
+   "kiến thức có thể áp dụng ở nơi khác"
+  ],
+  "t": "transferable skills là kỹ năng vẫn dùng được khi đổi việc hoặc đổi ngành."
+ },
+ "vice": {
+  "s": [
+   "thói xấu; hành vi vô đạo đức",
+   "cái ê tô"
+  ],
+  "c": [
+   "một thói xấu nhỏ",
+   "cái xấu và cái tốt",
+   "ê tô để bàn"
+  ],
+  "t": "Ê tô trong tiếng Anh Mỹ viết là vise; vice- trong vice-president là tiền tố."
+ },
+ "airway": {
+  "s": [
+   "đường hô hấp; khí quản",
+   "đường bay; tuyến hàng không"
+  ],
+  "c": [
+   "giữ đường thở thông thoáng",
+   "tắc nghẽn đường thở",
+   "đường hô hấp trên"
+  ],
+  "t": "Thường chỉ đường thở; nghĩa đường bay mang tính chuyên môn, đừng nhầm với airline."
+ },
+ "compel": {
+  "s": [
+   "buộc; ép"
+  ],
+  "c": [
+   "buộc ai hành động",
+   "cảm thấy buộc phải",
+   "bị hoàn cảnh ép buộc"
+  ],
+  "t": "Thường dùng compel sb to do, sắc thái mạnh và khá trang trọng."
+ },
+ "displace": {
+  "s": [
+   "buộc phải rời bỏ nơi ở",
+   "thay thế; thế chỗ",
+   "làm dịch chuyển; chiếm chỗ"
+  ],
+  "c": [
+   "những người phải di dời",
+   "thay thế công nhân",
+   "chiếm chỗ nước"
+  ],
+  "t": "displace thường chỉ bị buộc phải di dời; cũng có thể chỉ cái mới thay thế cái cũ."
+ },
+ "lure": {
+  "s": [
+   "dụ dỗ; cám dỗ",
+   "sức cám dỗ; mồi nhử"
+  ],
+  "c": [
+   "dụ ai làm gì",
+   "thu hút khách hàng",
+   "sức cám dỗ của của cải",
+   "mồi giả câu cá"
+  ],
+  "t": "Thường dùng lure sb into doing, thường hàm ý lừa gạt."
+ },
+ "cruiser": {
+  "s": [
+   "du thuyền có cabin",
+   "tàu tuần dương",
+   "xe tuần tra của cảnh sát (Mỹ)"
+  ],
+  "c": [
+   "du thuyền có cabin",
+   "xe tuần tra cảnh sát",
+   "tàu tuần dương hải quân"
+  ],
+  "t": "Tàu du lịch lớn thường gọi là cruise ship, không gọi là cruiser."
+ },
+ "lieutenant": {
+  "s": [
+   "trung úy (lục quân); đại úy hải quân",
+   "trợ thủ; phó tướng"
+  ],
+  "c": [
+   "trung úy lục quân",
+   "đại úy hải quân",
+   "phó tướng đáng tin cậy"
+  ],
+  "t": "Phát âm đầu tiếng Anh Anh là /lef/, Mỹ là /luː/; quân hàm dịch khác nhau tùy quân chủng."
+ },
+ "accumulation": {
+  "s": [
+   "sự tích lũy; sự chất đống; thứ tích tụ"
+  ],
+  "c": [
+   "tích lũy của cải",
+   "chất đống rác thải",
+   "tích lũy dần dần",
+   "tích lũy tư bản"
+  ],
+  "t": "Thường đi với of, nhấn mạnh sự tăng dần theo thời gian."
+ },
+ "prophecy": {
+  "s": [
+   "lời tiên tri",
+   "khả năng tiên tri"
+  ],
+  "c": [
+   "lời tiên tri tự ứng nghiệm",
+   "làm lời tiên tri ứng nghiệm",
+   "năng khiếu tiên tri"
+  ],
+  "t": "prophecy là danh từ; động từ prophesy kết thúc phát âm /saɪ/."
+ },
+ "swift": {
+  "s": [
+   "nhanh chóng; nhanh nhẹn",
+   "chim yến"
+  ],
+  "c": [
+   "hành động nhanh chóng",
+   "phản hồi nhanh chóng",
+   "hồi phục nhanh chóng"
+  ],
+  "t": "Thường bổ nghĩa cho action, response; phó từ là swiftly."
+ },
+ "doctrine": {
+  "s": [
+   "giáo lý; học thuyết; tín điều"
+  ],
+  "c": [
+   "giáo lý tôn giáo",
+   "học thuyết kinh tế",
+   "tín điều chính trị"
+  ],
+  "t": "Không nhất thiết mang nghĩa chê; có thể chỉ giáo lý tôn giáo hoặc học thuyết chính trị, kinh tế."
+ },
+ "elevate": {
+  "s": [
+   "nâng lên; nhấc lên",
+   "nâng cao địa vị; nâng tầm",
+   "làm phấn chấn"
+  ],
+  "c": [
+   "nâng chi lên cao",
+   "nâng tiêu chuẩn",
+   "thăng ai lên một vị trí",
+   "cải thiện tâm trạng"
+  ],
+  "t": "Ngoại động từ; elevate A to B nghĩa là nâng A lên B."
+ },
+ "tranquil": {
+  "s": [
+   "yên tĩnh; thanh bình"
+  ],
+  "c": [
+   "khung cảnh yên bình",
+   "mặt nước phẳng lặng",
+   "bầu không khí yên tĩnh"
+  ],
+  "t": "Thường tả môi trường hoặc mặt nước, nhấn mạnh sự yên bình hơn quiet."
+ },
+ "thrive": {
+  "s": [
+   "phát triển mạnh; thịnh vượng"
+  ],
+  "c": [
+   "phát triển mạnh trong điều kiện ấm áp",
+   "càng hăng hái khi gặp thử thách",
+   "một doanh nghiệp làm ăn phát đạt"
+  ],
+  "t": "Nội động từ; thrive on nghĩa là càng có năng lượng nhờ điều gì."
+ },
+ "stimulus": {
+  "s": [
+   "nhân tố thúc đẩy; sự kích thích",
+   "tác nhân kích thích"
+  ],
+  "c": [
+   "yếu tố thúc đẩy tăng trưởng",
+   "kích thích kinh tế",
+   "phản ứng với kích thích"
+  ],
+  "t": "Số nhiều là stimuli; trong stimulus to, to là giới từ."
+ },
+ "deft": {
+  "s": [
+   "khéo léo; thành thạo"
+  ],
+  "c": [
+   "thủ pháp điêu luyện",
+   "cách xử lý khéo léo",
+   "động tác khéo léo"
+  ],
+  "t": "Có thể mô tả động tác tay khéo léo, hoặc xử lý vấn đề khéo."
+ },
+ "culminate": {
+  "s": [
+   "kết thúc bằng; đạt đến đỉnh điểm"
+  ],
+  "c": [
+   "kết thúc bằng thành công",
+   "kết thúc bằng một thỏa thuận",
+   "lên đến đỉnh điểm bằng một buổi lễ"
+  ],
+  "t": "Thường dùng culminate in + kết quả, nhấn mạnh điểm cuối hoặc cao trào sau một quá trình."
+ },
+ "touchy": {
+  "s": [
+   "dễ nổi cáu; nhạy cảm",
+   "nhạy cảm, khó xử lý"
+  ],
+  "c": [
+   "nhạy cảm với lời chỉ trích",
+   "chủ đề nhạy cảm",
+   "vấn đề nhạy cảm khó xử"
+  ],
+  "t": "touchy là dễ nổi cáu; touched là cảm động."
+ },
+ "workmanship": {
+  "s": [
+   "tay nghề; chất lượng làm việc"
+  ],
+  "c": [
+   "tay nghề tinh xảo",
+   "tay nghề kém",
+   "tay nghề chất lượng cao"
+  ],
+  "t": "Danh từ không đếm được, nhấn mạnh chất lượng sản phẩm làm ra, không phải thái độ làm việc."
+ },
+ "marshal": {
+  "s": [
+   "tập hợp; điều động; sắp xếp",
+   "nhân viên điều hành",
+   "nguyên soái"
+  ],
+  "c": [
+   "huy động nguồn lực",
+   "sắp xếp bằng chứng",
+   "nhân viên điều hành cuộc đua",
+   "nguyên soái lục quân"
+  ],
+  "t": "Quá khứ là marshalled (Anh), marshaled (Mỹ); đừng nhầm với martial."
+ },
+ "pharmaceutical": {
+  "s": [
+   "thuộc dược; thuộc thuốc",
+   "dược phẩm"
+  ],
+  "c": [
+   "ngành dược",
+   "công ty dược",
+   "nghiên cứu dược"
+  ],
+  "t": "Khi là danh từ thường dùng số nhiều pharmaceuticals, chỉ chung dược phẩm."
+ },
+ "bleak": {
+  "s": [
+   "ảm đạm; vô vọng",
+   "hoang vắng; lạnh lẽo"
+  ],
+  "c": [
+   "tương lai ảm đạm",
+   "triển vọng bi quan",
+   "phong cảnh hoang vắng"
+  ],
+  "t": "Có thể mô tả môi trường hoang vắng, lạnh lẽo, hoặc triển vọng vô vọng."
+ }
+}

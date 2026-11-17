@@ -1,0 +1,1233 @@
+{
+ "exhaustion": {
+  "s": [
+   "sự kiệt sức; sự mệt mỏi cực độ",
+   "sự cạn kiệt; sự dùng hết"
+  ],
+  "c": [
+   "kiệt sức về thể chất",
+   "kiệt sức về tinh thần",
+   "sự cạn kiệt tài nguyên"
+  ],
+  "t": "exhaustion không có nghĩa “sự trình bày chi tiết”; exhaustive mới có nghĩa “toàn diện, đầy đủ”."
+ },
+ "bulletin": {
+  "s": [
+   "bản tin; thông báo"
+  ],
+  "c": [
+   "bản tin thời sự",
+   "bản tin thời tiết",
+   "đưa ra thông báo"
+  ],
+  "t": "Nhấn mạnh thông tin ngắn gọn, kịp thời; news bulletin thường chỉ bản tin phát thanh, truyền hình."
+ },
+ "workload": {
+  "s": [
+   "khối lượng công việc; áp lực công việc"
+  ],
+  "c": [
+   "khối lượng công việc nặng",
+   "khối lượng công việc vừa sức",
+   "giảm khối lượng công việc",
+   "chia sẻ công việc"
+  ],
+  "t": "Khi muốn nói khối lượng công việc lớn, dùng heavy workload chứ không dùng hard workload."
+ },
+ "characteristic": {
+  "s": [
+   "đặc điểm; đặc trưng",
+   "điển hình; đặc trưng"
+  ],
+  "c": [
+   "đặc điểm nổi bật",
+   "đặc điểm thể chất",
+   "đặc trưng của"
+  ],
+  "t": "Dạng tính từ thường dùng be characteristic of, nghĩa là “là đặc trưng điển hình của”."
+ },
+ "agency": {
+  "s": [
+   "cơ quan đại lý; công ty môi giới",
+   "cơ quan chuyên trách; cơ quan chính phủ",
+   "khả năng tự chủ hành động"
+  ],
+  "c": [
+   "công ty du lịch",
+   "công ty tuyển dụng",
+   "cơ quan chính phủ",
+   "khả năng tự chủ của cá nhân"
+  ],
+  "t": "Khi chỉ cơ quan, tổ chức thì đếm được; khi chỉ khả năng tự chủ hành động thì thường không đếm được."
+ },
+ "provided": {
+  "s": [
+   "miễn là; với điều kiện là",
+   "cung cấp (quá khứ)"
+  ],
+  "c": [
+   "miễn là; với điều kiện là",
+   "các dịch vụ được cung cấp",
+   "thông tin được cung cấp"
+  ],
+  "t": "Liên từ provided (that) diễn tả điều kiện; that có thể bỏ."
+ },
+ "wholesaler": {
+  "s": [
+   "nhà bán buôn; người bán sỉ"
+  ],
+  "c": [
+   "nhà bán buôn thực phẩm",
+   "mua hàng từ nhà bán buôn",
+   "nhà cung cấp bán buôn"
+  ],
+  "t": "wholesaler chủ yếu cung cấp hàng số lượng lớn cho các doanh nghiệp, không bán lẻ trực tiếp."
+ },
+ "relatively": {
+  "s": [
+   "tương đối; một cách so sánh"
+  ],
+  "c": [
+   "tương đối thấp",
+   "tương đối dễ",
+   "nói một cách tương đối"
+  ],
+  "t": "Diễn tả mức độ sau khi so sánh, không đồng nghĩa với very."
+ },
+ "homestay": {
+  "s": [
+   "ở nhà dân bản địa; homestay"
+  ],
+  "c": [
+   "chỗ ở homestay",
+   "chương trình homestay",
+   "gia đình đón khách homestay"
+  ],
+  "t": "Nhấn mạnh việc ở cùng một gia đình bản địa; gia đình đón tiếp thường gọi là host family."
+ },
+ "flap": {
+  "s": [
+   "vỗ; vẫy cánh; bay phấp phới",
+   "nắp; vạt",
+   "sự hoảng hốt; sự bối rối"
+  ],
+  "c": [
+   "vỗ cánh",
+   "nắp túi",
+   "rơi vào trạng thái hoảng hốt"
+  ],
+  "t": "Quá khứ là flapped, hiện tại phân từ là flapping, đều gấp đôi chữ p."
+ },
+ "directory": {
+  "s": [
+   "danh bạ; niên giám",
+   "thư mục (máy tính)"
+  ],
+  "c": [
+   "danh bạ doanh nghiệp",
+   "danh bạ điện thoại",
+   "danh bạ trực tuyến",
+   "thư mục gốc"
+  ],
+  "t": "Danh bạ thường có thông tin liên lạc; trong máy tính, directory là thư mục tệp."
+ },
+ "pedal": {
+  "s": [
+   "bàn đạp",
+   "đạp bàn đạp; đạp xe"
+  ],
+  "c": [
+   "bàn đạp phanh",
+   "bàn đạp xe đạp",
+   "đạp xe lên dốc"
+  ],
+  "t": "Anh-Anh thường viết pedalled, Anh-Mỹ viết pedaled."
+ },
+ "merely": {
+  "s": [
+   "chỉ là; đơn thuần"
+  ],
+  "c": [
+   "chỉ đơn thuần là vấn đề của",
+   "không chỉ",
+   "chỉ vì"
+  ],
+  "t": "Trang trọng hơn only; thường đứng trước động từ thường, sau động từ be."
+ },
+ "resign": {
+  "s": [
+   "từ chức; thôi việc",
+   "đành chấp nhận"
+  ],
+  "c": [
+   "thôi việc",
+   "từ chức chủ tịch",
+   "đành chấp nhận"
+  ],
+  "t": "resign oneself to theo sau là danh từ hoặc danh động từ, nghĩa là đành chấp nhận."
+ },
+ "cannon": {
+  "s": [
+   "đại bác; pháo"
+  ],
+  "c": [
+   "bắn đại bác",
+   "tiếng pháo nổ",
+   "viên đạn đại bác"
+  ],
+  "t": "Số nhiều có thể là cannon hoặc cannons; đừng nhầm với canon."
+ },
+ "rejection": {
+  "s": [
+   "sự từ chối; sự bác bỏ",
+   "sự đào thải (cơ thể)"
+  ],
+  "c": [
+   "nỗi sợ bị từ chối",
+   "việc bác bỏ một đề xuất",
+   "bị từ chối",
+   "sự đào thải nội tạng"
+  ],
+  "t": "rejection of theo sau là người, đề xuất hoặc vật bị từ chối."
+ },
+ "craft": {
+  "s": [
+   "nghề thủ công; thủ công mỹ nghệ",
+   "chế tác tỉ mỉ",
+   "tàu thuyền; phương tiện bay"
+  ],
+  "c": [
+   "nghề thủ công truyền thống",
+   "học một nghề thủ công",
+   "soạn thảo cẩn thận một đề xuất",
+   "tàu đổ bộ"
+  ],
+  "t": "Khi chỉ tàu thuyền hoặc phương tiện bay, craft có dạng số ít và số nhiều giống nhau."
+ },
+ "scent": {
+  "s": [
+   "hương thơm; mùi",
+   "dấu mùi (để truy tìm)",
+   "ngửi thấy; đánh hơi"
+  ],
+  "c": [
+   "hương thơm nhẹ nhàng",
+   "hương hoa",
+   "lần theo mùi"
+  ],
+  "t": "scent thường chỉ hương thơm, cũng chỉ mùi mà động vật lần theo; chữ c không phát âm."
+ },
+ "noble": {
+  "s": [
+   "cao quý; cao thượng",
+   "thuộc dòng dõi quý tộc",
+   "quý tộc"
+  ],
+  "c": [
+   "sự nghiệp cao quý",
+   "cử chỉ cao thượng",
+   "gia đình quý tộc"
+  ],
+  "t": "Khi nghĩa là “cao quý”, từ này nhấn mạnh phẩm chất đạo đức chứ không phải địa vị xã hội."
+ },
+ "discrimination": {
+  "s": [
+   "sự phân biệt đối xử",
+   "khả năng phân biệt; sự nhận biết"
+  ],
+  "c": [
+   "phân biệt chủng tộc",
+   "phân biệt tuổi tác",
+   "sự phân biệt đối xử với",
+   "khả năng phân biệt bằng thị giác"
+  ],
+  "t": "Dùng discrimination against khi nói phân biệt đối xử với một nhóm; thường không đếm được."
+ },
+ "knight": {
+  "s": [
+   "hiệp sĩ thời trung cổ",
+   "hiệp sĩ (tước hiệu); ngài",
+   "quân mã (cờ vua)"
+  ],
+  "c": [
+   "hiệp sĩ thời trung cổ",
+   "hiệp sĩ mặc áo giáp",
+   "phong tước hiệp sĩ"
+  ],
+  "t": "Chữ k không phát âm, đọc giống night; người có tước hiệp sĩ được gọi là Sir."
+ },
+ "oceania": {
+  "s": [
+   "châu Đại Dương"
+  ],
+  "c": [
+   "các quốc đảo ở châu Đại Dương",
+   "khắp châu Đại Dương",
+   "các dân tộc ở châu Đại Dương"
+  ],
+  "t": "Là danh từ riêng, viết hoa chữ cái đầu; thường không dùng the đứng trước."
+ },
+ "packaging": {
+  "s": [
+   "vật liệu đóng gói; bao bì"
+  ],
+  "c": [
+   "bao bì có thể tái chế",
+   "bao bì quá mức",
+   "vật liệu đóng gói"
+  ],
+  "t": "Khi chỉ vật liệu đóng gói thì thường không đếm được; một gói hàng là package."
+ },
+ "imply": {
+  "s": [
+   "ám chỉ; gợi ý",
+   "bao hàm; kéo theo"
+  ],
+  "c": [
+   "ám chỉ rằng",
+   "không nhất thiết có nghĩa là",
+   "ám chỉ mạnh mẽ"
+  ],
+  "t": "imply là người nói ngụ ý; infer là người nghe suy ra."
+ },
+ "yeast": {
+  "s": [
+   "men; nấm men"
+  ],
+  "c": [
+   "men khô",
+   "men tươi",
+   "sự lên men do nấm men",
+   "tế bào nấm men"
+  ],
+  "t": "Trong làm bánh thường là danh từ không đếm được; không phải là baking powder."
+ },
+ "interruption": {
+  "s": [
+   "sự ngắt lời; sự gián đoạn"
+  ],
+  "c": [
+   "không bị gián đoạn",
+   "những lần bị quấy rầy liên tục",
+   "sự gián đoạn dịch vụ"
+  ],
+  "t": "Một lần gián đoạn thì đếm được; without interruption nghĩa là không ngừng."
+ },
+ "linguist": {
+  "s": [
+   "nhà ngôn ngữ học",
+   "người giỏi nhiều ngoại ngữ"
+  ],
+  "c": [
+   "nhà ngôn ngữ học ứng dụng",
+   "nhà ngôn ngữ học được đào tạo bài bản",
+   "người có năng khiếu ngôn ngữ"
+  ],
+  "t": "linguist chỉ người; linguistics là ngành ngôn ngữ học, dùng như danh từ số ít."
+ },
+ "arctic": {
+  "s": [
+   "thuộc Bắc Cực",
+   "cực lạnh",
+   "vùng Bắc Cực"
+  ],
+  "c": [
+   "cáo Bắc Cực",
+   "điều kiện cực lạnh",
+   "vùng Bắc Cực"
+  ],
+  "t": "Chỉ vùng Bắc Cực thì dùng the Arctic; Nam Cực là the Antarctic."
+ },
+ "marked": {
+  "s": [
+   "rõ rệt; đáng kể",
+   "có đánh dấu; có ký hiệu"
+  ],
+  "c": [
+   "sự tăng đáng kể",
+   "sự cải thiện rõ rệt",
+   "sự tương phản rõ nét",
+   "được đánh dấu rõ ràng"
+  ],
+  "t": "Trong văn viết học thuật thường có nghĩa “đáng kể”; âm cuối đọc /t/."
+ },
+ "milestone": {
+  "s": [
+   "cột mốc; giai đoạn quan trọng",
+   "cột mốc đường (chỉ khoảng cách)"
+  ],
+  "c": [
+   "đạt đến một cột mốc",
+   "đánh dấu một cột mốc",
+   "cột mốc quan trọng"
+  ],
+  "t": "Thường chỉ mốc quan trọng trong quá trình phát triển, hay đi với in."
+ },
+ "approximate": {
+  "s": [
+   "xấp xỉ; gần đúng",
+   "gần bằng; xấp xỉ"
+  ],
+  "c": [
+   "chi phí ước chừng",
+   "kích thước ước chừng",
+   "con số xấp xỉ"
+  ],
+  "t": "Tính từ phát âm cuối là /mət/, động từ phát âm cuối là /meɪt/."
+ },
+ "truly": {
+  "s": [
+   "thật sự; quả thật",
+   "chân thành; từ đáy lòng"
+  ],
+  "c": [
+   "thật lòng tin",
+   "thật sự đáng chú ý",
+   "chân thành xin lỗi"
+  ],
+  "t": "Từ true thành truly thì bỏ e, không viết là truely."
+ },
+ "assign": {
+  "s": [
+   "phân công; giao",
+   "gán; ấn định"
+  ],
+  "c": [
+   "giao nhiệm vụ",
+   "phân công trách nhiệm",
+   "phân ai đó vào một nhóm",
+   "gán một giá trị"
+  ],
+  "t": "Thường dùng assign sth to sb, cũng có thể dùng assign sb sth."
+ },
+ "barn": {
+  "s": [
+   "kho thóc; chuồng trại"
+  ],
+  "c": [
+   "cất cỏ khô vào kho thóc",
+   "nhà kho cải tạo thành nhà ở",
+   "kho thóc bằng gỗ"
+  ],
+  "t": "Chỉ công trình lớn ở nông trại, dùng để chứa nông sản hoặc nuôi gia súc."
+ },
+ "vapour": {
+  "s": [
+   "hơi; hơi nước"
+  ],
+  "c": [
+   "hơi nước",
+   "áp suất hơi",
+   "thải ra hơi"
+  ],
+  "t": "Anh-Anh viết vapour, Anh-Mỹ viết vapor."
+ },
+ "reject": {
+  "s": [
+   "từ chối; bác bỏ",
+   "loại bỏ; vứt bỏ",
+   "hàng loại; phế phẩm"
+  ],
+  "c": [
+   "bác bỏ một đề xuất",
+   "từ chối đơn xin",
+   "bác bỏ một tuyên bố",
+   "loại bỏ sản phẩm lỗi"
+  ],
+  "t": "Động từ nhấn trọng âm ở âm sau; danh từ nhấn ở âm đầu, đọc /ˈriːdʒekt/."
+ },
+ "worship": {
+  "s": [
+   "sự thờ phụng; sự lễ bái",
+   "thờ phụng; đi lễ",
+   "sùng bái; tôn thờ"
+  ],
+  "c": [
+   "nơi thờ tự",
+   "tự do tín ngưỡng",
+   "sự thờ phụng tôn giáo",
+   "sự sùng bái anh hùng"
+  ],
+  "t": "Anh-Anh viết worshipped, Anh-Mỹ thường viết worshiped."
+ },
+ "superstition": {
+  "s": [
+   "mê tín; điều mê tín"
+  ],
+  "c": [
+   "niềm tin mê tín phổ biến",
+   "do mê tín",
+   "mê tín về vận xui"
+  ],
+  "t": "Nói chung về mê tín thì không đếm được; một niềm tin mê tín cụ thể thì đếm được."
+ },
+ "evaluation": {
+  "s": [
+   "sự đánh giá; sự định giá"
+  ],
+  "c": [
+   "tiến hành đánh giá",
+   "đánh giá hiệu suất",
+   "đánh giá mang tính phản biện",
+   "tiêu chí đánh giá"
+  ],
+  "t": "Thường đi với of; nhấn mạnh chất lượng hoặc hiệu quả, còn định giá về tiền thường dùng valuation."
+ },
+ "violation": {
+  "s": [
+   "sự vi phạm",
+   "sự xâm phạm"
+  ],
+  "c": [
+   "hành vi vi phạm pháp luật",
+   "vi phạm",
+   "sự xâm phạm quyền riêng tư",
+   "vi phạm giao thông"
+  ],
+  "t": "Dùng a violation of để nói vi phạm hoặc xâm phạm điều gì."
+ },
+ "inspection": {
+  "s": [
+   "sự kiểm tra; sự thanh tra"
+  ],
+  "c": [
+   "tiến hành kiểm tra",
+   "kiểm tra an toàn",
+   "khi xem xét kỹ hơn"
+  ],
+  "t": "inspection chỉ quá trình kiểm tra; kiểm tra cái gì thì nối bằng of."
+ },
+ "leadership": {
+  "s": [
+   "năng lực lãnh đạo; sự lãnh đạo",
+   "ban lãnh đạo"
+  ],
+  "c": [
+   "kỹ năng lãnh đạo",
+   "sự lãnh đạo mạnh mẽ",
+   "dưới sự lãnh đạo của"
+  ],
+  "t": "Thường không đếm được; có thể chỉ năng lực lãnh đạo hoặc ban lãnh đạo."
+ },
+ "prominent": {
+  "s": [
+   "quan trọng; nổi tiếng",
+   "dễ thấy; nổi bật"
+  ],
+  "c": [
+   "vai trò quan trọng",
+   "nhân vật nổi tiếng",
+   "vị trí dễ thấy"
+  ],
+  "t": "Vừa chỉ người quan trọng, nổi tiếng, vừa chỉ vị trí hoặc hình dáng dễ thấy."
+ },
+ "earnings": {
+  "s": [
+   "tiền lương; thu nhập từ lao động",
+   "lợi nhuận của công ty"
+  ],
+  "c": [
+   "thu nhập hằng năm",
+   "thu nhập trung bình",
+   "lợi nhuận công ty",
+   "tăng trưởng thu nhập"
+  ],
+  "t": "Danh từ số nhiều kết thúc bằng -s; khi làm chủ ngữ thì động từ chia số nhiều."
+ },
+ "waving": {
+  "s": [
+   "đung đưa; phấp phới"
+  ],
+  "c": [
+   "cành cây đung đưa",
+   "lá cờ phấp phới",
+   "cỏ khẽ đung đưa"
+  ],
+  "t": "Phần lớn là hiện tại phân từ của wave; nghĩa “gợn sóng” tĩnh thường dùng wavy."
+ },
+ "replacement": {
+  "s": [
+   "người thay thế; vật thay thế",
+   "sự thay thế; sự thay mới"
+  ],
+  "c": [
+   "người hoặc vật thay thế cho",
+   "phụ tùng thay thế",
+   "phẫu thuật thay khớp háng"
+  ],
+  "t": "Khi chỉ vật thay thế thì thường đếm được; khi chỉ quá trình thay thế thì thường không đếm được."
+ },
+ "conscience": {
+  "s": [
+   "lương tâm; ý thức đạo đức",
+   "sự day dứt; cảm giác tội lỗi"
+  ],
+  "c": [
+   "lương tâm trong sạch",
+   "lương tâm cắn rứt",
+   "vấn đề lương tâm"
+  ],
+  "t": "conscience là lương tâm; conscious là có ý thức."
+ },
+ "suspicious": {
+  "s": [
+   "đáng ngờ",
+   "nghi ngờ; không tin tưởng"
+  ],
+  "c": [
+   "hành vi đáng ngờ",
+   "hoàn cảnh đáng ngờ",
+   "nghi ngờ ai đó",
+   "rất đáng ngờ"
+  ],
+  "t": "Sự việc đáng ngờ dùng suspicious; nghi ngờ điều gì dùng suspicious of."
+ },
+ "calorie": {
+  "s": [
+   "calo; đơn vị nhiệt lượng"
+  ],
+  "c": [
+   "đốt cháy calo",
+   "lượng calo nạp vào",
+   "ít calo",
+   "hàm lượng calo"
+  ],
+  "t": "Trong ngữ cảnh thực phẩm, calorie thường là kilocalorie; trong vật lý nó là calo nhỏ."
+ },
+ "sequence": {
+  "s": [
+   "trình tự; chuỗi",
+   "sắp xếp theo trình tự"
+  ],
+  "c": [
+   "theo thứ tự",
+   "một chuỗi sự kiện",
+   "trình tự đúng"
+  ],
+  "t": "a sequence of theo sau là danh từ số nhiều, chỉ một chuỗi sự vật."
+ },
+ "extinct": {
+  "s": [
+   "tuyệt chủng",
+   "đã tắt; không còn hoạt động"
+  ],
+  "c": [
+   "tuyệt chủng",
+   "loài đã tuyệt chủng",
+   "núi lửa đã tắt"
+  ],
+  "t": "extinct là đã tuyệt chủng; endangered là bị đe dọa nhưng chưa tuyệt chủng."
+ },
+ "inferior": {
+  "s": [
+   "kém hơn; thấp kém",
+   "cấp thấp hơn",
+   "cấp dưới; người có cấp bậc thấp hơn"
+  ],
+  "c": [
+   "kém hơn",
+   "chất lượng kém",
+   "cảm thấy tự ti"
+  ],
+  "t": "So sánh dùng inferior to, không dùng than; feel inferior là cảm thấy tự ti."
+ },
+ "anyhow": {
+  "s": [
+   "dù sao đi nữa; dù thế nào",
+   "nói chung; dù sao",
+   "tùy tiện; lộn xộn"
+  ],
+  "c": [
+   "bằng mọi giá cũng làm",
+   "vẫn đi",
+   "để đồ đạc lung tung"
+  ],
+  "t": "Nghĩa “dù sao” khá khẩu ngữ; đừng nhầm với somehow."
+ },
+ "guideline": {
+  "s": [
+   "nguyên tắc chỉ đạo; hướng dẫn"
+  ],
+  "c": [
+   "tuân theo hướng dẫn",
+   "ban hành hướng dẫn",
+   "hướng dẫn an toàn",
+   "nguyên tắc chỉ đạo rõ ràng"
+  ],
+  "t": "Thường dùng số nhiều guidelines; thường là hướng dẫn chứ không phải quy định bắt buộc."
+ },
+ "walnut": {
+  "s": [
+   "quả óc chó",
+   "cây óc chó; gỗ óc chó"
+  ],
+  "c": [
+   "vỏ quả óc chó",
+   "cây óc chó",
+   "dầu óc chó",
+   "đồ nội thất gỗ óc chó"
+  ],
+  "t": "Chỉ quả hoặc cây thì đếm được; chỉ gỗ óc chó thì không đếm được."
+ },
+ "airy": {
+  "s": [
+   "thoáng mát; rộng rãi sáng sủa",
+   "nhẹ nhàng; mỏng manh",
+   "thờ ơ; hời hợt"
+  ],
+  "c": [
+   "sáng sủa thoáng mát",
+   "căn phòng rộng rãi thoáng mát",
+   "cái vẫy tay hờ hững"
+  ],
+  "t": "Khi tả căn phòng, airy nghĩa là thoáng và rộng, không phải “làm bằng không khí”."
+ },
+ "recruit": {
+  "s": [
+   "tuyển dụng; tuyển mộ",
+   "nhân viên mới; thành viên mới; tân binh"
+  ],
+  "c": [
+   "tuyển nhân viên",
+   "tuyển tình nguyện viên",
+   "thành viên mới",
+   "công ty tuyển dụng"
+  ],
+  "t": "recruit có thể là động từ hoặc danh từ đếm được; hoạt động tuyển dụng dùng recruitment."
+ },
+ "luxurious": {
+  "s": [
+   "sang trọng; xa hoa tiện nghi"
+  ],
+  "c": [
+   "khách sạn sang trọng",
+   "lối sống xa hoa",
+   "chỗ ở sang trọng"
+  ],
+  "t": "luxurious là sang trọng, thoải mái; luxuriant thường chỉ cây cối um tùm."
+ },
+ "ease": {
+  "s": [
+   "làm dịu; giảm bớt",
+   "sự dễ dàng; sự thoải mái",
+   "từ từ di chuyển một cách cẩn thận"
+  ],
+  "c": [
+   "giảm đau",
+   "giảm tắc nghẽn",
+   "một cách dễ dàng",
+   "thoải mái; thư giãn"
+  ],
+  "t": "with ease là không tốn sức; at ease là thoải mái, thư giãn."
+ },
+ "tackle": {
+  "s": [
+   "giải quyết; đối phó",
+   "cản phá; xoạc bóng",
+   "dụng cụ thể thao; đồ câu"
+  ],
+  "c": [
+   "giải quyết vấn đề",
+   "đối phó với bất bình đẳng",
+   "đồ câu cá",
+   "cản phá đối thủ"
+  ],
+  "t": "tackle đi thẳng với vấn đề, không thêm with; nhấn mạnh việc bắt tay giải quyết."
+ },
+ "compartment": {
+  "s": [
+   "ngăn; khoang; buồng"
+  ],
+  "c": [
+   "ngăn chứa đồ",
+   "hộc đựng đồ trên ô tô",
+   "khoang tàu hỏa"
+  ],
+  "t": "Chỉ phần được ngăn ra trong một không gian lớn hơn, như ngăn trong túi."
+ },
+ "villain": {
+  "s": [
+   "nhân vật phản diện; kẻ xấu",
+   "thủ phạm; nguyên nhân chính"
+  ],
+  "c": [
+   "đóng vai phản diện",
+   "nhân vật phản diện trong truyện",
+   "thủ phạm thực sự"
+  ],
+  "t": "Thường chỉ nhân vật phản diện trong truyện; đừng nhầm với villa “biệt thự”."
+ },
+ "invade": {
+  "s": [
+   "xâm lược; xâm chiếm",
+   "xâm phạm; làm phiền",
+   "tràn vào ồ ạt"
+  ],
+  "c": [
+   "xâm lược một quốc gia",
+   "xâm phạm quyền riêng tư của ai",
+   "xâm phạm không gian cá nhân"
+  ],
+  "t": "Là ngoại động từ, theo sau là tân ngữ trực tiếp; danh từ là invasion."
+ },
+ "classification": {
+  "s": [
+   "sự phân loại",
+   "loại; hạng"
+  ],
+  "c": [
+   "hệ thống phân loại",
+   "phân loại loài",
+   "phân loại dữ liệu"
+  ],
+  "t": "classify A as B nghĩa là “xếp A vào loại B”."
+ },
+ "imitation": {
+  "s": [
+   "sự bắt chước; sự mô phỏng",
+   "đồ giả; hàng nhái",
+   "giả; nhân tạo"
+  ],
+  "c": [
+   "học bằng cách bắt chước",
+   "bản bắt chước vụng về; hàng nhái kém chất lượng",
+   "da giả",
+   "bắt chước theo"
+  ],
+  "t": "Hành động bắt chước thường không đếm được; một món hàng nhái là an imitation."
+ },
+ "barrel": {
+  "s": [
+   "thùng tròn; một thùng",
+   "nòng súng; nòng pháo",
+   "phóng nhanh; lao đi"
+  ],
+  "c": [
+   "thùng gỗ",
+   "một thùng dầu",
+   "nòng súng",
+   "lao nhanh trên đường"
+  ],
+  "t": "Số nhiều barrels; một thùng dầu là a barrel of oil."
+ },
+ "prevention": {
+  "s": [
+   "sự phòng ngừa; sự ngăn chặn"
+  ],
+  "c": [
+   "phòng ngừa bệnh tật",
+   "phòng chống tội phạm",
+   "phòng cháy"
+  ],
+  "t": "Thường không đếm được; động từ đi kèm là prevent sb from doing."
+ },
+ "wagon": {
+  "s": [
+   "xe ngựa chở hàng bốn bánh",
+   "toa xe chở hàng (đường sắt)"
+  ],
+  "c": [
+   "xe ngựa chở hàng",
+   "xe ngựa có mui",
+   "toa chở hàng đường sắt"
+  ],
+  "t": "Anh-Anh cũng viết waggon; nghĩa đường sắt chủ yếu dùng trong Anh-Anh."
+ },
+ "broaden": {
+  "s": [
+   "mở rộng; nâng cao",
+   "trở nên rộng hơn; làm rộng ra"
+  ],
+  "c": [
+   "mở mang tầm mắt",
+   "mở rộng kiến thức",
+   "mở rộng cơ hội tiếp cận",
+   "mở rộng phạm vi"
+  ],
+  "t": "Thường dùng với phạm vi trừu tượng; broaden your horizons nghĩa là mở mang tầm mắt."
+ },
+ "descent": {
+  "s": [
+   "sự đi xuống; sự hạ xuống",
+   "dòng dõi; nguồn gốc",
+   "dốc xuống; đoạn đường dốc"
+  ],
+  "c": [
+   "bắt đầu đi xuống",
+   "dốc xuống rất đứng",
+   "gốc Hoa"
+  ],
+  "t": "descent là danh từ; động từ là descend; đừng nhầm với decent."
+ },
+ "core": {
+  "s": [
+   "lõi; trung tâm; lõi quả",
+   "cốt lõi; quan trọng nhất",
+   "bỏ lõi"
+  ],
+  "c": [
+   "nằm ở cốt lõi của",
+   "kỹ năng cốt lõi",
+   "lõi táo",
+   "lõi Trái Đất"
+  ],
+  "t": "Core là phần cứng ở giữa quả như táo; hạch quả đào thường dùng stone."
+ },
+ "signpost": {
+  "s": [
+   "biển chỉ đường",
+   "đặt biển chỉ đường",
+   "dẫn dắt cấu trúc; chỉ rõ ý chính"
+  ],
+  "c": [
+   "đi theo biển chỉ đường",
+   "có biển chỉ đường rõ ràng",
+   "dẫn dắt mạch lập luận"
+  ],
+  "t": "Trong viết luận, dùng như động từ nghĩa là dùng từ nối để chỉ rõ cấu trúc lập luận."
+ },
+ "pump": {
+  "s": [
+   "máy bơm; bơm; ống bơm hơi",
+   "bơm; hút; bơm hơi"
+  ],
+  "c": [
+   "máy bơm nước",
+   "bơm xe đạp",
+   "bơm nước",
+   "bơm lốp xe"
+  ],
+  "t": "pump up a tyre là bơm lốp xe; bơm nước dùng pump water."
+ },
+ "vague": {
+  "s": [
+   "mơ hồ; không rõ ràng",
+   "mờ nhạt; không rõ nét"
+  ],
+  "c": [
+   "ý tưởng mơ hồ",
+   "ký ức mơ hồ",
+   "chỉ dẫn mơ hồ",
+   "nói không rõ ràng về"
+  ],
+  "t": "be vague about nghĩa là nói mơ hồ hoặc úp mở về điều gì."
+ },
+ "withdraw": {
+  "s": [
+   "rút (tiền)",
+   "rút lui; rời khỏi",
+   "thu hồi; hủy bỏ"
+  ],
+  "c": [
+   "rút tiền mặt",
+   "rút khỏi cuộc thi",
+   "rút đơn",
+   "rút lại sự ủng hộ"
+  ],
+  "t": "Quá khứ withdrew, quá khứ phân từ withdrawn; nghĩa “rút khỏi” dùng with from."
+ },
+ "prey": {
+  "s": [
+   "con mồi",
+   "nạn nhân; người bị lừa",
+   "săn mồi; bắt nạt; lừa gạt"
+  ],
+  "c": [
+   "chim săn mồi",
+   "săn các con vật nhỏ",
+   "trở thành nạn nhân lừa đảo"
+  ],
+  "t": "Danh từ thường không đếm được; động từ thường dùng prey on; đừng nhầm với pray."
+ },
+ "sincere": {
+  "s": [
+   "chân thành; thành thật"
+  ],
+  "c": [
+   "lời xin lỗi chân thành",
+   "lời cảm ơn chân thành",
+   "mong muốn chân thành"
+  ],
+  "t": "sincere nhấn mạnh không giả dối; sincerely thường dùng kết thư."
+ },
+ "overwhelm": {
+  "s": [
+   "làm choáng ngợp; làm tràn ngập cảm xúc",
+   "làm quá tải",
+   "áp đảo; đánh bại hoàn toàn"
+  ],
+  "c": [
+   "cảm thấy quá sức",
+   "xúc động đến mức không kiềm chế được",
+   "làm quá tải các dịch vụ địa phương"
+  ],
+  "t": "Người cảm thấy thì dùng overwhelmed; sự việc gây ra cảm giác đó là overwhelming."
+ },
+ "cane": {
+  "s": [
+   "gậy chống",
+   "mây; song",
+   "cây mía"
+  ],
+  "c": [
+   "chống gậy đi",
+   "đồ nội thất bằng mây",
+   "mía"
+  ],
+  "t": "Nghĩa “gậy chống” đếm được; nghĩa “mây, song” hoặc “mía” thường không đếm được."
+ },
+ "enrol": {
+  "s": [
+   "đăng ký; ghi danh; tuyển sinh"
+  ],
+  "c": [
+   "đăng ký khóa học",
+   "đăng ký chương trình",
+   "tuyển sinh viên"
+  ],
+  "t": "Anh-Anh viết enrol, Anh-Mỹ viết enroll; quá khứ đều là enrolled."
+ },
+ "reunion": {
+  "s": [
+   "sự đoàn tụ; cuộc họp mặt"
+  ],
+  "c": [
+   "đoàn tụ gia đình",
+   "họp mặt cựu sinh viên",
+   "cuộc đoàn tụ vui vẻ"
+  ],
+  "t": "Nhấn mạnh việc gặp lại sau thời gian xa cách, không chỉ bất kỳ buổi tụ họp nào."
+ },
+ "severely": {
+  "s": [
+   "nghiêm trọng; cực kỳ",
+   "nghiêm khắc"
+  ],
+  "c": [
+   "bị hư hại nghiêm trọng",
+   "bị ảnh hưởng nghiêm trọng",
+   "bị hạn chế nghiêm trọng",
+   "chỉ trích gay gắt"
+  ],
+  "t": "Có thể chỉ mức độ nghiêm trọng hoặc thái độ nghiêm khắc, tùy từ đi kèm."
+ },
+ "rectangular": {
+  "s": [
+   "hình chữ nhật"
+  ],
+  "c": [
+   "bàn hình chữ nhật",
+   "hình dạng chữ nhật",
+   "mảnh đất hình chữ nhật"
+  ],
+  "t": "rectangle là danh từ; rectangular là tính từ."
+ },
+ "agriculture": {
+  "s": [
+   "nông nghiệp"
+  ],
+  "c": [
+   "nông nghiệp bền vững",
+   "nông nghiệp thâm canh",
+   "nông nghiệp hữu cơ"
+  ],
+  "t": "Danh từ không đếm được; tính từ là agricultural."
+ },
+ "mass": {
+  "s": [
+   "khối lượng lớn; đám; khối",
+   "khối lượng (vật lý)",
+   "quy mô lớn; đại chúng"
+  ],
+  "c": [
+   "số lượng lớn; một đám lớn",
+   "khối lượng cơ thể",
+   "sản xuất hàng loạt",
+   "truyền thông đại chúng"
+  ],
+  "t": "Trong vật lý, mass là khối lượng còn weight là trọng lượng, hai khái niệm khác nhau."
+ },
+ "rental": {
+  "s": [
+   "sự cho thuê; tiền thuê",
+   "cho thuê; thuộc việc thuê",
+   "nhà hoặc xe thuê"
+  ],
+  "c": [
+   "thuê xe",
+   "hợp đồng thuê",
+   "thu nhập từ tiền thuê",
+   "bất động sản cho thuê"
+  ],
+  "t": "Tiền thuê thường dùng rent; rental còn chỉ dịch vụ cho thuê hoặc dùng làm tính từ."
+ },
+ "privacy": {
+  "s": [
+   "sự riêng tư; quyền riêng tư",
+   "sự yên tĩnh; không bị làm phiền"
+  ],
+  "c": [
+   "bảo vệ quyền riêng tư",
+   "xâm phạm quyền riêng tư",
+   "cài đặt quyền riêng tư",
+   "riêng tư trong nhà mình"
+  ],
+  "t": "Thường không đếm được; cách phát âm âm tiết đầu khác nhau giữa Anh-Anh và Anh-Mỹ."
+ },
+ "inject": {
+  "s": [
+   "tiêm; bơm vào",
+   "bổ sung; rót vào"
+  ],
+  "c": [
+   "tiêm thuốc",
+   "rót vốn vào",
+   "thổi sức sống mới vào"
+  ],
+  "t": "Thường dùng inject A into B: đưa A vào B."
+ },
+ "undergraduate": {
+  "s": [
+   "sinh viên đại học",
+   "thuộc bậc đại học"
+  ],
+  "c": [
+   "sinh viên đại học",
+   "bằng đại học",
+   "chương trình đại học"
+  ],
+  "t": "Chỉ sinh viên đang học bằng đại học đầu tiên, không phải người bỏ dở học."
+ },
+ "consequently": {
+  "s": [
+   "do đó; vì vậy"
+  ],
+  "c": [
+   "và do đó",
+   "từ đó dẫn đến",
+   "do vậy cần phải"
+  ],
+  "t": "Là trạng từ chứ không phải liên từ; nối hai câu độc lập có thể dùng dấu chấm phẩy đứng trước."
+ },
+ "gulp": {
+  "s": [
+   "nuốt ực; uống ừng ực",
+   "nuốt nước bọt (vì lo lắng)",
+   "ngụm lớn"
+  ],
+  "c": [
+   "nuốt ực xuống",
+   "uống một ngụm lớn",
+   "nuốt nước bọt vì căng thẳng"
+  ],
+  "t": "gulp down nhấn mạnh việc nuốt nhanh; sip là nhấp từng ngụm nhỏ."
+ },
+ "primitive": {
+  "s": [
+   "thô sơ; đơn sơ",
+   "nguyên thủy; sơ khai"
+  ],
+  "c": [
+   "công cụ nguyên thủy",
+   "điều kiện thô sơ",
+   "dạng sống nguyên thủy"
+  ],
+  "t": "Tả cơ sở vật chất thì là thô sơ; dùng cho văn hóa hoặc dân tộc đương đại có thể mang nghĩa miệt thị."
+ },
+ "despair": {
+  "s": [
+   "sự tuyệt vọng",
+   "tuyệt vọng; mất hy vọng"
+  ],
+  "c": [
+   "trong tuyệt vọng",
+   "cảm giác tuyệt vọng",
+   "không còn hy vọng làm được gì"
+  ],
+  "t": "Danh từ thường không đếm được; động từ thường đi với of, không có tân ngữ trực tiếp."
+ },
+ "monitor": {
+  "s": [
+   "theo dõi; giám sát",
+   "màn hình; thiết bị theo dõi"
+  ],
+  "c": [
+   "theo dõi tiến độ",
+   "giám sát chất lượng không khí",
+   "màn hình máy tính",
+   "máy theo dõi nhịp tim"
+  ],
+  "t": "Làm động từ có thể đi thẳng với tân ngữ: monitor changes là theo dõi những thay đổi."
+ },
+ "treadmill": {
+  "s": [
+   "máy chạy bộ",
+   "công việc đơn điệu mệt mỏi"
+  ],
+  "c": [
+   "chạy trên máy chạy bộ",
+   "tập trên máy chạy bộ",
+   "sự bận rộn đơn điệu của cuộc sống hằng ngày"
+  ],
+  "t": "Chạy trên máy chạy bộ dùng on a treadmill, không dùng in."
+ },
+ "conserve": {
+  "s": [
+   "tiết kiệm; tránh lãng phí",
+   "bảo tồn; giữ gìn"
+  ],
+  "c": [
+   "tiết kiệm năng lượng",
+   "tiết kiệm nước",
+   "bảo tồn động vật hoang dã"
+  ],
+  "t": "conserve nhấn mạnh tiết kiệm hoặc bảo tồn; reserve nhấn mạnh để dành trước."
+ },
+ "correspondent": {
+  "s": [
+   "phóng viên thường trú; phóng viên chuyên đề",
+   "người trao đổi thư từ"
+  ],
+  "c": [
+   "phóng viên nước ngoài",
+   "phóng viên chính trị",
+   "phóng viên đặc phái"
+  ],
+  "t": "Nghĩa “phóng viên” thường chỉ người thường trú ở một nơi hoặc phụ trách một lĩnh vực."
+ },
+ "widow": {
+  "s": [
+   "góa phụ; phụ nữ mất chồng"
+  ],
+  "c": [
+   "góa phụ lớn tuổi",
+   "vợ góa của người lính",
+   "góa phụ trẻ"
+  ],
+  "t": "widow chỉ phụ nữ mất chồng; nam giới mất vợ là widower."
+ },
+ "hilarious": {
+  "s": [
+   "cực kỳ hài hước"
+  ],
+  "c": [
+   "câu chuyện cười ra nước mắt",
+   "bộ phim hài cười vỡ bụng",
+   "cực kỳ buồn cười"
+  ],
+  "t": "Nhấn mạnh “cực kỳ buồn cười”, không chỉ là náo nhiệt hay vui vẻ."
+ },
+ "itch": {
+  "s": [
+   "ngứa",
+   "cơn ngứa; cảm giác ngứa",
+   "khao khát; nóng lòng"
+  ],
+  "c": [
+   "gãi ngứa",
+   "nóng lòng muốn làm gì",
+   "khao khát có cơ hội"
+  ],
+  "t": "itch là ngứa, scratch là gãi; “nóng lòng” thường dùng be itching to."
+ }
+}

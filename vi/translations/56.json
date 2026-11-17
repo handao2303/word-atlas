@@ -1,0 +1,1190 @@
+{
+ "witty": {
+  "s": [
+   "dí dỏm; hóm hỉnh"
+  ],
+  "c": [
+   "lời nhận xét dí dỏm",
+   "câu trả lời hóm hỉnh",
+   "đoạn đối thoại dí dỏm"
+  ],
+  "t": "witty nhấn mạnh lời nói thông minh, hài hước, không chỉ chung chung là buồn cười."
+ },
+ "veto": {
+  "s": [
+   "quyền phủ quyết; sự phủ quyết",
+   "phủ quyết; bác bỏ"
+  ],
+  "c": [
+   "quyền phủ quyết",
+   "thực hiện quyền phủ quyết",
+   "phủ quyết một đề xuất",
+   "bác bỏ sự phủ quyết"
+  ],
+  "t": "Số nhiều là vetoes; quá khứ của động từ là vetoed."
+ },
+ "wail": {
+  "s": [
+   "gào khóc; kêu thét",
+   "tiếng gào; tiếng hú dài"
+  ],
+  "c": [
+   "gào khóc vì đau",
+   "tiếng gào chói tai",
+   "tiếng còi hú"
+  ],
+  "t": "Nhấn mạnh tiếng khóc kéo dài, the thé; cũng dùng cho tiếng còi báo động hú dài."
+ },
+ "adverbial": {
+  "s": [
+   "thuộc trạng từ; làm trạng ngữ",
+   "trạng ngữ"
+  ],
+  "c": [
+   "cụm trạng ngữ",
+   "mệnh đề trạng ngữ",
+   "thành phần bổ nghĩa trạng ngữ"
+  ],
+  "t": "adverb là từ loại; adverbial là chức năng trạng ngữ, có thể là từ, cụm từ hoặc mệnh đề."
+ },
+ "bust": {
+  "s": [
+   "tượng bán thân",
+   "ngực phụ nữ; số đo ngực"
+  ],
+  "c": [
+   "tượng bán thân bằng đá cẩm thạch",
+   "tượng bán thân bằng đồng",
+   "số đo vòng ngực"
+  ],
+  "t": "Khi chỉ bức tượng là danh từ đếm được, thường chỉ có đầu, vai và ngực."
+ },
+ "syndrome": {
+  "s": [
+   "hội chứng"
+  ],
+  "c": [
+   "hội chứng mệt mỏi mạn tính",
+   "hội chứng ruột kích thích",
+   "hội chứng chuyển hóa"
+  ],
+  "t": "Chỉ một nhóm triệu chứng xuất hiện cùng nhau, không giống một triệu chứng đơn lẻ (symptom)."
+ },
+ "platypus": {
+  "s": [
+   "thú mỏ vịt"
+  ],
+  "c": [
+   "thú mỏ vịt",
+   "môi trường sống của thú mỏ vịt"
+  ],
+  "t": "Dù đẻ trứng, thú mỏ vịt vẫn thuộc lớp thú (động vật có vú)."
+ },
+ "converse": {
+  "s": [
+   "trò chuyện; nói chuyện"
+  ],
+  "c": [
+   "trò chuyện với ai",
+   "trò chuyện bằng tiếng Anh",
+   "trò chuyện về một chủ đề"
+  ],
+  "t": "Động từ nhấn âm sau; danh từ “điều ngược lại” nhấn âm đầu."
+ },
+ "execution": {
+  "s": [
+   "sự thực hiện; sự thi hành",
+   "việc thi hành án tử hình",
+   "sự thể hiện; sự trình diễn"
+  ],
+  "c": [
+   "việc thực hiện kế hoạch",
+   "sự thể hiện hoàn hảo",
+   "hoãn thi hành án tử hình"
+  ],
+  "t": "Có thể là thực hiện kế hoạch hoặc thi hành án tử hình, cần dựa vào ngữ cảnh."
+ },
+ "doubtless": {
+  "s": [
+   "gần như chắc chắn; hẳn là"
+  ],
+  "c": [
+   "chắc hẳn sẽ",
+   "hẳn là sẽ",
+   "hẳn là biết"
+  ],
+  "t": "Thường diễn đạt suy đoán có cơ sở, không nhất thiết hoàn toàn chắc chắn."
+ },
+ "inference": {
+  "s": [
+   "sự suy luận; kết luận suy ra"
+  ],
+  "c": [
+   "đưa ra suy luận",
+   "suy luận hợp lý",
+   "suy luận từ bằng chứng"
+  ],
+  "t": "Thường dùng draw an inference from, nghĩa là suy ra từ bằng chứng."
+ },
+ "alleviate": {
+  "s": [
+   "làm giảm bớt; xoa dịu"
+  ],
+  "c": [
+   "giảm đau",
+   "giảm nghèo",
+   "giảm áp lực",
+   "làm dịu triệu chứng"
+  ],
+  "t": "Theo sau trực tiếp là nỗi đau hoặc vấn đề; chỉ làm giảm bớt, không nhất thiết xóa bỏ hoàn toàn."
+ },
+ "textual": {
+  "s": [
+   "thuộc văn bản; liên quan đến nguyên văn"
+  ],
+  "c": [
+   "phân tích văn bản",
+   "bằng chứng trong văn bản",
+   "phê bình văn bản",
+   "sửa đổi câu chữ"
+  ],
+  "t": "textual liên quan đến nội dung văn bản; textile là hàng dệt, đừng nhầm."
+ },
+ "semblance": {
+  "s": [
+   "vẻ bề ngoài; chút giống"
+  ],
+  "c": [
+   "vẻ bình thường phần nào",
+   "vẻ trật tự bề ngoài",
+   "duy trì vẻ bề ngoài của"
+  ],
+  "t": "Thường dùng a semblance of, chỉ trạng thái bề ngoài hoặc ở mức độ nhỏ."
+ },
+ "indicative": {
+  "s": [
+   "cho thấy; mang tính chỉ báo",
+   "thuộc lối trần thuật"
+  ],
+  "c": [
+   "cho thấy",
+   "số liệu tham khảo",
+   "lối trần thuật"
+  ],
+  "t": "Thường dùng be indicative of, nghĩa là “là dấu hiệu của”."
+ },
+ "barometer": {
+  "s": [
+   "khí áp kế",
+   "chỉ báo; thước đo sự thay đổi"
+  ],
+  "c": [
+   "khí áp kế",
+   "thước đo dư luận",
+   "thước đo kinh tế"
+  ],
+  "t": "Khi dùng theo nghĩa bóng chỉ chỉ báo của tình hình thì thường dùng a barometer of."
+ },
+ "authorize": {
+  "s": [
+   "cho phép; ủy quyền chính thức"
+  ],
+  "c": [
+   "phê duyệt thanh toán",
+   "ủy quyền cho ai hành động",
+   "cho phép truy cập"
+  ],
+  "t": "Thường dùng authorize sb to do; tiếng Anh Anh cũng viết authorise."
+ },
+ "prudent": {
+  "s": [
+   "thận trọng; khôn ngoan"
+  ],
+  "c": [
+   "quyết định thận trọng",
+   "quản lý tài chính vững vàng",
+   "làm việc gì là khôn ngoan"
+  ],
+  "t": "Nhấn mạnh việc cân nhắc rủi ro và hậu quả, không chỉ là nhút nhát hay tiết kiệm."
+ },
+ "treble": {
+  "s": [
+   "tăng gấp ba; làm tăng gấp ba",
+   "gấp ba; ba phần",
+   "âm cao; bè cao"
+  ],
+  "c": [
+   "tăng gấp ba về kích thước",
+   "làm chi phí tăng gấp ba",
+   "khóa son",
+   "âm cao và âm trầm"
+  ],
+  "t": "treble nghĩa là thành gấp ba lần, tức tăng thêm hai lần; hay dùng trong tiếng Anh Anh."
+ },
+ "cunning": {
+  "s": [
+   "xảo quyệt; mưu mô",
+   "khéo léo; tinh xảo",
+   "sự xảo quyệt; mưu kế"
+  ],
+  "c": [
+   "kế hoạch khéo léo",
+   "trò lừa xảo quyệt",
+   "chiến thuật xảo quyệt"
+  ],
+  "t": "Khi nói về người thường mang nghĩa chê, không đơn thuần là thông minh."
+ },
+ "inlet": {
+  "s": [
+   "vịnh nhỏ; vụng",
+   "cửa vào; cửa hút; cửa cấp nước"
+  ],
+  "c": [
+   "vịnh nhỏ kín gió",
+   "vụng hẹp",
+   "cửa hút khí",
+   "cửa cấp nước"
+  ],
+  "t": "Trong địa lý là vịnh nhỏ; trong thiết bị là cửa vào của chất lưu, đối lập với outlet."
+ },
+ "flourish": {
+  "s": [
+   "phát triển mạnh; hưng thịnh",
+   "vung vẩy để gây chú ý",
+   "động tác phô trương; nét trang trí hoa mỹ"
+  ],
+  "c": [
+   "phát triển mạnh trong",
+   "doanh nghiệp làm ăn phát đạt",
+   "với động tác phô trương"
+  ],
+  "t": "Khi nghĩa là hưng thịnh thì là nội động từ, không theo sau trực tiếp bởi tân ngữ."
+ },
+ "coarse": {
+  "s": [
+   "thô; hạt to",
+   "thô tục; thô lỗ"
+  ],
+  "c": [
+   "cát hạt to",
+   "vải thô",
+   "hạt thô",
+   "ngôn ngữ thô tục"
+  ],
+  "t": "Đồng âm với course; coarse mô tả kết cấu thô hoặc lời nói thô tục."
+ },
+ "inverse": {
+  "s": [
+   "ngược; tỷ lệ nghịch",
+   "điều ngược lại; phép toán ngược"
+  ],
+  "c": [
+   "mối quan hệ nghịch",
+   "tỷ lệ nghịch",
+   "điều ngược lại của",
+   "phép toán ngược"
+  ],
+  "t": "inverse relationship nghĩa là khi bên này tăng thì bên kia giảm."
+ },
+ "brink": {
+  "s": [
+   "bờ vực; thời khắc then chốt",
+   "mép dốc; mép vách đá"
+  ],
+  "c": [
+   "bên bờ sụp đổ",
+   "cứu khỏi bờ vực",
+   "đẩy đến bờ vực"
+  ],
+  "t": "on the brink of theo sau là danh từ hoặc danh động từ, thường chỉ khủng hoảng."
+ },
+ "solely": {
+  "s": [
+   "chỉ riêng; hoàn toàn"
+  ],
+  "c": [
+   "chịu trách nhiệm hoàn toàn",
+   "chỉ dựa trên",
+   "hoàn toàn dựa vào"
+  ],
+  "t": "solely nhấn mạnh chỉ giới hạn ở một người hoặc một việc, không có nghĩa là một mình."
+ },
+ "shun": {
+  "s": [
+   "cố tình lảng tránh; xa lánh"
+  ],
+  "c": [
+   "tránh sự chú ý của công chúng",
+   "trốn tránh trách nhiệm",
+   "tránh xa xã hội"
+  ],
+  "t": "Ngoại động từ, theo sau trực tiếp là tân ngữ; quá khứ là shunned."
+ },
+ "nomination": {
+  "s": [
+   "sự đề cử; sự giới thiệu"
+  ],
+  "c": [
+   "được đề cử",
+   "đề cử giải thưởng",
+   "quy trình đề cử",
+   "nộp đề cử"
+  ],
+  "t": "Đề cử dùng nomination; bổ nhiệm chính thức thường dùng appointment."
+ },
+ "insofar": {
+  "s": [
+   "trong phạm vi; xét về"
+  ],
+  "c": [
+   "trong phạm vi có thể",
+   "xét về ảnh hưởng của nó",
+   "theo những gì chúng ta biết"
+  ],
+  "t": "Thường dùng trong cách diễn đạt trang trọng insofar as, theo sau là mệnh đề."
+ },
+ "molest": {
+  "s": [
+   "quấy rối tình dục; sàm sỡ",
+   "quấy nhiễu; làm phiền"
+  ],
+  "c": [
+   "sàm sỡ ai",
+   "quấy rối tình dục"
+  ],
+  "t": "Trong tiếng Anh hiện đại chủ yếu chỉ quấy rối tình dục; đừng dùng cho việc làm phiền thông thường.",
+  "n": "Từ nhạy cảm liên quan đến xâm hại tình dục; không phải “làm phiền” thông thường."
+ },
+ "subdivide": {
+  "s": [
+   "chia nhỏ; phân nhỏ"
+  ],
+  "c": [
+   "chia nhỏ thành các nhóm",
+   "chia nhỏ đất đai",
+   "chia nhỏ một hạng mục"
+  ],
+  "t": "Thường dùng subdivide A into B, nghĩa là chia A thành B."
+ },
+ "mutation": {
+  "s": [
+   "đột biến gen"
+  ],
+  "c": [
+   "đột biến gen",
+   "đột biến tự phát",
+   "tỷ lệ đột biến"
+  ],
+  "t": "Chỉ sự thay đổi vật chất di truyền, không nhất thiết có hại."
+ },
+ "disentangle": {
+  "s": [
+   "gỡ rối; tháo ra",
+   "làm rõ; thoát khỏi"
+  ],
+  "c": [
+   "gỡ rối dây điện",
+   "làm rõ các tác động của",
+   "tự thoát khỏi"
+  ],
+  "t": "Thường dùng disentangle A from B, nghĩa là gỡ hoặc tách A khỏi B."
+ },
+ "indignant": {
+  "s": [
+   "phẫn nộ; bất bình"
+  ],
+  "c": [
+   "bất bình về việc gì",
+   "phản ứng phẫn nộ",
+   "phẫn nộ trước đề nghị này"
+  ],
+  "t": "Nhấn mạnh sự tức giận vì bất công hoặc bị xúc phạm, không chỉ chung chung là giận."
+ },
+ "deficient": {
+  "s": [
+   "thiếu; không đủ",
+   "có khiếm khuyết; không hoàn thiện"
+  ],
+  "c": [
+   "thiếu sắt",
+   "thiếu dinh dưỡng",
+   "thiếu các chất dinh dưỡng thiết yếu"
+  ],
+  "t": "Thiếu thứ gì dùng be deficient in, thường gặp khi nói về dinh dưỡng và năng lực."
+ },
+ "finicky": {
+  "s": [
+   "kén chọn quá mức; khó chiều",
+   "đòi hỏi thao tác tỉ mỉ"
+  ],
+  "c": [
+   "người kén ăn",
+   "kén chọn đồ ăn",
+   "thiết bị cần thao tác tỉ mỉ"
+  ],
+  "t": "Thiên về khẩu ngữ, thường mang nghĩa chê; finicky about nghĩa là kén chọn về điều gì."
+ },
+ "flick": {
+  "s": [
+   "búng nhẹ; phẩy đi",
+   "cú búng; chuyển động nhanh nhẹ",
+   "phim (thân mật)"
+  ],
+  "c": [
+   "lướt nhanh qua tạp chí",
+   "gạt công tắc",
+   "động tác nhẹ cổ tay",
+   "một bộ phim hài"
+  ],
+  "t": "flick through nghĩa là lật nhanh, không có nghĩa là đọc kỹ."
+ },
+ "literate": {
+  "s": [
+   "biết đọc biết viết",
+   "am hiểu một lĩnh vực"
+  ],
+  "c": [
+   "biết đọc biết viết thành thạo",
+   "biết dùng máy tính",
+   "có kiến thức số",
+   "có kiến thức tài chính"
+  ],
+  "t": "Thường dùng như tính từ; danh từ literacy là khả năng đọc viết."
+ },
+ "watertight": {
+  "s": [
+   "kín nước; chống thấm",
+   "chặt chẽ; không có kẽ hở"
+  ],
+  "c": [
+   "hộp kín nước",
+   "lập luận chặt chẽ",
+   "thỏa thuận chặt chẽ"
+  ],
+  "t": "Vừa chỉ không thấm nước, vừa mô tả lập luận hoặc thỏa thuận chặt chẽ."
+ },
+ "embryo": {
+  "s": [
+   "phôi; phôi thực vật"
+  ],
+  "c": [
+   "sự phát triển của phôi",
+   "phôi người",
+   "phôi thực vật",
+   "trong giai đoạn manh nha"
+  ],
+  "t": "embryo là danh từ; tính từ là embryonic."
+ },
+ "misrepresent": {
+  "s": [
+   "xuyên tạc; mô tả sai"
+  ],
+  "c": [
+   "xuyên tạc sự thật",
+   "hiểu sai quan điểm của ai",
+   "mô tả sai thứ gì là"
+  ],
+  "t": "Ngoại động từ, theo sau trực tiếp là sự thật, quan điểm hoặc người."
+ },
+ "miser": {
+  "s": [
+   "kẻ keo kiệt; người hà tiện"
+  ],
+  "c": [
+   "kẻ keo kiệt giàu có",
+   "lão keo kiệt",
+   "kẻ keo kiệt khét tiếng"
+  ],
+  "t": "Mang nghĩa chê, chỉ người không nỡ tiêu tiền, không giống người tiết kiệm."
+ },
+ "oxidize": {
+  "s": [
+   "oxy hóa"
+  ],
+  "c": [
+   "oxy hóa nhanh",
+   "oxy hóa trong không khí",
+   "dễ oxy hóa"
+  ],
+  "t": "Tiếng Anh Anh cũng viết oxidise; oxy hóa không nhất thiết có oxy tham gia."
+ },
+ "compute": {
+  "s": [
+   "tính toán"
+  ],
+  "c": [
+   "tính chi phí",
+   "tính giá trị trung bình",
+   "tính một giá trị"
+  ],
+  "t": "Trang trọng hơn calculate, thường dùng trong ngữ cảnh máy tính hoặc toán học."
+ },
+ "rouse": {
+  "s": [
+   "đánh thức; làm tỉnh dậy",
+   "khơi dậy; thúc đẩy"
+  ],
+  "c": [
+   "đánh thức ai khỏi giấc ngủ",
+   "khơi dậy sự quan tâm",
+   "thúc đẩy ai hành động"
+  ],
+  "t": "rouse sb from sleep là đánh thức; rouse interest là khơi dậy sự quan tâm."
+ },
+ "subsidize": {
+  "s": [
+   "trợ cấp; tài trợ"
+  ],
+  "c": [
+   "trợ cấp giao thông công cộng",
+   "được trợ cấp nhiều",
+   "trợ cấp chi phí của"
+  ],
+  "t": "Tiếng Anh Anh cũng viết subsidise; trợ cấp thường chỉ chi trả một phần chi phí."
+ },
+ "obligate": {
+  "s": [
+   "buộc phải; khiến có nghĩa vụ",
+   "bắt buộc (sinh học); phụ thuộc hoàn toàn"
+  ],
+  "c": [
+   "buộc ai phải làm gì",
+   "có nghĩa vụ pháp lý",
+   "ký sinh bắt buộc"
+  ],
+  "t": "Tính từ dùng trong sinh học; khi nói về nghĩa vụ thường dùng obligated."
+ },
+ "chronic": {
+  "s": [
+   "mạn tính",
+   "lâu dài; tái diễn"
+  ],
+  "c": [
+   "bệnh mạn tính",
+   "đau mạn tính",
+   "thiếu hụt kéo dài"
+  ],
+  "t": "Trong ngữ cảnh bệnh tật, chronic là mạn tính, acute là cấp tính."
+ },
+ "secluded": {
+  "s": [
+   "hẻo lánh; kín đáo"
+  ],
+  "c": [
+   "bãi biển hẻo lánh",
+   "nơi kín đáo",
+   "khu vườn yên tĩnh"
+  ],
+  "t": "Thường mô tả địa điểm hẻo lánh, kín đáo, không dùng cho tính cách hướng nội của người."
+ },
+ "dissatisfy": {
+  "s": [
+   "làm không hài lòng"
+  ],
+  "c": [
+   "làm khách hàng không hài lòng",
+   "làm người dùng không hài lòng"
+  ],
+  "t": "Ngoại động từ; trong đời thường hay dùng be dissatisfied with hơn."
+ },
+ "deduction": {
+  "s": [
+   "sự suy luận; suy diễn",
+   "khoản khấu trừ; sự khấu trừ"
+  ],
+  "c": [
+   "suy luận logic",
+   "khấu trừ thuế",
+   "khoản trừ vào lương"
+  ],
+  "t": "Nghĩa suy luận ứng với động từ deduce; khấu trừ ứng với động từ deduct."
+ },
+ "equilibrium": {
+  "s": [
+   "trạng thái cân bằng",
+   "sự bình tĩnh; cân bằng tâm lý"
+  ],
+  "c": [
+   "duy trì cân bằng",
+   "khôi phục cân bằng",
+   "cân bằng thị trường",
+   "cân bằng động"
+  ],
+  "t": "Thường không đếm được; hay dùng trong kinh tế, sinh thái hoặc vật lý."
+ },
+ "monumental": {
+  "s": [
+   "to lớn; cực kỳ quan trọng",
+   "thuộc đài tưởng niệm; mang tính tưởng niệm"
+  ],
+  "c": [
+   "nhiệm vụ đồ sộ",
+   "thành tựu phi thường",
+   "kiến trúc mang tính tưởng niệm"
+  ],
+  "t": "Thường bổ nghĩa cho task, effort, nhấn mạnh quy mô hoặc độ khó rất lớn."
+ },
+ "ply": {
+  "s": [
+   "đi lại thường xuyên giữa",
+   "hành nghề; sử dụng thành thạo",
+   "lớp; sợi"
+  ],
+  "c": [
+   "đi lại thường xuyên trên một tuyến",
+   "hành nghề của mình",
+   "liên tục hỏi ai",
+   "ván ép ba lớp"
+  ],
+  "t": "ply someone with sth nghĩa là liên tục đưa cho ai thứ gì."
+ },
+ "fidelity": {
+  "s": [
+   "lòng trung thành; sự trung thực",
+   "độ chính xác; độ trung thực"
+  ],
+  "c": [
+   "trung thành với nguyên tắc",
+   "chung thủy trong hôn nhân",
+   "âm thanh độ trung thực cao",
+   "trung thành với bản gốc"
+  ],
+  "t": "Trung thành với ai hoặc nguyên tắc nào dùng fidelity to; thường không đếm được."
+ },
+ "curt": {
+  "s": [
+   "cộc lốc; thiếu lịch sự"
+  ],
+  "c": [
+   "câu trả lời cộc lốc",
+   "cái gật đầu lạnh nhạt",
+   "giọng cộc lốc"
+  ],
+  "t": "Không chỉ là ngắn gọn mà còn hàm ý thiếu lịch sự; brief thường trung tính."
+ },
+ "cock": {
+  "s": [
+   "gà trống; chim trống",
+   "vểnh lên; nghiêng"
+  ],
+  "c": [
+   "gà trống gáy",
+   "nghiêng đầu",
+   "nhướng mày"
+  ],
+  "t": "Gà trống có thể dùng rooster; cock còn có nghĩa thô tục liên quan đến tình dục.",
+  "n": "Còn có nghĩa thô tục chỉ bộ phận sinh dục nam; cần chú ý ngữ cảnh khi dùng."
+ },
+ "repertoire": {
+  "s": [
+   "toàn bộ tiết mục biểu diễn",
+   "vốn kỹ năng; kho phương pháp"
+  ],
+  "c": [
+   "mở rộng vốn tiết mục hoặc kỹ năng",
+   "vốn tiết mục phong phú",
+   "cả bộ kỹ năng"
+  ],
+  "t": "Không chỉ là tiết mục biểu diễn mà còn chỉ toàn bộ kỹ năng một người nắm được."
+ },
+ "deflection": {
+  "s": [
+   "sự lệch hướng; sự chuyển hướng",
+   "sự đánh lạc hướng; sự né tránh"
+  ],
+  "c": [
+   "sự lệch hướng của ánh sáng",
+   "độ võng của dầm",
+   "đánh lạc hướng chỉ trích"
+  ],
+  "t": "Nhấn mạnh việc đổi hướng sau khi chịu tác động; trong kỹ thuật còn chỉ độ võng của cấu kiện."
+ },
+ "blunder": {
+  "s": [
+   "sai lầm ngớ ngẩn",
+   "phạm sai lầm lớn",
+   "đi loạng choạng; mò mẫm"
+  ],
+  "c": [
+   "phạm sai lầm lớn",
+   "sai sót nghiêm trọng",
+   "vô tình xông vào",
+   "mò mẫm đi qua"
+  ],
+  "t": "Nặng hơn mistake, nhấn mạnh sai lầm do bất cẩn hoặc đánh giá kém."
+ },
+ "devaluation": {
+  "s": [
+   "sự phá giá tiền tệ",
+   "sự giảm giá trị; sự hạ thấp"
+  ],
+  "c": [
+   "phá giá tiền tệ",
+   "phá giá mạnh",
+   "sự hạ thấp công việc chăm sóc"
+  ],
+  "t": "Trong kinh tế thường chỉ việc chính thức hạ tỷ giá; thị trường mất giá thường dùng depreciation."
+ },
+ "oscillate": {
+  "s": [
+   "dao động; lắc lư",
+   "dao động; lưỡng lự"
+  ],
+  "c": [
+   "dao động giữa hai thái cực",
+   "dao động nhanh",
+   "quạt lắc đầu"
+  ],
+  "t": "Muốn nói dao động giữa hai thứ dùng oscillate between A and B."
+ },
+ "integral": {
+  "s": [
+   "không thể thiếu",
+   "tích hợp sẵn; liền khối",
+   "tích phân"
+  ],
+  "c": [
+   "một phần không thể thiếu của",
+   "cần thiết cho thành công",
+   "một thành phần không thể thiếu"
+  ],
+  "t": "Thường dùng an integral part of hoặc be integral to."
+ },
+ "contemplate": {
+  "s": [
+   "cân nhắc kỹ; suy ngẫm",
+   "tính đến việc; dự định",
+   "chiêm ngưỡng; ngắm kỹ"
+  ],
+  "c": [
+   "cân nhắc việc làm gì",
+   "suy nghĩ về tương lai",
+   "cân nhắc một sự thay đổi"
+  ],
+  "t": "Theo sau là danh từ hoặc danh động từ, không dùng to do."
+ },
+ "baffle": {
+  "s": [
+   "làm bối rối; làm khó hiểu",
+   "tấm chắn; vách ngăn"
+  ],
+  "c": [
+   "làm các nhà khoa học bối rối",
+   "hoàn toàn không hiểu gì",
+   "bí ẩn khó hiểu",
+   "tấm chắn"
+  ],
+  "t": "Nhấn mạnh việc hoàn toàn không hiểu hơn confuse; thường dùng be baffled by."
+ },
+ "longing": {
+  "s": [
+   "nỗi khao khát; nỗi nhớ",
+   "đầy khao khát"
+  ],
+  "c": [
+   "nỗi nhớ nhà",
+   "khao khát sâu sắc",
+   "ánh mắt khao khát"
+  ],
+  "t": "Danh từ thường đi với for; muốn nói khao khát làm gì có thể dùng to do."
+ },
+ "mobilize": {
+  "s": [
+   "huy động; điều động",
+   "động viên quân đội; sẵn sàng chiến đấu"
+  ],
+  "c": [
+   "huy động nguồn lực",
+   "huy động sự ủng hộ",
+   "huy động tình nguyện viên",
+   "động viên quân đội"
+  ],
+  "t": "Tiếng Anh Anh cũng viết mobilise; thường đi với nguồn lực, người ủng hộ hoặc quân đội."
+ },
+ "snag": {
+  "s": [
+   "trở ngại bất ngờ; rắc rối nhỏ",
+   "mắc vào; làm rách"
+  ],
+  "c": [
+   "gặp trở ngại",
+   "một rắc rối nhỏ",
+   "mắc vào đinh"
+  ],
+  "t": "hit a snag nghĩa là gặp trở ngại; động từ thường đi với on khi chỉ bị mắc vào."
+ },
+ "superiority": {
+  "s": [
+   "tính ưu việt; ưu thế",
+   "cảm giác hơn người; thái độ kiêu ngạo"
+  ],
+  "c": [
+   "ưu thế công nghệ",
+   "ưu thế so với",
+   "cảm giác hơn người"
+  ],
+  "t": "Nói ưu thế so với ai dùng superiority over, không dùng than."
+ },
+ "oath": {
+  "s": [
+   "lời thề; sự tuyên thệ"
+  ],
+  "c": [
+   "tuyên thệ",
+   "thề",
+   "dưới lời tuyên thệ",
+   "phá vỡ lời thề"
+  ],
+  "t": "under oath là đã tuyên thệ nói sự thật, thường dùng trong ngữ cảnh tòa án."
+ },
+ "drop-off": {
+  "s": [
+   "sự sụt giảm",
+   "việc đưa đến; chỗ trả khách",
+   "chỗ dốc đứng; vách"
+  ],
+  "c": [
+   "sự sụt giảm mạnh",
+   "nhu cầu giảm",
+   "điểm trả khách"
+  ],
+  "t": "Danh từ có gạch nối; cụm động từ viết là drop off."
+ },
+ "rosy": {
+  "s": [
+   "hồng; hồng hào",
+   "lạc quan; đầy hứa hẹn"
+  ],
+  "c": [
+   "đôi má hồng hào",
+   "tương lai tươi sáng",
+   "vẽ ra bức tranh lạc quan"
+  ],
+  "t": "paint a rosy picture nghĩa là vẽ ra bức tranh lạc quan, đôi khi hàm ý tô hồng quá mức."
+ },
+ "ridicule": {
+  "s": [
+   "sự chế giễu; sự nhạo báng",
+   "chế giễu; nhạo báng"
+  ],
+  "c": [
+   "bị chế giễu công khai",
+   "chịu sự chế giễu",
+   "khiến ai bị chế giễu"
+  ],
+  "t": "Khi là động từ thì là ngoại động từ, theo sau trực tiếp là tân ngữ, không thêm at."
+ },
+ "dimensional": {
+  "s": [
+   "thuộc kích thước; thuộc chiều"
+  ],
+  "c": [
+   "độ chính xác về kích thước",
+   "độ ổn định về kích thước",
+   "mô hình ba chiều"
+  ],
+  "t": "Thường gặp trong từ ghép three-dimensional, nghĩa là ba chiều."
+ },
+ "depreciation": {
+  "s": [
+   "khấu hao; sự giảm giá trị",
+   "sự mất giá tiền tệ"
+  ],
+  "c": [
+   "khấu hao hằng năm",
+   "mất giá tiền tệ",
+   "tỷ lệ khấu hao",
+   "tính đến khấu hao"
+  ],
+  "t": "Dùng cho cả khấu hao tài sản và mất giá tiền tệ; từ trái nghĩa là appreciation."
+ },
+ "climactic": {
+  "s": [
+   "ở đỉnh điểm; cao trào"
+  ],
+  "c": [
+   "cảnh cao trào",
+   "khoảnh khắc cao trào",
+   "cái kết cao trào"
+  ],
+  "t": "Đừng nhầm với climatic (thuộc khí hậu)."
+ },
+ "bona-fide": {
+  "s": [
+   "thật sự; đáng tin cậy",
+   "thiện chí; chân thành"
+  ],
+  "c": [
+   "một sinh viên thật sự",
+   "lời đề nghị chân thành",
+   "tổ chức hợp pháp thật sự"
+  ],
+  "t": "Khá trang trọng, thường đứng trước danh từ, nhấn mạnh tính chân thực hoặc thiện chí."
+ },
+ "assassination": {
+  "s": [
+   "ám sát; vụ ám sát"
+  ],
+  "c": [
+   "ám sát chính trị",
+   "âm mưu ám sát",
+   "kế hoạch ám sát"
+  ],
+  "t": "Thường chỉ việc giết người quan trọng, có mục đích chính trị."
+ },
+ "gloom": {
+  "s": [
+   "bóng tối mờ mịt; cảnh tối tăm",
+   "nỗi u sầu; bầu không khí bi quan"
+  ],
+  "c": [
+   "trong bóng tối mờ",
+   "sự bi quan về kinh tế",
+   "cảm giác bi quan",
+   "bi quan tuyệt vọng"
+  ],
+  "t": "Vừa chỉ ánh sáng mờ tối, vừa chỉ tâm trạng hoặc triển vọng ảm đạm."
+ },
+ "sewer": {
+  "s": [
+   "cống thoát nước; ống nước thải"
+  ],
+  "c": [
+   "hệ thống cống thoát nước",
+   "cống bị tắc",
+   "ống nước thải"
+  ],
+  "t": "sewer là đường ống, sewage là nước thải, sewerage là hệ thống thoát nước thải."
+ },
+ "displeasure": {
+  "s": [
+   "sự không hài lòng; sự phật ý"
+  ],
+  "c": [
+   "bày tỏ sự không hài lòng",
+   "lộ vẻ phật ý",
+   "sự không hài lòng về việc gì"
+  ],
+  "t": "Thường là danh từ không đếm được, khá trang trọng; hay đi với at hoặc with."
+ },
+ "financier": {
+  "s": [
+   "nhà tài chính; nhà tài trợ vốn"
+  ],
+  "c": [
+   "nhà tài chính quốc tế",
+   "nhà tài chính giàu có",
+   "nhà tài chính hàng đầu"
+  ],
+  "t": "Chỉ người cung cấp hoặc quản lý nguồn vốn lớn, không phải nhân viên ngân hàng thông thường."
+ },
+ "contaminate": {
+  "s": [
+   "làm ô nhiễm; làm nhiễm bẩn"
+  ],
+  "c": [
+   "làm ô nhiễm nước uống",
+   "thực phẩm bị nhiễm bẩn",
+   "bị nhiễm hóa chất"
+  ],
+  "t": "Thường dùng be contaminated with, nghĩa là bị nhiễm thứ gì."
+ },
+ "envision": {
+  "s": [
+   "hình dung; dự tưởng"
+  ],
+  "c": [
+   "hình dung một tương lai",
+   "hình dung việc làm gì",
+   "hình dung một thế giới"
+  ],
+  "t": "Theo sau là danh từ hoặc danh động từ, không dùng to do."
+ },
+ "foretell": {
+  "s": [
+   "tiên đoán; báo trước"
+  ],
+  "c": [
+   "tiên đoán tương lai",
+   "báo trước thảm họa"
+  ],
+  "t": "Quá khứ và quá khứ phân từ đều là foretold; mang tính văn chương hơn predict."
+ },
+ "testify": {
+  "s": [
+   "làm chứng; khai trước tòa",
+   "chứng tỏ; cho thấy"
+  ],
+  "c": [
+   "ra tòa làm chứng",
+   "làm chứng chống lại ai",
+   "chứng tỏ điều gì"
+  ],
+  "t": "testify that + mệnh đề; testify to + danh từ hoặc danh động từ."
+ },
+ "proofreading": {
+  "s": [
+   "việc hiệu đính; soát lỗi",
+   "hiệu đính (dạng V-ing)"
+  ],
+  "c": [
+   "hiệu đính cẩn thận",
+   "kỹ năng hiệu đính",
+   "phần mềm hiệu đính"
+  ],
+  "t": "Hiệu đính tập trung vào lỗi chính tả, dấu câu, không phải viết lại."
+ },
+ "communicative": {
+  "s": [
+   "cởi mở; thích giao tiếp",
+   "thuộc giao tiếp"
+  ],
+  "c": [
+   "kỹ năng giao tiếp",
+   "năng lực giao tiếp",
+   "phương pháp dạy giao tiếp"
+  ],
+  "t": "Khi nói về người nghĩa là thích giao tiếp; khi nói về dạy học nghĩa là coi trọng giao tiếp."
+ },
+ "null": {
+  "s": [
+   "vô hiệu; không có giá trị pháp lý",
+   "bằng không; giá trị rỗng"
+  ],
+  "c": [
+   "vô hiệu",
+   "giá trị rỗng",
+   "giả thuyết không"
+  ],
+  "t": "Trong pháp luật hay dùng null and void; giá trị null trong lập trình không nhất thiết bằng 0."
+ },
+ "lawful": {
+  "s": [
+   "hợp pháp; được pháp luật cho phép"
+  ],
+  "c": [
+   "chủ sở hữu hợp pháp",
+   "thẩm quyền hợp pháp",
+   "phương tiện hợp pháp",
+   "mục đích hợp pháp"
+  ],
+  "t": "lawful là được pháp luật cho phép; legal còn có nghĩa “liên quan đến luật pháp”."
+ },
+ "snobbish": {
+  "s": [
+   "hợm hĩnh; làm sang"
+  ],
+  "c": [
+   "thái độ hợm hĩnh",
+   "làm sang về quần áo",
+   "hành vi hợm hĩnh"
+  ],
+  "t": "Trọng tâm là coi thường người khác vì địa vị hoặc gu, không nhất thiết là xu nịnh."
+ },
+ "endeavor": {
+  "s": [
+   "cố gắng; nỗ lực",
+   "sự nỗ lực; sự cố gắng"
+  ],
+  "c": [
+   "cố gắng làm gì",
+   "nỗ lực chung",
+   "nỗ lực khoa học"
+  ],
+  "t": "Cách viết Mỹ; Anh viết endeavour; động từ thường theo sau là to do."
+ },
+ "solitary": {
+  "s": [
+   "đơn độc; sống một mình",
+   "đơn lẻ; duy nhất"
+  ],
+  "c": [
+   "cuộc sống đơn độc",
+   "bóng dáng đơn độc",
+   "hoạt động một mình",
+   "một cái cây lẻ loi"
+  ],
+  "t": "solitary nhấn mạnh ở một mình, không nhất thiết cảm thấy cô đơn như lonely."
+ },
+ "ample": {
+  "s": [
+   "dồi dào; đầy đủ",
+   "rộng rãi; thoải mái"
+  ],
+  "c": [
+   "thời gian dồi dào",
+   "bằng chứng đầy đủ",
+   "không gian rộng rãi",
+   "nhiều cơ hội"
+  ],
+  "t": "ample nhấn mạnh đủ hoặc thừa, thường bổ nghĩa cho time, space, evidence."
+ },
+ "provocation": {
+  "s": [
+   "sự khiêu khích; sự chọc tức"
+  ],
+  "c": [
+   "vô cớ",
+   "sự khiêu khích cố ý",
+   "đáp lại sự khiêu khích"
+  ],
+  "t": "Thường chỉ sự khiêu khích gây tức giận, không chỉ là kích thích thông thường."
+ },
+ "reiterate": {
+  "s": [
+   "nhắc lại; nhấn mạnh lại"
+  ],
+  "c": [
+   "nhắc lại một quan điểm",
+   "nhắc lại cam kết",
+   "nhắc lại rằng"
+  ],
+  "t": "Là động từ, không phải tính từ; có thể theo sau là danh từ hoặc mệnh đề that."
+ },
+ "notwithstanding": {
+  "s": [
+   "mặc dù; bất chấp",
+   "dù vậy; tuy nhiên"
+  ],
+  "c": [
+   "mặc dù thực tế là",
+   "bất chấp những khó khăn này",
+   "bất chấp những lo ngại này"
+  ],
+  "t": "Dùng trang trọng; khi là giới từ có thể đứng trước hoặc sau danh từ, ví dụ the rain notwithstanding."
+ },
+ "dishonorable": {
+  "s": [
+   "không vinh dự; đáng hổ thẹn"
+  ],
+  "c": [
+   "hành vi đáng hổ thẹn",
+   "ý đồ không trong sạch",
+   "giải ngũ không danh dự"
+  ],
+  "t": "Cách viết Mỹ; tiếng Anh Anh thường viết dishonourable."
+ },
+ "meticulous": {
+  "s": [
+   "tỉ mỉ; kỹ lưỡng"
+  ],
+  "c": [
+   "chú ý tỉ mỉ đến chi tiết",
+   "lập kế hoạch kỹ lưỡng",
+   "hồ sơ chi tiết chính xác"
+  ],
+  "t": "Thường mang nghĩa khen, nhấn mạnh sự chú ý đến từng chi tiết."
+ },
+ "fluorescent": {
+  "s": [
+   "phát huỳnh quang; thuộc đèn huỳnh quang",
+   "có màu rực rỡ; màu huỳnh quang"
+  ],
+  "c": [
+   "chiếu sáng bằng đèn huỳnh quang",
+   "ống đèn huỳnh quang",
+   "vàng huỳnh quang"
+  ],
+  "t": "Chú ý cách viết fluorescent; thường kết hợp với lamp hoặc tube."
+ }
+}

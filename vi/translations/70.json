@@ -1,0 +1,1138 @@
+{
+ "grim": {
+  "s": [
+   "nghiêm trọng; đáng lo ngại",
+   "nghiêm nghị; lạnh lùng",
+   "ảm đạm; khó chịu; tồi tệ"
+  ],
+  "c": [
+   "triển vọng ảm đạm",
+   "thực tế phũ phàng",
+   "vẻ mặt nghiêm nghị",
+   "lời nhắc nhở đáng sợ"
+  ],
+  "t": "Thường dùng cho triển vọng, thực tế hoặc nét mặt, nhấn mạnh sự nặng nề chứ không chỉ là khó chịu thông thường."
+ },
+ "forerunner": {
+  "s": [
+   "người đi trước; tiền thân",
+   "điềm báo"
+  ],
+  "c": [
+   "tiền thân của",
+   "người đi trước của",
+   "người đi tiên phong sớm"
+  ],
+  "t": "Thường dùng a forerunner of; không chỉ người dẫn đầu trong một cuộc thi."
+ },
+ "millennium": {
+  "s": [
+   "một nghìn năm; thiên niên kỷ",
+   "thiên niên kỷ mới; thời điểm giao thiên niên kỷ"
+  ],
+  "c": [
+   "thiên niên kỷ vừa qua",
+   "thời điểm giao thiên niên kỷ",
+   "các buổi lễ mừng thiên niên kỷ"
+  ],
+  "t": "Chú ý viết đôi chữ l và n; số nhiều thường dùng millennia."
+ },
+ "antiquated": {
+  "s": [
+   "cũ kỹ; lỗi thời"
+  ],
+  "c": [
+   "thiết bị cũ kỹ",
+   "hệ thống lỗi thời",
+   "luật lỗi thời"
+  ],
+  "t": "Mang sắc thái chê, nhấn mạnh cũ đến mức không còn hợp thời; antique có thể chỉ đồ cổ quý giá."
+ },
+ "corps": {
+  "s": [
+   "quân đoàn; binh chủng",
+   "đoàn; nhóm người làm cùng chuyên môn"
+  ],
+  "c": [
+   "quân y",
+   "ngoại giao đoàn",
+   "đoàn báo chí"
+  ],
+  "t": "Số ít và số nhiều viết giống nhau; số ít không đọc âm ps, số nhiều đọc cuối từ là /z/."
+ },
+ "wedge": {
+  "s": [
+   "cái nêm; vật hình nêm",
+   "chèn chặt; nhét vào"
+  ],
+  "c": [
+   "cái nêm gỗ",
+   "một miếng pho mát hình nêm",
+   "chèn nêm để giữ cửa mở",
+   "gây chia rẽ giữa"
+  ],
+  "t": "drive a wedge between nghĩa bóng là gây chia rẽ, xa cách."
+ },
+ "brewery": {
+  "s": [
+   "nhà máy bia"
+  ],
+  "c": [
+   "nhà máy bia địa phương",
+   "nhà máy bia thủ công",
+   "chuyến tham quan nhà máy bia"
+  ],
+  "t": "Thường chỉ nhà máy bia; nơi làm rượu vang là winery."
+ },
+ "initiate": {
+  "s": [
+   "khởi xướng; khởi động",
+   "đưa vào nghề; kết nạp"
+  ],
+  "c": [
+   "khởi xướng đàm phán",
+   "khởi động dự án",
+   "đưa ai vào (một lĩnh vực)"
+  ],
+  "t": "Khi là động từ thì khá trang trọng; initiate sb into nghĩa là đưa ai vào một lĩnh vực hoặc nhóm."
+ },
+ "dissertation": {
+  "s": [
+   "luận văn; luận án"
+  ],
+  "c": [
+   "viết luận văn",
+   "nộp luận văn",
+   "luận án tiến sĩ",
+   "luận văn về giáo dục"
+  ],
+  "t": "Chủ đề đi với on; tiếng Anh Mỹ thường chỉ luận án tiến sĩ, tiếng Anh Anh dùng rộng hơn."
+ },
+ "mourn": {
+  "s": [
+   "thương tiếc; đau buồn vì mất mát"
+  ],
+  "c": [
+   "thương tiếc cái chết của ai",
+   "đau buồn vì mất",
+   "tưởng nhớ ai"
+  ],
+  "t": "Có thể đi thẳng với người đã mất hoặc sự mất mát, cũng có thể dùng mourn for sb."
+ },
+ "bureau": {
+  "s": [
+   "cục; sở; văn phòng",
+   "bàn viết có nắp gập; tủ ngăn kéo"
+  ],
+  "c": [
+   "văn phòng thông tin du lịch",
+   "cục thống kê",
+   "văn phòng đại diện báo chí"
+  ],
+  "t": "Số nhiều có thể là bureaux hoặc bureaus; nghĩa đồ nội thất khác nhau giữa Anh và Mỹ."
+ },
+ "aviation": {
+  "s": [
+   "hàng không; ngành hàng không"
+  ],
+  "c": [
+   "hàng không dân dụng",
+   "ngành hàng không",
+   "an toàn hàng không"
+  ],
+  "t": "Danh từ không đếm được, thường chỉ hoạt động bay hoặc cả ngành hàng không."
+ },
+ "rebate": {
+  "s": [
+   "khoản hoàn tiền; hoàn thuế; tiền trả lại"
+  ],
+  "c": [
+   "hoàn thuế",
+   "yêu cầu hoàn tiền",
+   "nhận khoản hoàn tiền",
+   "đưa ra ưu đãi hoàn tiền"
+  ],
+  "t": "Rebate thường là tiền trả lại sau khi đã thanh toán, còn discount thường là giảm giá ngay lúc thanh toán."
+ },
+ "valve": {
+  "s": [
+   "van; khóa van",
+   "van (cơ quan trong cơ thể)"
+  ],
+  "c": [
+   "mở van",
+   "van an toàn",
+   "van tim",
+   "van xả áp"
+  ],
+  "t": "Trong kỹ thuật là cái van; trong cơ thể có thể chỉ van tim và các van tương tự."
+ },
+ "hinge": {
+  "s": [
+   "bản lề",
+   "phụ thuộc vào"
+  ],
+  "c": [
+   "bản lề cửa",
+   "bản lề gỉ",
+   "phụ thuộc vào"
+  ],
+  "t": "hinge on đi với danh từ hoặc mệnh đề, nghĩa là “phụ thuộc vào”."
+ },
+ "flutter": {
+  "s": [
+   "bay phấp phới; vỗ cánh; rung rinh",
+   "sự rung rinh; tim đập loạn nhịp"
+  ],
+  "c": [
+   "phấp phới trong làn gió nhẹ",
+   "vỗ cánh",
+   "một thoáng bồi hồi"
+  ],
+  "t": "Nhấn mạnh chuyển động nhẹ và nhanh, lặp lại; dùng cho cánh, vải hoặc nhịp tim."
+ },
+ "hierarchy": {
+  "s": [
+   "hệ thống cấp bậc; cấu trúc phân tầng",
+   "giới lãnh đạo; tầng lớp cầm quyền"
+  ],
+  "c": [
+   "hệ thống cấp bậc cứng nhắc",
+   "cấu trúc phân cấp của tổ chức",
+   "tháp nhu cầu",
+   "đỉnh của hệ thống cấp bậc"
+  ],
+  "t": "Có thể chỉ cấu trúc cấp bậc, cũng có thể chỉ tầng lãnh đạo cao nhất của tổ chức."
+ },
+ "radial": {
+  "s": [
+   "tỏa tròn; hướng tâm"
+  ],
+  "c": [
+   "hoa văn tỏa tròn",
+   "đối xứng tỏa tròn",
+   "mạng lưới đường tỏa tròn"
+  ],
+  "t": "Nhấn mạnh sự lan ra từ tâm; không dùng chung cho mọi thứ liên quan đến tia sáng."
+ },
+ "amplify": {
+  "s": [
+   "khuếch đại âm thanh hoặc tín hiệu",
+   "tăng cường; mở rộng tác động",
+   "nói rõ thêm; bổ sung chi tiết"
+  ],
+  "c": [
+   "khuếch đại âm thanh",
+   "khuếch đại tín hiệu",
+   "tăng cường hiệu quả"
+  ],
+  "t": "Có thể khuếch đại âm thanh thật, hoặc làm tăng tác động hay cảm xúc."
+ },
+ "backlog": {
+  "s": [
+   "công việc tồn đọng; đơn hàng chưa xử lý"
+  ],
+  "c": [
+   "giải quyết việc tồn đọng",
+   "đơn hàng tồn đọng",
+   "giảm việc tồn đọng",
+   "việc tồn đọng ngày càng nhiều"
+  ],
+  "t": "Thường dùng a backlog of, chỉ những việc lẽ ra phải xử lý nhưng bị dồn lại."
+ },
+ "clearance": {
+  "s": [
+   "sự dọn dẹp; sự giải tỏa",
+   "giấy phép chính thức; sự chấp thuận",
+   "bán thanh lý hàng tồn"
+  ],
+  "c": [
+   "giải tỏa rừng",
+   "giấy phép an ninh",
+   "thông quan",
+   "bán thanh lý hàng tồn"
+  ],
+  "t": "clearance sale là đợt bán thanh lý; thông quan dùng customs clearance."
+ },
+ "uprising": {
+  "s": [
+   "cuộc khởi nghĩa; cuộc nổi dậy"
+  ],
+  "c": [
+   "cuộc nổi dậy của dân chúng",
+   "cuộc khởi nghĩa vũ trang",
+   "đàn áp cuộc nổi dậy"
+  ],
+  "t": "Thường chỉ cuộc nổi dậy chống lại người cầm quyền; không dùng cho việc thức dậy hay đi lên thông thường."
+ },
+ "homely": {
+  "s": [
+   "ấm cúng; giản dị như ở nhà",
+   "kém duyên; không đẹp (đặc biệt trong tiếng Anh Mỹ)"
+  ],
+  "c": [
+   "bầu không khí ấm cúng",
+   "không gian ấm cúng như ở nhà",
+   "khuôn mặt bình thường, kém duyên"
+  ],
+  "t": "Tiếng Anh Anh thường mang nghĩa ấm cúng; tiếng Anh Mỹ thường nghĩa là kém duyên, nên cẩn thận khi tả người."
+ },
+ "sophistication": {
+  "s": [
+   "sự tinh vi; mức độ phức tạp",
+   "sự sành điệu; sự từng trải; sự tao nhã"
+  ],
+  "c": [
+   "mức độ tiên tiến về công nghệ",
+   "mức độ tinh vi cao",
+   "sự khéo léo trong giao tiếp xã hội"
+  ],
+  "t": "Danh từ không đếm được; vừa chỉ sự tinh vi của kỹ thuật, vừa chỉ sự từng trải trong cách cư xử."
+ },
+ "avenge": {
+  "s": [
+   "trả thù cho; rửa hận"
+  ],
+  "c": [
+   "rửa nhục thất bại",
+   "trả thù cho một sự bất công"
+  ],
+  "t": "avenge là động từ, thường đi với điều tổn hại đã chịu; revenge thường là danh từ."
+ },
+ "bestow": {
+  "s": [
+   "trao tặng; ban cho"
+  ],
+  "c": [
+   "trao danh dự cho",
+   "tặng quà cho",
+   "phong tước hiệu cho"
+  ],
+  "t": "Từ trang trọng: bestow sth on/upon sb."
+ },
+ "deplore": {
+  "s": [
+   "lên án mạnh mẽ; lấy làm tiếc sâu sắc"
+  ],
+  "c": [
+   "lên án bạo lực",
+   "lấy làm tiếc sâu sắc về sự thiếu",
+   "phản đối mạnh mẽ quyết định này"
+  ],
+  "t": "Ngoại động từ trang trọng, đi thẳng với điều bị lên án hoặc đáng tiếc."
+ },
+ "splint": {
+  "s": [
+   "nẹp cố định chi bị thương",
+   "cố định bằng nẹp"
+  ],
+  "c": [
+   "đeo nẹp",
+   "bó nẹp",
+   "nẹp cổ tay"
+  ],
+  "t": "Chỉ loại nẹp cố định chỗ bị thương; khác với cast là bó bột."
+ },
+ "infantry": {
+  "s": [
+   "bộ binh; đơn vị bộ binh"
+  ],
+  "c": [
+   "đơn vị bộ binh",
+   "sư đoàn bộ binh",
+   "huấn luyện bộ binh"
+  ],
+  "t": "Danh từ tập hợp chỉ bộ binh nói chung, không dùng an infantry để chỉ một người."
+ },
+ "staphylococcus": {
+  "s": [
+   "tụ cầu khuẩn"
+  ],
+  "c": [
+   "nhiễm tụ cầu khuẩn",
+   "các chủng tụ cầu khuẩn",
+   "tụ cầu khuẩn kháng kháng sinh"
+  ],
+  "t": "Số nhiều là staphylococci; dạng viết tắt thường gặp là staph."
+ },
+ "depute": {
+  "s": [
+   "ủy nhiệm; ủy quyền"
+  ],
+  "c": [
+   "ủy nhiệm ai làm gì",
+   "ủy nhiệm một đại diện"
+  ],
+  "t": "Từ trang trọng, thường dùng depute sb to do sth."
+ },
+ "wreathe": {
+  "s": [
+   "bao quanh; bao phủ"
+  ],
+  "c": [
+   "bị khói bao phủ",
+   "sương mù bao quanh những ngọn đồi",
+   "khuôn mặt rạng rỡ nụ cười"
+  ],
+  "t": "Thiên về văn chương; wreathe kết thúc bằng âm /ð/, còn wreath kết thúc bằng /θ/."
+ },
+ "vortex": {
+  "s": [
+   "xoáy nước; xoáy lốc",
+   "vòng xoáy (của rắc rối)"
+  ],
+  "c": [
+   "xoáy nước cuộn tròn",
+   "vòng xoáy nợ nần",
+   "bị cuốn vào vòng xoáy"
+  ],
+  "t": "Số nhiều có thể là vortices hoặc vortexes; cũng dùng theo nghĩa bóng cho hoàn cảnh khó khăn."
+ },
+ "preclude": {
+  "s": [
+   "làm cho không thể; ngăn cản; loại trừ"
+  ],
+  "c": [
+   "loại trừ khả năng",
+   "ngăn ai làm gì",
+   "khiến không thể thảo luận thêm"
+  ],
+  "t": "Từ trang trọng; có thể dùng preclude sb from doing sth."
+ },
+ "profuse": {
+  "s": [
+   "rất nhiều; dồi dào"
+  ],
+  "c": [
+   "xin lỗi rối rít",
+   "đổ mồ hôi nhiều",
+   "cảm ơn rối rít"
+  ],
+  "t": "Thường đi với mồ hôi, lời xin lỗi hoặc lời cảm ơn, nhấn mạnh lượng nhiều hoặc lặp đi lặp lại."
+ },
+ "vex": {
+  "s": [
+   "làm phiền; làm bực mình"
+  ],
+  "c": [
+   "làm các nhà hoạch định chính sách đau đầu",
+   "vấn đề gây tranh cãi",
+   "bực mình vì sự chậm trễ"
+  ],
+  "t": "Ngoại động từ khá trang trọng; trong đời thường thường dùng annoy."
+ },
+ "nicety": {
+  "s": [
+   "chi tiết tinh tế; sự khác biệt nhỏ",
+   "phép lịch sự; nghi thức xã giao"
+  ],
+  "c": [
+   "những chi tiết tinh tế của",
+   "nghi thức xã giao",
+   "những điểm khác biệt nhỏ về pháp lý",
+   "vừa khít; chính xác tuyệt đối"
+  ],
+  "t": "Thường dùng số nhiều niceties; đừng hiểu đơn giản là “tốt đẹp”."
+ },
+ "pervert": {
+  "s": [
+   "xuyên tạc; làm sai lệch; làm hư hỏng"
+  ],
+  "c": [
+   "cản trở công lý",
+   "xuyên tạc sự thật"
+  ],
+  "t": "Động từ nhấn âm sau; danh từ nhấn âm đầu và thường mang nghĩa xúc phạm."
+ },
+ "pilferage": {
+  "s": [
+   "sự ăn cắp vặt; thất thoát do trộm vặt"
+  ],
+  "c": [
+   "ngăn chặn trộm vặt",
+   "thiệt hại do trộm vặt",
+   "nhân viên ăn cắp vặt"
+  ],
+  "t": "pilferage là danh từ không đếm được, không phải động từ; động từ là pilfer."
+ },
+ "virile": {
+  "s": [
+   "nam tính; khỏe mạnh"
+  ],
+  "c": [
+   "hình ảnh nam tính",
+   "chàng trai trẻ khỏe mạnh",
+   "khí chất nam tính"
+  ],
+  "t": "Không chỉ đơn giản là “thuộc nam giới”; nhấn mạnh sức mạnh và sinh lực theo quan niệm truyền thống về nam giới."
+ },
+ "treatise": {
+  "s": [
+   "luận văn chuyên đề; chuyên luận"
+  ],
+  "c": [
+   "chuyên luận về",
+   "viết chuyên luận",
+   "chuyên luận triết học"
+  ],
+  "t": "Thường dùng a treatise on, chỉ công trình trình bày có hệ thống và chi tiết chứ không phải bài ngắn."
+ },
+ "surmise": {
+  "s": [
+   "phỏng đoán; suy đoán",
+   "sự phỏng đoán; sự suy đoán"
+  ],
+  "c": [
+   "phỏng đoán rằng",
+   "suy đoán từ",
+   "hoàn toàn là phỏng đoán"
+  ],
+  "t": "Khá trang trọng, nhấn mạnh thiếu bằng chứng; động từ thường đi với mệnh đề that."
+ },
+ "terminable": {
+  "s": [
+   "có thể chấm dứt"
+  ],
+  "c": [
+   "hợp đồng có thể chấm dứt",
+   "có thể chấm dứt khi có thông báo",
+   "bên nào cũng có thể chấm dứt"
+  ],
+  "t": "Từ pháp lý trang trọng, thường nói về hợp đồng; không đồng nghĩa với terminal."
+ },
+ "prophesy": {
+  "s": [
+   "tiên tri; dự đoán"
+  ],
+  "c": [
+   "tiên đoán rằng",
+   "tiên đoán thảm họa",
+   "tiên đoán tương lai"
+  ],
+  "t": "prophesy là động từ, đọc cuối từ là /saɪ/; danh từ là prophecy."
+ },
+ "intimation": {
+  "s": [
+   "sự ám chỉ; lời gợi ý gián tiếp"
+  ],
+  "c": [
+   "dấu hiệu của rắc rối",
+   "dấu hiệu đầu tiên",
+   "ám chỉ"
+  ],
+  "t": "Đừng nhầm với intimacy (sự thân mật); thường đi với of hoặc mệnh đề that."
+ },
+ "glutinous": {
+  "s": [
+   "dính; sền sệt"
+  ],
+  "c": [
+   "gạo nếp",
+   "kết cấu sền sệt"
+  ],
+  "t": "glutinous nói về độ dính; gạo nếp bản thân không chứa gluten."
+ },
+ "ostentation": {
+  "s": [
+   "sự phô trương; sự khoe khoang"
+  ],
+  "c": [
+   "không phô trương",
+   "vẻ phô trương",
+   "sự giàu có và phô trương"
+  ],
+  "t": "Danh từ không đếm được, thường mang nghĩa chê, nhấn mạnh cố ý khoe để gây chú ý."
+ },
+ "cervix": {
+  "s": [
+   "cổ tử cung"
+  ],
+  "c": [
+   "cổ tử cung",
+   "tế bào cổ tử cung",
+   "ung thư cổ tử cung"
+  ],
+  "t": "Thường chỉ cổ tử cung; cervical cũng có thể có nghĩa là thuộc về cổ."
+ },
+ "assassinator": {
+  "s": [
+   "kẻ ám sát"
+  ],
+  "c": [
+   "kẻ định ám sát",
+   "động cơ của kẻ ám sát"
+  ],
+  "t": "Từ này hiếm gặp; thường dùng assassin để chỉ kẻ ám sát."
+ },
+ "bushel": {
+  "s": [
+   "giạ (đơn vị đo thể tích hàng khô)"
+  ],
+  "c": [
+   "một giạ lúa mì",
+   "mỗi giạ",
+   "giỏ đựng một giạ"
+  ],
+  "t": "Là đơn vị đo thể tích hàng khô; dung tích Anh và Mỹ khác nhau nên không quy đổi cố định ra trọng lượng."
+ },
+ "needful": {
+  "s": [
+   "cần thiết; thiết yếu"
+  ],
+  "c": [
+   "vật tư cần thiết",
+   "mọi thứ cần thiết",
+   "làm những gì cần làm"
+  ],
+  "t": "Hơi cổ hoặc trang trọng; trong IELTS Writing thường dùng necessary."
+ },
+ "prostrate": {
+  "s": [
+   "nằm sấp; nằm phục xuống",
+   "kiệt sức; suy sụp vì đau buồn",
+   "làm cho nằm phục xuống; làm suy yếu"
+  ],
+  "c": [
+   "nằm sấp",
+   "kiệt sức đến mức không cử động nổi",
+   "quỳ lạy; phủ phục"
+  ],
+  "t": "Đừng nhầm với prostate (tuyến tiền liệt); chú ý có thêm chữ r."
+ },
+ "characteristical": {
+  "s": [
+   "đặc trưng; điển hình"
+  ],
+  "c": [
+   "những nét đặc trưng",
+   "những phẩm chất đặc trưng"
+  ],
+  "t": "Dạng cũ hiếm gặp; khi viết hiện đại nên ưu tiên characteristic.",
+  "n": "Dạng tính từ cũ hiếm gặp; tiếng Anh hiện đại thường dùng characteristic."
+ },
+ "penury": {
+  "s": [
+   "cảnh cực nghèo; sự bần cùng"
+  ],
+  "c": [
+   "sống trong cảnh cực nghèo",
+   "chết trong nghèo khổ",
+   "đẩy ai vào cảnh bần cùng"
+  ],
+  "t": "Từ trang trọng hoặc văn chương, mạnh hơn poverty, thường không đếm được."
+ },
+ "burgeon": {
+  "s": [
+   "tăng nhanh; phát triển mạnh"
+  ],
+  "c": [
+   "nhu cầu tăng nhanh",
+   "ngành đang phát triển mạnh",
+   "dân số tăng nhanh"
+  ],
+  "t": "Ngày nay thường là nội động từ; burgeoning hay đứng trước danh từ."
+ },
+ "mincer": {
+  "s": [
+   "máy xay thịt"
+  ],
+  "c": [
+   "máy xay thịt điện",
+   "máy xay thịt",
+   "máy xay thịt thủ công"
+  ],
+  "t": "Tiếng Anh Anh hay dùng mincer, tiếng Anh Mỹ thường dùng meat grinder."
+ },
+ "reactionary": {
+  "s": [
+   "phản động; bảo thủ cực đoan",
+   "kẻ phản động; người bảo thủ cực đoan"
+  ],
+  "c": [
+   "chính sách phản động",
+   "quan điểm bảo thủ cực đoan",
+   "thế lực phản động"
+  ],
+  "t": "Thường mang nghĩa chê, nhấn mạnh việc muốn khôi phục chế độ cũ; không đồng nghĩa với reactive."
+ },
+ "madden": {
+  "s": [
+   "làm điên tiết; làm phát điên"
+  ],
+  "c": [
+   "làm ai điên tiết",
+   "phát điên vì sự chậm trễ"
+  ],
+  "t": "Thường là ngoại động từ, nghĩa là làm ai tức đến phát điên."
+ },
+ "vanquish": {
+  "s": [
+   "đánh bại hoàn toàn; chinh phục",
+   "vượt qua; chiến thắng"
+  ],
+  "c": [
+   "đánh bại kẻ thù",
+   "đánh bại đối thủ",
+   "vượt qua nỗi sợ"
+  ],
+  "t": "Sắc thái mạnh và thiên về văn chương; trong thi đấu thông thường dùng defeat tự nhiên hơn."
+ },
+ "lexicographer": {
+  "s": [
+   "nhà biên soạn từ điển"
+  ],
+  "c": [
+   "làm nhà biên soạn từ điển",
+   "một nhóm biên soạn từ điển",
+   "nhà biên soạn từ điển song ngữ"
+  ],
+  "t": "Chỉ người viết hoặc biên tập từ điển, không phải mọi nhà ngôn ngữ học."
+ },
+ "insolent": {
+  "s": [
+   "xấc xược; láo"
+  ],
+  "c": [
+   "hành vi xấc xược",
+   "giọng điệu hỗn láo",
+   "câu trả lời xấc xược"
+  ],
+  "t": "Ngày nay chủ yếu dùng như tính từ; danh từ tương ứng là insolence."
+ },
+ "adjudicate": {
+  "s": [
+   "phân xử; phán quyết",
+   "làm giám khảo; đánh giá"
+  ],
+  "c": [
+   "phân xử tranh chấp",
+   "ra phán quyết về yêu cầu bồi thường",
+   "làm giám khảo cuộc thi"
+  ],
+  "t": "Có thể đi thẳng với tranh chấp hoặc dùng adjudicate on; không chuyên chỉ việc tuyên án hình phạt."
+ },
+ "jeer": {
+  "s": [
+   "chế nhạo; giễu cợt",
+   "tiếng la ó; lời chế giễu"
+  ],
+  "c": [
+   "chế nhạo ai",
+   "tiếng la ó từ đám đông",
+   "một tràng la ó"
+  ],
+  "t": "Động từ thường dùng jeer at someone; danh từ hay dùng ở số nhiều."
+ },
+ "loth": {
+  "s": [
+   "miễn cưỡng; không sẵn lòng"
+  ],
+  "c": [
+   "không muốn thừa nhận",
+   "không muốn rời đi",
+   "không muốn chấp nhận"
+  ],
+  "t": "Là biến thể ít gặp của loath; thường dùng be loth to do."
+ },
+ "noxious": {
+  "s": [
+   "độc hại; có hại"
+  ],
+  "c": [
+   "khói độc",
+   "khí độc",
+   "chất độc hại"
+  ],
+  "t": "Thường nói về khí hoặc chất; không chỉ là mùi khó chịu."
+ },
+ "telefax": {
+  "s": [
+   "fax; máy fax",
+   "gửi fax"
+  ],
+  "c": [
+   "gửi bằng fax",
+   "máy fax",
+   "số fax"
+  ],
+  "t": "Cách nói khá cũ; tiếng Anh hiện đại thường dùng thẳng fax."
+ },
+ "magnanimous": {
+  "s": [
+   "cao thượng; độ lượng"
+  ],
+  "c": [
+   "độ lượng khi chiến thắng",
+   "một cử chỉ cao thượng",
+   "một phản ứng khoan dung"
+  ],
+  "t": "Khá trang trọng, thường tả sự độ lượng với đối thủ hoặc người đã xúc phạm mình."
+ },
+ "transgress": {
+  "s": [
+   "vi phạm; vượt quá giới hạn"
+  ],
+  "c": [
+   "vi phạm pháp luật",
+   "vượt qua ranh giới đạo đức",
+   "vi phạm chuẩn mực xã hội"
+  ],
+  "t": "Từ trang trọng, có thể đi thẳng với các tân ngữ như law, rules."
+ },
+ "ramify": {
+  "s": [
+   "phân nhánh; chia nhánh; tạo thành nhánh"
+  ],
+  "c": [
+   "rễ phân nhánh",
+   "chia thành các cành nhánh"
+  ],
+  "t": "Trang trọng và ít gặp, thường nói về rễ cây, mạch máu hoặc mạng lưới tỏa nhánh."
+ },
+ "hotelling": {
+  "s": [
+   "hình thức đặt trước chỗ làm việc dùng chung"
+  ],
+  "c": [
+   "hình thức đặt trước chỗ làm việc ở văn phòng",
+   "hệ thống đặt chỗ làm việc dùng chung",
+   "đặt bàn làm việc dùng chung"
+  ],
+  "t": "Thường chỉ việc đặt trước chỗ làm việc dùng chung; ngành khách sạn dùng hotel industry.",
+  "n": "Từ có thật, cũng viết hoteling; nghĩa phổ biến hiện nay là đặt trước chỗ làm việc dùng chung, không phải ngành khách sạn."
+ },
+ "hitherto": {
+  "s": [
+   "cho đến nay; từ trước đến giờ"
+  ],
+  "c": [
+   "chưa từng được biết đến",
+   "chưa từng thấy",
+   "bị bỏ qua từ trước đến nay"
+  ],
+  "t": "Dùng trang trọng, thường gặp trong các cụm như hitherto unknown."
+ },
+ "foregoing": {
+  "s": [
+   "nói trên; đã nêu ở trên"
+  ],
+  "c": [
+   "phần thảo luận ở trên",
+   "phân tích ở trên",
+   "những nhận xét đã nêu"
+  ],
+  "t": "Văn viết trang trọng, thường dùng the foregoing trước danh từ."
+ },
+ "disburse": {
+  "s": [
+   "chi trả; giải ngân"
+  ],
+  "c": [
+   "giải ngân quỹ",
+   "chi trả tiền",
+   "giải ngân khoản vay"
+  ],
+  "t": "Từ trang trọng, tân ngữ thường là funds hoặc money."
+ },
+ "furor": {
+  "s": [
+   "sự phẫn nộ của công chúng; sự náo động; sự xôn xao"
+  ],
+  "c": [
+   "gây ra làn sóng phẫn nộ",
+   "châm ngòi cho làn sóng phẫn nộ",
+   "làn sóng tranh cãi về điều gì"
+  ],
+  "t": "Tiếng Anh Mỹ thường dùng furor, tiếng Anh Anh dùng furore; thường chỉ phản ứng mạnh của công chúng."
+ },
+ "defray": {
+  "s": [
+   "chi trả; gánh chi phí"
+  ],
+  "c": [
+   "chi trả chi phí",
+   "gánh các khoản chi"
+  ],
+  "t": "Từ trang trọng, tân ngữ thường là costs hoặc expenses, không phải người."
+ },
+ "tantalize": {
+  "s": [
+   "trêu ngươi; khiến thèm muốn mà không với tới được"
+  ],
+  "c": [
+   "trêu ngươi ai bằng thứ gì",
+   "cái nhìn thoáng qua đầy cám dỗ",
+   "viễn cảnh hấp dẫn nhưng chưa đạt được"
+  ],
+  "t": "Tiếng Anh Anh còn viết tantalise; nhấn mạnh gợi lên ham muốn nhưng tạm thời chưa có được."
+ },
+ "denominate": {
+  "s": [
+   "tính bằng một loại tiền tệ",
+   "đặt tên; gọi là"
+  ],
+  "c": [
+   "tính bằng đô la",
+   "khoản nợ tính bằng ngoại tệ"
+  ],
+  "t": "Trong tài chính thường dùng be denominated in + tiền tệ; nghĩa đặt tên khá hiếm."
+ },
+ "pervade": {
+  "s": [
+   "tràn ngập; lan khắp"
+  ],
+  "c": [
+   "lan khắp xã hội",
+   "tràn ngập bầu không khí",
+   "cảm giác bất an lan tỏa"
+  ],
+  "t": "Ngoại động từ, đi thẳng với địa điểm hoặc lĩnh vực, không cần giới từ."
+ },
+ "malleable": {
+  "s": [
+   "dễ rèn; dễ tạo hình",
+   "dễ bị ảnh hưởng; dễ uốn nắn"
+  ],
+  "c": [
+   "kim loại dễ rèn",
+   "có tính dẻo cao",
+   "đầu óc dễ bị ảnh hưởng"
+  ],
+  "t": "Nghĩa kim loại nhấn mạnh có thể dát, rèn thành hình; ductile nhấn mạnh có thể kéo thành sợi."
+ },
+ "salability": {
+  "s": [
+   "khả năng bán được; tính dễ bán"
+  ],
+  "c": [
+   "cải thiện khả năng bán được",
+   "khả năng bán được của sản phẩm",
+   "ảnh hưởng đến khả năng bán được"
+  ],
+  "t": "Cách viết Mỹ; tiếng Anh Anh thường viết saleability."
+ },
+ "reportage": {
+  "s": [
+   "phóng sự; bài viết tường thuật"
+  ],
+  "c": [
+   "phóng sự điều tra",
+   "phóng sự văn học",
+   "phóng sự trực tiếp từ hiện trường"
+  ],
+  "t": "Thường không đếm được, trang trọng hơn reporting và hay nhấn mạnh việc ghi chép tại hiện trường."
+ },
+ "trite": {
+  "s": [
+   "sáo rỗng; nhàm chán"
+  ],
+  "c": [
+   "lời nói sáo rỗng",
+   "cách diễn đạt sáo rỗng",
+   "nghe có vẻ sáo rỗng"
+  ],
+  "t": "Nhấn mạnh mất tính mới do dùng quá nhiều, không chỉ là cũ."
+ },
+ "vernacular": {
+  "s": [
+   "tiếng bản địa; ngôn ngữ thường ngày",
+   "bằng ngôn ngữ bản địa; mang phong cách bản địa"
+  ],
+  "c": [
+   "ngôn ngữ thường ngày của địa phương",
+   "bằng tiếng bản địa",
+   "kiến trúc dân gian"
+  ],
+  "t": "Nhấn mạnh ngôn ngữ thường ngày của một nơi, không đồng nghĩa với “của quốc gia”."
+ },
+ "exhilarate": {
+  "s": [
+   "làm phấn khích; làm hân hoan"
+  ],
+  "c": [
+   "cảm thấy phấn khích",
+   "phấn khích vì trải nghiệm",
+   "một trải nghiệm đầy phấn khích"
+  ],
+  "t": "Ngoại động từ; người cảm thấy phấn khích dùng exhilarated."
+ },
+ "infinitesimal": {
+  "s": [
+   "cực kỳ nhỏ bé",
+   "đại lượng vô cùng bé"
+  ],
+  "c": [
+   "lượng cực nhỏ",
+   "sự khác biệt cực nhỏ",
+   "thay đổi cực nhỏ"
+  ],
+  "t": "Mạnh hơn small rất nhiều; nghĩa danh từ chủ yếu dùng trong toán học."
+ },
+ "componential": {
+  "s": [
+   "thuộc thành phần; phân tích thành phần"
+  ],
+  "c": [
+   "phân tích thành phần",
+   "phương pháp phân tích thành phần"
+  ],
+  "t": "Tính từ chuyên ngành, thường gặp trong thuật ngữ ngôn ngữ học componential analysis."
+ },
+ "aforesaid": {
+  "s": [
+   "nói trên; đã nêu trên"
+  ],
+  "c": [
+   "các điều kiện nói trên",
+   "thỏa thuận nói trên",
+   "bất động sản nói trên"
+  ],
+  "t": "Dùng trong pháp lý hoặc văn viết trang trọng, thường đứng trước danh từ."
+ },
+ "profane": {
+  "s": [
+   "báng bổ; thô tục",
+   "báng bổ; xúc phạm"
+  ],
+  "c": [
+   "ngôn ngữ thô tục",
+   "những lời báng bổ",
+   "xúc phạm nơi thiêng liêng"
+  ],
+  "t": "Tính từ thường đi với language; động từ nghĩa là xúc phạm điều thiêng liêng."
+ },
+ "tibia": {
+  "s": [
+   "xương chày"
+  ],
+  "c": [
+   "xương chày bị gãy",
+   "xương chày và xương mác",
+   "gãy xương chày"
+  ],
+  "t": "Còn gọi là shinbone; số nhiều có thể là tibias hoặc tibiae."
+ },
+ "vehement": {
+  "s": [
+   "kịch liệt; mãnh liệt"
+  ],
+  "c": [
+   "sự phản đối kịch liệt",
+   "sự phủ nhận quyết liệt",
+   "sự chỉ trích gay gắt"
+  ],
+  "t": "Thường nói về mức độ mạnh của sự phản đối, phủ nhận hoặc chỉ trích; sắc thái khá trang trọng."
+ },
+ "raucous": {
+  "s": [
+   "chói tai; ồn ào"
+  ],
+  "c": [
+   "tiếng cười chói tai",
+   "đám đông ồn ào",
+   "giọng khàn chói tai"
+  ],
+  "t": "Nhấn mạnh âm thanh khàn, chói tai hoặc ồn ào, không chỉ là giọng khàn."
+ },
+ "opal": {
+  "s": [
+   "ngọc opal; đá opal"
+  ],
+  "c": [
+   "nhẫn opal",
+   "khai thác opal",
+   "opal quý"
+  ],
+  "t": "Trong ngành trang sức thường gọi là opal; không phải mọi viên opal đều có ánh đổi màu."
+ },
+ "multifarious": {
+  "s": [
+   "muôn hình muôn vẻ; đa dạng"
+  ],
+  "c": [
+   "các hoạt động đa dạng",
+   "nhu cầu nhiều mặt",
+   "nhiều trách nhiệm đa dạng"
+  ],
+  "t": "Từ trang trọng, nhấn mạnh nhiều loại; thường ngày hay dùng varied hoặc diverse."
+ },
+ "propellent": {
+  "s": [
+   "chất đẩy; chất phun",
+   "có tác dụng đẩy"
+  ],
+  "c": [
+   "chất đẩy tên lửa",
+   "chất đẩy dạng lỏng",
+   "khí đẩy"
+  ],
+  "t": "Là cách viết ít gặp của propellant; khi viết nên ưu tiên propellant."
+ },
+ "loath": {
+  "s": [
+   "miễn cưỡng; không sẵn lòng"
+  ],
+  "c": [
+   "không muốn thừa nhận",
+   "không muốn rời đi",
+   "không muốn chấp nhận"
+  ],
+  "t": "Thường dùng be loath to do; đừng nhầm với động từ loathe (ghê tởm)."
+ },
+ "panacea": {
+  "s": [
+   "thuốc chữa bách bệnh; giải pháp vạn năng"
+  ],
+  "c": [
+   "giải pháp vạn năng cho",
+   "không phải giải pháp vạn năng",
+   "thần dược chữa bách bệnh"
+  ],
+  "t": "Thường dùng a panacea for; hay dùng ở dạng phủ định để nói không có giải pháp nào giải quyết được tất cả."
+ },
+ "miscarry": {
+  "s": [
+   "sảy thai",
+   "thất bại; không đạt mục đích"
+  ],
+  "c": [
+   "sảy thai sớm khi mang thai",
+   "một kế hoạch thất bại"
+  ],
+  "t": "Thường chỉ việc sảy thai; nghĩa kế hoạch thất bại khá trang trọng và hiếm."
+ },
+ "underwriter": {
+  "s": [
+   "người nhận bảo hiểm; tổ chức bảo hiểm",
+   "nhà bảo lãnh phát hành chứng khoán"
+  ],
+  "c": [
+   "người nhận bảo hiểm",
+   "nhà bảo lãnh phát hành chính",
+   "người thẩm định khoản vay thế chấp"
+  ],
+  "t": "Trong bảo hiểm là bên nhận bảo hiểm, trong chứng khoán là nhà bảo lãnh phát hành."
+ },
+ "transship": {
+  "s": [
+   "chuyển tải; chuyển sang tàu khác"
+  ],
+  "c": [
+   "chuyển tải hàng hóa",
+   "chuyển tải hàng",
+   "chuyển tải container"
+  ],
+  "t": "Quá khứ là transshipped, phân từ hiện tại viết đôi chữ p."
+ },
+ "eucalyptus": {
+  "s": [
+   "cây bạch đàn"
+  ],
+  "c": [
+   "cây bạch đàn",
+   "tinh dầu bạch đàn",
+   "lá bạch đàn"
+  ],
+  "t": "Chỉ loài cây; eucalyptus oil là tinh dầu chiết từ lá bạch đàn."
+ }
+}

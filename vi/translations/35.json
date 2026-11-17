@@ -1,0 +1,1236 @@
+{
+ "overtake": {
+  "s": [
+   "vượt qua (xe, người đi trước)",
+   "vượt hơn (về số lượng, thành tích)",
+   "bất ngờ ập đến; áp đảo"
+  ],
+  "c": [
+   "vượt một chiếc xe",
+   "vượt mặt đối thủ",
+   "bị tình thế thay đổi làm cho lỗi thời"
+  ],
+  "t": "Quá khứ là overtook, quá khứ phân từ là overtaken."
+ },
+ "somewhat": {
+  "s": [
+   "hơi; phần nào"
+  ],
+  "c": [
+   "hơi khác",
+   "hơi hạn chế",
+   "hơi lo lắng"
+  ],
+  "t": "Trang trọng hơn a bit, thường dùng để làm nhẹ nhận định hoặc giọng điệu."
+ },
+ "dominant": {
+  "s": [
+   "chiếm ưu thế; thống trị",
+   "trội (di truyền)"
+  ],
+  "c": [
+   "vai trò chủ đạo",
+   "vị thế thống lĩnh",
+   "nền văn hoá chủ đạo",
+   "gen trội"
+  ],
+  "t": "dominant là tính từ; dominate là động từ."
+ },
+ "moonlight": {
+  "s": [
+   "ánh trăng",
+   "làm thêm (ngoài công việc chính, thường kín đáo)"
+  ],
+  "c": [
+   "dưới ánh trăng",
+   "ánh trăng nhạt",
+   "làm thêm nghề phục vụ bàn"
+  ],
+  "t": "Nghĩa “ánh trăng” là danh từ không đếm được; động từ thường đi với as để chỉ công việc làm thêm."
+ },
+ "entitle": {
+  "s": [
+   "cho quyền; cho đủ tư cách",
+   "đặt tên; đặt nhan đề"
+  ],
+  "c": [
+   "cho ai quyền hưởng phúc lợi",
+   "có quyền được bồi thường",
+   "có quyền bỏ phiếu"
+  ],
+  "t": "entitle sb to sth hoặc to do sth; thường dùng ở dạng bị động."
+ },
+ "slip": {
+  "s": [
+   "trượt chân; tuột",
+   "lẻn đi; nhét nhanh vào",
+   "mảnh giấy nhỏ; lỗi nhỏ"
+  ],
+  "c": [
+   "trượt trên băng",
+   "lẻn vào phòng",
+   "một mảnh giấy nhỏ",
+   "lỡ lời"
+  ],
+  "t": "Quá khứ và quá khứ phân từ đều là slipped (gấp đôi chữ p)."
+ },
+ "deepen": {
+  "s": [
+   "làm sâu sắc hơn; tăng cường",
+   "trở nên sâu hơn; đào sâu",
+   "trầm xuống (giọng)"
+  ],
+  "c": [
+   "làm sâu sắc thêm sự hiểu biết",
+   "làm khủng hoảng trầm trọng hơn",
+   "đào sâu luồng nước",
+   "giọng trầm xuống"
+  ],
+  "t": "Dùng được cả như ngoại động từ lẫn nội động từ: deepen trust; a crisis deepens."
+ },
+ "infinite": {
+  "s": [
+   "vô hạn; vô tận",
+   "rất lớn; vô cùng"
+  ],
+  "c": [
+   "khả năng vô hạn",
+   "sự kiên nhẫn vô bờ",
+   "nguồn cung vô tận"
+  ],
+  "t": "Thường là tính từ; danh từ chỉ “sự vô tận” là infinity."
+ },
+ "edition": {
+  "s": [
+   "ấn bản; lần xuất bản",
+   "số (báo); tập (chương trình)"
+  ],
+  "c": [
+   "ấn bản đầu tiên",
+   "ấn bản sửa đổi",
+   "phiên bản giới hạn",
+   "số báo buổi tối"
+  ],
+  "t": "edition chỉ ấn bản hoặc số phát hành; một cuốn sách cụ thể thường gọi là a copy."
+ },
+ "struggle": {
+  "s": [
+   "vất vả làm; cố gắng hết sức",
+   "vật lộn; đấu tranh",
+   "nỗ lực gian nan; cuộc đấu tranh"
+  ],
+  "c": [
+   "vất vả làm việc gì",
+   "chật vật với điều gì",
+   "đấu tranh để sinh tồn",
+   "cuộc đấu tranh gian khổ"
+  ],
+  "t": "struggle to do nghĩa là làm việc gì rất vất vả, không đảm bảo thành công."
+ },
+ "regional": {
+  "s": [
+   "thuộc khu vực; vùng"
+  ],
+  "c": [
+   "phát triển khu vực",
+   "khác biệt giữa các vùng",
+   "kinh tế khu vực",
+   "hợp tác khu vực"
+  ],
+  "t": "Phạm vi của regional thường lớn hơn local và nhỏ hơn national."
+ },
+ "dependable": {
+  "s": [
+   "đáng tin cậy"
+  ],
+  "c": [
+   "dịch vụ đáng tin cậy",
+   "đồng nghiệp đáng tin cậy",
+   "nguồn đáng tin cậy"
+  ],
+  "t": "dependable là đáng tin cậy; dependent là phụ thuộc vào người khác."
+ },
+ "inaccurate": {
+  "s": [
+   "không chính xác; sai"
+  ],
+  "c": [
+   "thông tin không chính xác",
+   "ước tính không chính xác",
+   "sai về mặt sự thật"
+  ],
+  "t": "Chỉ thông tin hoặc số đo không chính xác; không nhất thiết có nghĩa là cố ý làm giả."
+ },
+ "fabric": {
+  "s": [
+   "vải; chất liệu dệt",
+   "cấu trúc cơ bản"
+  ],
+  "c": [
+   "vải cotton",
+   "vải sợi tổng hợp",
+   "cấu trúc xã hội"
+  ],
+  "t": "Khi chỉ vải nói chung thường không đếm được; khi nói các loại vải khác nhau có thể dùng fabrics."
+ },
+ "urgently": {
+  "s": [
+   "khẩn cấp; cấp bách"
+  ],
+  "c": [
+   "cần gấp",
+   "cần một cách cấp bách",
+   "hành động ngay lập tức"
+  ],
+  "t": "Nhấn mạnh việc cần xử lý ngay, chứ không chỉ là làm nhanh."
+ },
+ "oral": {
+  "s": [
+   "bằng miệng; khẩu vấn",
+   "thuộc miệng; đường uống"
+  ],
+  "c": [
+   "thi vấn đáp",
+   "truyền thống truyền miệng",
+   "sức khoẻ răng miệng",
+   "thuốc uống"
+  ],
+  "t": "oral vừa có nghĩa “bằng miệng” vừa có nghĩa “thuộc khoang miệng”; oral medication là thuốc uống."
+ },
+ "delightful": {
+  "s": [
+   "thú vị; đáng yêu"
+  ],
+  "c": [
+   "một trải nghiệm thú vị",
+   "một bất ngờ đáng mừng",
+   "một nơi dễ chịu"
+  ],
+  "t": "delightful mô tả điều gây thích thú; delighted chỉ cảm giác vui mừng của người."
+ },
+ "strip": {
+  "s": [
+   "dải; mảnh dài hẹp",
+   "bóc; lột; cạo bỏ",
+   "tước đoạt"
+  ],
+  "c": [
+   "một dải giấy",
+   "cạo sơn",
+   "tước quyền của ai"
+  ],
+  "t": "Quá khứ của strip là stripped; “tước đoạt” dùng strip sb of sth."
+ },
+ "subjective": {
+  "s": [
+   "chủ quan"
+  ],
+  "c": [
+   "nhận định chủ quan",
+   "trải nghiệm chủ quan",
+   "rất chủ quan"
+  ],
+  "t": "subjective nhấn mạnh cảm nhận cá nhân; objective nhấn mạnh sự thật khách quan."
+ },
+ "impossibility": {
+  "s": [
+   "sự bất khả thi; điều không thể"
+  ],
+  "c": [
+   "điều không thể trên thực tế",
+   "điều không thể về mặt vật lý",
+   "việc không thể làm gì đó"
+  ],
+  "t": "Chỉ tính bất khả thi thì không đếm được; chỉ một điều không thể xảy ra thì đếm được."
+ },
+ "idle": {
+  "s": [
+   "để không; không hoạt động",
+   "lười nhác; rảnh rỗi vô công",
+   "chạy không tải (động cơ)"
+  ],
+  "c": [
+   "đứng yên không dùng",
+   "máy móc để không",
+   "động cơ chạy không tải",
+   "chuyện phiếm vô bổ"
+  ],
+  "t": "idle có thể chỉ người nhàn rỗi, thiết bị bị bỏ không, hoặc động cơ chạy không tải."
+ },
+ "institution": {
+  "s": [
+   "cơ quan; tổ chức; trường học",
+   "thể chế; tập quán"
+  ],
+  "c": [
+   "cơ sở giáo dục",
+   "tổ chức tài chính",
+   "thể chế hôn nhân"
+  ],
+  "t": "Có thể chỉ một cơ quan cụ thể hoặc một thể chế xã hội như hôn nhân."
+ },
+ "basin": {
+  "s": [
+   "chậu rửa mặt; chậu",
+   "lưu vực",
+   "bồn địa"
+  ],
+  "c": [
+   "bồn rửa mặt",
+   "lưu vực sông",
+   "vùng thoát nước"
+  ],
+  "t": "river basin chỉ toàn bộ lưu vực, không chỉ lòng sông."
+ },
+ "vertical": {
+  "s": [
+   "thẳng đứng; vuông góc",
+   "đường thẳng đứng; vị trí thẳng đứng"
+  ],
+  "c": [
+   "đường thẳng đứng",
+   "sọc dọc",
+   "nông nghiệp thẳng đứng",
+   "trục tung"
+  ],
+  "t": "vertical chỉ phương thẳng đứng; horizontal chỉ phương nằm ngang."
+ },
+ "eastward": {
+  "s": [
+   "về phía đông",
+   "hướng về phía đông"
+  ],
+  "c": [
+   "di chuyển về phía đông",
+   "đi về phía đông",
+   "sự mở rộng về phía đông"
+  ],
+  "t": "eastwards cũng có thể làm trạng từ; khi làm tính từ dùng eastward."
+ },
+ "commerce": {
+  "s": [
+   "thương mại; buôn bán"
+  ],
+  "c": [
+   "thương mại quốc tế",
+   "thương mại điện tử",
+   "phòng thương mại"
+  ],
+  "t": "commerce thường không đếm được, thiên về hoạt động mua bán hàng hoá và dịch vụ."
+ },
+ "appoint": {
+  "s": [
+   "bổ nhiệm; chỉ định",
+   "ấn định; hẹn"
+  ],
+  "c": [
+   "bổ nhiệm ai làm",
+   "lập một uỷ ban",
+   "vào giờ đã hẹn"
+  ],
+  "t": "Bổ nhiệm ai có thể dùng appoint sb as hoặc appoint sb to + chức vụ."
+ },
+ "audio-visual": {
+  "s": [
+   "nghe nhìn"
+  ],
+  "c": [
+   "thiết bị nghe nhìn",
+   "phương tiện dạy học nghe nhìn",
+   "tài liệu nghe nhìn"
+  ],
+  "t": "Cũng viết là audiovisual, thường viết tắt là AV."
+ },
+ "overlook": {
+  "s": [
+   "bỏ sót; không để ý",
+   "nhìn ra; trông xuống",
+   "bỏ qua; châm chước"
+  ],
+  "c": [
+   "bỏ sót một chi tiết",
+   "bỏ qua sự thật rằng",
+   "nhìn ra biển",
+   "bỏ qua một lỗi"
+  ],
+  "t": "overlook có thể là “bỏ sót” hoặc “nhìn ra”; đừng nhầm với oversee (giám sát)."
+ },
+ "exhaust": {
+  "s": [
+   "làm kiệt sức",
+   "làm cạn kiệt; dùng hết",
+   "khí thải; ống xả"
+  ],
+  "c": [
+   "khai thác cạn tài nguyên thiên nhiên",
+   "thử mọi khả năng",
+   "khói thải",
+   "ống xả"
+  ],
+  "t": "exhausted chỉ người mệt lả; exhausting chỉ việc gây mệt mỏi."
+ },
+ "catalogue": {
+  "s": [
+   "danh mục; catalô",
+   "lập danh mục; ghi chép phân loại",
+   "một loạt điều tồi tệ"
+  ],
+  "c": [
+   "danh mục thư viện",
+   "danh mục sản phẩm",
+   "lập danh mục cho bộ sưu tập",
+   "một chuỗi lỗi liên tiếp"
+  ],
+  "t": "Chính tả Anh là catalogue; Mỹ thường viết catalog."
+ },
+ "childish": {
+  "s": [
+   "trẻ con; chưa chín chắn",
+   "như trẻ con; thuộc về trẻ em"
+  ],
+  "c": [
+   "hành vi trẻ con",
+   "cuộc cãi vã trẻ con",
+   "niềm vui như trẻ thơ"
+  ],
+  "t": "childish thường mang nghĩa chê; childlike thường chỉ sự ngây thơ, hồn nhiên."
+ },
+ "hedge": {
+  "s": [
+   "hàng rào cây",
+   "biện pháp phòng ngừa rủi ro",
+   "tránh trả lời thẳng; nói nước đôi"
+  ],
+  "c": [
+   "tỉa hàng rào cây",
+   "biện pháp bảo vệ trước lạm phát",
+   "đặt cược nhiều hướng để giảm rủi ro"
+  ],
+  "t": "Nghĩa tài chính thường dùng a hedge against, chỉ việc phòng ngừa một loại rủi ro."
+ },
+ "pickpocket": {
+  "s": [
+   "kẻ móc túi"
+  ],
+  "c": [
+   "coi chừng kẻ móc túi",
+   "một băng móc túi",
+   "bắt kẻ móc túi"
+  ],
+  "t": "Chỉ người trộm đồ trong túi áo hoặc túi xách, cụ thể hơn thief."
+ },
+ "outskirts": {
+  "s": [
+   "vùng ngoại ô; rìa thành phố"
+  ],
+  "c": [
+   "ở rìa của",
+   "vùng ngoại ô thị trấn",
+   "ngoại ô phía bắc"
+  ],
+  "t": "Luôn dùng ở dạng số nhiều, thường nói on the outskirts of a city."
+ },
+ "disturbing": {
+  "s": [
+   "gây lo ngại; đáng lo"
+  ],
+  "c": [
+   "tin đáng lo ngại",
+   "xu hướng đáng lo ngại",
+   "vô cùng đáng lo ngại"
+  ],
+  "t": "disturbing chỉ điều gây bất an; disturbed chỉ người cảm thấy bất an."
+ },
+ "organ": {
+  "s": [
+   "cơ quan (trong cơ thể)",
+   "đàn organ"
+  ],
+  "c": [
+   "các cơ quan nội tạng",
+   "hiến tặng nội tạng",
+   "ghép nội tạng",
+   "chơi đàn organ"
+  ],
+  "t": "organ là cơ quan; organism là cả một sinh vật hoàn chỉnh."
+ },
+ "symphony": {
+  "s": [
+   "bản giao hưởng"
+  ],
+  "c": [
+   "sáng tác một bản giao hưởng",
+   "biểu diễn một bản giao hưởng",
+   "dàn nhạc giao hưởng"
+  ],
+  "t": "symphony là bản giao hưởng; dàn nhạc giao hưởng là symphony orchestra."
+ },
+ "defect": {
+  "s": [
+   "khiếm khuyết; thiếu sót",
+   "đào tẩu; theo phe đối lập"
+  ],
+  "c": [
+   "lỗi thiết kế",
+   "lỗi sản xuất",
+   "dị tật bẩm sinh",
+   "chuyển sang phe đối lập"
+  ],
+  "t": "Danh từ nhấn âm đầu; động từ đọc /dɪˈfekt/."
+ },
+ "variation": {
+  "s": [
+   "sự biến đổi; sự khác biệt",
+   "biến thể"
+  ],
+  "c": [
+   "biến đổi theo mùa",
+   "sự thay đổi nhiệt độ",
+   "biến dị di truyền",
+   "một biến thể của cùng một chủ đề"
+  ],
+  "t": "variation in chỉ sự khác biệt ở một mặt nào đó; variation on chỉ một biến thể."
+ },
+ "honour": {
+  "s": [
+   "danh dự; sự kính trọng; vinh hạnh",
+   "tôn vinh; vinh danh",
+   "giữ lời; thực hiện (cam kết)"
+  ],
+  "c": [
+   "một vinh dự lớn",
+   "để tôn vinh",
+   "thực hiện cam kết",
+   "khách danh dự"
+  ],
+  "t": "Anh–Anh viết honour, Anh–Mỹ viết honor; h câm nên dùng an honour."
+ },
+ "deny": {
+  "s": [
+   "phủ nhận",
+   "từ chối cho; không cho phép"
+  ],
+  "c": [
+   "phủ nhận đã làm việc gì",
+   "phủ nhận lời cáo buộc",
+   "không cho phép tiếp cận"
+  ],
+  "t": "Phủ nhận đã làm gì dùng deny doing, không dùng deny to do."
+ },
+ "bond": {
+  "s": [
+   "mối gắn kết; quan hệ thân thiết",
+   "trái phiếu",
+   "gắn bó; dính chặt"
+  ],
+  "c": [
+   "mối gắn kết bền chặt",
+   "hình thành mối gắn kết",
+   "trái phiếu chính phủ",
+   "gắn bó với"
+  ],
+  "t": "bond with sb chỉ việc tăng thêm tình cảm; issue bonds là phát hành trái phiếu."
+ },
+ "globe": {
+  "s": [
+   "quả địa cầu",
+   "trái đất; thế giới",
+   "hình cầu; vật hình cầu"
+  ],
+  "c": [
+   "khắp thế giới",
+   "khắp nơi trên thế giới",
+   "quả cầu thuỷ tinh"
+  ],
+  "t": "a globe thường là quả địa cầu; the globe thường chỉ cả thế giới."
+ },
+ "constantly": {
+  "s": [
+   "liên tục; thường xuyên"
+  ],
+  "c": [
+   "liên tục thay đổi",
+   "theo dõi liên tục",
+   "nhắc đi nhắc lại"
+  ],
+  "t": "Mạnh hơn often, nhấn mạnh việc diễn ra không ngừng hoặc lặp đi lặp lại."
+ },
+ "habitat": {
+  "s": [
+   "môi trường sống; nơi cư trú"
+  ],
+  "c": [
+   "môi trường sống tự nhiên",
+   "mất môi trường sống",
+   "phá huỷ môi trường sống",
+   "bảo vệ môi trường sống"
+  ],
+  "t": "habit là thói quen, habitat là môi trường sống của động thực vật."
+ },
+ "assessment": {
+  "s": [
+   "sự đánh giá; nhận định",
+   "bài kiểm tra; sự đánh giá việc học"
+  ],
+  "c": [
+   "đánh giá rủi ro",
+   "đánh giá liên tục",
+   "tiến hành đánh giá"
+  ],
+  "t": "Đánh giá điều gì dùng assessment of; động từ là assess."
+ },
+ "loop": {
+  "s": [
+   "vòng; vòng tròn; tuyến đường vòng",
+   "quấn thành vòng; lặp lại",
+   "vòng lặp"
+  ],
+  "c": [
+   "một vòng dây thừng",
+   "phát lặp lại",
+   "vòng phản hồi",
+   "vòng quanh"
+  ],
+  "t": "on a loop nghĩa là lặp đi lặp lại không ngừng, ví dụ nhạc phát lặp."
+ },
+ "disgrace": {
+  "s": [
+   "sự ô nhục; sự mất mặt",
+   "kẻ hay điều đáng xấu hổ",
+   "làm nhục; làm mất thể diện"
+  ],
+  "c": [
+   "trong nỗi ô nhục",
+   "làm ô danh",
+   "nỗi hổ thẹn đối với",
+   "tự làm mình mất mặt"
+  ],
+  "t": "Khi chỉ sự ô nhục nói chung thì không đếm được; a disgrace chỉ người hay việc đáng xấu hổ."
+ },
+ "sue": {
+  "s": [
+   "kiện; khởi kiện"
+  ],
+  "c": [
+   "kiện đòi bồi thường thiệt hại",
+   "kiện một công ty",
+   "kiện vì sơ suất"
+  ],
+  "t": "sue someone for something: kiện ai vì việc gì."
+ },
+ "electronics": {
+  "s": [
+   "điện tử học; kỹ thuật điện tử",
+   "thiết bị điện tử"
+  ],
+  "c": [
+   "đồ điện tử tiêu dùng",
+   "ngành công nghiệp điện tử",
+   "học điện tử"
+  ],
+  "t": "Khi chỉ môn điện tử học, dù tận cùng bằng s, động từ vẫn chia ở số ít."
+ },
+ "conduct": {
+  "s": [
+   "tổ chức; tiến hành",
+   "dẫn (nhiệt, điện)",
+   "hành vi; cách cư xử"
+  ],
+  "c": [
+   "tiến hành nghiên cứu",
+   "tiến hành khảo sát",
+   "dẫn điện",
+   "quy tắc ứng xử"
+  ],
+  "t": "Động từ nhấn âm sau; danh từ nhấn âm đầu, Anh–Anh đọc /ˈkɒndʌkt/."
+ },
+ "newly": {
+  "s": [
+   "mới; vừa mới"
+  ],
+  "c": [
+   "mới xây",
+   "mới đủ tư cách",
+   "mới đắc cử",
+   "mới được phát hiện"
+  ],
+  "t": "Thường đứng trước quá khứ phân từ, như newly built, chỉ việc vừa mới hoàn thành."
+ },
+ "certainty": {
+  "s": [
+   "sự chắc chắn; sự xác định",
+   "điều chắc chắn xảy ra"
+  ],
+  "c": [
+   "một cách chắc chắn",
+   "hoàn toàn chắc chắn",
+   "mức độ chắc chắn nhất định"
+  ],
+  "t": "Nghĩa “sự chắc chắn” thường không đếm được; a certainty chỉ điều chắc chắn xảy ra."
+ },
+ "damn": {
+  "s": [
+   "lên án gay gắt; chỉ trích nặng nề",
+   "chết tiệt; khốn kiếp",
+   "đáng ghét; chết tiệt"
+  ],
+  "c": [
+   "khen nhạt để ngầm chê",
+   "chết tiệt",
+   "một sự phiền toái đáng ghét"
+  ],
+  "t": "Hơi thô tục; trong văn viết trang trọng nên dùng condemn.",
+  "n": "Dạng thán từ và cách dùng để nhấn mạnh hơi mang tính xúc phạm, cần thận trọng trong hoàn cảnh trang trọng."
+ },
+ "counsellor": {
+  "s": [
+   "chuyên viên tư vấn tâm lý; người hướng dẫn",
+   "cố vấn"
+  ],
+  "c": [
+   "người hướng dẫn trong trường",
+   "chuyên viên tư vấn hôn nhân",
+   "cố vấn nghề nghiệp"
+  ],
+  "t": "Anh–Anh viết counsellor, Anh–Mỹ viết counselor; đừng nhầm với councillor (uỷ viên hội đồng)."
+ },
+ "marine": {
+  "s": [
+   "thuộc biển; sống ở biển",
+   "thuộc hàng hải; thuộc tàu thuyền",
+   "lính thuỷ đánh bộ"
+  ],
+  "c": [
+   "sinh vật biển",
+   "hệ sinh thái biển",
+   "ô nhiễm biển",
+   "vận tải đường biển"
+  ],
+  "t": "marine thiên về biển; “thuộc hải quân” thường dùng naval."
+ },
+ "remedy": {
+  "s": [
+   "phương thuốc; liệu pháp",
+   "giải pháp; biện pháp khắc phục",
+   "khắc phục; sửa chữa"
+  ],
+  "c": [
+   "bài thuốc dân gian",
+   "phương thuốc hay biện pháp cho",
+   "khắc phục vấn đề",
+   "cải thiện tình hình"
+  ],
+  "t": "Danh từ thường đi với for; động từ đi thẳng với vấn đề, không thêm for."
+ },
+ "recognition": {
+  "s": [
+   "sự nhận ra; sự nhận diện",
+   "sự công nhận; sự ghi nhận",
+   "sự thừa nhận chính thức"
+  ],
+  "c": [
+   "nhận diện khuôn mặt",
+   "được công nhận",
+   "để ghi nhận",
+   "sự công nhận chính thức"
+  ],
+  "t": "Thường không đếm được; in recognition of hay dùng để ghi nhận đóng góp."
+ },
+ "additional": {
+  "s": [
+   "thêm; bổ sung"
+  ],
+  "c": [
+   "chi phí phát sinh",
+   "thông tin bổ sung",
+   "hỗ trợ thêm",
+   "phụ phí"
+  ],
+  "t": "Thường đứng trước danh từ; additional costs là các chi phí phát sinh."
+ },
+ "cooperating": {
+  "s": [
+   "hợp tác; phối hợp"
+  ],
+  "c": [
+   "hợp tác với đồng nghiệp",
+   "hợp tác nghiên cứu",
+   "hợp tác chặt chẽ"
+  ],
+  "t": "Dạng -ing của cooperate; hợp tác với ai dùng with."
+ },
+ "overdose": {
+  "s": [
+   "liều quá mức (thuốc)",
+   "uống thuốc quá liều"
+  ],
+  "c": [
+   "quá liều do vô ý",
+   "quá liều thuốc",
+   "uống thuốc quá liều"
+  ],
+  "t": "Động từ dùng overdose on sth; danh từ dùng an overdose of sth."
+ },
+ "affordable": {
+  "s": [
+   "vừa túi tiền; có thể chi trả"
+  ],
+  "c": [
+   "nhà ở giá phải chăng",
+   "giá cả phải chăng",
+   "dịch vụ y tế giá phải chăng"
+  ],
+  "t": "Nhấn mạnh giá nằm trong khả năng chi trả, không nhất thiết là rẻ."
+ },
+ "layout": {
+  "s": [
+   "cách bố trí; bố cục"
+  ],
+  "c": [
+   "bố cục trang",
+   "bố trí phòng",
+   "bố trí không gian mở"
+  ],
+  "t": "Danh từ layout viết liền; động từ lay out viết rời."
+ },
+ "slight": {
+  "s": [
+   "nhẹ; chút ít",
+   "mảnh mai; gầy nhỏ",
+   "coi thường; xem nhẹ"
+  ],
+  "c": [
+   "tăng nhẹ",
+   "khác biệt nhỏ",
+   "chậm trễ ngắn",
+   "khả năng rất nhỏ"
+  ],
+  "t": "slight là tính từ; để bổ nghĩa cho động từ hay so sánh hơn dùng slightly."
+ },
+ "convert": {
+  "s": [
+   "chuyển đổi; cải tạo",
+   "đổi đạo; cải đạo",
+   "người cải đạo; người mới ủng hộ"
+  ],
+  "c": [
+   "chuyển thành",
+   "chuyển sang; cải đạo",
+   "chuyển đổi năng lượng",
+   "cải tạo một toà nhà"
+  ],
+  "t": "Động từ nhấn âm sau; danh từ nhấn âm đầu."
+ },
+ "shipping": {
+  "s": [
+   "vận chuyển; vận tải biển",
+   "phí vận chuyển",
+   "tàu thuyền (nói chung)"
+  ],
+  "c": [
+   "chi phí vận chuyển",
+   "miễn phí vận chuyển",
+   "ngành vận tải biển",
+   "tuyến hàng hải"
+  ],
+  "t": "Thường không đếm được; trong mua sắm trực tuyến, shipping cũng có thể không phải đường biển."
+ },
+ "grasshopper": {
+  "s": [
+   "châu chấu; cào cào"
+  ],
+  "c": [
+   "một con châu chấu xanh",
+   "châu chấu nhảy",
+   "các loài châu chấu"
+  ],
+  "t": "locust chỉ một số loài châu chấu có thể hình thành đàn bay di cư."
+ },
+ "expire": {
+  "s": [
+   "hết hạn; hết hiệu lực"
+  ],
+  "c": [
+   "hộ chiếu hết hạn",
+   "hợp đồng hết hạn",
+   "hết hạn vào lúc nửa đêm"
+  ],
+  "t": "Là nội động từ: hợp đồng hết hạn dùng expires, không dùng is expired."
+ },
+ "mold": {
+  "s": [
+   "khuôn; khuôn đúc",
+   "tạo hình; nhào nặn",
+   "nấm mốc; mốc"
+  ],
+  "c": [
+   "khuôn silicon",
+   "nặn thành hình",
+   "mốc phát triển",
+   "phá vỡ khuôn mẫu"
+  ],
+  "t": "Chính tả Mỹ là mold, Anh thường viết mould; cũng chỉ nấm mốc."
+ },
+ "gulf": {
+  "s": [
+   "vịnh",
+   "hố sâu ngăn cách; khác biệt lớn"
+  ],
+  "c": [
+   "hố ngăn cách lớn",
+   "thu hẹp khoảng cách",
+   "khoảng cách giàu nghèo"
+  ],
+  "t": "gulf có thể là vịnh, và gulf between thường chỉ khoảng cách rất lớn."
+ },
+ "eternal": {
+  "s": [
+   "vĩnh cửu; vĩnh hằng",
+   "không dứt; triền miên"
+  ],
+  "c": [
+   "sự sống vĩnh hằng",
+   "tình yêu vĩnh cửu",
+   "sự lạc quan bất diệt"
+  ],
+  "t": "eternal nhấn mạnh không có điểm kết thúc; eternal complaints là cách nói phóng đại về việc than phiền không dứt."
+ },
+ "distinct": {
+  "s": [
+   "khác biệt; riêng biệt",
+   "rõ ràng; rõ rệt"
+  ],
+  "c": [
+   "khác với",
+   "hai nhóm riêng biệt",
+   "lợi thế rõ rệt"
+  ],
+  "t": "distinct from nghĩa là “khác với”; đừng nhầm với distant."
+ },
+ "speculate": {
+  "s": [
+   "suy đoán; phỏng đoán",
+   "đầu cơ"
+  ],
+  "c": [
+   "suy đoán về nguyên nhân",
+   "suy đoán rằng",
+   "đầu cơ bất động sản"
+  ],
+  "t": "Suy đoán thường đi với about hoặc mệnh đề that; trong đầu cơ dùng in."
+ },
+ "existence": {
+  "s": [
+   "sự tồn tại",
+   "cuộc sống; cách sống"
+  ],
+  "c": [
+   "ra đời; hình thành",
+   "đang tồn tại",
+   "sự tồn tại của",
+   "cuộc sống yên bình"
+  ],
+  "t": "Nghĩa “sự tồn tại” thường không đếm được; a quiet existence chỉ cuộc sống yên ả."
+ },
+ "confront": {
+  "s": [
+   "đối mặt; đương đầu",
+   "đối chất; chất vấn trực tiếp"
+  ],
+  "c": [
+   "đối mặt với vấn đề",
+   "đang phải đối mặt với",
+   "chất vấn ai về việc gì"
+  ],
+  "t": "Đi thẳng với vấn đề; be confronted with nghĩa là đang đối mặt với."
+ },
+ "experimental": {
+  "s": [
+   "thuộc thí nghiệm; dựa trên thí nghiệm",
+   "thử nghiệm; mang tính thử"
+  ],
+  "c": [
+   "bằng chứng thực nghiệm",
+   "thiết kế thí nghiệm",
+   "phương pháp thực nghiệm",
+   "điều trị thử nghiệm"
+  ],
+  "t": "experimental nghĩa là thuộc thí nghiệm hoặc mang tính thử nghiệm, không phải “có kinh nghiệm” (đó là experienced)."
+ },
+ "offence": {
+  "s": [
+   "hành vi phạm pháp; lỗi vi phạm",
+   "sự xúc phạm; cảm giác bị xúc phạm"
+  ],
+  "c": [
+   "phạm tội; vi phạm pháp luật",
+   "tội hình sự",
+   "cảm thấy bị xúc phạm",
+   "gây khó chịu"
+  ],
+  "t": "Chính tả Anh là offence, Mỹ là offense; take offence nghĩa là tự ái, bực mình."
+ },
+ "mistaken": {
+  "s": [
+   "nhầm; hiểu lầm"
+  ],
+  "c": [
+   "nhầm về",
+   "niềm tin sai lầm",
+   "nhầm lẫn danh tính",
+   "nếu tôi không nhầm"
+  ],
+  "t": "Khi chủ ngữ là người, hay dùng be mistaken about, nghĩa là nhầm về điều gì."
+ },
+ "telegram": {
+  "s": [
+   "điện báo; bức điện"
+  ],
+  "c": [
+   "gửi điện báo",
+   "nhận điện báo",
+   "chuyển điện báo"
+  ],
+  "t": "telegram là bức điện; telegraph chỉ hệ thống truyền điện báo."
+ },
+ "visible": {
+  "s": [
+   "có thể nhìn thấy",
+   "rõ ràng; hiển nhiên"
+  ],
+  "c": [
+   "thấy rõ",
+   "thấy được bằng mắt thường",
+   "cải thiện rõ rệt"
+  ],
+  "t": "visible to nghĩa là có thể nhìn thấy đối với ai; đừng nhầm với visual (thuộc thị giác)."
+ },
+ "unaffordable": {
+  "s": [
+   "không đủ khả năng chi trả"
+  ],
+  "c": [
+   "nhà ở quá đắt không kham nổi",
+   "giá thuê không thể chi trả",
+   "trở nên không kham nổi"
+  ],
+  "t": "Nhấn mạnh vượt quá khả năng chi trả, không chỉ là giá cao."
+ },
+ "self-employed": {
+  "s": [
+   "tự kinh doanh; làm tự do"
+  ],
+  "c": [
+   "người lao động tự do",
+   "bắt đầu tự kinh doanh",
+   "chuyên gia tư vấn độc lập"
+  ],
+  "t": "Chỉ việc làm cho chính mình, không đồng nghĩa với thất nghiệp; nhớ giữ dấu gạch nối."
+ },
+ "fund-raising": {
+  "s": [
+   "gây quỹ; hoạt động quyên góp"
+  ],
+  "c": [
+   "sự kiện gây quỹ",
+   "chiến dịch gây quỹ",
+   "mục tiêu gây quỹ"
+  ],
+  "t": "Cũng hay viết là fundraising; raise funds nghĩa là gây quỹ."
+ },
+ "slam": {
+  "s": [
+   "đóng sầm; đặt mạnh xuống",
+   "chỉ trích thậm tệ",
+   "tiếng sầm; cú va mạnh"
+  ],
+  "c": [
+   "đóng sầm cửa",
+   "đóng sầm lại",
+   "chỉ trích thậm tệ một đề xuất"
+  ],
+  "t": "Quá khứ slammed, dạng tiếp diễn slamming, đều gấp đôi chữ m."
+ },
+ "license": {
+  "s": [
+   "cấp phép; cho phép chính thức",
+   "giấy phép; giấy chứng nhận"
+  ],
+  "c": [
+   "cho phép ai làm việc gì",
+   "bằng lái xe",
+   "xin giấy phép",
+   "đơn vị vận hành có giấy phép"
+  ],
+  "t": "Anh–Anh: danh từ là licence, động từ là license; Anh–Mỹ dùng license cho cả hai."
+ },
+ "trek": {
+  "s": [
+   "chuyến đi bộ dài vất vả",
+   "đi bộ đường dài; trèo đèo lội suối"
+  ],
+  "c": [
+   "chuyến leo núi đường dài",
+   "đi bộ xuyên rừng",
+   "đi bộ đường dài"
+  ],
+  "t": "Hiện nay thường chỉ chuyến đi bộ gian nan; trekked, trekking gấp đôi chữ k."
+ },
+ "beetle": {
+  "s": [
+   "bọ cánh cứng; con bọ cánh cứng"
+  ],
+  "c": [
+   "bọ hung",
+   "bọ cánh cứng sừng hươu",
+   "các loài bọ cánh cứng"
+  ],
+  "t": "Chỉ loài bọ cánh cứng."
+ },
+ "strap": {
+  "s": [
+   "dây đeo; quai",
+   "buộc bằng dây; thắt chặt"
+  ],
+  "c": [
+   "dây đeo vai",
+   "dây đeo điều chỉnh được",
+   "buộc chặt vật gì bằng dây"
+  ],
+  "t": "Khi là động từ, quá khứ là strapped, hiện tại phân từ là strapping."
+ },
+ "hydrogen": {
+  "s": [
+   "hydro; khí hydro"
+  ],
+  "c": [
+   "nhiên liệu hydro",
+   "khí hydro",
+   "pin nhiên liệu hydro"
+  ],
+  "t": "hydrogen là danh từ không đếm được, chỉ nguyên tố hydro hoặc khí hydro."
+ },
+ "gallon": {
+  "s": [
+   "galông (đơn vị dung tích)"
+  ],
+  "c": [
+   "một galông xăng",
+   "số dặm đi được trên mỗi galông",
+   "một galông Anh",
+   "một galông Mỹ"
+  ],
+  "t": "Galông Anh khoảng 4,55 lít, galông Mỹ khoảng 3,79 lít, cần phân biệt."
+ },
+ "findings": {
+  "s": [
+   "kết quả nghiên cứu; phát hiện điều tra"
+  ],
+  "c": [
+   "kết quả nghiên cứu",
+   "những phát hiện chính",
+   "công bố kết quả nghiên cứu",
+   "kết quả sơ bộ"
+  ],
+  "t": "Thường dùng ở số nhiều: the findings suggest; động từ chia số nhiều."
+ },
+ "tender": {
+  "s": [
+   "mềm; dễ nhai",
+   "dịu dàng; trìu mến",
+   "đau khi chạm vào"
+  ],
+  "c": [
+   "thịt mềm",
+   "sự chăm sóc dịu dàng",
+   "chạm vào là đau"
+  ],
+  "t": "Nói về thức ăn nghĩa là mềm; nói về bộ phận cơ thể có thể nghĩa là đau khi chạm vào."
+ },
+ "best-selling": {
+  "s": [
+   "bán chạy"
+  ],
+  "c": [
+   "tiểu thuyết bán chạy",
+   "tác giả có sách bán chạy",
+   "sản phẩm bán chạy"
+  ],
+  "t": "best-selling là tính từ; bestseller là sách hoặc hàng bán chạy."
+ },
+ "administrative": {
+  "s": [
+   "thuộc hành chính; quản lý"
+  ],
+  "c": [
+   "nhân viên hành chính",
+   "chi phí hành chính",
+   "công việc hành chính"
+  ],
+  "t": "Chỉ việc quản lý hành chính của một tổ chức, không đồng nghĩa với chính phủ."
+ },
+ "thinker": {
+  "s": [
+   "nhà tư tưởng; người biết suy nghĩ sâu"
+  ],
+  "c": [
+   "người suy nghĩ độc lập",
+   "người có tư duy phản biện",
+   "nhà tư tưởng có ảnh hưởng",
+   "người có tư tưởng độc đáo"
+  ],
+  "t": "thinker chỉ người; thinking chỉ quá trình hoặc cách suy nghĩ."
+ },
+ "utter": {
+  "s": [
+   "hoàn toàn; tuyệt đối",
+   "thốt ra; phát ra (âm thanh)"
+  ],
+  "c": [
+   "hỗn loạn hoàn toàn",
+   "hoàn toàn không tin",
+   "thốt ra một lời",
+   "phát ra một âm thanh"
+  ],
+  "t": "Tính từ utter chỉ đứng trước danh từ; trạng từ là utterly."
+ },
+ "estate": {
+  "s": [
+   "điền trang; đất đai tư nhân rộng lớn",
+   "khu nhà ở; khu công nghiệp",
+   "tài sản; di sản"
+  ],
+  "c": [
+   "điền trang miền quê",
+   "khu nhà ở",
+   "khu công nghiệp",
+   "bất động sản"
+  ],
+  "t": "real estate là bất động sản; housing estate là khu nhà ở."
+ },
+ "gratitude": {
+  "s": [
+   "lòng biết ơn; sự cảm kích"
+  ],
+  "c": [
+   "bày tỏ lòng biết ơn",
+   "lòng biết ơn đối với ai",
+   "lòng biết ơn về điều gì",
+   "một chút tạ ơn"
+  ],
+  "t": "Biết ơn ai dùng to, biết ơn điều gì dùng for; thường không đếm được."
+ },
+ "evaporate": {
+  "s": [
+   "bay hơi; làm bay hơi",
+   "dần tan biến; tan đi"
+  ],
+  "c": [
+   "nước bay hơi",
+   "bay hơi nhanh",
+   "hơi ẩm bay hơi",
+   "hy vọng dần tan biến"
+  ],
+  "t": "Bay hơi không cần phải sôi; evaporate cũng dùng nghĩa bóng cho hy vọng tan biến."
+ }
+}

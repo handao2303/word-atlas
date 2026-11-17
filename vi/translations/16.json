@@ -1,0 +1,1250 @@
+{
+ "southwest": {
+  "s": [
+   "phía tây nam; vùng tây nam",
+   "thuộc tây nam; từ hướng tây nam",
+   "về phía tây nam; ở phía tây nam"
+  ],
+  "c": [
+   "ở phía tây nam",
+   "về phía tây nam của",
+   "đi về hướng tây nam",
+   "bờ biển tây nam"
+  ],
+  "t": "Tiếng Anh Anh cũng thường viết là south-west."
+ },
+ "weekly": {
+  "s": [
+   "hằng tuần; mỗi tuần một lần",
+   "mỗi tuần một lần",
+   "tuần san; báo tuần"
+  ],
+  "c": [
+   "cuộc họp hằng tuần",
+   "thu nhập hằng tuần",
+   "xuất bản hằng tuần"
+  ],
+  "t": "Vừa là tính từ vừa là trạng từ: a weekly meeting; meet weekly."
+ },
+ "kill": {
+  "s": [
+   "giết; làm chết",
+   "chấm dứt; làm hỏng"
+  ],
+  "c": [
+   "diệt vi khuẩn",
+   "giết thời gian",
+   "diệt sạch; xóa bỏ hoàn toàn",
+   "dập tắt nhiệt huyết"
+  ],
+  "t": "kill nhấn mạnh việc gây ra cái chết; die là tự chết và không có tân ngữ."
+ },
+ "curtain": {
+  "s": [
+   "rèm cửa; màn",
+   "màn sân khấu"
+  ],
+  "c": [
+   "kéo rèm",
+   "rèm phòng tắm",
+   "màn sân khấu",
+   "thanh treo rèm"
+  ],
+  "t": "draw the curtains có thể là kéo ra hoặc kéo lại, tùy ngữ cảnh."
+ },
+ "pull": {
+  "s": [
+   "kéo; lôi; nhổ",
+   "cú kéo; lực kéo",
+   "bị căng cơ; kéo giãn cơ"
+  ],
+  "c": [
+   "bị căng cơ",
+   "kéo cửa mở ra",
+   "nhổ răng",
+   "lực hấp dẫn"
+  ],
+  "t": "pull là kéo về phía mình; push là đẩy ra xa."
+ },
+ "traffic": {
+  "s": [
+   "giao thông; xe cộ",
+   "lưu lượng truy cập; lưu lượng mạng"
+  ],
+  "c": [
+   "giao thông đông đúc",
+   "tắc nghẽn giao thông",
+   "đèn giao thông",
+   "lưu lượng truy cập internet"
+  ],
+  "t": "Chỉ giao thông hay dòng xe thì không đếm được, không nói a traffic."
+ },
+ "toward": {
+  "s": [
+   "về phía; hướng tới",
+   "đối với; thái độ với",
+   "góp vào; dùng cho"
+  ],
+  "c": [
+   "di chuyển về phía",
+   "thái độ đối với",
+   "một bước tiến tới",
+   "dùng để chi trả"
+  ],
+  "t": "toward và towards cùng nghĩa; toward phổ biến hơn trong tiếng Anh Mỹ."
+ },
+ "planet": {
+  "s": [
+   "hành tinh"
+  ],
+  "c": [
+   "một hành tinh xa xôi",
+   "quay quanh hành tinh",
+   "bảo vệ hành tinh"
+  ],
+  "t": "planet là hành tinh, star là ngôi sao; the planet thường chỉ Trái Đất."
+ },
+ "traditional": {
+  "s": [
+   "truyền thống; có từ lâu đời"
+  ],
+  "c": [
+   "phong tục truyền thống",
+   "nghề thủ công truyền thống",
+   "phương pháp truyền thống"
+  ],
+  "t": "traditional nhấn mạnh sự truyền lại lâu đời, không nhất thiết là lạc hậu."
+ },
+ "software": {
+  "s": [
+   "phần mềm"
+  ],
+  "c": [
+   "cài đặt phần mềm",
+   "phát triển phần mềm",
+   "cập nhật phần mềm",
+   "phần mềm mã nguồn mở"
+  ],
+  "t": "Không đếm được: nói some software, không nói a software."
+ },
+ "shall": {
+  "s": [
+   "nhé; có nên ... không",
+   "sẽ (trang trọng)",
+   "phải; có nghĩa vụ"
+  ],
+  "c": [
+   "chúng ta có nên ... không",
+   "để tôi ... nhé",
+   "không được"
+  ],
+  "t": "Là động từ khuyết thiếu, theo sau là động từ nguyên mẫu; Shall we thường dùng để đề nghị."
+ },
+ "basket": {
+  "s": [
+   "giỏ; rổ",
+   "rổ bóng rổ; điểm ghi được"
+  ],
+  "c": [
+   "giỏ mua hàng",
+   "giỏ đựng đồ giặt",
+   "một giỏ trái cây",
+   "ghi điểm (bóng rổ)"
+  ],
+  "t": "a basket of apples là một giỏ táo; số lượng giỏ dùng baskets."
+ },
+ "thief": {
+  "s": [
+   "kẻ trộm; kẻ cắp"
+  ],
+  "c": [
+   "kẻ trộm xe đạp",
+   "bắt kẻ trộm",
+   "kẻ trộm vặt"
+  ],
+  "t": "Số nhiều là thieves; robber thường liên quan đến bạo lực hoặc đe dọa."
+ },
+ "web": {
+  "s": [
+   "mạng World Wide Web",
+   "mạng nhện",
+   "mạng lưới phức tạp; mối quan hệ chằng chịt"
+  ],
+  "c": [
+   "lướt web",
+   "mạng nhện",
+   "mạng lưới quan hệ chằng chịt"
+  ],
+  "t": "“Trên mạng” thường nói on the web; web không hoàn toàn đồng nghĩa với internet."
+ },
+ "employee": {
+  "s": [
+   "nhân viên; người làm thuê"
+  ],
+  "c": [
+   "nhân viên toàn thời gian",
+   "phúc lợi nhân viên",
+   "đào tạo nhân viên",
+   "tỷ lệ nghỉ việc của nhân viên"
+  ],
+  "t": "employee là người làm thuê, employer là người thuê lao động."
+ },
+ "railway": {
+  "s": [
+   "đường sắt; hệ thống đường sắt"
+  ],
+  "c": [
+   "ga tàu hỏa",
+   "tuyến đường sắt",
+   "mạng lưới đường sắt",
+   "cơ sở hạ tầng đường sắt"
+  ],
+  "t": "railway thường dùng trong tiếng Anh Anh; tiếng Anh Mỹ thường dùng railroad."
+ },
+ "description": {
+  "s": [
+   "sự mô tả; bản miêu tả"
+  ],
+  "c": [
+   "mô tả chi tiết",
+   "mô tả về",
+   "bản mô tả công việc",
+   "mô tả chính xác"
+  ],
+  "t": "Mô tả về thứ gì thì dùng a description of, không dùng about."
+ },
+ "pot": {
+  "s": [
+   "nồi",
+   "chậu; hũ; ấm",
+   "trồng vào chậu"
+  ],
+  "c": [
+   "một nồi súp",
+   "chậu cây",
+   "một ấm trà",
+   "trồng cây vào chậu"
+  ],
+  "t": "Nồi, chậu, hũ đều có thể gọi là pot; chảo rán thường dùng pan."
+ },
+ "kilometre": {
+  "s": [
+   "ki-lô-mét; cây số"
+  ],
+  "c": [
+   "cách một cây số",
+   "ki-lô-mét vuông",
+   "ki-lô-mét trên giờ"
+  ],
+  "t": "Anh Anh viết kilometre, Anh Mỹ viết kilometer."
+ },
+ "milkman": {
+  "s": [
+   "người giao sữa"
+  ],
+  "c": [
+   "người giao sữa trong vùng",
+   "lộ trình giao sữa"
+  ],
+  "t": "Số nhiều là milkmen; không chỉ người vắt sữa, người vắt sữa là milker."
+ },
+ "flight": {
+  "s": [
+   "chuyến bay",
+   "sự bay",
+   "một dãy cầu thang"
+  ],
+  "c": [
+   "đặt vé máy bay",
+   "chuyến bay thẳng",
+   "đang bay",
+   "một dãy cầu thang"
+  ],
+  "t": "a flight of stairs là một đoạn cầu thang giữa hai tầng hoặc hai chiếu nghỉ."
+ },
+ "cause": {
+  "s": [
+   "nguyên nhân",
+   "gây ra; dẫn đến",
+   "sự nghiệp; mục tiêu chung"
+  ],
+  "c": [
+   "nguyên nhân của",
+   "gây thiệt hại",
+   "nguyên nhân gốc rễ",
+   "một sự nghiệp ý nghĩa"
+  ],
+  "t": "Danh từ thường đi với of; động từ có thể dùng cause sb to do sth."
+ },
+ "knowledge": {
+  "s": [
+   "kiến thức; học vấn",
+   "sự biết; sự hay biết"
+  ],
+  "c": [
+   "tiếp thu kiến thức",
+   "kiến thức thực tế",
+   "sự hiểu biết về",
+   "mà ai đó không hay biết"
+  ],
+  "t": "Thường không đếm được; có thể nói a good knowledge of một lĩnh vực."
+ },
+ "order": {
+  "s": [
+   "thứ tự; trật tự",
+   "đặt hàng; gọi món; ra lệnh",
+   "đơn đặt hàng; mệnh lệnh"
+  ],
+  "c": [
+   "theo thứ tự bảng chữ cái",
+   "đặt hàng",
+   "gọi món",
+   "ra lệnh cho ai làm gì"
+  ],
+  "t": "in order là theo thứ tự; in order to theo sau là động từ, nghĩa là “để”."
+ },
+ "ground": {
+  "s": [
+   "mặt đất; đất",
+   "lý do; căn cứ",
+   "cấm bay; cho ngừng bay"
+  ],
+  "c": [
+   "trên mặt đất",
+   "lý do để khiếu nại",
+   "điểm chung",
+   "cấm máy bay cất cánh"
+  ],
+  "t": "Khi nghĩa là “lý do” thường dùng số nhiều grounds; ground cũng là quá khứ của grind."
+ },
+ "lorry": {
+  "s": [
+   "xe tải"
+  ],
+  "c": [
+   "tài xế xe tải",
+   "xe tải giao hàng",
+   "chất hàng lên xe tải"
+  ],
+  "t": "lorry chủ yếu dùng trong tiếng Anh Anh; tiếng Anh Mỹ thường dùng truck."
+ },
+ "ireland": {
+  "s": [
+   "Ai-len (quốc gia)",
+   "đảo Ai-len"
+  ],
+  "c": [
+   "ở Ai-len",
+   "Cộng hòa Ai-len",
+   "đảo Ai-len",
+   "vùng nông thôn Ai-len"
+  ],
+  "t": "Có thể chỉ quốc gia hoặc cả hòn đảo; Bắc Ireland thuộc Vương quốc Anh, không thuộc quốc gia này."
+ },
+ "hurry": {
+  "s": [
+   "vội; thúc giục",
+   "sự vội vàng; sự gấp gáp"
+  ],
+  "c": [
+   "nhanh lên",
+   "vội vàng",
+   "vội về nhà",
+   "làm cho xong qua loa"
+  ],
+  "t": "hurry up dùng để thúc giục; in a hurry nghĩa là đang vội."
+ },
+ "nail": {
+  "s": [
+   "móng tay; móng chân",
+   "cái đinh",
+   "đóng đinh; đóng chặt"
+  ],
+  "c": [
+   "cắt móng tay",
+   "sơn móng tay",
+   "đóng đinh",
+   "đóng chặt; chốt lại"
+  ],
+  "t": "Vừa là móng tay vừa là cái đinh; khi là động từ nghĩa là đóng bằng đinh."
+ },
+ "stomach": {
+  "s": [
+   "dạ dày; bụng",
+   "chịu đựng; nuốt trôi"
+  ],
+  "c": [
+   "bụng đói",
+   "đau bụng; đau dạ dày",
+   "đau dạ dày"
+  ],
+  "t": "Với nghĩa “chịu đựng”, thường dùng trong cấu trúc can't stomach."
+ },
+ "pie": {
+  "s": [
+   "bánh nướng nhân; bánh pie"
+  ],
+  "c": [
+   "bánh táo",
+   "bánh nhân thịt",
+   "một miếng bánh pie"
+  ],
+  "t": "pie là bánh nướng có nhân; “biểu đồ tròn” phải nói pie chart."
+ },
+ "form": {
+  "s": [
+   "loại; hình thức; hình dạng",
+   "mẫu đơn; biểu mẫu",
+   "hình thành; tạo thành; lập nên"
+  ],
+  "c": [
+   "một dạng của",
+   "dưới dạng",
+   "điền vào mẫu đơn",
+   "hình thành thói quen"
+  ],
+  "t": "fill in a form là cách nói Anh Anh; tiếng Anh Mỹ thường dùng fill out a form."
+ },
+ "attention": {
+  "s": [
+   "sự chú ý",
+   "sự chăm sóc; sự xử lý; sự quan tâm"
+  ],
+  "c": [
+   "chú ý đến",
+   "thu hút sự chú ý",
+   "chăm sóc y tế",
+   "khoảng thời gian có thể tập trung"
+  ],
+  "t": "Sau pay attention to là danh từ hoặc danh động từ, vì to là giới từ."
+ },
+ "hairstyle": {
+  "s": [
+   "kiểu tóc"
+  ],
+  "c": [
+   "đổi kiểu tóc",
+   "kiểu tóc ngắn",
+   "kiểu tóc thời thượng"
+  ],
+  "t": "Danh từ đếm được, chỉ toàn bộ kiểu tóc được cắt hoặc tạo kiểu."
+ },
+ "workbook": {
+  "s": [
+   "sách bài tập",
+   "sổ làm việc (bảng tính)"
+  ],
+  "c": [
+   "làm xong sách bài tập",
+   "bài tập trong sách bài tập",
+   "sách bài tập ngữ pháp"
+  ],
+  "t": "workbook thiên về luyện tập; textbook thiên về trình bày kiến thức."
+ },
+ "type": {
+  "s": [
+   "loại; kiểu",
+   "gõ phím; đánh máy"
+  ],
+  "c": [
+   "một loại",
+   "nhóm máu",
+   "gõ một tin nhắn"
+  ],
+  "t": "type of đi với danh từ; nhiều loại thì dùng types of."
+ },
+ "adjective": {
+  "s": [
+   "tính từ"
+  ],
+  "c": [
+   "tính từ miêu tả",
+   "tính từ so sánh",
+   "trật tự tính từ"
+  ],
+  "t": "Tính từ thường đứng trước danh từ hoặc sau động từ nối, như a cold day."
+ },
+ "skin": {
+  "s": [
+   "da",
+   "vỏ (quả, củ)",
+   "lột da; gọt vỏ"
+  ],
+  "c": [
+   "da khô",
+   "da nhạy cảm",
+   "chăm sóc da",
+   "vỏ khoai tây"
+  ],
+  "t": "Da người thường không đếm được; tấm da thú thì đếm được."
+ },
+ "decide": {
+  "s": [
+   "quyết định; chọn",
+   "quyết định kết quả"
+  ],
+  "c": [
+   "quyết định làm việc gì",
+   "chọn ra; quyết định chọn",
+   "quyết định không chọn",
+   "quyết định kết quả"
+  ],
+  "t": "Dùng decide to do, không dùng decide doing."
+ },
+ "painful": {
+  "s": [
+   "đau đớn; gây đau",
+   "đau khổ; khó xử"
+  ],
+  "c": [
+   "một vết thương đau đớn",
+   "một trải nghiệm đau khổ",
+   "những ký ức đau buồn",
+   "sờ vào thấy đau"
+  ],
+  "t": "painful có thể chỉ đau thể xác, cũng có thể chỉ nỗi đau tinh thần hoặc sự khó xử."
+ },
+ "theirs": {
+  "s": [
+   "của họ; của chúng"
+  ],
+  "c": [
+   "một người bạn của họ",
+   "để họ giữ",
+   "của chúng tôi và của họ"
+  ],
+  "t": "theirs dùng độc lập, không theo sau bởi danh từ và không có dấu nháy đơn."
+ },
+ "playground": {
+  "s": [
+   "sân chơi; sân trường"
+  ],
+  "c": [
+   "sân trường",
+   "thiết bị sân chơi",
+   "sân chơi mạo hiểm"
+  ],
+  "t": "Chủ yếu chỉ nơi trẻ em vui chơi, không dùng cho sân vận động chuyên nghiệp."
+ },
+ "loud": {
+  "s": [
+   "to; ầm ĩ",
+   "to tiếng"
+  ],
+  "c": [
+   "tiếng ồn lớn",
+   "nhạc âm lượng lớn",
+   "thành tiếng",
+   "rõ ràng và to"
+  ],
+  "t": "read out loud là đọc thành tiếng; loudly cũng có nghĩa là một cách ầm ĩ."
+ },
+ "shout": {
+  "s": [
+   "hét; la lớn",
+   "tiếng hét; tiếng kêu"
+  ],
+  "c": [
+   "hét lên kêu cứu",
+   "quát ai",
+   "gọi to với ai",
+   "tiếng reo vui"
+  ],
+  "t": "shout at thường hàm ý giận dữ; shout to nhằm cho người ở xa nghe thấy."
+ },
+ "beside": {
+  "s": [
+   "bên cạnh"
+  ],
+  "c": [
+   "ngồi cạnh ai",
+   "bên bờ sông",
+   "lạc đề; không liên quan"
+  ],
+  "t": "beside nghĩa là “bên cạnh”; besides nghĩa là “ngoài ra; ngoài ... ra”."
+ },
+ "knee": {
+  "s": [
+   "đầu gối"
+  ],
+  "c": [
+   "khớp gối",
+   "chấn thương đầu gối",
+   "gập đầu gối",
+   "quỳ gối"
+  ],
+  "t": "Chữ k đầu từ không đọc; số nhiều knees đọc là /niːz/."
+ },
+ "tie": {
+  "s": [
+   "buộc; cột; thắt nút",
+   "cà vạt",
+   "mối liên hệ; quan hệ"
+  ],
+  "c": [
+   "thắt nút",
+   "đeo cà vạt",
+   "mối quan hệ gia đình",
+   "củng cố mối quan hệ"
+  ],
+  "t": "Hiện tại phân từ của tie là tying; nghĩa quan hệ thường dùng số nhiều ties."
+ },
+ "including": {
+  "s": [
+   "bao gồm; kể cả"
+  ],
+  "c": [
+   "đã gồm thuế",
+   "đã gồm phí giao hàng",
+   "kể cả trẻ em"
+  ],
+  "t": "including theo sau là danh từ hoặc đại từ; included thường đặt sau."
+ },
+ "spelling": {
+  "s": [
+   "chính tả; khả năng viết đúng chữ",
+   "cách viết (của một từ)"
+  ],
+  "c": [
+   "lỗi chính tả",
+   "kiểm tra chính tả",
+   "cách viết đúng"
+  ],
+  "t": "Khi chỉ khả năng viết chính tả thì thường không đếm được; chỉ cách viết cụ thể thì đếm được."
+ },
+ "korean": {
+  "s": [
+   "thuộc Hàn Quốc/Triều Tiên",
+   "tiếng Hàn",
+   "người Hàn Quốc/Triều Tiên"
+  ],
+  "c": [
+   "tiếng Hàn",
+   "ẩm thực Hàn Quốc",
+   "học tiếng Hàn"
+  ],
+  "t": "Korean có thể chỉ cả hai nước trên bán đảo Triều Tiên, nghĩa cụ thể tùy ngữ cảnh."
+ },
+ "indian": {
+  "s": [
+   "thuộc Ấn Độ; thuộc người Ấn",
+   "người Ấn Độ"
+  ],
+  "c": [
+   "ẩm thực Ấn Độ",
+   "văn hóa Ấn Độ",
+   "Ấn Độ Dương"
+  ],
+  "t": "Viết hoa chữ cái đầu; khi nói về thổ dân châu Mỹ nên dùng tên mà họ tự gọi."
+ },
+ "mind": {
+  "s": [
+   "trí óc; tâm trí; tư duy",
+   "phiền; phản đối",
+   "chú ý; cẩn thận; trông nom"
+  ],
+  "c": [
+   "đổi ý",
+   "ghi nhớ",
+   "phiền làm việc gì",
+   "sự thanh thản trong lòng"
+  ],
+  "t": "Để nói phiền khi làm gì dùng mind doing, không dùng mind to do."
+ },
+ "tiny": {
+  "s": [
+   "rất nhỏ; bé xíu"
+  ],
+  "c": [
+   "một lượng rất nhỏ",
+   "một phần rất nhỏ",
+   "một ngôi làng nhỏ xíu"
+  ],
+  "t": "Mạnh hơn small, nhấn mạnh sự nhỏ đến đáng ngạc nhiên."
+ },
+ "backpack": {
+  "s": [
+   "ba lô",
+   "đi du lịch bụi; du lịch ba lô"
+  ],
+  "c": [
+   "đeo ba lô",
+   "sắp xếp ba lô",
+   "ba lô đi bộ đường dài"
+  ],
+  "t": "Chỉ ba lô đeo hai vai; tiếng Anh Anh cũng thường dùng rucksack."
+ },
+ "quiz": {
+  "s": [
+   "bài kiểm tra ngắn; trò đố kiến thức",
+   "kiểm tra; hỏi dồn"
+  ],
+  "c": [
+   "làm một bài kiểm tra ngắn",
+   "đố vui kiến thức chung",
+   "hỏi ai về"
+  ],
+  "t": "Số nhiều là quizzes; quá khứ là quizzed."
+ },
+ "cartoon": {
+  "s": [
+   "phim hoạt hình",
+   "tranh biếm họa; tranh vui"
+  ],
+  "c": [
+   "nhân vật hoạt hình",
+   "phim hoạt hình",
+   "tranh biếm họa chính trị"
+  ],
+  "t": "cartoon có thể là phim hoạt hình hoặc tranh vui một khung; truyện tranh thường dùng comic."
+ },
+ "naughty": {
+  "s": [
+   "nghịch ngợm; hư; không vâng lời"
+  ],
+  "c": [
+   "đứa trẻ nghịch ngợm",
+   "hành vi nghịch ngợm",
+   "hư; không nghe lời"
+  ],
+  "t": "Thường dùng cho trẻ em hoặc thú cưng, thường không chỉ lỗi nghiêm trọng."
+ },
+ "elevator": {
+  "s": [
+   "thang máy"
+  ],
+  "c": [
+   "đi thang máy",
+   "cửa thang máy",
+   "thang máy chở khách"
+  ],
+  "t": "Tiếng Anh Mỹ thường dùng elevator; tiếng Anh Anh thường dùng lift."
+ },
+ "final": {
+  "s": [
+   "cuối cùng; sau cùng",
+   "dứt khoát; quyết định",
+   "trận chung kết; kỳ thi cuối kỳ"
+  ],
+  "c": [
+   "quyết định cuối cùng",
+   "giai đoạn cuối",
+   "vào chung kết",
+   "kỳ thi cuối kỳ"
+  ],
+  "t": "finally là trạng từ; final làm danh từ có thể là trận chung kết hoặc kỳ thi cuối kỳ."
+ },
+ "melon": {
+  "s": [
+   "dưa (dưa lê, dưa vàng ...)"
+  ],
+  "c": [
+   "dưa chín",
+   "một miếng dưa",
+   "hạt dưa"
+  ],
+  "t": "melon chỉ chung các loại dưa; watermelon chuyên chỉ dưa hấu."
+ },
+ "well-known": {
+  "s": [
+   "nổi tiếng; được nhiều người biết"
+  ],
+  "c": [
+   "tác giả nổi tiếng",
+   "địa danh nổi tiếng",
+   "sự thật ai cũng biết"
+  ],
+  "t": "Đứng trước danh từ thường có gạch nối; đứng sau động từ nối thường viết well known."
+ },
+ "chef": {
+  "s": [
+   "đầu bếp chuyên nghiệp; bếp trưởng"
+  ],
+  "c": [
+   "bếp trưởng",
+   "thợ làm bánh ngọt",
+   "được đào tạo thành đầu bếp"
+  ],
+  "t": "ch trong chef đọc là /ʃ/; thường chỉ đầu bếp chuyên nghiệp ở nhà hàng hoặc khách sạn."
+ },
+ "actually": {
+  "s": [
+   "thực ra; thật ra"
+  ],
+  "c": [
+   "thực sự xảy ra",
+   "thực sự có nghĩa là",
+   "thực sự hiệu quả"
+  ],
+  "t": "actually nghĩa là “thực ra”, không có nghĩa là “hiện nay”."
+ },
+ "towel": {
+  "s": [
+   "khăn tắm; khăn lau",
+   "lau khô bằng khăn"
+  ],
+  "c": [
+   "khăn tắm",
+   "khăn lau tay",
+   "khăn giấy; giấy lau tay",
+   "lau khô bằng khăn"
+  ],
+  "t": "Đếm được; paper towel là giấy thấm hút, không phải khăn vải."
+ },
+ "toe": {
+  "s": [
+   "ngón chân",
+   "mũi giày; mũi tất"
+  ],
+  "c": [
+   "ngón chân cái",
+   "ngón chân út",
+   "vấp ngón chân",
+   "từ đầu đến chân"
+  ],
+  "t": "Ngón tay là finger, ngón chân là toe; ngón chân cái là big toe."
+ },
+ "human": {
+  "s": [
+   "thuộc con người; thuộc nhân loại",
+   "con người; người"
+  ],
+  "c": [
+   "con người; nhân loại",
+   "nhân quyền",
+   "hoạt động của con người",
+   "lỗi do con người"
+  ],
+  "t": "human nghĩa là “thuộc con người”; humane nghĩa là “nhân đạo”."
+ },
+ "peace": {
+  "s": [
+   "hòa bình; sự hòa thuận",
+   "sự yên bình; sự thanh thản"
+  ],
+  "c": [
+   "hòa bình lâu dài",
+   "sự yên tĩnh",
+   "sự yên tâm",
+   "đàm phán hòa bình"
+  ],
+  "t": "Thường không đếm được; peace of mind nghĩa là sự yên tâm."
+ },
+ "wave": {
+  "s": [
+   "sóng biển; làn sóng; sóng",
+   "vẫy tay; vung",
+   "làn sóng; đợt"
+  ],
+  "c": [
+   "vẫy tay chào tạm biệt",
+   "vẫy tay chào ai",
+   "sóng âm",
+   "một làn sóng biểu tình"
+  ],
+  "t": "Vẫy tay chào ai thì dùng wave at hoặc wave to someone."
+ },
+ "hit": {
+  "s": [
+   "đánh; va vào",
+   "tác động nặng nề; giáng đòn",
+   "thành công lớn; sản phẩm ăn khách"
+  ],
+  "c": [
+   "đánh bóng",
+   "bị ảnh hưởng nặng nề",
+   "một thành công lớn",
+   "bắn trúng mục tiêu"
+  ],
+  "t": "Quá khứ và quá khứ phân từ vẫn là hit; hiện tại phân từ là hitting."
+ },
+ "lift": {
+  "s": [
+   "nâng lên; nhấc lên",
+   "thang máy",
+   "đi nhờ xe"
+  ],
+  "c": [
+   "cử tạ",
+   "đi thang máy",
+   "cho ai đi nhờ xe",
+   "dỡ bỏ lệnh cấm"
+  ],
+  "t": "Thang máy dùng lift trong tiếng Anh Anh và elevator trong tiếng Anh Mỹ."
+ },
+ "appointment": {
+  "s": [
+   "cuộc hẹn; lịch hẹn",
+   "sự bổ nhiệm"
+  ],
+  "c": [
+   "đặt lịch hẹn",
+   "hủy lịch hẹn",
+   "chỉ tiếp theo lịch hẹn",
+   "bổ nhiệm giám đốc"
+  ],
+  "t": "Hẹn gặp ai dùng appointment with; bổ nhiệm ai dùng appointment of."
+ },
+ "penny": {
+  "s": [
+   "đồng penny; một xu Anh",
+   "đồng xu một cent (Mỹ)"
+  ],
+  "c": [
+   "từng đồng một",
+   "không một xu",
+   "đáng đồng tiền"
+  ],
+  "t": "Số tiền ở Anh dùng pence; nhiều đồng xu cụ thể dùng pennies."
+ },
+ "jam": {
+  "s": [
+   "mứt",
+   "sự tắc nghẽn; kẹt",
+   "kẹt; nhét vào"
+  ],
+  "c": [
+   "mứt dâu",
+   "kẹt xe",
+   "bị kẹt",
+   "nhét thứ gì vào"
+  ],
+  "t": "Mứt thường không đếm được; một vụ kẹt xe là a traffic jam."
+ },
+ "normally": {
+  "s": [
+   "thông thường; thường thì",
+   "bình thường"
+  ],
+  "c": [
+   "thường mong đợi",
+   "hoạt động bình thường",
+   "thở bình thường"
+  ],
+  "t": "Có thể chỉ tần suất (thường thì) hoặc trạng thái (một cách bình thường)."
+ },
+ "pound": {
+  "s": [
+   "đồng bảng Anh",
+   "pao (đơn vị khối lượng)",
+   "đập liên hồi; đập thình thịch"
+  ],
+  "c": [
+   "đồng bảng Anh",
+   "một pao bơ",
+   "đập mạnh vào cửa",
+   "tim đập thình thịch"
+  ],
+  "t": "Cả đồng bảng Anh và đơn vị pao đều là pound; số nhiều thường thêm s."
+ },
+ "goal": {
+  "s": [
+   "mục tiêu",
+   "bàn thắng; điểm ghi",
+   "khung thành"
+  ],
+  "c": [
+   "đặt mục tiêu",
+   "đạt được mục tiêu",
+   "mục tiêu dài hạn",
+   "ghi bàn"
+  ],
+  "t": "Mục tiêu dùng set hoặc achieve; ghi bàn dùng score a goal."
+ },
+ "disappear": {
+  "s": [
+   "biến mất; mất tích",
+   "không còn tồn tại; tuyệt chủng"
+  ],
+  "c": [
+   "khuất khỏi tầm nhìn",
+   "biến mất không dấu vết",
+   "biến mất hoàn toàn"
+  ],
+  "t": "Thường là nội động từ, không nói be disappeared."
+ },
+ "push": {
+  "s": [
+   "đẩy; ấn",
+   "thúc giục; ép buộc",
+   "sự đẩy; nỗ lực mạnh mẽ"
+  ],
+  "c": [
+   "ấn nút",
+   "thúc giục ai làm việc gì",
+   "đấu tranh đòi cải cách",
+   "đẩy giá lên"
+  ],
+  "t": "push là đẩy, pull là kéo; push for nghĩa là đòi hỏi hoặc vận động cho điều gì."
+ },
+ "theatre": {
+  "s": [
+   "nhà hát",
+   "kịch; nghệ thuật sân khấu",
+   "phòng mổ"
+  ],
+  "c": [
+   "đi xem kịch",
+   "đoàn kịch",
+   "nhạc kịch",
+   "phòng mổ"
+  ],
+  "t": "Anh Anh viết theatre, Anh Mỹ thường viết theater; rạp chiếu phim ở Anh dùng cinema."
+ },
+ "scientist": {
+  "s": [
+   "nhà khoa học"
+  ],
+  "c": [
+   "nhà nghiên cứu khoa học",
+   "nhà khoa học hàng đầu",
+   "nhà khoa học môi trường"
+  ],
+  "t": "scientist chỉ người, science là khoa học, scientific là tính từ."
+ },
+ "denmark": {
+  "s": [
+   "Đan Mạch"
+  ],
+  "c": [
+   "thăm Đan Mạch",
+   "sống ở Đan Mạch",
+   "thủ đô của Đan Mạch"
+  ],
+  "t": "Trước tên nước thường không dùng the; người Đan Mạch là Dane."
+ },
+ "eighth": {
+  "s": [
+   "thứ tám",
+   "một phần tám"
+  ],
+  "c": [
+   "tầng tám",
+   "vị trí thứ tám",
+   "một phần tám của"
+  ],
+  "t": "Trước số thứ tự thường có the; th trong eighth đọc là /θ/."
+ },
+ "luckily": {
+  "s": [
+   "may mắn thay; may là"
+  ],
+  "c": [
+   "may cho chúng tôi",
+   "thật may mắn",
+   "may mà không ai bị thương"
+  ],
+  "t": "Thường bổ nghĩa cho cả câu; đứng đầu câu thường có dấu phẩy theo sau."
+ },
+ "lovely": {
+  "s": [
+   "đáng yêu; xinh đẹp",
+   "dễ chịu; tử tế"
+  ],
+  "c": [
+   "một khung cảnh đẹp",
+   "có khoảng thời gian vui vẻ",
+   "một người dễ mến"
+  ],
+  "t": "Dù tận cùng bằng -ly, đây là tính từ; rất phổ biến trong khẩu ngữ tiếng Anh Anh."
+ },
+ "exit": {
+  "s": [
+   "lối ra; cửa thoát",
+   "rời đi; thoát (chương trình)"
+  ],
+  "c": [
+   "lối thoát hiểm",
+   "cửa thoát khi có cháy",
+   "lối ra gần nhất",
+   "thoát khỏi chương trình"
+  ],
+  "t": "Danh từ là “lối ra”, động từ là “rời đi”; đừng nhầm với exist."
+ },
+ "race": {
+  "s": [
+   "cuộc đua; cuộc chạy đua",
+   "chủng tộc",
+   "đua tốc độ; chạy vút"
+  ],
+  "c": [
+   "thắng một cuộc đua",
+   "cuộc chạy tiếp sức",
+   "bất kể chủng tộc",
+   "chạy đua với thời gian"
+  ],
+  "t": "race có thể là cuộc đua hoặc chủng tộc; đừng nhầm với dân tộc."
+ },
+ "although": {
+  "s": [
+   "mặc dù; dù"
+  ],
+  "c": [
+   "mặc dù đúng là",
+   "mặc dù không phải lúc nào cũng vậy"
+  ],
+  "t": "Dẫn mệnh đề nhượng bộ; trong cùng một câu thường không dùng thêm but ở mệnh đề chính."
+ },
+ "avoid": {
+  "s": [
+   "tránh; ngăn ngừa",
+   "tránh xa; né"
+  ],
+  "c": [
+   "tránh làm việc gì",
+   "tránh sai sót",
+   "tránh tiếp xúc"
+  ],
+  "t": "Theo sau là danh từ hoặc danh động từ: avoid doing, không dùng to do."
+ },
+ "entrance": {
+  "s": [
+   "lối vào; cổng",
+   "sự vào; quyền được vào"
+  ],
+  "c": [
+   "lối vào chính",
+   "kỳ thi đầu vào",
+   "điều kiện nhập học",
+   "phí vào cửa"
+  ],
+  "t": "Lối vào của một nơi dùng entrance to, không dùng entrance of."
+ },
+ "shy": {
+  "s": [
+   "nhút nhát; ngại ngùng",
+   "giật mình lùi lại"
+  ],
+  "c": [
+   "cảm thấy ngại",
+   "cực kỳ nhút nhát",
+   "né tránh"
+  ],
+  "t": "shy away from theo sau là danh từ hoặc danh động từ, nghĩa là né tránh."
+ },
+ "lemon": {
+  "s": [
+   "quả chanh vàng",
+   "màu vàng nhạt; màu chanh"
+  ],
+  "c": [
+   "nước chanh vàng",
+   "một lát chanh",
+   "vỏ chanh bào"
+  ],
+  "t": "Cả quả chanh đếm được; juice trong lemon juice không đếm được."
+ },
+ "laptop": {
+  "s": [
+   "máy tính xách tay"
+  ],
+  "c": [
+   "máy tính xách tay",
+   "sạc máy tính xách tay",
+   "pin máy tính xách tay"
+  ],
+  "t": "laptop là máy tính xách tay; desktop thường chỉ máy tính để bàn."
+ },
+ "forever": {
+  "s": [
+   "mãi mãi",
+   "luôn luôn; suốt ngày"
+  ],
+  "c": [
+   "tồn tại mãi mãi",
+   "biến mất mãi mãi",
+   "luôn thay đổi"
+  ],
+  "t": "be forever doing thường biểu thị sự phàn nàn: cứ suốt ngày làm gì."
+ },
+ "dentist": {
+  "s": [
+   "nha sĩ"
+  ],
+  "c": [
+   "đi khám nha sĩ",
+   "lịch hẹn với nha sĩ",
+   "nha sĩ có chứng chỉ hành nghề"
+  ],
+  "t": "dentist là nha sĩ; the dentist's có thể chỉ phòng khám nha khoa."
+ },
+ "lock": {
+  "s": [
+   "khóa; khóa lại",
+   "ổ khóa",
+   "một lọn tóc"
+  ],
+  "c": [
+   "khóa cửa",
+   "khóa màn hình",
+   "ổ khóa cửa",
+   "một lọn tóc"
+  ],
+  "t": "lock là khóa lại, unlock là mở khóa; không dùng lẫn lộn."
+ },
+ "curly": {
+  "s": [
+   "xoăn; quăn"
+  ],
+  "c": [
+   "tóc xoăn",
+   "xoăn tự nhiên",
+   "cái đuôi cong"
+  ],
+  "t": "curly là xoăn rõ rệt; wavy thường chỉ gợn sóng nhẹ."
+ },
+ "nervous": {
+  "s": [
+   "lo lắng; bồn chồn",
+   "thuộc thần kinh"
+  ],
+  "c": [
+   "lo lắng về",
+   "cảm thấy lo lắng",
+   "hệ thần kinh",
+   "tiếng cười lo lắng"
+  ],
+  "t": "nervous about theo sau là danh từ hoặc danh động từ, nghĩa là lo lắng về điều gì."
+ },
+ "practice": {
+  "s": [
+   "sự luyện tập",
+   "thông lệ; cách làm",
+   "thực tiễn; sự áp dụng"
+  ],
+  "c": [
+   "luyện tập đều đặn",
+   "thông lệ phổ biến",
+   "trên thực tế",
+   "đưa vào thực hành"
+  ],
+  "t": "Tiếng Anh Anh dùng practice cho danh từ và practise cho động từ; tiếng Anh Mỹ dùng practice cho cả hai."
+ },
+ "roof": {
+  "s": [
+   "mái nhà; nóc",
+   "lợp mái"
+  ],
+  "c": [
+   "mái bằng",
+   "ngói lợp mái",
+   "chung một mái nhà",
+   "mái nhà bị dột"
+  ],
+  "t": "Số nhiều là roofs; roof là mái bên ngoài, còn ceiling là trần nhà bên trong."
+ },
+ "narrow": {
+  "s": [
+   "hẹp",
+   "sít sao; hạn chế",
+   "thu hẹp; làm hẹp lại"
+  ],
+  "c": [
+   "một con phố hẹp",
+   "chiến thắng sát nút",
+   "thu hẹp khoảng cách",
+   "thu hẹp các lựa chọn"
+  ],
+  "t": "narrow down nghĩa là thu hẹp các lựa chọn, không chỉ việc con đường bị hẹp lại."
+ }
+}

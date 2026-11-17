@@ -31,7 +31,7 @@
   --shadow: 0 1px 0 rgba(255, 255, 255, 0.7) inset, 0 1px 2px rgba(30, 38, 64, 0.05), 0 18px 40px -24px rgba(30, 38, 64, 0.28);
   --shadow-lg: 0 30px 80px -30px rgba(20, 26, 46, 0.45), 0 8px 24px -12px rgba(20, 26, 46, 0.2);
   --serif: "Fraunces Variable", "Songti SC", "STSong", "Noto Serif SC", "Source Han Serif SC", Georgia, serif;
-  --sans: -apple-system, BlinkMacSystemFont, "PingFang SC", "Hiragino Sans GB", "Segoe UI", "Microsoft YaHei", "Noto Sans SC", Roboto, sans-serif;
+  --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
   --mono: ui-monospace, "SF Mono", "JetBrains Mono", Menlo, Consolas, monospace;
   --r-sm: 10px;
   --r: 16px;
@@ -4119,4 +4119,19 @@ a:hover .mark-needle,
 }
 .streak-panel .mini-stats div:first-child dd {
   color: var(--ochre);
+}
+
+/* Vietnamese edition: Latin wordmark, keep nav labels on one line */
+.logo-text b {
+  font: 700 19px/1 var(--serif);
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+.logo-text small {
+  white-space: nowrap;
+}
+.topnav a,
+.tabbar a,
+.search-pill span {
+  white-space: nowrap;
 }

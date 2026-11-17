@@ -1,0 +1,1305 @@
+{
+ "computer": {
+  "s": [
+   "máy tính; máy vi tính"
+  ],
+  "c": [
+   "phần mềm máy tính",
+   "kỹ năng sử dụng máy tính",
+   "mạng máy tính",
+   "khoa học máy tính"
+  ],
+  "t": "Làm việc trên máy tính dùng work on a computer."
+ },
+ "shopping": {
+  "s": [
+   "việc mua sắm",
+   "hàng hóa đã mua (Anh-Anh)"
+  ],
+  "c": [
+   "đi mua sắm",
+   "đi chợ; mua đồ dùng hằng ngày",
+   "mua sắm trực tuyến",
+   "trung tâm mua sắm"
+  ],
+  "t": "shopping là danh từ không đếm được; “đi mua sắm” dùng go shopping."
+ },
+ "alphabet": {
+  "s": [
+   "bảng chữ cái"
+  ],
+  "c": [
+   "bảng chữ cái tiếng Anh",
+   "học bảng chữ cái",
+   "bài hát bảng chữ cái"
+  ],
+  "t": "alphabet chỉ cả bộ chữ cái; một chữ cái riêng lẻ là letter."
+ },
+ "address": {
+  "s": [
+   "địa chỉ",
+   "giải quyết; xử lý",
+   "phát biểu trước; diễn thuyết với"
+  ],
+  "c": [
+   "địa chỉ gửi thư",
+   "địa chỉ email",
+   "giải quyết một vấn đề",
+   "phát biểu trước khán giả"
+  ],
+  "t": "Động từ address nhấn trọng âm ở âm tiết sau; address a problem chưa chắc là đã giải quyết xong vấn đề."
+ },
+ "win": {
+  "s": [
+   "thắng; giành được",
+   "giành được; có được",
+   "chiến thắng"
+  ],
+  "c": [
+   "giành giải thưởng",
+   "thắng một trận đấu",
+   "giành được sự ủng hộ",
+   "chiếm được lòng tin của ai"
+  ],
+  "t": "Quá khứ và quá khứ phân từ đều là won; thắng trận dùng win, đánh bại ai dùng beat."
+ },
+ "grow": {
+  "s": [
+   "lớn lên; tăng trưởng; phát triển",
+   "trồng",
+   "dần trở nên"
+  ],
+  "c": [
+   "tăng trưởng nhanh",
+   "trồng rau",
+   "già đi",
+   "ngày càng lo lắng"
+  ],
+  "t": "Quá khứ grew, quá khứ phân từ grown; khi mang nghĩa “trở nên” thì theo sau là tính từ."
+ },
+ "box": {
+  "s": [
+   "hộp; thùng",
+   "đóng thùng; xếp vào hộp",
+   "đấm bốc; chơi quyền Anh"
+  ],
+  "c": [
+   "hộp các-tông",
+   "một hộp sô-cô-la",
+   "đóng thùng"
+  ],
+  "t": "Số nhiều là boxes; a box of theo sau là thứ đựng trong hộp."
+ },
+ "fun": {
+  "s": [
+   "niềm vui; sự vui thú",
+   "vui; thú vị"
+  ],
+  "c": [
+   "chơi vui vẻ",
+   "cho vui",
+   "chế nhạo",
+   "rất vui"
+  ],
+  "t": "fun là danh từ không đếm được; funny thường nghĩa là buồn cười hoặc kỳ lạ."
+ },
+ "beard": {
+  "s": [
+   "râu; râu quai nón"
+  ],
+  "c": [
+   "để râu",
+   "tỉa râu",
+   "bộ râu rậm"
+  ],
+  "t": "beard chỉ râu ở cằm và hai bên má; moustache là ria mép."
+ },
+ "wet": {
+  "s": [
+   "ướt; ẩm",
+   "mưa nhiều; có mưa",
+   "làm ướt"
+  ],
+  "c": [
+   "bị ướt",
+   "thời tiết mưa",
+   "ướt sũng",
+   "làm ướt miếng vải"
+  ],
+  "t": "damp chỉ hơi ẩm; soaking wet nghĩa là ướt sũng."
+ },
+ "money": {
+  "s": [
+   "tiền; tiền tệ",
+   "của cải; tài sản"
+  ],
+  "c": [
+   "tiết kiệm tiền",
+   "tiêu tiền vào",
+   "đáng đồng tiền",
+   "gây quỹ"
+  ],
+  "t": "Thường không đếm được: nói much money, không nói many money."
+ },
+ "agree": {
+  "s": [
+   "đồng ý; tán thành",
+   "thỏa thuận; nhận lời"
+  ],
+  "c": [
+   "đồng ý với ai",
+   "thống nhất kế hoạch",
+   "đồng ý làm gì",
+   "chấp thuận một đề xuất"
+  ],
+  "t": "Đồng ý với ai dùng with; thống nhất về điều gì dùng on; nhận lời làm gì dùng to do."
+ },
+ "now": {
+  "s": [
+   "bây giờ; hiện nay",
+   "ngay bây giờ; lập tức",
+   "vì; một khi"
+  ],
+  "c": [
+   "ngay bây giờ",
+   "đến giờ",
+   "từ giờ trở đi",
+   "vì rằng"
+  ],
+  "t": "now that mở đầu mệnh đề chỉ nguyên nhân, nhấn mạnh tình huống đã thay đổi."
+ },
+ "real": {
+  "s": [
+   "thật; có thật",
+   "thật; không phải đồ giả",
+   "thực tế; (đã) điều chỉnh theo lạm phát"
+  ],
+  "c": [
+   "cuộc sống thực",
+   "da thật",
+   "thu nhập thực tế",
+   "mối nguy hiểm thực sự"
+  ],
+  "t": "real bổ nghĩa cho danh từ; muốn nói “rất, thật sự” (bổ nghĩa cho tính từ) thường dùng really."
+ },
+ "someone": {
+  "s": [
+   "ai đó; người nào đó"
+  ],
+  "c": [
+   "người khác",
+   "người đặc biệt",
+   "người để tâm sự"
+  ],
+  "t": "Làm chủ ngữ thì động từ dùng số ít; có thể dùng they để thay thế ở câu sau."
+ },
+ "hear": {
+  "s": [
+   "nghe thấy",
+   "nghe nói; biết tin",
+   "xét xử; nghe (trình bày)"
+  ],
+  "c": [
+   "nhận được tin từ ai",
+   "nghe nói về điều gì",
+   "xét xử một vụ án",
+   "nghe cả hai bên"
+  ],
+  "t": "hear nhấn mạnh việc nghe thấy; listen to nhấn mạnh chủ động nghe. Quá khứ là heard."
+ },
+ "please": {
+  "s": [
+   "xin vui lòng; làm ơn",
+   "làm hài lòng; làm vui lòng"
+  ],
+  "c": [
+   "xin cứ tự nhiên",
+   "làm hài lòng mọi người",
+   "khó chiều",
+   "tùy ý bạn"
+  ],
+  "t": "please vừa là động từ; để nói ai đó thấy hài lòng thì dùng be pleased."
+ },
+ "hard": {
+  "s": [
+   "cứng; rắn",
+   "khó; vất vả",
+   "chăm chỉ; mạnh mẽ"
+  ],
+  "c": [
+   "công việc vất vả",
+   "làm việc chăm chỉ",
+   "bằng chứng chắc chắn",
+   "bề mặt cứng"
+  ],
+  "t": "hard có thể là trạng từ nghĩa “chăm chỉ”; hardly nghĩa là “hầu như không”."
+ },
+ "terrible": {
+  "s": [
+   "tồi tệ; khó chịu",
+   "khủng khiếp; nghiêm trọng"
+  ],
+  "c": [
+   "thời tiết tồi tệ",
+   "một sai lầm nghiêm trọng",
+   "cảm thấy rất khó chịu"
+  ],
+  "t": "terrible là tính từ; muốn nói “rất” thường dùng trạng từ terribly."
+ },
+ "feel": {
+  "s": [
+   "cảm thấy; cảm nhận",
+   "sờ; mò tìm",
+   "cảm giác khi chạm; không khí"
+  ],
+  "c": [
+   "cảm thấy thoải mái",
+   "có quan điểm mạnh mẽ về",
+   "muốn làm gì",
+   "dần nắm bắt được"
+  ],
+  "t": "Quá khứ và quá khứ phân từ đều là felt; sau feel có thể dùng trực tiếp tính từ."
+ },
+ "toy": {
+  "s": [
+   "đồ chơi",
+   "nghịch; cân nhắc qua loa"
+  ],
+  "c": [
+   "thú nhồi bông",
+   "xe đồ chơi",
+   "cân nhắc qua loa một ý tưởng"
+  ],
+  "t": "Động từ thường dùng toy with; toy with an idea nghĩa là nghĩ đến mà không nghiêm túc."
+ },
+ "so": {
+  "s": [
+   "rất; đến mức như vậy",
+   "vì vậy; cho nên",
+   "như vậy; vậy"
+  ],
+  "c": [
+   "nhiều như vậy",
+   "cho đến nay",
+   "để mà; vì thế",
+   "nghĩ như vậy"
+  ],
+  "t": "so bổ nghĩa cho tính từ hoặc trạng từ; such thường bổ nghĩa cho cụm danh từ."
+ },
+ "climb": {
+  "s": [
+   "leo; trèo",
+   "tăng lên; leo thang",
+   "sự leo; sự tăng lên"
+  ],
+  "c": [
+   "leo núi",
+   "leo cầu thang",
+   "một đoạn leo dốc",
+   "tăng đều đặn"
+  ],
+  "t": "Chữ b ở cuối không đọc; climb a mountain không dùng giới từ."
+ },
+ "bird": {
+  "s": [
+   "con chim"
+  ],
+  "c": [
+   "một đàn chim",
+   "chim di cư",
+   "quan sát chim",
+   "chim săn mồi"
+  ],
+  "t": "Đàn chim dùng a flock of birds; bird là danh từ đếm được."
+ },
+ "game": {
+  "s": [
+   "trò chơi; trận đấu",
+   "thú săn; thịt thú rừng",
+   "sẵn sàng thử; dũng cảm"
+  ],
+  "c": [
+   "trò chơi cờ bàn",
+   "môn thể thao đồng đội",
+   "trò chơi điện tử",
+   "sẵn sàng thử"
+  ],
+  "t": "Nghĩa “thú săn” là danh từ không đếm được; be game for nghĩa là sẵn sàng thử."
+ },
+ "single": {
+  "s": [
+   "đơn lẻ; duy nhất",
+   "độc thân; chưa kết hôn",
+   "một chiều"
+  ],
+  "c": [
+   "một người; người độc thân",
+   "mỗi một ngày",
+   "vé một chiều",
+   "cha/mẹ đơn thân"
+  ],
+  "t": "Vé một chiều trong Anh-Anh nói single ticket, Anh-Mỹ nói one-way ticket."
+ },
+ "park": {
+  "s": [
+   "công viên",
+   "đỗ xe; đậu xe",
+   "khu (dành cho hoạt động cụ thể)"
+  ],
+  "c": [
+   "công viên công cộng",
+   "đỗ xe",
+   "khu thương mại",
+   "vườn quốc gia"
+  ],
+  "t": "Công viên là park; trong Anh-Anh bãi đỗ xe là car park."
+ },
+ "boy": {
+  "s": [
+   "cậu bé; con trai"
+  ],
+  "c": [
+   "cậu bé",
+   "thiếu niên nam",
+   "bé trai sơ sinh"
+  ],
+  "t": "Thường chỉ nam chưa trưởng thành; gọi người đàn ông trưởng thành là boy có thể bất lịch sự."
+ },
+ "chicken": {
+  "s": [
+   "con gà",
+   "thịt gà"
+  ],
+  "c": [
+   "nuôi gà",
+   "gà quay",
+   "ức gà",
+   "súp gà"
+  ],
+  "t": "Gà còn sống là danh từ đếm được, thịt gà là không đếm được; gà con thường dùng chick."
+ },
+ "milk": {
+  "s": [
+   "sữa; sữa bò",
+   "vắt sữa"
+  ],
+  "c": [
+   "một cốc sữa",
+   "sữa tách béo",
+   "vắt sữa bò"
+  ],
+  "t": "milk thường không đếm được; nói a glass of milk, không nói a milk."
+ },
+ "and": {
+  "s": [
+   "và; cùng với",
+   "rồi; thì"
+  ],
+  "c": [
+   "cả ... lẫn ...",
+   "vân vân",
+   "ngày càng nhiều",
+   "hết lần này đến lần khác"
+  ],
+  "t": "Khi nối các thành phần song song cần chú ý cấu trúc đồng đều; trong khẩu ngữ thường đọc nhẹ là /ən/."
+ },
+ "most": {
+  "s": [
+   "hầu hết; nhiều nhất",
+   "phần lớn; đa số",
+   "nhất; rất"
+  ],
+  "c": [
+   "hầu hết mọi người",
+   "phần lớn thời gian",
+   "nhiều nhất là",
+   "quan trọng nhất"
+  ],
+  "t": "Nói chung chung dùng most people; nói cụ thể dùng most of the people."
+ },
+ "story": {
+  "s": [
+   "câu chuyện; lời kể",
+   "bài báo; tin tức",
+   "tầng (nhà) (Anh-Mỹ)"
+  ],
+  "c": [
+   "kể chuyện",
+   "truyện ngắn",
+   "tin tức",
+   "câu chuyện có thật"
+  ],
+  "t": "Tầng nhà Anh-Anh viết storey, Anh-Mỹ viết story; chiều cao không cố định."
+ },
+ "other": {
+  "s": [
+   "khác; còn lại",
+   "người hoặc vật khác"
+  ],
+  "c": [
+   "những người khác",
+   "hôm nọ",
+   "nhau",
+   "mặt khác"
+  ],
+  "t": "other đi với danh từ; others đứng độc lập; cái còn lại trong hai cái là the other."
+ },
+ "apple": {
+  "s": [
+   "quả táo"
+  ],
+  "c": [
+   "nước ép táo",
+   "bánh táo",
+   "lõi táo",
+   "quả táo giòn"
+  ],
+  "t": "Danh từ đếm được; “một quả táo” dùng an apple."
+ },
+ "chinese": {
+  "s": [
+   "thuộc Trung Quốc; thuộc tiếng Trung",
+   "tiếng Trung",
+   "người Trung Quốc"
+  ],
+  "c": [
+   "văn hóa Trung Hoa",
+   "học tiếng Trung",
+   "chữ Hán",
+   "ẩm thực Trung Hoa"
+  ],
+  "t": "Luôn viết hoa chữ cái đầu; chỉ một người Trung Quốc thường dùng a Chinese person."
+ },
+ "air": {
+  "s": [
+   "không khí",
+   "dáng vẻ; không khí",
+   "thông gió; bày tỏ công khai"
+  ],
+  "c": [
+   "không khí trong lành",
+   "ô nhiễm không khí",
+   "vẻ tự tin",
+   "công khai bày tỏ mối lo ngại"
+  ],
+  "t": "Khi nghĩa là không khí thì không đếm được; an air of nghĩa là “vẻ ... (một phẩm chất nào đó)”."
+ },
+ "because": {
+  "s": [
+   "bởi vì; do"
+  ],
+  "c": [
+   "do thời tiết",
+   "vì vậy",
+   "một phần là vì"
+  ],
+  "t": "because theo sau là một mệnh đề; because of theo sau là danh từ hoặc danh động từ."
+ },
+ "team": {
+  "s": [
+   "đội; nhóm",
+   "hợp tác; lập thành nhóm"
+  ],
+  "c": [
+   "thành viên nhóm",
+   "tinh thần đồng đội",
+   "hợp tác với",
+   "nhóm nghiên cứu"
+  ],
+  "t": "Trong Anh-Anh, team có thể đi với động từ số ít hoặc số nhiều."
+ },
+ "right": {
+  "s": [
+   "đúng; phù hợp",
+   "quyền; quyền lợi",
+   "bên phải; phía phải"
+  ],
+  "c": [
+   "câu trả lời đúng",
+   "quyền được giáo dục",
+   "ở bên phải",
+   "đưa ra quyết định đúng đắn"
+  ],
+  "t": "Nói về quyền dùng a right to; nói bên phải dùng on the right."
+ },
+ "difficult": {
+  "s": [
+   "khó; khó khăn",
+   "khó tính; khó đối phó"
+  ],
+  "c": [
+   "một quyết định khó khăn",
+   "khó hiểu",
+   "một vị khách khó tính"
+  ],
+  "t": "Thường dùng find it difficult to do; đừng dùng difficulty như một tính từ."
+ },
+ "pencil": {
+  "s": [
+   "bút chì",
+   "viết hoặc vẽ bằng bút chì"
+  ],
+  "c": [
+   "gọt bút chì",
+   "bằng bút chì",
+   "bút chì màu",
+   "hộp bút chì"
+  ],
+  "t": "Viết bằng bút chì nói in pencil; pencil in nghĩa là tạm thời sắp xếp."
+ },
+ "somebody": {
+  "s": [
+   "ai đó; người nào đó"
+  ],
+  "c": [
+   "người khác",
+   "người để tâm sự",
+   "người đặc biệt"
+  ],
+  "t": "Làm chủ ngữ thì động từ dùng số ít; thường dùng they để thay thế ở câu sau."
+ },
+ "person": {
+  "s": [
+   "người; cá nhân",
+   "ngôi (trong ngữ pháp)"
+  ],
+  "c": [
+   "trực tiếp; có mặt",
+   "một người trẻ",
+   "người bình thường",
+   "ngôi thứ nhất"
+  ],
+  "t": "Số nhiều thông thường là people; persons thường gặp trong văn bản pháp lý trang trọng."
+ },
+ "street": {
+  "s": [
+   "đường phố; phố"
+  ],
+  "c": [
+   "băng qua đường",
+   "con phố đông đúc",
+   "phố khu dân cư",
+   "đèn đường"
+  ],
+  "t": "street thường chỉ đường trong thị trấn có nhà hai bên."
+ },
+ "include": {
+  "s": [
+   "bao gồm; gồm có",
+   "đưa vào; cho tham gia"
+  ],
+  "c": [
+   "cho ai tham gia",
+   "bao gồm một loạt",
+   "giá đã bao gồm"
+  ],
+  "t": "include thường chỉ liệt kê một phần, không có nghĩa là danh sách đầy đủ."
+ },
+ "radio": {
+  "s": [
+   "máy thu thanh; đài",
+   "phát thanh; liên lạc vô tuyến",
+   "liên lạc hoặc truyền tin bằng vô tuyến"
+  ],
+  "c": [
+   "nghe đài",
+   "đài phát thanh",
+   "chương trình phát thanh",
+   "tín hiệu vô tuyến"
+  ],
+  "t": "Nghe đài thường nói listen to the radio; trên đài dùng on the radio."
+ },
+ "post-office": {
+  "s": [
+   "bưu điện"
+  ],
+  "c": [
+   "bưu điện địa phương",
+   "quầy giao dịch bưu điện",
+   "chi nhánh bưu điện"
+  ],
+  "t": "Cách viết chuẩn là post office, giữa hai từ không có dấu gạch nối.",
+  "n": "Đã sửa cách viết có gạch nối không chuẩn thành post office."
+ },
+ "ice": {
+  "s": [
+   "nước đá; băng",
+   "phủ lớp đường lên bánh"
+  ],
+  "c": [
+   "đá viên",
+   "băng biển",
+   "làm tan băng",
+   "phủ đường lên bánh"
+  ],
+  "t": "ice chỉ băng thì thường không đếm được; một viên đá là an ice cube."
+ },
+ "evening": {
+  "s": [
+   "buổi tối; chiều tối"
+  ],
+  "c": [
+   "vào buổi tối",
+   "tối nay",
+   "lớp học buổi tối",
+   "đầu giờ tối"
+  ],
+  "t": "Nói chung chung dùng in the evening; this evening không dùng giới từ."
+ },
+ "everything": {
+  "s": [
+   "mọi thứ; tất cả",
+   "điều quan trọng nhất"
+  ],
+  "c": [
+   "mọi thứ khác",
+   "mọi điều có thể",
+   "có ý nghĩa vô cùng với ai"
+  ],
+  "t": "Làm chủ ngữ thì động từ dùng số ít: Everything is ready."
+ },
+ "west": {
+  "s": [
+   "phía tây; hướng tây; miền tây",
+   "thuộc phía tây; hướng về phía tây",
+   "về phía tây; ở phía tây"
+  ],
+  "c": [
+   "ở phía tây",
+   "đi về hướng tây",
+   "bờ biển phía tây",
+   "chính tây"
+  ],
+  "t": "Phương hướng thường viết thường; the West chỉ các nước phương Tây thì viết hoa."
+ },
+ "brother": {
+  "s": [
+   "anh trai; em trai; anh/em ruột"
+  ],
+  "c": [
+   "anh trai",
+   "em trai",
+   "anh/em song sinh"
+  ],
+  "t": "brother không phân biệt anh hay em; dùng older hoặc younger để nói rõ."
+ },
+ "mountain": {
+  "s": [
+   "núi; ngọn núi",
+   "một đống; rất nhiều"
+  ],
+  "c": [
+   "dãy núi",
+   "đỉnh núi",
+   "leo núi",
+   "một núi công việc"
+  ],
+  "t": "Một ngọn núi là mountain; dãy núi thường dùng mountain range."
+ },
+ "than": {
+  "s": [
+   "hơn (giới từ)",
+   "hơn (liên từ)"
+  ],
+  "c": [
+   "nhiều hơn",
+   "ít hơn",
+   "thay vì",
+   "ngoài ra; trừ"
+  ],
+  "t": "than dùng để so sánh; then nghĩa là “sau đó”, chú ý chính tả."
+ },
+ "warm": {
+  "s": [
+   "ấm; ấm áp",
+   "nồng hậu; thân thiện",
+   "làm ấm; ấm lên"
+  ],
+  "c": [
+   "giữ ấm",
+   "sự chào đón nồng nhiệt",
+   "khởi động; làm ấm lên",
+   "dần có thiện cảm với ai"
+  ],
+  "t": "warm có nhiệt độ thấp hơn hot; warm to someone nghĩa là dần có thiện cảm với người đó."
+ },
+ "future": {
+  "s": [
+   "tương lai; tiền đồ",
+   "tương lai; sắp tới"
+  ],
+  "c": [
+   "trong tương lai",
+   "tương lai gần",
+   "các thế hệ mai sau",
+   "tương lai tươi sáng"
+  ],
+  "t": "in the future là trong tương lai; trong Anh-Anh in future thường nghĩa là “từ nay về sau”."
+ },
+ "german": {
+  "s": [
+   "thuộc Đức; thuộc tiếng Đức",
+   "người Đức",
+   "tiếng Đức"
+  ],
+  "c": [
+   "văn hóa Đức",
+   "học tiếng Đức",
+   "một công dân Đức"
+  ],
+  "t": "Luôn viết hoa chữ cái đầu; khi chỉ ngôn ngữ thường không dùng mạo từ."
+ },
+ "all": {
+  "s": [
+   "tất cả; toàn bộ",
+   "tất cả; mọi người, mọi vật",
+   "hoàn toàn"
+  ],
+  "c": [
+   "cả ngày",
+   "tất cả chúng tôi",
+   "luôn luôn",
+   "xét cho cùng"
+  ],
+  "t": "all đi với danh từ số nhiều hoặc không đếm được; every đi với danh từ đếm được số ít."
+ },
+ "come": {
+  "s": [
+   "đến; tới",
+   "đến; xảy ra",
+   "đến từ; bắt nguồn từ"
+  ],
+  "c": [
+   "về nhà",
+   "đến từ",
+   "trở thành sự thật",
+   "kết thúc"
+  ],
+  "t": "Động từ bất quy tắc: come - came - come; come from nghĩa là đến từ."
+ },
+ "eat": {
+  "s": [
+   "ăn"
+  ],
+  "c": [
+   "ăn sáng",
+   "ăn ngoài",
+   "ăn uống cân bằng",
+   "ăn uống lành mạnh"
+  ],
+  "t": "Động từ bất quy tắc: eat - ate - eaten."
+ },
+ "carrot": {
+  "s": [
+   "cà rốt",
+   "mồi nhử; phần thưởng khuyến khích"
+  ],
+  "c": [
+   "cà rốt sống",
+   "cà rốt bào sợi",
+   "vừa thưởng vừa phạt"
+  ],
+  "t": "Nghĩa bóng là phần thưởng hay mồi nhử; carrot and stick nghĩa là vừa thưởng vừa phạt."
+ },
+ "near": {
+  "s": [
+   "gần; ở gần",
+   "ở gần; sắp tới",
+   "gần; không xa; sắp tới"
+  ],
+  "c": [
+   "gần nhà ga",
+   "trong tương lai gần",
+   "đến gần",
+   "còn lâu mới bằng"
+  ],
+  "t": "near có thể đi thẳng với địa điểm; nearly thường nghĩa là “gần như”."
+ },
+ "parent": {
+  "s": [
+   "cha hoặc mẹ",
+   "công ty mẹ",
+   "nuôi dạy; làm cha mẹ"
+  ],
+  "c": [
+   "cha/mẹ đơn thân",
+   "bố mẹ đi làm",
+   "công ty mẹ",
+   "sự tham gia của phụ huynh"
+  ],
+  "t": "parent chỉ một trong hai người; parents thường chỉ cả cha và mẹ."
+ },
+ "famous": {
+  "s": [
+   "nổi tiếng"
+  ],
+  "c": [
+   "nổi tiếng vì",
+   "nổi tiếng với tư cách là",
+   "nổi tiếng thế giới"
+  ],
+  "t": "famous for theo sau là lý do nổi tiếng; famous as theo sau là thân phận."
+ },
+ "just": {
+  "s": [
+   "chỉ; chỉ là",
+   "vừa mới; vừa đúng",
+   "công bằng; chính đáng"
+  ],
+  "c": [
+   "chờ một chút",
+   "vừa kịp lúc",
+   "vừa đủ",
+   "một xã hội công bằng"
+  ],
+  "t": "Làm trạng từ có nghĩa “chỉ”, “vừa mới”; làm tính từ có nghĩa “công bằng”."
+ },
+ "birthday": {
+  "s": [
+   "sinh nhật"
+  ],
+  "c": [
+   "bánh sinh nhật",
+   "quà sinh nhật",
+   "tổ chức sinh nhật"
+  ],
+  "t": "Vào đúng ngày sinh nhật của ai thì dùng on, không dùng in hay at."
+ },
+ "butter": {
+  "s": [
+   "bơ",
+   "phết bơ lên"
+  ],
+  "c": [
+   "phết bơ",
+   "bơ tan chảy",
+   "một cục bơ nhỏ",
+   "phết bơ lên bánh mì nướng"
+  ],
+  "t": "butter là bơ (làm từ sữa), cream là kem sữa; tên thực phẩm này thường không đếm được."
+ },
+ "college": {
+  "s": [
+   "trường cao đẳng; trường đại học",
+   "trường thành viên của đại học"
+  ],
+  "c": [
+   "học đại học hoặc cao đẳng",
+   "sinh viên đại học",
+   "giáo dục đại học",
+   "cao đẳng cộng đồng"
+  ],
+  "t": "Anh-Mỹ thường dùng để chỉ chung đại học; Anh-Anh thường chỉ trường cao đẳng hoặc cơ sở giáo dục tiếp tục."
+ },
+ "close": {
+  "s": [
+   "đóng; khép; kết thúc",
+   "gần; thân thiết",
+   "sát; gần"
+  ],
+  "c": [
+   "đóng cửa",
+   "gần nhà",
+   "một người bạn thân",
+   "ở gần"
+  ],
+  "t": "Động từ đọc với âm /z/; tính từ và trạng từ đọc với âm /s/."
+ },
+ "off": {
+  "s": [
+   "rời đi; ra khỏi",
+   "rời khỏi; không còn chạm vào",
+   "tắt; không hoạt động"
+  ],
+  "c": [
+   "tắt",
+   "cất cánh; cởi ra",
+   "không trực; hết ca",
+   "ngày nghỉ"
+  ],
+  "t": "off nhấn mạnh sự rời đi hoặc tắt; of thường chỉ sự sở thuộc, đừng nhầm hai từ."
+ },
+ "wait": {
+  "s": [
+   "chờ; đợi",
+   "hoãn lại; để sau",
+   "sự chờ đợi; thời gian chờ"
+  ],
+  "c": [
+   "chờ ai",
+   "kiên nhẫn chờ đợi",
+   "một lần chờ dài",
+   "cứ chờ xem"
+  ],
+  "t": "Chờ ai dùng wait for someone; chờ để làm gì dùng wait to do."
+ },
+ "under": {
+  "s": [
+   "dưới; ở dưới",
+   "dưới; ít hơn",
+   "trong tình trạng; dưới sự kiểm soát của"
+  ],
+  "c": [
+   "chịu áp lực",
+   "trong tầm kiểm soát",
+   "đang xây dựng",
+   "dưới độ tuổi"
+  ],
+  "t": "under có thể chỉ vị trí, số lượng hoặc tình trạng: under pressure."
+ },
+ "italian": {
+  "s": [
+   "thuộc Ý; thuộc tiếng Ý",
+   "tiếng Ý",
+   "người Ý"
+  ],
+  "c": [
+   "ẩm thực Ý",
+   "nói tiếng Ý",
+   "kiến trúc Ý"
+  ],
+  "t": "Tên quốc tịch và ngôn ngữ viết hoa chữ cái đầu; số nhiều của người Ý là Italians."
+ },
+ "on": {
+  "s": [
+   "trên; ở trên",
+   "vào (ngày); về (chủ đề)",
+   "đang bật; đang hoạt động"
+  ],
+  "c": [
+   "trên bàn",
+   "vào thứ Hai",
+   "một báo cáo về giáo dục",
+   "bật"
+  ],
+  "t": "Ngày cụ thể dùng on; tháng dùng in; giờ giấc dùng at."
+ },
+ "personal": {
+  "s": [
+   "cá nhân; của riêng",
+   "riêng tư",
+   "mang tính cá nhân; công kích cá nhân"
+  ],
+  "c": [
+   "đồ dùng cá nhân",
+   "thông tin cá nhân",
+   "kinh nghiệm bản thân",
+   "công kích cá nhân"
+  ],
+  "t": "personal là thuộc cá nhân; personnel là toàn thể nhân viên, chú ý chính tả."
+ },
+ "possible": {
+  "s": [
+   "có thể; khả thi",
+   "có thể chọn; tiềm năng"
+  ],
+  "c": [
+   "càng sớm càng tốt",
+   "lời giải thích khả dĩ",
+   "làm cho điều đó trở nên khả thi"
+  ],
+  "t": "Thường dùng it is possible to do; không nói người + is possible to do."
+ },
+ "cent": {
+  "s": [
+   "xu (đơn vị tiền)",
+   "đồng xu một xu"
+  ],
+  "c": [
+   "từng xu một",
+   "không một xu",
+   "đồng xu năm mươi xu"
+  ],
+  "t": "cent là danh từ đếm được; số tiền lớn hơn một xu dùng cents."
+ },
+ "describe": {
+  "s": [
+   "mô tả; miêu tả"
+  ],
+  "c": [
+   "mô tả chi tiết điều gì",
+   "mô tả điều gì là",
+   "mô tả một quy trình"
+  ],
+  "t": "Nói describe something to someone, không nói describe someone something."
+ },
+ "say": {
+  "s": [
+   "nói; bày tỏ",
+   "ghi rằng; cho biết",
+   "quyền phát biểu; tiếng nói"
+  ],
+  "c": [
+   "chào",
+   "nói điều gì với ai",
+   "có tiếng nói trong",
+   "nói chắc chắn"
+  ],
+  "t": "Nói điều gì dùng say something; bảo ai dùng tell someone."
+ },
+ "lot": {
+  "s": [
+   "nhiều; rất nhiều",
+   "rất; thường xuyên",
+   "lô đất; bãi đất"
+  ],
+  "c": [
+   "nhiều thời gian",
+   "nhiều người",
+   "tốt hơn nhiều",
+   "bãi đỗ xe"
+  ],
+  "t": "a lot of đi với danh từ đếm được số nhiều hoặc không đếm được; a lot có thể bổ nghĩa cho động từ."
+ },
+ "grandfather": {
+  "s": [
+   "ông nội; ông ngoại"
+  ],
+  "c": [
+   "ông ngoại",
+   "ông nội"
+  ],
+  "t": "Không phân biệt bên nội hay ngoại; muốn nói ông ngoại có thể dùng maternal grandfather."
+ },
+ "dear": {
+  "s": [
+   "thân mến; yêu quý",
+   "đắt",
+   "ôi; trời ơi"
+  ],
+  "c": [
+   "một người bạn thân thiết",
+   "được ai yêu quý",
+   "ôi trời"
+  ],
+  "t": "dear nghĩa “đắt” chủ yếu dùng trong khẩu ngữ Anh-Anh; Dear thường dùng làm lời xưng hô đầu thư."
+ },
+ "sorry": {
+  "s": [
+   "xin lỗi; hối tiếc",
+   "buồn; thông cảm"
+  ],
+  "c": [
+   "xin lỗi vì đến muộn",
+   "xin lỗi về sai sót",
+   "thấy tiếc cho ai",
+   "rất tiếc khi nghe tin đó"
+  ],
+  "t": "sorry for doing dùng để xin lỗi vì điều mình đã làm."
+ },
+ "ear": {
+  "s": [
+   "tai",
+   "khả năng phân biệt âm thanh; thính giác",
+   "bông (lúa)"
+  ],
+  "c": [
+   "tai nhạy về âm nhạc",
+   "nhiễm trùng tai",
+   "một bông lúa mì",
+   "đồ bảo vệ tai"
+  ],
+  "t": "have an ear for nghĩa là có khả năng nghe tốt về âm nhạc, ngôn ngữ..."
+ },
+ "healthy": {
+  "s": [
+   "khỏe mạnh",
+   "có lợi cho sức khỏe",
+   "tốt; lành mạnh; phát triển"
+  ],
+  "c": [
+   "chế độ ăn lành mạnh",
+   "lối sống lành mạnh",
+   "giữ gìn sức khỏe",
+   "nền kinh tế phát triển"
+  ],
+  "t": "Vừa nói người khỏe mạnh, vừa nói chế độ ăn,... có lợi cho sức khỏe."
+ },
+ "laugh": {
+  "s": [
+   "cười; bật cười",
+   "tiếng cười; cái cười"
+  ],
+  "c": [
+   "cười to",
+   "làm ai cười",
+   "bật cười vì câu chuyện cười",
+   "cười sảng khoái"
+  ],
+  "t": "laugh at someone thường nghĩa là cười nhạo; laugh with someone nghĩa là cùng cười với họ."
+ },
+ "find": {
+  "s": [
+   "tìm thấy; phát hiện",
+   "thấy; cho rằng",
+   "vật tìm được; phát hiện"
+  ],
+  "c": [
+   "tìm ra giải pháp",
+   "tìm ra; phát hiện",
+   "thấy khó làm gì",
+   "một phát hiện có giá trị"
+  ],
+  "t": "Quá khứ và quá khứ phân từ đều là found; cấu trúc find + tân ngữ + tính từ."
+ },
+ "sell": {
+  "s": [
+   "bán",
+   "bán chạy; bán được",
+   "thuyết phục; quảng bá"
+  ],
+  "c": [
+   "bán hết",
+   "bán chạy",
+   "bán cái gì cho ai",
+   "quảng bá một ý tưởng"
+  ],
+  "t": "Quá khứ và quá khứ phân từ đều là sold; sell well thường dùng ở dạng chủ động."
+ },
+ "walk": {
+  "s": [
+   "đi bộ; bước đi",
+   "cuộc đi dạo; quãng đường đi bộ"
+  ],
+  "c": [
+   "đi dạo",
+   "đi bộ đến trường",
+   "dắt chó đi dạo",
+   "đi bộ nhanh"
+  ],
+  "t": "Chữ l không đọc; walk the dog nghĩa là dắt chó đi dạo."
+ },
+ "as": {
+  "s": [
+   "với tư cách là; như là",
+   "khi; vì; như",
+   "bằng; như"
+  ],
+  "c": [
+   "làm công việc",
+   "do đó",
+   "ngay khi",
+   "cũng như; ngoài ra còn"
+  ],
+  "t": "as chỉ thân phận thực sự; like chỉ sự giống nhau. Khi nhấn mạnh đọc /æz/."
+ },
+ "run": {
+  "s": [
+   "chạy",
+   "điều hành; quản lý",
+   "hoạt động; vận hành"
+  ],
+  "c": [
+   "điều hành doanh nghiệp",
+   "triển khai một chương trình",
+   "chạy trơn tru",
+   "chạy marathon"
+  ],
+  "t": "Quá khứ ran, quá khứ phân từ run; hiện tại phân từ running."
+ },
+ "light": {
+  "s": [
+   "ánh sáng; đèn",
+   "nhẹ; sáng; nhạt màu",
+   "đốt; thắp sáng"
+  ],
+  "c": [
+   "ánh sáng tự nhiên",
+   "bật đèn",
+   "thắp nến",
+   "hành lý nhẹ"
+  ],
+  "t": "Ánh sáng nói chung không đếm được; một cái đèn là a light; quá khứ của động từ thường là lit."
+ },
+ "look": {
+  "s": [
+   "nhìn; xem",
+   "trông có vẻ; có vẻ",
+   "cái nhìn; vẻ mặt; vẻ bề ngoài"
+  ],
+  "c": [
+   "nhìn vào",
+   "mong chờ",
+   "nhìn qua một chút",
+   "trông giống"
+  ],
+  "t": "look at theo sau là vật được nhìn; look làm động từ nối thì theo sau là tính từ."
+ },
+ "first": {
+  "s": [
+   "thứ nhất; đầu tiên",
+   "trước hết; đầu tiên; trước tiên"
+  ],
+  "c": [
+   "vị trí thứ nhất",
+   "lúc đầu",
+   "trước hết",
+   "sơ cứu"
+  ],
+  "t": "at first nghĩa là lúc đầu; first có thể dùng để nêu ý thứ nhất."
+ },
+ "expensive": {
+  "s": [
+   "đắt; tốn kém"
+  ],
+  "c": [
+   "quá đắt",
+   "ngày càng đắt đỏ",
+   "tốn kém để bảo trì",
+   "một sai lầm đắt giá"
+  ],
+  "t": "Nói đồ vật đắt dùng expensive; nói giá cao dùng high."
+ },
+ "language": {
+  "s": [
+   "ngôn ngữ; tiếng",
+   "cách diễn đạt; lời lẽ"
+  ],
+  "c": [
+   "ngoại ngữ",
+   "ngôn ngữ cơ thể",
+   "rào cản ngôn ngữ",
+   "ngôn ngữ trang trọng"
+  ],
+  "t": "Chỉ một thứ tiếng cụ thể thì đếm được; chỉ khả năng ngôn ngữ nói chung thì thường không đếm được."
+ },
+ "busy": {
+  "s": [
+   "bận rộn",
+   "đông đúc; nhộn nhịp",
+   "đang bận (điện thoại)"
+  ],
+  "c": [
+   "bận làm gì",
+   "bận công việc",
+   "một con phố nhộn nhịp",
+   "lịch trình dày đặc"
+  ],
+  "t": "Dùng busy doing hoặc busy with, không dùng busy to do."
+ },
+ "write": {
+  "s": [
+   "viết",
+   "sáng tác; soạn",
+   "viết thư"
+  ],
+  "c": [
+   "viết bài luận",
+   "viết thư cho ai",
+   "viết ra; ghi lại"
+  ],
+  "t": "Động từ bất quy tắc: write - wrote - written."
+ },
+ "spanish": {
+  "s": [
+   "tiếng Tây Ban Nha",
+   "thuộc Tây Ban Nha; thuộc tiếng Tây Ban Nha"
+  ],
+  "c": [
+   "nói tiếng Tây Ban Nha",
+   "văn hóa Tây Ban Nha",
+   "các nước nói tiếng Tây Ban Nha"
+  ],
+  "t": "Viết hoa chữ cái đầu; một người Tây Ban Nha có thể nói a Spanish person."
+ }
+}

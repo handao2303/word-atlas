@@ -1,0 +1,1258 @@
+{
+ "lost": {
+  "s": [
+   "lạc đường; bị mất",
+   "bối rối; không biết phải làm sao",
+   "mất; thua (quá khứ của lose)"
+  ],
+  "c": [
+   "bị lạc",
+   "đồ thất lạc",
+   "cảm thấy lạc lõng",
+   "chìm đắm trong suy nghĩ"
+  ],
+  "t": "get lost nghĩa là bị lạc; khi dùng như câu mệnh lệnh (“Get lost!”) thì rất thô lỗ."
+ },
+ "thousand": {
+  "s": [
+   "một nghìn",
+   "hàng nghìn; rất nhiều"
+  ],
+  "c": [
+   "một nghìn người",
+   "hai nghìn năm",
+   "hàng nghìn"
+  ],
+  "t": "Sau số cụ thể không thêm s; nói hàng nghìn một cách chung chung dùng thousands of."
+ },
+ "god": {
+  "s": [
+   "Thượng đế; Chúa"
+  ],
+  "c": [
+   "tin vào Chúa",
+   "cầu nguyện Chúa",
+   "đức tin vào Chúa"
+  ],
+  "t": "Chỉ vị thần duy nhất thì viết God, thường không có mạo từ; thần nói chung viết god."
+ },
+ "part-time": {
+  "s": [
+   "bán thời gian",
+   "bán thời gian (trạng từ)"
+  ],
+  "c": [
+   "một công việc bán thời gian",
+   "làm bán thời gian",
+   "khóa học bán thời gian"
+  ],
+  "t": "Có thể là tính từ hoặc trạng từ: a part-time job; work part-time."
+ },
+ "certainly": {
+  "s": [
+   "chắc chắn; hẳn là",
+   "tất nhiên rồi; được thôi"
+  ],
+  "c": [
+   "gần như chắc chắn",
+   "tất nhiên là không",
+   "chắc chắn sẽ giúp ích"
+  ],
+  "t": "Thường đứng trước động từ thường, sau be; cũng có thể đứng một mình để đáp lại lời đề nghị một cách lịch sự."
+ },
+ "vocabulary": {
+  "s": [
+   "vốn từ vựng; từ vựng",
+   "thuật ngữ chuyên ngành"
+  ],
+  "c": [
+   "mở rộng vốn từ",
+   "vốn từ hạn chế",
+   "từ vựng học thuật",
+   "thuật ngữ chuyên ngành"
+  ],
+  "t": "Một từ riêng lẻ là word; vocabulary chỉ tổng vốn từ hoặc tập hợp từ."
+ },
+ "cigarette": {
+  "s": [
+   "điếu thuốc lá"
+  ],
+  "c": [
+   "khói thuốc lá",
+   "một bao thuốc lá",
+   "thuế thuốc lá"
+  ],
+  "t": "Danh từ đếm được; một bao thuốc nói a packet of cigarettes."
+ },
+ "danger": {
+  "s": [
+   "sự nguy hiểm; rủi ro",
+   "mối nguy; mối đe dọa"
+  ],
+  "c": [
+   "đang gặp nguy hiểm",
+   "thoát khỏi nguy hiểm",
+   "gây nguy hiểm cho",
+   "nguy cơ tuyệt chủng"
+  ],
+  "t": "in danger nghĩa là đang gặp nguy hiểm; dangerous là tính từ chỉ điều gây nguy hiểm."
+ },
+ "hardworking": {
+  "s": [
+   "chăm chỉ; cần cù"
+  ],
+  "c": [
+   "học sinh chăm chỉ",
+   "nhân viên cần mẫn",
+   "gia đình cần cù"
+  ],
+  "t": "Là tính từ; muốn nói “làm việc chăm chỉ” dùng cụm động từ work hard."
+ },
+ "indoor": {
+  "s": [
+   "trong nhà; trong phòng"
+  ],
+  "c": [
+   "bể bơi trong nhà",
+   "các hoạt động trong nhà",
+   "chất lượng không khí trong nhà"
+  ],
+  "t": "indoor làm định ngữ; indoors là trạng từ, ví dụ stay indoors."
+ },
+ "electric": {
+  "s": [
+   "thuộc điện; chạy bằng điện",
+   "đầy phấn khích; sôi động"
+  ],
+  "c": [
+   "xe điện",
+   "dòng điện",
+   "điện giật",
+   "bầu không khí sôi động"
+  ],
+  "t": "Thiết bị chạy điện thường dùng electric; hệ thống điện thường dùng electrical."
+ },
+ "director": {
+  "s": [
+   "giám đốc; người phụ trách; thành viên hội đồng quản trị",
+   "đạo diễn"
+  ],
+  "c": [
+   "tổng giám đốc",
+   "hội đồng quản trị",
+   "đạo diễn phim",
+   "giám đốc vận hành"
+  ],
+  "t": "Có thể chỉ người đứng đầu một tổ chức hoặc thành viên hội đồng quản trị, cũng có thể chỉ đạo diễn phim, kịch."
+ },
+ "convenient": {
+  "s": [
+   "thuận tiện; phù hợp",
+   "gần; dễ đến"
+  ],
+  "c": [
+   "thời điểm thuận tiện",
+   "thuận tiện cho ai",
+   "vị trí thuận tiện",
+   "một cách tiện lợi để"
+  ],
+  "t": "Nói It is convenient for me, không nói I am convenient."
+ },
+ "downtown": {
+  "s": [
+   "vào trung tâm thành phố; ở trung tâm thành phố",
+   "thuộc trung tâm thành phố",
+   "khu trung tâm; khu thương mại"
+  ],
+  "c": [
+   "vào trung tâm thành phố",
+   "khu vực trung tâm",
+   "cửa hàng ở trung tâm thành phố"
+  ],
+  "t": "Chủ yếu dùng trong Anh-Mỹ; làm trạng từ thì không có to đứng trước."
+ },
+ "war": {
+  "s": [
+   "chiến tranh",
+   "cuộc chiến; cuộc đấu tranh"
+  ],
+  "c": [
+   "nội chiến",
+   "đang có chiến tranh",
+   "tuyên chiến",
+   "cuộc chiến xóa đói giảm nghèo"
+  ],
+  "t": "Đang trong tình trạng chiến tranh dùng at war, không có mạo từ."
+ },
+ "reader": {
+  "s": [
+   "độc giả; người đọc",
+   "máy đọc; thiết bị đọc",
+   "sách đọc theo cấp độ; sách giáo khoa đọc"
+  ],
+  "c": [
+   "người ham đọc sách",
+   "đầu đọc thẻ",
+   "sách đọc phân cấp"
+  ],
+  "t": "reader có thể là người, thiết bị hoặc sách dùng để học đọc."
+ },
+ "education": {
+  "s": [
+   "giáo dục; quá trình học tập"
+  ],
+  "c": [
+   "giáo dục đại học",
+   "giáo dục bắt buộc",
+   "cơ hội tiếp cận giáo dục",
+   "hệ thống giáo dục"
+  ],
+  "t": "Thường không đếm được; nhưng có thể nói a good education (nền giáo dục tốt)."
+ },
+ "career": {
+  "s": [
+   "sự nghiệp; nghề nghiệp",
+   "lao nhanh; chạy lao đi"
+  ],
+  "c": [
+   "triển vọng nghề nghiệp",
+   "phát triển sự nghiệp",
+   "theo đuổi một sự nghiệp",
+   "sự nghiệp giảng dạy"
+  ],
+  "t": "career nhấn mạnh con đường nghề nghiệp lâu dài; job chỉ một công việc cụ thể."
+ },
+ "lonely": {
+  "s": [
+   "cô đơn; lẻ loi",
+   "hoang vắng; hẻo lánh"
+  ],
+  "c": [
+   "cảm thấy cô đơn",
+   "một cuộc sống cô đơn",
+   "một con đường vắng vẻ"
+  ],
+  "t": "alone nhấn mạnh ở một mình; lonely nhấn mạnh cảm giác cô đơn trong lòng."
+ },
+ "puppy": {
+  "s": [
+   "chó con"
+  ],
+  "c": [
+   "một ổ chó con",
+   "nhận nuôi chó con",
+   "huấn luyện chó con"
+  ],
+  "t": "Số nhiều là puppies; thường chỉ riêng chó con."
+ },
+ "style": {
+  "s": [
+   "phong cách; cách thức",
+   "kiểu dáng; thời trang",
+   "tạo kiểu; thiết kế"
+  ],
+  "c": [
+   "phong cách viết",
+   "phong cách kiến trúc",
+   "hợp thời trang",
+   "tạo kiểu tóc"
+  ],
+  "t": "style có thể là phong cách cá nhân, không nhất thiết là thời trang."
+ },
+ "taste": {
+  "s": [
+   "vị; vị giác",
+   "nếm; có vị",
+   "gu; sở thích"
+  ],
+  "c": [
+   "có vị ngon",
+   "vị đắng",
+   "sở thích về",
+   "gu tốt"
+  ],
+  "t": "taste nghĩa là “có vị” thì đi với tính từ, không đi với trạng từ."
+ },
+ "jump": {
+  "s": [
+   "nhảy; nhảy qua",
+   "tăng vọt; tăng đột ngột",
+   "cú nhảy; sự tăng vọt"
+  ],
+  "c": [
+   "nhảy qua hàng rào",
+   "hăm hở nắm lấy cơ hội",
+   "giá tăng vọt"
+  ],
+  "t": "jump at the chance nghĩa là hăm hở nắm lấy cơ hội."
+ },
+ "record": {
+  "s": [
+   "hồ sơ; bản ghi chép",
+   "ghi lại; ghi âm; ghi hình",
+   "kỷ lục"
+  ],
+  "c": [
+   "lưu hồ sơ",
+   "hồ sơ y tế",
+   "phá kỷ lục",
+   "ghi âm cuộc trò chuyện"
+  ],
+  "t": "Danh từ nhấn trọng âm ở âm tiết đầu; động từ nhấn ở âm tiết sau."
+ },
+ "assistant": {
+  "s": [
+   "trợ lý; người giúp việc",
+   "phụ tá; phó"
+  ],
+  "c": [
+   "trợ giảng",
+   "trợ lý riêng",
+   "nhân viên bán hàng",
+   "phó quản lý"
+  ],
+  "t": "assistant chỉ người; assistance nghĩa là sự giúp đỡ, thường không đếm được."
+ },
+ "clearly": {
+  "s": [
+   "một cách rõ ràng",
+   "rõ ràng là; hiển nhiên"
+  ],
+  "c": [
+   "nói rõ ràng",
+   "giải thích rõ ràng",
+   "có thể thấy rõ"
+  ],
+  "t": "Clearly ở đầu câu thường nghĩa là “rõ ràng là”, không phải “một cách rõ ràng”."
+ },
+ "swedish": {
+  "s": [
+   "thuộc Thụy Điển; thuộc tiếng Thụy Điển",
+   "tiếng Thụy Điển"
+  ],
+  "c": [
+   "văn hóa Thụy Điển",
+   "học tiếng Thụy Điển",
+   "thiết kế Thụy Điển"
+  ],
+  "t": "Viết hoa chữ cái đầu; một người Thụy Điển là a Swede."
+ },
+ "curry": {
+  "s": [
+   "món cà ri",
+   "nấu bằng cà ri"
+  ],
+  "c": [
+   "cà ri gà",
+   "cà ri rau củ",
+   "bột cà ri",
+   "sốt cà ri"
+  ],
+  "t": "curry thường chỉ món ăn; bột cà ri dùng curry powder."
+ },
+ "nurse": {
+  "s": [
+   "y tá; điều dưỡng",
+   "chăm sóc; điều dưỡng"
+  ],
+  "c": [
+   "y tá có chứng chỉ hành nghề",
+   "y tá cộng đồng",
+   "chăm sóc ai cho đến khi khỏe lại"
+  ],
+  "t": "Làm động từ nurse đi thẳng với người: nurse a patient."
+ },
+ "fan": {
+  "s": [
+   "người hâm mộ; người đam mê",
+   "cái quạt",
+   "quạt; thổi bùng"
+  ],
+  "c": [
+   "người hâm mộ của",
+   "cổ động viên bóng đá",
+   "quạt điện",
+   "thổi bùng ngọn lửa"
+  ],
+  "t": "Nói “người hâm mộ ...” dùng a fan of."
+ },
+ "vase": {
+  "s": [
+   "bình hoa; lọ hoa"
+  ],
+  "c": [
+   "một bình hoa",
+   "bình hoa thủy tinh",
+   "bình hoa gốm"
+  ],
+  "t": "Anh-Anh thường đọc /vɑːz/; Anh-Mỹ thường đọc /veɪs/."
+ },
+ "saw": {
+  "s": [
+   "cái cưa",
+   "cưa; xẻ",
+   "đã thấy (quá khứ của see)"
+  ],
+  "c": [
+   "cưa tay",
+   "cưa xuyên qua gỗ",
+   "cưa đôi vật gì"
+  ],
+  "t": "Quá khứ của saw (cưa) là sawed; saw cũng là quá khứ của see."
+ },
+ "trainer": {
+  "s": [
+   "huấn luyện viên; người đào tạo",
+   "giày thể thao"
+  ],
+  "c": [
+   "huấn luyện viên cá nhân",
+   "huấn luyện viên thể hình",
+   "một đôi giày thể thao"
+  ],
+  "t": "Giày thể thao trong Anh-Anh thường nói trainers, trong Anh-Mỹ thường nói sneakers."
+ },
+ "till": {
+  "s": [
+   "cho đến",
+   "cho đến khi",
+   "máy tính tiền; ngăn kéo đựng tiền"
+  ],
+  "c": [
+   "đến tận khuya",
+   "chờ cho đến khi",
+   "ở quầy thu ngân"
+  ],
+  "t": "till có nghĩa như until; khi làm liên từ nói về tương lai thường theo sau là thì hiện tại đơn."
+ },
+ "divorced": {
+  "s": [
+   "đã ly hôn",
+   "tách rời; xa rời"
+  ],
+  "c": [
+   "ly hôn",
+   "cha mẹ ly hôn",
+   "xa rời thực tế"
+  ],
+  "t": "get divorced nghĩa là ly hôn; “tách rời khỏi điều gì” dùng divorced from."
+ },
+ "meaning": {
+  "s": [
+   "ý nghĩa; nghĩa",
+   "ý nghĩa; giá trị"
+  ],
+  "c": [
+   "nghĩa của một từ",
+   "nghĩa đen",
+   "truyền đạt ý nghĩa",
+   "mang lại ý nghĩa cho cuộc sống"
+  ],
+  "t": "Hỏi nghĩa của từ dùng the meaning of; đừng nhầm với opinion."
+ },
+ "spaghetti": {
+  "s": [
+   "mì Ý sợi dài"
+  ],
+  "c": [
+   "một đĩa mì Ý",
+   "sốt mì Ý",
+   "nấu mì Ý"
+  ],
+  "t": "Danh từ không đếm được; một đĩa dùng a plate of spaghetti."
+ },
+ "garlic": {
+  "s": [
+   "tỏi"
+  ],
+  "c": [
+   "một tép tỏi",
+   "tỏi đập dập",
+   "bánh mì bơ tỏi"
+  ],
+  "t": "Thường không đếm được; một tép tỏi dùng a clove of garlic."
+ },
+ "control": {
+  "s": [
+   "sự kiểm soát; sự quản lý",
+   "kiểm soát; quản lý; kiềm chế",
+   "bộ điều khiển"
+  ],
+  "c": [
+   "nắm quyền kiểm soát",
+   "trong tầm kiểm soát",
+   "mất kiểm soát",
+   "kiểm soát ô nhiễm"
+  ],
+  "t": "Quá khứ controlled và hiện tại phân từ controlling đều gấp đôi chữ l."
+ },
+ "olympics": {
+  "s": [
+   "Thế vận hội Olympic"
+  ],
+  "c": [
+   "đăng cai Thế vận hội",
+   "tham dự Thế vận hội",
+   "Thế vận hội mùa hè",
+   "Thế vận hội mùa đông"
+  ],
+  "t": "Viết hoa chữ cái đầu, thường đi với the; cũng gọi là the Olympic Games."
+ },
+ "supper": {
+  "s": [
+   "bữa tối; bữa ăn nhẹ trước khi ngủ"
+  ],
+  "c": [
+   "ăn tối",
+   "bữa tối nhẹ",
+   "sau bữa tối"
+  ],
+  "t": "Thường chỉ bữa tối đơn giản hoặc bữa ăn nhẹ trước khi đi ngủ."
+ },
+ "serious": {
+  "s": [
+   "nghiêm trọng; hệ trọng",
+   "nghiêm túc; nghiêm nghị"
+  ],
+  "c": [
+   "thiệt hại nghiêm trọng",
+   "hậu quả nghiêm trọng",
+   "nghiêm túc về",
+   "xem trọng việc gì"
+  ],
+  "t": "serious about theo sau là danh từ hoặc danh động từ, nghĩa là nghiêm túc với điều gì."
+ },
+ "comfortable": {
+  "s": [
+   "thoải mái; dễ chịu",
+   "tự nhiên; yên tâm",
+   "khá giả; dư dả"
+  ],
+  "c": [
+   "đôi giày thoải mái",
+   "cảm thấy thoải mái",
+   "thoải mái với điều gì",
+   "thu nhập dư dả"
+  ],
+  "t": "comfortable chỉ sự dễ chịu; convenient chỉ sự thuận tiện."
+ },
+ "active": {
+  "s": [
+   "năng động; tích cực tham gia",
+   "đang hoạt động; có tác dụng",
+   "(thể) chủ động"
+  ],
+  "c": [
+   "giữ cho năng động",
+   "lối sống năng động",
+   "đóng vai trò tích cực",
+   "thành phần hoạt tính"
+  ],
+  "t": "active chỉ sự năng động, tham gia tích cực; không giống positive (lạc quan, tích cực)."
+ },
+ "climbing": {
+  "s": [
+   "môn leo núi; leo vách đá",
+   "leo; leo trèo (cây)"
+  ],
+  "c": [
+   "leo vách đá",
+   "leo núi trong nhà",
+   "dụng cụ leo núi",
+   "cây leo"
+  ],
+  "t": "Chữ b trong climb không đọc; climbing plants là cây leo."
+ },
+ "tour": {
+  "s": [
+   "chuyến tham quan; chuyến du lịch",
+   "chuyến lưu diễn; vòng đấu",
+   "tham quan; lưu diễn"
+  ],
+  "c": [
+   "chuyến tham quan có hướng dẫn viên",
+   "tham quan đi bộ",
+   "chuyến lưu diễn hòa nhạc",
+   "đi lưu diễn"
+  ],
+  "t": "tour nhấn mạnh việc tham quan hoặc hành trình nhiều điểm; trip là một chuyến đi nói chung."
+ },
+ "apartment": {
+  "s": [
+   "căn hộ; căn hộ chung cư"
+  ],
+  "c": [
+   "thuê căn hộ",
+   "khu chung cư",
+   "căn hộ studio"
+  ],
+  "t": "Anh-Mỹ thường dùng apartment; Anh-Anh thường dùng flat."
+ },
+ "among": {
+  "s": [
+   "ở giữa; trong số",
+   "trong nhóm; giữa những người"
+  ],
+  "c": [
+   "giữa bạn bè",
+   "trong số những thứ khác",
+   "chia cho"
+  ],
+  "t": "among nhấn mạnh trong một nhóm; between cũng dùng cho nhiều đối tượng khi nói rõ quan hệ giữa từng cái."
+ },
+ "toast": {
+  "s": [
+   "bánh mì nướng",
+   "nướng (cho vàng giòn)",
+   "lời chúc rượu; lời nâng cốc"
+  ],
+  "c": [
+   "một lát bánh mì nướng",
+   "nướng bánh mì",
+   "đề nghị nâng cốc",
+   "nâng cốc chúc mừng ai"
+  ],
+  "t": "Khi chỉ bánh mì nướng thì không đếm được; một lời nâng cốc thì đếm được."
+ },
+ "couch": {
+  "s": [
+   "ghế sofa dài",
+   "diễn đạt; viết bằng lời lẽ"
+  ],
+  "c": [
+   "trên ghế sofa",
+   "ghế sofa da",
+   "diễn đạt bằng ngôn từ ngoại giao"
+  ],
+  "t": "Động từ thường dùng be couched in, nghĩa là được diễn đạt bằng cách nói nào đó."
+ },
+ "field": {
+  "s": [
+   "cánh đồng; đồng cỏ",
+   "lĩnh vực; chuyên ngành",
+   "sân (thể thao)"
+  ],
+  "c": [
+   "cánh đồng lúa mì",
+   "trong lĩnh vực",
+   "sân bóng đá",
+   "nghiên cứu thực địa"
+  ],
+  "t": "Khi nói về lĩnh vực nghiên cứu hoặc công việc thường dùng in the field of."
+ },
+ "online": {
+  "s": [
+   "trực tuyến; có kết nối mạng",
+   "trên mạng; trực tuyến"
+  ],
+  "c": [
+   "mua sắm trực tuyến",
+   "học trực tuyến",
+   "lên mạng",
+   "có sẵn trên mạng"
+  ],
+  "t": "Có thể là tính từ hoặc trạng từ: shop online."
+ },
+ "armchair": {
+  "s": [
+   "ghế bành",
+   "chỉ nói suông; thiếu kinh nghiệm thực tế"
+  ],
+  "c": [
+   "ghế bành thoải mái",
+   "ngồi trên ghế bành",
+   "nhà phê bình chỉ biết nói suông"
+  ],
+  "t": "Ngồi trong ghế bành dùng in; khi là tính từ đứng trước danh từ, thường mang nghĩa chê."
+ },
+ "musician": {
+  "s": [
+   "nhạc sĩ; nhạc công"
+  ],
+  "c": [
+   "nhạc sĩ chuyên nghiệp",
+   "nhạc sĩ tài năng",
+   "nhạc công đường phố"
+  ],
+  "t": "musician chỉ người làm âm nhạc; nhà soạn nhạc cụ thể hơn là composer."
+ },
+ "since": {
+  "s": [
+   "kể từ; từ khi",
+   "từ khi; vì",
+   "từ đó; kể từ đó"
+  ],
+  "c": [
+   "từ đó đến nay",
+   "kể từ đó",
+   "từ thuở nhỏ",
+   "đã lâu rồi"
+  ],
+  "t": "Khi chỉ thời gian, since đi với mốc bắt đầu, for đi với khoảng thời gian."
+ },
+ "church": {
+  "s": [
+   "nhà thờ",
+   "buổi lễ; buổi cầu nguyện",
+   "giáo hội; giáo phái"
+  ],
+  "c": [
+   "đi lễ nhà thờ",
+   "đi lễ",
+   "buổi lễ nhà thờ",
+   "nhà thờ cổ kính"
+  ],
+  "t": "go to church nghĩa là đi lễ; go to the church nghĩa là đi đến tòa nhà nhà thờ."
+ },
+ "firefighter": {
+  "s": [
+   "lính cứu hỏa; người chữa cháy"
+  ],
+  "c": [
+   "lính cứu hỏa được đào tạo",
+   "lính cứu hỏa tình nguyện",
+   "đào tạo lính cứu hỏa"
+  ],
+  "t": "firefighter không phân biệt giới tính, thông dụng hơn fireman."
+ },
+ "palace": {
+  "s": [
+   "cung điện; dinh thự lớn"
+  ],
+  "c": [
+   "cung điện hoàng gia",
+   "phủ tổng thống",
+   "khuôn viên cung điện"
+  ],
+  "t": "Chủ yếu là danh từ; palace cũng có thể đứng trước danh từ khác, ví dụ palace gardens."
+ },
+ "bridge": {
+  "s": [
+   "cây cầu",
+   "thu hẹp; nối liền",
+   "bài bridge (trò chơi bài)"
+  ],
+  "c": [
+   "qua cầu",
+   "cầu treo",
+   "thu hẹp khoảng cách",
+   "chơi bài bridge"
+  ],
+  "t": "bridge the gap thường nghĩa là thu hẹp khoảng cách giữa các nhóm hoặc sự việc."
+ },
+ "eating": {
+  "s": [
+   "sự ăn uống; chế độ ăn",
+   "đang ăn (hiện tại phân từ của eat)"
+  ],
+  "c": [
+   "ăn uống lành mạnh",
+   "thói quen ăn uống",
+   "ăn ngoài"
+  ],
+  "t": "eating có thể làm danh động từ; eat out nghĩa là ăn ngoài."
+ },
+ "tip": {
+  "s": [
+   "mẹo; lời khuyên hữu ích",
+   "đầu; chóp",
+   "tiền boa"
+  ],
+  "c": [
+   "một mẹo hữu ích",
+   "đầu lưỡi",
+   "để lại tiền boa"
+  ],
+  "t": "Khi nghĩa là “lời khuyên” thì tip đếm được, còn advice thì không: a tip."
+ },
+ "technology": {
+  "s": [
+   "công nghệ; kỹ thuật"
+  ],
+  "c": [
+   "công nghệ số",
+   "công nghệ tiên tiến",
+   "công nghệ thông tin",
+   "phát triển các công nghệ mới"
+  ],
+  "t": "Khi nói chung thì không đếm được; nhiều công nghệ cụ thể dùng technologies."
+ },
+ "path": {
+  "s": [
+   "lối đi; con đường mòn",
+   "quỹ đạo; lộ trình",
+   "con đường; hướng phát triển"
+  ],
+  "c": [
+   "đi theo lối mòn",
+   "con đường sự nghiệp",
+   "quỹ đạo bay",
+   "con đường dẫn đến thành công"
+  ],
+  "t": "Con đường để đạt được mục tiêu dùng a path to, theo sau to là danh từ."
+ },
+ "system": {
+  "s": [
+   "hệ thống",
+   "chế độ; thể chế",
+   "phương pháp; quy trình"
+  ],
+  "c": [
+   "hệ thống sưởi",
+   "hệ thống giáo dục",
+   "hệ thống giao thông công cộng",
+   "hệ miễn dịch"
+  ],
+  "t": "systematic nghĩa là có hệ thống, bài bản; systemic nghĩa là thuộc toàn hệ thống."
+ },
+ "northeast": {
+  "s": [
+   "phía đông bắc; vùng đông bắc",
+   "thuộc đông bắc; từ đông bắc",
+   "về phía đông bắc; ở phía đông bắc"
+  ],
+  "c": [
+   "ở vùng đông bắc",
+   "đi về hướng đông bắc",
+   "bờ biển đông bắc"
+  ],
+  "t": "northeast of nghĩa là ở phía đông bắc của đâu đó; Anh-Anh cũng viết north-east."
+ },
+ "centimetre": {
+  "s": [
+   "xăng-ti-mét"
+  ],
+  "c": [
+   "dài một xăng-ti-mét",
+   "xăng-ti-mét vuông",
+   "xăng-ti-mét khối"
+  ],
+  "t": "Anh-Anh viết centimetre, Anh-Mỹ viết centimeter; viết tắt là cm."
+ },
+ "biology": {
+  "s": [
+   "sinh học",
+   "đặc điểm sinh học; cơ chế sinh lý"
+  ],
+  "c": [
+   "học sinh học",
+   "sinh học biển",
+   "sinh học cơ thể người",
+   "sinh học phân tử"
+  ],
+  "t": "Tên môn học thường không đếm được; nhà sinh học là biologist."
+ },
+ "painter": {
+  "s": [
+   "họa sĩ",
+   "thợ sơn"
+  ],
+  "c": [
+   "họa sĩ vẽ phong cảnh",
+   "họa sĩ vẽ chân dung",
+   "thợ sơn nhà"
+  ],
+  "t": "Có thể chỉ họa sĩ nghệ thuật hoặc người sơn tường."
+ },
+ "balloon": {
+  "s": [
+   "quả bóng bay",
+   "khinh khí cầu"
+  ],
+  "c": [
+   "thổi bóng bay",
+   "khinh khí cầu",
+   "thả bóng bay"
+  ],
+  "t": "blow up a balloon nghĩa là thổi phồng quả bóng bay, không phải làm nổ bóng."
+ },
+ "successful": {
+  "s": [
+   "thành công; có hiệu quả",
+   "thành đạt"
+  ],
+  "c": [
+   "sự nghiệp thành công",
+   "kết quả tốt đẹp",
+   "rất thành công",
+   "thành công trong việc làm gì"
+  ],
+  "t": "Thường dùng be successful in doing; động từ tương ứng là succeed."
+ },
+ "subject": {
+  "s": [
+   "chủ đề; đề tài; môn học",
+   "phụ thuộc vào; chịu sự chi phối của",
+   "bắt chịu; làm cho trải qua"
+  ],
+  "c": [
+   "môn học ở trường",
+   "chuyển chủ đề",
+   "tùy thuộc vào sự phê duyệt",
+   "khiến ai chịu căng thẳng"
+  ],
+  "t": "Động từ nhấn trọng âm ở âm tiết sau: /səbˈdʒekt/; thường dùng subject A to B."
+ },
+ "crazy": {
+  "s": [
+   "điên rồ; vô lý",
+   "mê mẩn; cuồng nhiệt",
+   "phát điên; không chịu nổi"
+  ],
+  "c": [
+   "mê mẩn",
+   "làm ai phát điên",
+   "ý tưởng điên rồ"
+  ],
+  "t": "Mang tính khẩu ngữ; crazy about nghĩa là mê mẩn, không nên dùng để gọi người mắc bệnh tâm thần."
+ },
+ "couple": {
+  "s": [
+   "cặp vợ chồng; cặp đôi",
+   "hai; vài",
+   "ghép; kết hợp"
+  ],
+  "c": [
+   "một cặp vợ chồng",
+   "vài ngày",
+   "kết hợp với"
+  ],
+  "t": "a couple of theo sau là danh từ số nhiều, có thể là hai hoặc vài."
+ },
+ "scared": {
+  "s": [
+   "sợ hãi; hoảng sợ"
+  ],
+  "c": [
+   "sợ",
+   "không dám hỏi",
+   "sợ cứng người"
+  ],
+  "t": "scared diễn tả người cảm thấy sợ; scary diễn tả điều gây sợ."
+ },
+ "lower": {
+  "s": [
+   "thấp hơn; ở dưới",
+   "hạ thấp; làm giảm"
+  ],
+  "c": [
+   "thu nhập thấp hơn",
+   "giảm giá",
+   "hạ giọng",
+   "lưng dưới"
+  ],
+  "t": "Làm động từ thường có tân ngữ; với giá cả giảm xuống có thể dùng không có tân ngữ."
+ },
+ "coin": {
+  "s": [
+   "đồng xu",
+   "đặt ra (từ mới, cách nói mới)"
+  ],
+  "c": [
+   "đồng tiền vàng",
+   "tung đồng xu",
+   "đặt ra một thuật ngữ"
+  ],
+  "t": "Động từ coin thường nghĩa là tạo ra một từ ngữ mới, ví dụ coin a term."
+ },
+ "skill": {
+  "s": [
+   "kỹ năng; kỹ thuật; tài năng"
+  ],
+  "c": [
+   "kỹ năng giao tiếp",
+   "kỹ năng thực hành",
+   "phát triển một kỹ năng",
+   "kỹ năng làm gì"
+  ],
+  "t": "Kỹ năng cụ thể thì đếm được; nói chung về sự thành thạo thì thường không đếm được."
+ },
+ "kite": {
+  "s": [
+   "con diều",
+   "chim diều"
+  ],
+  "c": [
+   "thả diều",
+   "dây diều",
+   "trò thả diều"
+  ],
+  "t": "“Thả diều” nói fly a kite, không nói play a kite."
+ },
+ "action": {
+  "s": [
+   "hành động; biện pháp",
+   "hành vi; việc làm",
+   "cảnh hành động; tình tiết kịch tính"
+  ],
+  "c": [
+   "hành động",
+   "hành động khẩn cấp",
+   "phương án hành động",
+   "phim hành động"
+  ],
+  "t": "Trong take action, action không đếm được; hành động cụ thể có thể dùng actions."
+ },
+ "built": {
+  "s": [
+   "đã xây dựng; đã dựng (quá khứ và quá khứ phân từ của build)",
+   "có vóc dáng ..."
+  ],
+  "c": [
+   "được làm để bền lâu",
+   "vóc dáng khỏe mạnh; xây chắc chắn",
+   "môi trường nhân tạo",
+   "cơ sở vật chất xây dựng chuyên dụng"
+  ],
+  "t": "Quá khứ và quá khứ phân từ của build đều là built, không phải builded."
+ },
+ "depend": {
+  "s": [
+   "phụ thuộc vào; tùy vào",
+   "dựa vào; tin cậy"
+  ],
+  "c": [
+   "phụ thuộc vào",
+   "phụ thuộc nhiều vào",
+   "trông cậy vào ai làm gì"
+  ],
+  "t": "Thường đi với on hoặc upon; It depends nghĩa là “còn tùy”."
+ },
+ "mid-day": {
+  "s": [
+   "buổi trưa; giữa trưa"
+  ],
+  "c": [
+   "vào buổi trưa",
+   "đến trưa",
+   "bữa trưa"
+  ],
+  "t": "Ngày nay thường viết là midday; vào giữa trưa dùng at midday.",
+  "n": "Biến thể có gạch nối vẫn dùng được; ngày nay thường viết là midday."
+ },
+ "joke": {
+  "s": [
+   "câu chuyện cười; trò đùa",
+   "đùa; nói đùa"
+  ],
+  "c": [
+   "kể chuyện cười",
+   "chơi khăm ai",
+   "đùa về điều gì"
+  ],
+  "t": "Kể chuyện cười dùng tell a joke, không dùng say a joke."
+ },
+ "guest": {
+  "s": [
+   "khách; khách mời",
+   "khách trọ"
+  ],
+  "c": [
+   "mời khách",
+   "khách khách sạn",
+   "diễn giả khách mời",
+   "phòng khách (để ngủ)"
+  ],
+  "t": "guest có thể là khách được mời hoặc khách trả tiền ở khách sạn."
+ },
+ "screen": {
+  "s": [
+   "màn hình; màn ảnh",
+   "sàng lọc; kiểm tra",
+   "chiếu; phát sóng"
+  ],
+  "c": [
+   "thời gian dùng màn hình",
+   "màn hình cảm ứng",
+   "tầm soát bệnh",
+   "chiếu phim"
+  ],
+  "t": "screen A for B nghĩa là kiểm tra A xem có vấn đề B hay không."
+ },
+ "dishwasher": {
+  "s": [
+   "máy rửa bát",
+   "người rửa bát"
+  ],
+  "c": [
+   "xếp bát đĩa vào máy rửa bát",
+   "lấy bát đĩa ra khỏi máy rửa bát",
+   "nước rửa chuyên dụng cho máy rửa bát"
+  ],
+  "t": "Trong đời sống thường chỉ máy rửa bát; trong tuyển dụng cũng có thể chỉ người rửa bát."
+ },
+ "completely": {
+  "s": [
+   "hoàn toàn; trọn vẹn"
+  ],
+  "c": [
+   "hoàn toàn khác",
+   "quên sạch",
+   "hoàn toàn đồng ý"
+  ],
+  "t": "Chỉ mức độ trọn vẹn, thường bổ nghĩa cho tính từ hoặc động từ."
+ },
+ "partner": {
+  "s": [
+   "người cộng tác; đối tác; thành viên góp vốn",
+   "bạn đời; người yêu",
+   "hợp tác với; kết hợp với"
+  ],
+  "c": [
+   "đối tác kinh doanh",
+   "bạn nhảy",
+   "bạn đời",
+   "hợp tác với"
+  ],
+  "t": "partner không nêu rõ giới tính; làm động từ thường dùng partner with."
+ },
+ "badminton": {
+  "s": [
+   "môn cầu lông"
+  ],
+  "c": [
+   "chơi cầu lông",
+   "sân cầu lông",
+   "vợt cầu lông"
+  ],
+  "t": "Tên môn thể thao thường không đếm được; “chơi cầu lông” dùng play badminton."
+ },
+ "nobody": {
+  "s": [
+   "không ai",
+   "kẻ vô danh tiểu tốt"
+  ],
+  "c": [
+   "không ai khác",
+   "hầu như không ai",
+   "không ai biết"
+  ],
+  "t": "Làm chủ ngữ thì động từ dùng số ít; bản thân từ này đã mang nghĩa phủ định."
+ },
+ "coast": {
+  "s": [
+   "bờ biển; vùng ven biển",
+   "trôi theo đà; lướt xuống",
+   "làm việc nhàn nhã mà vẫn thành công"
+  ],
+  "c": [
+   "dọc theo bờ biển",
+   "ngoài khơi",
+   "lướt xuống dốc",
+   "dễ dàng vượt qua"
+  ],
+  "t": "on the coast nghĩa là ở ven biển; off the coast nghĩa là ở ngoài khơi gần bờ."
+ },
+ "enter": {
+  "s": [
+   "đi vào; bước vào",
+   "tham gia; gia nhập",
+   "nhập; điền (dữ liệu)"
+  ],
+  "c": [
+   "tham gia cuộc thi",
+   "bước vào thị trường lao động",
+   "nhập dữ liệu",
+   "vào phòng"
+  ],
+  "t": "Vào một nơi dùng enter a place, không thêm into."
+ },
+ "castle": {
+  "s": [
+   "lâu đài; thành lũy"
+  ],
+  "c": [
+   "lâu đài thời trung cổ",
+   "tường thành của lâu đài",
+   "lâu đài đổ nát"
+  ],
+  "t": "Chữ t trong castle không đọc; palace chỉ cung điện."
+ },
+ "awful": {
+  "s": [
+   "tồi tệ; kinh khủng"
+  ],
+  "c": [
+   "thời tiết tồi tệ",
+   "cảm thấy rất khó chịu",
+   "mùi khó chịu"
+  ],
+  "t": "feel awful có thể chỉ khó chịu trong người, cũng có thể là cảm thấy có lỗi hoặc tâm trạng tồi tệ."
+ },
+ "text": {
+  "s": [
+   "văn bản; chữ",
+   "tin nhắn",
+   "nhắn tin"
+  ],
+  "c": [
+   "tin nhắn văn bản",
+   "văn bản thuần",
+   "nhắn tin cho ai"
+  ],
+  "t": "Nội dung chữ thường không đếm được; một tin nhắn dùng a text."
+ },
+ "result": {
+  "s": [
+   "kết quả; hậu quả",
+   "điểm số; kết quả (thi, thi đấu)",
+   "dẫn đến; do ... mà ra"
+  ],
+  "c": [
+   "do đó",
+   "dẫn đến",
+   "bắt nguồn từ",
+   "kết quả thi"
+  ],
+  "t": "result in theo sau là kết quả; result from theo sau là nguyên nhân."
+ },
+ "bathtub": {
+  "s": [
+   "bồn tắm"
+  ],
+  "c": [
+   "xả đầy bồn tắm",
+   "bồn tắm trống",
+   "bồn tắm độc lập"
+  ],
+  "t": "bathtub thường dùng trong Anh-Mỹ; Anh-Anh thường nói bath."
+ },
+ "mailbox": {
+  "s": [
+   "hộp thư; hòm thư",
+   "hộp thư điện tử"
+  ],
+  "c": [
+   "kiểm tra hộp thư",
+   "hộp thư đầy ắp",
+   "hộp thư điện tử"
+  ],
+  "t": "Thường dùng trong Anh-Mỹ; Anh-Anh thường dùng letterbox hoặc postbox."
+ },
+ "habit": {
+  "s": [
+   "thói quen; tập tính"
+  ],
+  "c": [
+   "hình thành thói quen",
+   "bỏ thói quen",
+   "theo thói quen",
+   "tập thành thói quen"
+  ],
+  "t": "Thói quen làm gì dùng habit of doing."
+ },
+ "rock": {
+  "s": [
+   "đá; tảng đá",
+   "nhạc rock",
+   "đung đưa; lắc lư"
+  ],
+  "c": [
+   "đá cứng",
+   "nhạc rock",
+   "cấu tạo đá; địa tầng",
+   "đưa nôi nhẹ nhàng cho em bé"
+  ],
+  "t": "Khi là vật liệu đá thì không đếm được; một hòn đá thì đếm được."
+ }
+}

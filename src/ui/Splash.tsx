@@ -71,14 +71,14 @@ function targets(w: number, h: number, count: number) {
   g.closePath();
   g.fill();
   const zh = Math.min(w * 0.3, s * 0.24);
-  g.font = `700 ${zh}px "Songti SC", "STSong", "Noto Serif SC", "Source Han Serif SC", serif`;
+  g.font = `700 ${zh * 0.42}px "Fraunces Variable", Georgia, serif`;
   g.textAlign = "center";
   g.textBaseline = "middle";
-  g.fillText("词光", cx, cy + R + zh * 0.78);
+  g.fillText("Word Atlas", cx, cy + R + zh * 0.62);
   const en = Math.max(18, zh * 0.24);
   g.font = `700 ${en}px "Fraunces Variable", Georgia, serif`;
   g.letterSpacing = `${en * 0.34}px`;
-  g.fillText("WORD ATLAS", cx, cy + R + zh * 1.52);
+  g.fillText("TỪ VỰNG IELTS", cx, cy + R + zh * 1.22);
   const data = g.getImageData(0, 0, w, h).data;
   // Take every lit pixel, then a random subset: no visible sampling grid.
   const all: [number, number][] = [];
@@ -216,7 +216,7 @@ export function Splash({ onDone }: { onDone: () => void }) {
     if (sound && store.get().settings.sfx) {
       void playFile("splash-burst.mp3", 0.55);
       void playFile("splash-door.mp3", 0.6, 0.12);
-      void playFile("splash-voice.mp3", 0.95, 0.35);
+      /* Chinese voice-over removed in the Vietnamese edition */
       // Let the welcome line sit above the music that fades in with the doors.
       duck(true);
       window.setTimeout(() => duck(false), 3200);
@@ -237,22 +237,22 @@ export function Splash({ onDone }: { onDone: () => void }) {
   }); // eslint-disable-line react-hooks/exhaustive-deps
 
   return (
-    <div className={`splash is-${phase} ${reduce ? "is-reduced" : ""}`} onClick={() => open()} role="dialog" aria-label="欢迎打开雅思大门，点击进入">
+    <div className={`splash is-${phase} ${reduce ? "is-reduced" : ""}`} onClick={() => open()} role="dialog" aria-label="Chào mừng đến với IELTS, bấm để vào">
       <div className="door door-l" />
       <div className="door door-r" />
       <div className="splash-light" />
       <canvas ref={canvas} className="splash-canvas" aria-hidden="true" />
       {reduce && (
         <div className="splash-static">
-          <b>词光</b>
-          <small>WORD ATLAS</small>
+          <b>Word Atlas</b>
+          <small>TỪ VỰNG IELTS</small>
         </div>
       )}
       <div className="splash-copy">
-        <p className="splash-tag">欢迎打开雅思大门</p>
+        <p className="splash-tag">Chào mừng bạn bước vào cánh cửa IELTS</p>
         <p className="splash-hint">
           <span className="splash-key" />
-          点击开启 · 按任意键
+          Bấm để mở · hoặc nhấn phím bất kỳ
         </p>
       </div>
       <button
@@ -262,7 +262,7 @@ export function Splash({ onDone }: { onDone: () => void }) {
           open(false);
         }}
       >
-        跳过
+        Bỏ qua
       </button>
     </div>
   );

@@ -1,0 +1,1136 @@
+{
+ "bridle": {
+  "s": [
+   "dây cương; yên cương ngựa",
+   "đóng dây cương cho ngựa",
+   "nổi giận; tỏ ý bất bình"
+  ],
+  "c": [
+   "dây cương bằng da",
+   "đóng dây cương cho",
+   "nổi giận vì bị chỉ trích"
+  ],
+  "t": "Chỉ dây cương ngựa, không phải cái lồng; đồng âm với bridal (thuộc về cô dâu)."
+ },
+ "ingenuous": {
+  "s": [
+   "ngây thơ; thẳng thắn"
+  ],
+  "c": [
+   "nụ cười ngây thơ",
+   "câu hỏi ngây thơ thẳng thắn",
+   "sự lạc quan ngây thơ"
+  ],
+  "t": "Đừng nhầm với ingenious (khéo léo); từ này nhấn mạnh sự ngây thơ, thẳng thắn."
+ },
+ "antecedent": {
+  "s": [
+   "tiền lệ; sự việc xảy ra trước",
+   "tiền ngữ (từ được đại từ thay thế)",
+   "có trước; đi trước"
+  ],
+  "c": [
+   "tiền lệ lịch sử; cội nguồn lịch sử",
+   "các điều kiện có trước",
+   "tiền ngữ của đại từ"
+  ],
+  "t": "Trong ngữ pháp là từ mà đại từ chỉ về; không nên đồng nhất với “tổ tiên”."
+ },
+ "arboreal": {
+  "s": [
+   "sống trên cây",
+   "thuộc về cây"
+  ],
+  "c": [
+   "loài sống trên cây",
+   "môi trường sống trên cây",
+   "động vật có vú sống trên cây"
+  ],
+  "t": "Thường dùng trong động vật học, mô tả loài chủ yếu sống trên cây."
+ },
+ "indemnify": {
+  "s": [
+   "bồi thường; bảo đảm khỏi tổn thất"
+  ],
+  "c": [
+   "bảo đảm ai không bị thiệt hại",
+   "bồi thường thiệt hại cho ai"
+  ],
+  "t": "Từ pháp lý trang trọng: for đi với thiệt hại đã xảy ra, against đi với rủi ro cần phòng ngừa."
+ },
+ "rubric": {
+  "s": [
+   "tiêu chí chấm điểm; thang điểm chi tiết",
+   "phần hướng dẫn đề bài; chỉ dẫn",
+   "đề mục; hạng mục"
+  ],
+  "c": [
+   "tiêu chí đánh giá",
+   "thang điểm chấm",
+   "thuộc hạng mục của"
+  ],
+  "t": "Trong giáo dục thường chỉ thang điểm chi tiết, cũng có thể chỉ phần hướng dẫn làm bài thi."
+ },
+ "matrimony": {
+  "s": [
+   "hôn nhân; việc kết hôn"
+  ],
+  "c": [
+   "kết thành vợ chồng",
+   "hôn nhân thiêng liêng",
+   "ràng buộc hôn nhân"
+  ],
+  "t": "Dùng trong văn phong trang trọng hoặc tôn giáo; ngày thường nói về hôn nhân dùng marriage."
+ },
+ "scrupulous": {
+  "s": [
+   "kỹ lưỡng; tỉ mỉ",
+   "ngay thẳng; giữ đạo đức nghiêm ngặt"
+  ],
+  "c": [
+   "cực kỳ chú ý đến chi tiết",
+   "chăm sóc hết sức tỉ mỉ",
+   "trung thực tuyệt đối"
+  ],
+  "t": "Vừa chỉ sự làm việc kỹ lưỡng, vừa chỉ sự giữ đạo đức nghiêm ngặt."
+ },
+ "bough": {
+  "s": [
+   "cành lớn; cành chính"
+  ],
+  "c": [
+   "cành lớn rủ thấp",
+   "cành lớn vươn rộng"
+  ],
+  "t": "Đọc vần với cow; thường chỉ cành lớn, cành nhỏ dùng twig."
+ },
+ "sulphide": {
+  "s": [
+   "sunfua"
+  ],
+  "c": [
+   "sắt sunfua",
+   "hydro sunfua",
+   "khoáng vật sunfua"
+  ],
+  "t": "Tiếng Anh Mỹ và danh pháp hóa học quốc tế thường viết sulfide; đừng nhầm với sunfat."
+ },
+ "strew": {
+  "s": [
+   "rải; vãi; rắc khắp"
+  ],
+  "c": [
+   "rải hoa",
+   "bị rải đầy rác",
+   "mảnh vụn rải khắp mặt đường"
+  ],
+  "t": "Quá khứ là strewed, phân từ thường dùng strewn; hay gặp ở thể bị động."
+ },
+ "plumb": {
+  "s": [
+   "tìm hiểu sâu; khám phá tận cùng",
+   "đo độ sâu của nước",
+   "quả dọi"
+  ],
+  "c": [
+   "tìm hiểu tận cùng; chạm đáy",
+   "dây dọi",
+   "quả dọi"
+  ],
+  "t": "Chữ b ở cuối không đọc; plumb the depths thường dùng theo nghĩa bóng."
+ },
+ "pacific": {
+  "s": [
+   "hòa bình; yêu chuộng hòa bình"
+  ],
+  "c": [
+   "cách tiếp cận hòa bình",
+   "giải quyết hòa bình",
+   "ý định hòa bình"
+  ],
+  "t": "pacific viết thường là tính từ trang trọng; the Pacific chỉ Thái Bình Dương."
+ },
+ "undulate": {
+  "s": [
+   "nhấp nhô; uốn lượn như sóng"
+  ],
+  "c": [
+   "nhấp nhô nhẹ nhàng",
+   "những ngọn đồi trập trùng",
+   "địa hình nhấp nhô như sóng"
+  ],
+  "t": "Khi tả địa hình nhấp nhô, thường dùng tính từ undulating."
+ },
+ "delectable": {
+  "s": [
+   "ngon tuyệt; thơm ngon"
+  ],
+  "c": [
+   "những món ăn ngon tuyệt",
+   "món tráng miệng thơm ngon",
+   "những món ăn vặt ngon"
+  ],
+  "t": "Trang trọng và giàu tính miêu tả hơn delicious, thường nói về đồ ăn."
+ },
+ "repute": {
+  "s": [
+   "danh tiếng; tiếng tăm",
+   "cho là; được đồn là"
+  ],
+  "c": [
+   "có danh tiếng quốc tế",
+   "có tiếng tốt",
+   "được cho là"
+  ],
+  "t": "Động từ thường dùng ở thể bị động be reputed to be, nghĩa là “được cho là”."
+ },
+ "modish": {
+  "s": [
+   "hợp thời trang; thịnh hành"
+  ],
+  "c": [
+   "quần áo hợp thời trang",
+   "thiết kế thời thượng",
+   "nội thất hợp mốt"
+  ],
+  "t": "Mang tính văn viết, đôi khi hàm ý chạy theo xu hướng."
+ },
+ "bespectacled": {
+  "s": [
+   "đeo kính"
+  ],
+  "c": [
+   "người đàn ông đeo kính",
+   "vị giáo sư đeo kính"
+  ],
+  "t": "Thiên về miêu tả văn viết; đời thường hay nói wearing glasses."
+ },
+ "tyrannical": {
+  "s": [
+   "tàn bạo; độc đoán"
+  ],
+  "c": [
+   "nhà cai trị tàn bạo",
+   "chế độ độc tài",
+   "ông chủ độc đoán"
+  ],
+  "t": "Không chỉ nói về bạo chúa chính trị, cũng có thể dùng cho hành vi độc đoán của sếp."
+ },
+ "unaccommodating": {
+  "s": [
+   "không chịu nhượng bộ; không hợp tác"
+  ],
+  "c": [
+   "thái độ không chịu nhượng bộ",
+   "ông chủ không chịu nhượng bộ"
+  ],
+  "t": "Chỉ sự không sẵn lòng giúp hoặc nhượng bộ người khác, không có nghĩa là không có chỗ ở."
+ },
+ "herein": {
+  "s": [
+   "trong tài liệu này; ở đây"
+  ],
+  "c": [
+   "được nêu trong tài liệu này",
+   "được mô tả trong tài liệu này",
+   "vấn đề nằm ở chỗ này"
+  ],
+  "t": "Từ trang trọng hoặc pháp lý, thường có nghĩa là “trong văn bản này”."
+ },
+ "disgustful": {
+  "s": [
+   "đáng ghê tởm"
+  ],
+  "c": [
+   "mùi buồn nôn",
+   "cảnh tượng ghê tởm"
+  ],
+  "t": "Từ này hiếm và hơi cũ; tiếng Anh hiện đại thường dùng disgusting.",
+  "n": "Từ có thật nhưng hiếm và hơi cũ; thường dùng disgusting."
+ },
+ "mackintosh": {
+  "s": [
+   "áo mưa"
+  ],
+  "c": [
+   "mặc áo mưa",
+   "áo mưa chống thấm nước"
+  ],
+  "t": "Cách dùng của người Anh, hơi cổ; không liên quan đến máy tính Apple."
+ },
+ "goad": {
+  "s": [
+   "thúc giục; khích; xúi giục",
+   "gậy thúc gia súc",
+   "tác nhân thúc đẩy"
+  ],
+  "c": [
+   "khích ai làm gì",
+   "liên tục thúc ép ai hành động",
+   "động lực thúc đẩy hành động"
+  ],
+  "t": "Thường dùng goad sb into doing, thường mang sắc thái tiêu cực."
+ },
+ "occident": {
+  "s": [
+   "phương Tây; các nước Âu Mỹ"
+  ],
+  "c": [
+   "thế giới phương Tây",
+   "phương Đông và phương Tây"
+  ],
+  "t": "Từ cổ, thường viết là the Occident; hiện nay thường dùng the West."
+ },
+ "pursuant": {
+  "s": [
+   "theo; căn cứ theo"
+  ],
+  "c": [
+   "theo thỏa thuận",
+   "theo các quy định"
+  ],
+  "t": "Hầu như luôn dùng ở dạng pursuant to, phổ biến trong văn bản pháp lý và trang trọng."
+ },
+ "distend": {
+  "s": [
+   "làm phình ra; căng phồng"
+  ],
+  "c": [
+   "bụng căng phồng",
+   "dạ dày căng phồng",
+   "phình lên vì hơi"
+  ],
+  "t": "Thường dùng trong y học, nhấn mạnh sự phình ra do áp lực bên trong."
+ },
+ "manifold": {
+  "s": [
+   "muôn vàn; nhiều mặt",
+   "ống góp; ống nhiều nhánh"
+  ],
+  "c": [
+   "nhiều lợi ích",
+   "nhiều thách thức",
+   "ống góp khí thải"
+  ],
+  "t": "Khi là tính từ thì khá trang trọng, thường bổ nghĩa cho danh từ số nhiều như benefits, problems."
+ },
+ "catholic": {
+  "s": [
+   "có sở thích đa dạng; rộng lượng",
+   "thuộc Công giáo",
+   "người theo Công giáo"
+  ],
+  "c": [
+   "sở thích đa dạng",
+   "Giáo hội Công giáo",
+   "tín đồ Công giáo sùng đạo"
+  ],
+  "t": "Viết thường mang nghĩa bao quát, rộng rãi; chỉ Công giáo hoặc tín đồ phải viết hoa Catholic."
+ },
+ "misconceive": {
+  "s": [
+   "hiểu sai; nhận thức sai"
+  ],
+  "c": [
+   "hiểu sai ý định của ai",
+   "hiểu sai mục đích"
+  ],
+  "t": "Khá trang trọng; trong giao tiếp thường ngày hay dùng misunderstand."
+ },
+ "slay": {
+  "s": [
+   "giết; sát hại"
+  ],
+  "c": [
+   "giết rồng",
+   "giết quái vật"
+  ],
+  "t": "Quá khứ là slew, phân từ là slain; thường gặp trong văn chương hoặc báo chí."
+ },
+ "cosset": {
+  "s": [
+   "nâng niu; chiều chuộng"
+  ],
+  "c": [
+   "nuông chiều đứa trẻ",
+   "một quá trình lớn lên được nâng niu",
+   "những vị khách được chăm sóc chu đáo"
+  ],
+  "t": "Ngoại động từ, thường hàm ý chăm sóc quá mức; nghĩa danh từ đã rất hiếm."
+ },
+ "libertarian": {
+  "s": [
+   "người theo chủ nghĩa tự do ý chí",
+   "thuộc chủ nghĩa tự do ý chí"
+  ],
+  "c": [
+   "quan điểm tự do ý chí",
+   "các nguyên tắc tự do ý chí",
+   "cách tiếp cận tự do ý chí"
+  ],
+  "t": "Nhấn mạnh tự do cá nhân và chính phủ hạn chế, không đồng nghĩa với liberal."
+ },
+ "septic": {
+  "s": [
+   "nhiễm trùng; nhiễm độc huyết"
+  ],
+  "c": [
+   "vết thương nhiễm trùng",
+   "sốc nhiễm khuẩn",
+   "bể phốt"
+  ],
+  "t": "septic tank là bể phốt; septic không dùng như danh từ chỉ chất thối rữa."
+ },
+ "recompense": {
+  "s": [
+   "sự đền bù; thù lao",
+   "đền bù; thưởng công"
+  ],
+  "c": [
+   "thù lao thỏa đáng",
+   "sự đền bù cho",
+   "đền bù cho ai về việc gì"
+  ],
+  "t": "Khá trang trọng; động từ dùng recompense sb for sth."
+ },
+ "idiosyncrasy": {
+  "s": [
+   "đặc điểm riêng; thói quen riêng"
+  ],
+  "c": [
+   "thói quen riêng của mỗi người",
+   "đặc điểm riêng của từng cá nhân",
+   "nét riêng về ngôn ngữ"
+  ],
+  "t": "Danh từ đếm được, số nhiều idiosyncrasies, thường chỉ thói quen độc đáo."
+ },
+ "zealous": {
+  "s": [
+   "nhiệt tình; hăng hái"
+  ],
+  "c": [
+   "người ủng hộ nhiệt thành",
+   "nỗ lực hăng hái",
+   "quá nhiệt tình"
+  ],
+  "t": "Mạnh hơn enthusiastic, đôi khi hàm ý nhiệt tình quá mức."
+ },
+ "murmur": {
+  "s": [
+   "thì thầm; nói khẽ",
+   "tiếng thì thầm; tiếng rì rầm",
+   "lời phàn nàn khe khẽ"
+  ],
+  "c": [
+   "nói khẽ",
+   "tiếng thì thầm đồng tình",
+   "không một lời than vãn"
+  ],
+  "t": "Nhấn mạnh sự nhẹ nhàng, nói khẽ; mutter thường mang sắc thái bất mãn hoặc không rõ ràng."
+ },
+ "rectification": {
+  "s": [
+   "sự sửa chữa; sự chỉnh sửa",
+   "sự chỉnh lưu"
+  ],
+  "c": [
+   "sự sửa chữa sai sót",
+   "công việc chấn chỉnh",
+   "chỉnh lưu nửa chu kỳ"
+  ],
+  "t": "Danh từ trang trọng; nói “sửa chữa” thông thường hay dùng correction."
+ },
+ "therewith": {
+  "s": [
+   "cùng với đó; kèm theo",
+   "ngay sau đó; thế là"
+  ],
+  "c": [
+   "các tài liệu nộp kèm theo",
+   "các chi phí liên quan"
+  ],
+  "t": "Từ cổ hoặc pháp lý; đời thường dùng with it hoặc along with it."
+ },
+ "shamble": {
+  "s": [
+   "lê bước chậm chạp",
+   "dáng đi lê bước"
+  ],
+  "c": [
+   "lê bước đi tiếp",
+   "lê bước đi vào",
+   "lê bước đi qua"
+  ],
+  "t": "Nhấn mạnh bước chân lê lết, không gọn gàng, không nhất thiết là mất thăng bằng."
+ },
+ "yoke": {
+  "s": [
+   "cái ách (của trâu bò)",
+   "sự ràng buộc; sự áp bức",
+   "mắc ách; ép gắn kết với nhau"
+  ],
+  "c": [
+   "cái ách bằng gỗ",
+   "ách áp bức",
+   "ghép lại với nhau bằng ách"
+  ],
+  "t": "Đồng âm với yolk (lòng đỏ trứng); nghĩa bóng thường chỉ ách áp bức."
+ },
+ "repudiate": {
+  "s": [
+   "bác bỏ dứt khoát; từ chối chấp nhận",
+   "từ chối thực hiện; không chịu trả"
+  ],
+  "c": [
+   "bác bỏ lời cáo buộc",
+   "bác bỏ một yêu sách",
+   "không chịu thực hiện hợp đồng",
+   "từ chối trả nợ"
+  ],
+  "t": "Là động từ trang trọng, không phải danh từ; danh từ là repudiation."
+ },
+ "fortuity": {
+  "s": [
+   "sự việc tình cờ; tính ngẫu nhiên"
+  ],
+  "c": [
+   "hoàn toàn tình cờ",
+   "yếu tố ngẫu nhiên"
+  ],
+  "t": "Từ trang trọng khá hiếm; đời thường hay dùng chance hoặc coincidence."
+ },
+ "strife": {
+  "s": [
+   "xung đột; bất hòa"
+  ],
+  "c": [
+   "xung đột xã hội",
+   "nội chiến; bất ổn trong nước",
+   "tranh chấp lao động"
+  ],
+  "t": "Danh từ không đếm được, trang trọng và nghiêm trọng hơn một cuộc tranh luận thông thường."
+ },
+ "skirmish": {
+  "s": [
+   "trận giao tranh nhỏ; xung đột ngắn",
+   "cuộc cãi vã nhỏ; tranh luận ngắn",
+   "giao tranh nhỏ"
+  ],
+  "c": [
+   "đụng độ nhỏ ở biên giới",
+   "xung đột nhỏ",
+   "cuộc tranh cãi về việc gì"
+  ],
+  "t": "Nhấn mạnh quy mô nhỏ, thời gian ngắn; cũng dùng nghĩa bóng cho các cuộc cãi vã."
+ },
+ "scum": {
+  "s": [
+   "váng bọt; cặn bẩn",
+   "đồ cặn bã (lời xúc phạm)"
+  ],
+  "c": [
+   "vớt váng bọt",
+   "một lớp cặn bẩn",
+   "cặn xà phòng"
+  ],
+  "t": "Thường không đếm được; dùng để chỉ người là lời xúc phạm rất nặng, nên tránh.",
+  "n": "Khi dùng để chỉ người, đây là lời xúc phạm rất nặng."
+ },
+ "slithery": {
+  "s": [
+   "trơn tuột; trườn uốn éo"
+  ],
+  "c": [
+   "con rắn trườn uốn éo",
+   "con lươn trơn tuột"
+  ],
+  "t": "Thường tả rắn, lươn và các con vật trơn tuột hoặc trườn uốn éo."
+ },
+ "dainty": {
+  "s": [
+   "nhỏ nhắn; xinh xắn tinh tế",
+   "thanh nhã; cẩn thận"
+  ],
+  "c": [
+   "đồ trang sức nhỏ nhắn tinh tế",
+   "những chiếc cốc xinh xắn",
+   "ăn từng miếng nhỏ"
+  ],
+  "t": "Thường tả cốc, trang sức… nhỏ nhắn và tinh tế, không có nghĩa là sang trọng đắt tiền."
+ },
+ "contemptuous": {
+  "s": [
+   "khinh miệt; coi thường"
+  ],
+  "c": [
+   "khinh thường",
+   "cái liếc khinh miệt",
+   "giọng điệu khinh miệt"
+  ],
+  "t": "contemptuous là khinh thường người khác; contemptible là đáng khinh."
+ },
+ "photostatic": {
+  "s": [
+   "sao chụp bằng ảnh"
+  ],
+  "c": [
+   "bản sao chụp",
+   "việc sao chụp bằng ảnh"
+  ],
+  "t": "Thuật ngữ kỹ thuật cũ, chỉ sao chụp bằng phương pháp chụp ảnh, không phải photocopy tĩnh điện."
+ },
+ "irrevocable": {
+  "s": [
+   "không thể hủy bỏ; không thể thay đổi"
+  ],
+  "c": [
+   "quyết định không thể thay đổi",
+   "sự đồng ý không thể hủy",
+   "cam kết không thể rút lại"
+  ],
+  "t": "Thường đi với quyết định, sự đồng ý hoặc cam kết, nhấn mạnh không thể rút lại."
+ },
+ "averagely": {
+  "s": [
+   "ở mức trung bình; tàm tạm"
+  ],
+  "c": [
+   "thể hiện ở mức trung bình",
+   "có năng khiếu bình thường"
+  ],
+  "t": "Từ này khá ít gặp; nói “tính trung bình” thường dùng on average."
+ },
+ "genus": {
+  "s": [
+   "chi (đơn vị phân loại sinh học)"
+  ],
+  "c": [
+   "thuộc một chi",
+   "cùng một chi",
+   "một chi mới"
+  ],
+  "t": "Số nhiều là genera; chi thấp hơn họ và cao hơn loài."
+ },
+ "short-weight": {
+  "s": [
+   "bán thiếu cân thiếu lạng"
+  ],
+  "c": [
+   "bán thiếu cân cho khách",
+   "cân thiếu cho người mua"
+  ],
+  "t": "Động từ chỉ việc bán thiếu cân; danh từ thường viết rời short weight.",
+  "n": "Dạng ít dùng; danh từ “short weight” thường viết rời."
+ },
+ "axial": {
+  "s": [
+   "thuộc trục; theo trục"
+  ],
+  "c": [
+   "độ nghiêng của trục",
+   "quay quanh trục",
+   "tải trọng dọc trục"
+  ],
+  "t": "axial liên quan đến trục; radial chỉ theo hướng bán kính."
+ },
+ "superintend": {
+  "s": [
+   "giám sát; chủ trì quản lý"
+  ],
+  "c": [
+   "giám sát thi công",
+   "giám sát công việc",
+   "quản lý hoạt động"
+  ],
+  "t": "Ngoại động từ trang trọng, đi thẳng với công việc hay hoạt động; đời thường dùng supervise."
+ },
+ "elemental": {
+  "s": [
+   "cơ bản; căn bản",
+   "thuộc sức mạnh tự nhiên",
+   "ở dạng nguyên tố"
+  ],
+  "c": [
+   "sức mạnh tự nhiên",
+   "nỗi sợ bản năng",
+   "cacbon nguyên tố"
+  ],
+  "t": "elemental nhấn mạnh tính cơ bản hoặc sức mạnh tự nhiên; elementary thường chỉ trình độ sơ cấp."
+ },
+ "facsimile": {
+  "s": [
+   "bản sao chính xác",
+   "bản fax"
+  ],
+  "c": [
+   "bản in lại y nguyên",
+   "bản sao chính xác",
+   "gửi bằng fax"
+  ],
+  "t": "Chỉ bản sao chính xác; khi nói về fax thường rút gọn thành fax."
+ },
+ "radium": {
+  "s": [
+   "rađi (nguyên tố kim loại phóng xạ)"
+  ],
+  "c": [
+   "sự phân rã của rađi",
+   "sự tiếp xúc với rađi",
+   "đồng vị của rađi"
+  ],
+  "t": "radium là danh từ không đếm được, ký hiệu nguyên tố là Ra."
+ },
+ "throng": {
+  "s": [
+   "đám đông; đám người đông đúc",
+   "chen chúc; tràn vào"
+  ],
+  "c": [
+   "một đám đông người",
+   "từng đoàn du khách",
+   "chen kín các con phố"
+  ],
+  "t": "Thiên về văn viết; a throng of đi với danh từ số nhiều."
+ },
+ "ulcer": {
+  "s": [
+   "loét"
+  ],
+  "c": [
+   "loét dạ dày",
+   "loét miệng",
+   "loét tiêu hóa"
+  ],
+  "t": "Danh từ đếm được, thường kèm bộ phận cơ thể như mouth ulcer."
+ },
+ "tenacious": {
+  "s": [
+   "bền bỉ; kiên trì",
+   "bám chặt; khó bị loại bỏ"
+  ],
+  "c": [
+   "nhà vận động kiên trì",
+   "cái nắm chặt",
+   "sự kháng cự ngoan cường"
+  ],
+  "t": "Cốt lõi là kiên trì không bỏ cuộc; cũng có thể chỉ việc nắm chặt hoặc khó loại bỏ."
+ },
+ "remission": {
+  "s": [
+   "thuyên giảm bệnh",
+   "sự miễn giảm; sự ân xá"
+  ],
+  "c": [
+   "đang thuyên giảm",
+   "thuyên giảm hoàn toàn",
+   "miễn giảm nợ"
+  ],
+  "t": "in remission chỉ bệnh đang thuyên giảm, không nhất thiết là đã khỏi hẳn."
+ },
+ "leninism": {
+  "s": [
+   "chủ nghĩa Lênin"
+  ],
+  "c": [
+   "các nguyên lý của chủ nghĩa Lênin",
+   "ảnh hưởng của chủ nghĩa Lênin",
+   "chủ nghĩa Mác Lênin"
+  ],
+  "t": "Là tên riêng của một hệ tư tưởng, viết hoa chữ đầu, thường là danh từ không đếm được."
+ },
+ "disposition": {
+  "s": [
+   "tính khí; tính cách",
+   "khuynh hướng; sự sẵn lòng",
+   "sự bố trí; sự sắp xếp"
+  ],
+  "c": [
+   "tính cách vui vẻ",
+   "khuynh hướng giúp đỡ",
+   "khuynh hướng dễ lo âu"
+  ],
+  "t": "Nghĩa tính khí thường dùng số ít; a disposition to do nghĩa là có khuynh hướng làm gì."
+ },
+ "redound": {
+  "s": [
+   "đem lại; dẫn đến kết quả"
+  ],
+  "c": [
+   "làm tăng thêm danh tiếng cho ai",
+   "mang lại lợi ích cho",
+   "làm tăng thêm vinh dự cho ai"
+  ],
+  "t": "Trang trọng và ít gặp; thường đi với to, không đi thẳng với tân ngữ."
+ },
+ "exoneration": {
+  "s": [
+   "sự minh oan; sự miễn trách nhiệm"
+  ],
+  "c": [
+   "hoàn toàn được minh oan",
+   "tìm cách được minh oan",
+   "dẫn đến việc được minh oan"
+  ],
+  "t": "Nhấn mạnh việc chứng minh vô tội hoặc không có trách nhiệm; pardon là ân xá."
+ },
+ "peruse": {
+  "s": [
+   "đọc kỹ; xem xét cẩn thận"
+  ],
+  "c": [
+   "xem xét tài liệu",
+   "đọc kỹ báo cáo",
+   "xem xét cẩn thận"
+  ],
+  "t": "Từ trang trọng, đi thẳng với đối tượng đọc; danh từ là perusal."
+ },
+ "pyrite": {
+  "s": [
+   "pirit; quặng sắt vàng"
+  ],
+  "c": [
+   "tinh thể pirit",
+   "mỏ pirit",
+   "pirit sắt"
+  ],
+  "t": "Do bề ngoài giống vàng nên còn gọi là fool’s gold (vàng của kẻ ngốc)."
+ },
+ "malaise": {
+  "s": [
+   "cảm giác khó chịu trong người; bất an",
+   "sự uể oải; sự trì trệ"
+  ],
+  "c": [
+   "cảm giác khó chịu chung",
+   "tình trạng trì trệ kinh tế",
+   "cảm giác bất an"
+  ],
+  "t": "Khá trang trọng; vừa chỉ khó chịu chung chung về thể chất, vừa chỉ sự trì trệ của xã hội, kinh tế."
+ },
+ "intersperse": {
+  "s": [
+   "xen kẽ; rải rác; điểm xuyết"
+  ],
+  "c": [
+   "xen B vào A",
+   "xen kẽ với",
+   "xen kẽ khắp nơi"
+  ],
+  "t": "intersperse A with B nghĩa là xen B vào A."
+ },
+ "paraphernalia": {
+  "s": [
+   "đồ dùng đủ loại; đồ lỉnh kỉnh"
+  ],
+  "c": [
+   "đồ dùng cắm trại",
+   "đồ dùng thể thao",
+   "toàn bộ đồ lỉnh kỉnh"
+  ],
+  "t": "Thường là danh từ không đếm được, không dùng a và không thêm s số nhiều."
+ },
+ "alga": {
+  "s": [
+   "tảo; sinh vật tảo"
+  ],
+  "c": [
+   "một loài tảo nước ngọt",
+   "tảo lục",
+   "sự phát triển của tảo"
+  ],
+  "t": "alga là số ít, số nhiều là algae; khi nói chung về tảo thường dùng số nhiều."
+ },
+ "melodious": {
+  "s": [
+   "du dương; êm tai"
+  ],
+  "c": [
+   "giọng hát du dương",
+   "bài hát giàu giai điệu",
+   "âm thanh êm tai"
+  ],
+  "t": "Nhấn mạnh âm thanh êm tai; melodic thiên về liên quan đến giai điệu."
+ },
+ "eddy": {
+  "s": [
+   "xoáy nước; dòng xoáy",
+   "cuộn xoáy; tạo xoáy"
+  ],
+  "c": [
+   "xoáy nước cuộn tròn",
+   "những xoáy nước trên sông",
+   "dòng điện xoáy"
+  ],
+  "t": "Có thể chỉ xoáy nước hoặc xoáy khí; số nhiều là eddies."
+ },
+ "sullen": {
+  "s": [
+   "ủ rũ; hờn dỗi; u ám"
+  ],
+  "c": [
+   "sự im lặng u ám",
+   "vẻ mặt ủ rũ",
+   "tâm trạng ủ rũ"
+  ],
+  "t": "Nhấn mạnh vẻ im lặng, không thân thiện khi tức giận hay không vui."
+ },
+ "plunder": {
+  "s": [
+   "cướp bóc; cướp phá",
+   "của cướp được; chiến lợi phẩm"
+  ],
+  "c": [
+   "cướp phá thành phố",
+   "cướp bóc tài nguyên",
+   "của cướp được"
+  ],
+  "t": "Thường chỉ cướp bóc trong chiến tranh; cũng có thể chỉ khai thác tài nguyên bừa bãi."
+ },
+ "tetrad": {
+  "s": [
+   "bộ bốn; nhóm bốn",
+   "tứ phân thể"
+  ],
+  "c": [
+   "một nhóm bốn tế bào",
+   "sự hình thành tứ phân thể",
+   "phân tích tứ phân thể"
+  ],
+  "t": "Thuật ngữ chuyên ngành; tứ phân thể trong sinh học gồm bốn chromatid."
+ },
+ "abridge": {
+  "s": [
+   "rút gọn; lược bớt"
+  ],
+  "c": [
+   "rút gọn tiểu thuyết",
+   "bản rút gọn",
+   "phiên bản lược bớt"
+  ],
+  "t": "Bỏ bớt nội dung nhưng giữ phần chính, không đồng nghĩa với viết tóm tắt."
+ },
+ "capitulate": {
+  "s": [
+   "đầu hàng; khuất phục; nhượng bộ"
+  ],
+  "c": [
+   "nhượng bộ trước áp lực",
+   "nhượng bộ các yêu sách"
+  ],
+  "t": "Nội động từ; khuất phục trước ai hoặc áp lực dùng capitulate to."
+ },
+ "accede": {
+  "s": [
+   "đồng ý; chấp thuận",
+   "nhậm chức; lên ngôi"
+  ],
+  "c": [
+   "chấp thuận yêu cầu",
+   "chấp thuận các yêu sách",
+   "lên ngôi"
+  ],
+  "t": "Từ trang trọng, thường đi với to; đừng nhầm với exceed (vượt quá)."
+ },
+ "odyssey": {
+  "s": [
+   "hành trình dài đầy gian nan"
+  ],
+  "c": [
+   "hành trình dài hùng tráng",
+   "hành trình khám phá bản thân",
+   "hành trình tâm linh"
+  ],
+  "t": "Mang đậm màu sắc văn học, cũng dùng ẩn dụ cho hành trình tìm hiểu cuộc đời; số nhiều odysseys."
+ },
+ "thereof": {
+  "s": [
+   "của nó; về điều đó"
+  ],
+  "c": [
+   "sự thiếu vắng điều đó",
+   "các phần của nó",
+   "bất kỳ phần nào của nó"
+  ],
+  "t": "Nghĩa là of that, thường gặp trong văn bản pháp lý; không phải therefore."
+ },
+ "macabre": {
+  "s": [
+   "rùng rợn liên quan đến cái chết"
+  ],
+  "c": [
+   "sự hài hước đen về cái chết",
+   "hình ảnh rùng rợn về cái chết",
+   "câu chuyện rùng rợn"
+  ],
+  "t": "Không chỉ là đáng sợ nói chung, thường liên quan đến cái chết hoặc chi tiết gây khó chịu."
+ },
+ "sclerosis": {
+  "s": [
+   "sự xơ cứng; bệnh xơ cứng"
+  ],
+  "c": [
+   "xơ cứng rải rác",
+   "xơ cứng mô"
+  ],
+  "t": "Thuật ngữ y học; multiple sclerosis là bệnh đa xơ cứng."
+ },
+ "fetter": {
+  "s": [
+   "trói buộc; hạn chế",
+   "xiềng xích; sự ràng buộc; cùm chân"
+  ],
+  "c": [
+   "bị trói buộc bởi",
+   "kìm hãm sự sáng tạo",
+   "thoát khỏi xiềng xích"
+  ],
+  "t": "Khá trang trọng; danh từ thường dùng ở số nhiều fetters."
+ },
+ "upholster": {
+  "s": [
+   "bọc đệm và vải cho đồ nội thất"
+  ],
+  "c": [
+   "bọc ghế bằng đệm và vải",
+   "bọc da",
+   "đồ nội thất bọc nệm"
+  ],
+  "t": "Chỉ riêng việc bọc đệm, vải cho đồ nội thất, không phải sửa sang nhà nói chung."
+ },
+ "halibut": {
+  "s": [
+   "cá bơn lớn; thịt cá bơn"
+  ],
+  "c": [
+   "cá bơn nướng",
+   "phi lê cá bơn",
+   "đánh bắt cá bơn"
+  ],
+  "t": "Khi chỉ con cá thì số nhiều thường vẫn là halibut; chỉ thịt cá thì không đếm được."
+ },
+ "pneumatic": {
+  "s": [
+   "chạy bằng khí nén; bơm hơi"
+  ],
+  "c": [
+   "máy khoan khí nén",
+   "lốp bơm hơi",
+   "hệ thống khí nén"
+  ],
+  "t": "Chữ p đầu không đọc; thường chỉ thiết bị vận hành bằng khí nén."
+ },
+ "delirium": {
+  "s": [
+   "mê sảng; rối loạn tâm thần cấp",
+   "trạng thái cực kỳ phấn khích"
+  ],
+  "c": [
+   "mê sảng cấp tính",
+   "mê sảng sau phẫu thuật",
+   "trạng thái mê sảng"
+  ],
+  "t": "Nghĩa y học là rối loạn ý thức cấp tính, không đồng nghĩa với sa sút trí tuệ lâu dài."
+ },
+ "inveterate": {
+  "s": [
+   "thâm căn cố đế; thành thói quen khó bỏ"
+  ],
+  "c": [
+   "kẻ nói dối thành thói",
+   "con bạc nghiện cờ bạc",
+   "người mê đi du lịch quanh năm"
+  ],
+  "t": "Thường đứng trước danh từ, nhấn mạnh thói quen lâu năm khó thay đổi."
+ },
+ "tenable": {
+  "s": [
+   "có thể bảo vệ được; đứng vững được"
+  ],
+  "c": [
+   "lập trường đứng vững được",
+   "lập luận có cơ sở",
+   "không còn đứng vững nữa"
+  ],
+  "t": "Thường nói về lập luận hoặc quan điểm có thể bảo vệ; không có nghĩa là thoải mái."
+ },
+ "clasp": {
+  "s": [
+   "nắm chặt; ôm chặt",
+   "khóa cài; móc cài",
+   "cái nắm chặt; cái ôm chặt"
+  ],
+  "c": [
+   "nắm chặt tay ai",
+   "đan chặt hai tay",
+   "khóa cài vòng cổ"
+  ],
+  "t": "Là động từ thì nhấn mạnh nắm chặt; là danh từ cũng có thể chỉ khóa cài trang sức."
+ },
+ "idyll": {
+  "s": [
+   "cuộc sống đồng quê yên bình",
+   "bài thơ đồng quê; truyện ngắn đồng quê"
+  ],
+  "c": [
+   "cảnh đồng quê yên bình",
+   "khoảng thời gian hè yên bình",
+   "cuộc sống điền viên như thơ"
+  ],
+  "t": "Có thể chỉ thể loại thơ điền viên, cũng thường chỉ cuộc sống đồng quê yên bình."
+ },
+ "plaintive": {
+  "s": [
+   "ai oán; buồn thương"
+  ],
+  "c": [
+   "tiếng kêu ai oán",
+   "giọng buồn thương",
+   "giai điệu buồn thương"
+  ],
+  "t": "Thường tả nỗi buồn thể hiện trong giọng nói, ngữ điệu hoặc giai điệu."
+ },
+ "conceptive": {
+  "s": [
+   "có khả năng hình thành ý tưởng"
+  ],
+  "c": [
+   "khả năng hình thành ý tưởng",
+   "năng lực tưởng tượng"
+  ],
+  "t": "Từ hiếm; đừng nhầm với conceptual (thuộc về khái niệm)."
+ },
+ "apprise": {
+  "s": [
+   "thông báo; cho biết"
+  ],
+  "c": [
+   "báo cho ai biết về việc gì",
+   "luôn thông báo cho ai"
+  ],
+  "t": "Từ trang trọng; dùng apprise sb of sth, đừng nhầm với appraise."
+ },
+ "eminently": {
+  "s": [
+   "hết sức; vô cùng"
+  ],
+  "c": [
+   "vô cùng phù hợp",
+   "cực kỳ hợp lý",
+   "hết sức khôn ngoan",
+   "hoàn toàn đủ năng lực"
+  ],
+  "t": "Thường bổ nghĩa cho tính từ mang nghĩa tích cực; đừng nhầm với imminently (sắp xảy ra)."
+ },
+ "alchemy": {
+  "s": [
+   "thuật giả kim",
+   "sức biến đổi kỳ diệu"
+  ],
+  "c": [
+   "thuật giả kim thời Trung cổ",
+   "thực hành thuật giả kim",
+   "sự biến đổi kỳ diệu của sáng tạo"
+  ],
+  "t": "Thường không đếm được; nghĩa bóng nhấn mạnh sự biến đổi kỳ diệu, không phải ma thuật nói chung."
+ }
+}

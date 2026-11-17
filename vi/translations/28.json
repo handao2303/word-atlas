@@ -1,0 +1,1254 @@
+{
+ "stripes": {
+  "s": [
+   "sọc; vằn"
+  ],
+  "c": [
+   "sọc dọc",
+   "sọc ngang",
+   "sọc nhỏ",
+   "sọc đen trắng"
+  ],
+  "t": "stripes là số nhiều của stripe; tính từ “có sọc” là striped."
+ },
+ "editor": {
+  "s": [
+   "biên tập viên; tổng biên tập",
+   "người dựng phim",
+   "trình soạn thảo"
+  ],
+  "c": [
+   "tổng biên tập",
+   "người dựng phim",
+   "trình soạn thảo văn bản",
+   "biên tập viên tạp chí"
+  ],
+  "t": "editor có thể chỉ người biên tập, cũng có thể chỉ phần mềm soạn thảo."
+ },
+ "mixture": {
+  "s": [
+   "hỗn hợp; sự pha trộn"
+  ],
+  "c": [
+   "một hỗn hợp của",
+   "khuấy hỗn hợp",
+   "một sự kết hợp phong phú"
+  ],
+  "t": "a mixture of có thể đi với chất liệu, cũng có thể đi với những thứ trừu tượng như cảm xúc."
+ },
+ "delay": {
+  "s": [
+   "trì hoãn; làm chậm trễ",
+   "sự chậm trễ; thời gian chờ"
+  ],
+  "c": [
+   "hoãn một quyết định",
+   "sự chậm trễ kéo dài",
+   "ngay lập tức; không chậm trễ",
+   "hoãn làm việc gì"
+  ],
+  "t": "Sau động từ dùng V-ing: delay doing, không dùng to do."
+ },
+ "laughter": {
+  "s": [
+   "tiếng cười; sự cười"
+  ],
+  "c": [
+   "bật cười",
+   "cười phá lên",
+   "một tràng cười",
+   "tiếng cười lan tỏa"
+  ],
+  "t": "laughter không đếm được; “một tràng cười” là a burst of laughter."
+ },
+ "shave": {
+  "s": [
+   "cạo; cạo lông",
+   "gọt mỏng; cắt giảm chút ít",
+   "sự cạo râu; việc cạo mặt"
+  ],
+  "c": [
+   "cạo đầu trọc",
+   "cạo râu",
+   "rút ngắn thời gian"
+  ],
+  "t": "Quá khứ là shaved; quá khứ phân từ là shaved hoặc shaven."
+ },
+ "bend": {
+  "s": [
+   "uốn cong; bẻ cong",
+   "cúi xuống; khom người",
+   "khúc cua; chỗ rẽ"
+  ],
+  "c": [
+   "co gối",
+   "cúi người xuống",
+   "khúc cua gấp",
+   "du di quy tắc"
+  ],
+  "t": "Quá khứ và quá khứ phân từ đều là bent; bend down nghĩa là cúi xuống."
+ },
+ "lamb": {
+  "s": [
+   "cừu non; con cừu con",
+   "thịt cừu non"
+  ],
+  "c": [
+   "cừu con mới sinh",
+   "thịt cừu non nướng",
+   "sườn cừu"
+  ],
+  "t": "Chữ b cuối không đọc; chỉ con vật thì đếm được, chỉ thịt thì không đếm được."
+ },
+ "pride": {
+  "s": [
+   "niềm tự hào; sự hãnh diện",
+   "lòng tự trọng; tính tự phụ",
+   "tự hào về"
+  ],
+  "c": [
+   "tự hào về",
+   "cảm giác tự hào",
+   "làm tổn thương lòng tự trọng của ai",
+   "tự hào về bản thân ở điều gì"
+  ],
+  "t": "Động từ dùng pride oneself on; tính từ dùng proud of."
+ },
+ "cap": {
+  "s": [
+   "mũ lưỡi trai; mũ mềm",
+   "nắp chai; nắp đậy",
+   "giới hạn mức trần"
+  ],
+  "c": [
+   "mũ lưỡi trai bóng chày",
+   "nắp chai",
+   "hạn chế chi tiêu",
+   "mức trần phí"
+  ],
+  "t": "Làm động từ, cap nghĩa là đặt mức trần; a cap on + khoản bị giới hạn."
+ },
+ "disaster": {
+  "s": [
+   "thảm họa; tai họa",
+   "sự thất bại hoàn toàn; chuyện tồi tệ"
+  ],
+  "c": [
+   "thiên tai",
+   "cứu trợ thiên tai",
+   "tránh được thảm họa",
+   "một thất bại hoàn toàn"
+  ],
+  "t": "Cũng dùng khoa trương để chê sự thất bại: The party was a disaster."
+ },
+ "peach": {
+  "s": [
+   "quả đào",
+   "màu đào; hồng cam nhạt"
+  ],
+  "c": [
+   "quả đào chín",
+   "nước ép đào",
+   "cây đào"
+  ],
+  "t": "Hạt đào trong tiếng Anh–Anh thường gọi là stone, trong tiếng Anh–Mỹ thường gọi là pit."
+ },
+ "burglar": {
+  "s": [
+   "kẻ trộm đột nhập"
+  ],
+  "c": [
+   "chuông báo trộm",
+   "ngăn chặn trộm đột nhập",
+   "bắt được tên trộm"
+  ],
+  "t": "burglar là kẻ đột nhập; robber thường là kẻ cướp có đe dọa."
+ },
+ "sender": {
+  "s": [
+   "người gửi"
+  ],
+  "c": [
+   "địa chỉ người gửi",
+   "trả lại người gửi",
+   "người gửi không rõ"
+  ],
+  "t": "sender là người gửi, recipient là người nhận."
+ },
+ "crop": {
+  "s": [
+   "cây trồng; hoa màu",
+   "vụ mùa; sản lượng thu hoạch",
+   "cắt; xén; cắt ngắn"
+  ],
+  "c": [
+   "trồng hoa màu",
+   "năng suất cây trồng",
+   "vụ mùa bội thu",
+   "cắt xén một bức ảnh"
+  ],
+  "t": "crop vừa là cây trồng vừa là vụ thu hoạch; động từ có thể là cắt xén ảnh."
+ },
+ "impress": {
+  "s": [
+   "gây ấn tượng; làm khâm phục",
+   "khắc sâu; làm nhận ra tầm quan trọng"
+  ],
+  "c": [
+   "gây ấn tượng với ai bằng",
+   "có ấn tượng với",
+   "làm ai ghi nhớ"
+  ],
+  "t": "impressed mô tả cảm giác của người; impressive mô tả sự việc đáng ngưỡng mộ."
+ },
+ "fetch": {
+  "s": [
+   "đi lấy về; đi đón",
+   "bán được (giá)"
+  ],
+  "c": [
+   "đi lấy ít nước",
+   "đón ai ở trường",
+   "bán được giá cao"
+  ],
+  "t": "fetch nhấn mạnh đi lấy rồi mang về; bring chỉ là mang đến."
+ },
+ "badge": {
+  "s": [
+   "huy hiệu; phù hiệu"
+  ],
+  "c": [
+   "đeo huy hiệu",
+   "thẻ nhận dạng",
+   "biểu tượng vinh dự"
+  ],
+  "t": "Thường chỉ huy hiệu nhỏ đeo trên người; huy chương thường dùng medal."
+ },
+ "freeze": {
+  "s": [
+   "đóng băng; cấp đông",
+   "đóng băng; tạm ngưng",
+   "đứng khựng lại"
+  ],
+  "c": [
+   "cấp đông thực phẩm",
+   "đóng băng tiền lương",
+   "đứng khựng vì sợ"
+  ],
+  "t": "Quá khứ là froze, quá khứ phân từ là frozen."
+ },
+ "customs": {
+  "s": [
+   "hải quan",
+   "thuế quan",
+   "phong tục; tập quán"
+  ],
+  "c": [
+   "qua hải quan",
+   "nhân viên hải quan",
+   "thuế hải quan",
+   "phong tục địa phương"
+  ],
+  "t": "Nghĩa hải quan luôn giữ chữ s; custom ở số ít không có nghĩa hải quan."
+ },
+ "pharmacy": {
+  "s": [
+   "hiệu thuốc; khoa dược",
+   "ngành dược"
+  ],
+  "c": [
+   "hiệu thuốc cộng đồng",
+   "khoa dược bệnh viện",
+   "học ngành dược"
+  ],
+  "t": "Hiệu thuốc là danh từ đếm được; ngành dược thì không đếm được; dược sĩ là pharmacist."
+ },
+ "headmaster": {
+  "s": [
+   "hiệu trưởng (nam)"
+  ],
+  "c": [
+   "hiệu trưởng trường",
+   "phó hiệu trưởng",
+   "văn phòng hiệu trưởng"
+  ],
+  "t": "Chỉ nam; tiếng Anh–Anh dùng headteacher không phân biệt giới, tiếng Anh–Mỹ thường dùng principal."
+ },
+ "caring": {
+  "s": [
+   "chu đáo; quan tâm đến người khác",
+   "công việc chăm sóc"
+  ],
+  "c": [
+   "thái độ quan tâm",
+   "nghề chăm sóc",
+   "môi trường đầy sự quan tâm"
+  ],
+  "t": "caring nghĩa là quan tâm đến người khác; careful nghĩa là làm việc cẩn thận."
+ },
+ "multiplication": {
+  "s": [
+   "phép nhân",
+   "sự gia tăng nhanh; sự sinh sôi"
+  ],
+  "c": [
+   "bảng cửu chương",
+   "dấu nhân",
+   "sinh sôi nhanh chóng"
+  ],
+  "t": "Phép nhân dùng multiplication; “nhân với” có thể dùng multiplied by."
+ },
+ "dislike": {
+  "s": [
+   "không thích; ghét",
+   "sự không ưa; ác cảm"
+  ],
+  "c": [
+   "không thích làm việc gì",
+   "sự ác cảm mạnh với",
+   "bắt đầu ghét"
+  ],
+  "t": "Sau dislike dùng danh từ hoặc V-ing: dislike waiting."
+ },
+ "lecture": {
+  "s": [
+   "bài giảng; buổi thuyết trình",
+   "giảng bài; thuyết giảng",
+   "khiển trách; lên lớp"
+  ],
+  "c": [
+   "nghe một buổi giảng",
+   "giảng bài",
+   "giảng về sinh học",
+   "răn dạy ai về"
+  ],
+  "t": "lecture on + chủ đề là giảng về điều gì; lecture someone có thể nghĩa là răn dạy."
+ },
+ "filling": {
+  "s": [
+   "nhân; phần nhồi",
+   "chất trám răng",
+   "no bụng; dễ làm no"
+  ],
+  "c": [
+   "nhân bánh sandwich",
+   "miếng trám răng",
+   "một bữa ăn no bụng"
+  ],
+  "t": "Làm tính từ nói thức ăn làm no bụng, không phải người đã no."
+ },
+ "admire": {
+  "s": [
+   "ngưỡng mộ; khâm phục",
+   "chiêm ngưỡng; thưởng thức"
+  ],
+  "c": [
+   "ngưỡng mộ ai vì điều gì",
+   "vô cùng ngưỡng mộ",
+   "chiêm ngưỡng cảnh đẹp"
+  ],
+  "t": "admire sb for sth: ngưỡng mộ ai vì điều gì."
+ },
+ "condition": {
+  "s": [
+   "tình trạng; trạng thái",
+   "điều kiện; hoàn cảnh",
+   "bệnh; vấn đề sức khỏe"
+  ],
+  "c": [
+   "trong tình trạng tốt",
+   "điều kiện làm việc",
+   "với điều kiện là",
+   "bệnh lý"
+  ],
+  "t": "Chỉ trạng thái thì thường không đếm được; chỉ điều kiện làm việc, sống thì hay dùng số nhiều."
+ },
+ "separate": {
+  "s": [
+   "riêng biệt; tách rời",
+   "tách; phân chia"
+  ],
+  "c": [
+   "các phòng riêng biệt",
+   "tách khỏi",
+   "tài khoản riêng",
+   "phân loại rác"
+  ],
+  "t": "Tính từ đọc đuôi /ət/, động từ đọc đuôi /eɪt/."
+ },
+ "pure": {
+  "s": [
+   "nguyên chất; tinh khiết",
+   "thuần túy; hoàn toàn",
+   "thuần lý thuyết"
+  ],
+  "c": [
+   "nước tinh khiết",
+   "len nguyên chất",
+   "hoàn toàn tình cờ",
+   "toán học thuần túy"
+  ],
+  "t": "pure vừa nghĩa là không pha tạp, vừa dùng để nhấn mạnh, như pure luck."
+ },
+ "yawn": {
+  "s": [
+   "ngáp",
+   "cái ngáp"
+  ],
+  "c": [
+   "ngáp một cái",
+   "nén một cái ngáp",
+   "ngáp thật to"
+  ],
+  "t": "Có thể nói yawn hoặc give a yawn."
+ },
+ "chilli": {
+  "s": [
+   "ớt",
+   "món chili con carne (thịt, đậu cay)"
+  ],
+  "c": [
+   "ớt tươi",
+   "bột ớt",
+   "tương ớt"
+  ],
+  "t": "Tiếng Anh–Anh viết chilli, tiếng Anh–Mỹ thường viết chili."
+ },
+ "ripe": {
+  "s": [
+   "chín (trái cây)",
+   "chín muồi; đúng thời điểm"
+  ],
+  "c": [
+   "trái cây chín",
+   "chín hẳn",
+   "sẵn sàng cho sự thay đổi",
+   "thời cơ đã chín muồi"
+  ],
+  "t": "Trái cây chín dùng ripe; người trưởng thành, chín chắn thường dùng mature."
+ },
+ "stinky": {
+  "s": [
+   "hôi; thối"
+  ],
+  "c": [
+   "đôi tất hôi",
+   "đôi giày hôi",
+   "rác bốc mùi"
+  ],
+  "t": "Là từ không trang trọng; trong văn viết nghiêm túc có thể dùng foul-smelling."
+ },
+ "talented": {
+  "s": [
+   "có tài; có năng khiếu"
+  ],
+  "c": [
+   "một nhạc sĩ tài năng",
+   "một nghệ sĩ tài năng",
+   "rất có tài"
+  ],
+  "t": "talented nhấn mạnh năng khiếu bẩm sinh; skilled nhấn mạnh kỹ năng thành thạo."
+ },
+ "jealous": {
+  "s": [
+   "ghen tị; đố kỵ",
+   "ghen (trong tình yêu)"
+  ],
+  "c": [
+   "ghen tị với ai",
+   "cảm thấy ghen tị",
+   "người yêu hay ghen"
+  ],
+  "t": "Thường dùng be jealous of; vừa nghĩa là ghen tị vừa nghĩa là ghen tuông."
+ },
+ "peanut": {
+  "s": [
+   "đậu phộng; lạc",
+   "món tiền rất nhỏ"
+  ],
+  "c": [
+   "bơ đậu phộng",
+   "dị ứng đậu phộng",
+   "đậu phộng rang",
+   "làm việc với đồng lương còm cõi"
+  ],
+  "t": "Nghĩa “số tiền rất ít” dùng số nhiều peanuts, mang tính không trang trọng."
+ },
+ "legal": {
+  "s": [
+   "thuộc pháp luật; về mặt pháp lý",
+   "hợp pháp; được luật cho phép"
+  ],
+  "c": [
+   "tư vấn pháp lý",
+   "khởi kiện",
+   "quyền hợp pháp",
+   "hoàn toàn hợp pháp"
+  ],
+  "t": "legal có thể chỉ liên quan đến luật, không nhất thiết nghĩa là hợp pháp."
+ },
+ "kit": {
+  "s": [
+   "bộ dụng cụ; đồ nghề",
+   "bộ lắp ráp"
+  ],
+  "c": [
+   "bộ sơ cứu",
+   "bộ dụng cụ",
+   "bộ dụng cụ sửa chữa",
+   "trang bị đầy đủ cho ai"
+  ],
+  "t": "kit là bộ đồ dùng; kit sb out là trang bị đầy đủ cho ai."
+ },
+ "farther": {
+  "s": [
+   "xa hơn",
+   "xa hơn"
+  ],
+  "c": [
+   "xa hơn",
+   "xa hơn về phía bắc",
+   "xa nhà hơn"
+  ],
+  "t": "farther chủ yếu chỉ khoảng cách thực; “thêm nữa” khi bàn luận thì dùng further."
+ },
+ "landlady": {
+  "s": [
+   "bà chủ nhà (cho thuê)",
+   "bà chủ quán rượu"
+  ],
+  "c": [
+   "hỏi bà chủ nhà",
+   "trả tiền thuê cho bà chủ nhà",
+   "bà chủ quán rượu"
+  ],
+  "t": "landlady chỉ nữ; landlord có thể dùng chung cho chủ nhà."
+ },
+ "hostess": {
+  "s": [
+   "nữ chủ nhà",
+   "nữ tiếp tân nhà hàng"
+  ],
+  "c": [
+   "một nữ chủ nhà duyên dáng",
+   "nữ chủ nhà hoàn hảo",
+   "tiếp tân nữ nhà hàng"
+  ],
+  "t": "hostess chỉ nữ; host ngày nay cũng dùng cho mọi giới."
+ },
+ "easy-going": {
+  "s": [
+   "dễ tính; thoải mái"
+  ],
+  "c": [
+   "tính cách dễ tính",
+   "thái độ thoải mái",
+   "phong thái dễ gần"
+  ],
+  "t": "Chỉ tính tình dễ chịu, khó nổi nóng, không có nghĩa là lười."
+ },
+ "silent": {
+  "s": [
+   "im lặng; không nói",
+   "lặng lẽ; yên tĩnh",
+   "câm (không phát âm)"
+  ],
+  "c": [
+   "giữ im lặng",
+   "trở nên im lặng",
+   "phim câm",
+   "chữ cái câm"
+  ],
+  "t": "silent nhấn mạnh không phát ra tiếng; quiet có thể nghĩa là tiếng nhỏ."
+ },
+ "enormous": {
+  "s": [
+   "khổng lồ; rất lớn"
+  ],
+  "c": [
+   "áp lực khổng lồ",
+   "một lượng lớn",
+   "tiềm năng to lớn"
+  ],
+  "t": "Dùng được cho kích thước, cũng dùng cho áp lực, số lượng hoặc ảnh hưởng rất lớn."
+ },
+ "arrangement": {
+  "s": [
+   "sự sắp xếp; việc chuẩn bị",
+   "cách bố trí; sự sắp đặt",
+   "thỏa thuận; sự dàn xếp"
+  ],
+  "c": [
+   "sắp xếp",
+   "sắp xếp chuyến đi",
+   "cắm hoa",
+   "đạt được thỏa thuận"
+  ],
+  "t": "Chỉ việc chuẩn bị cụ thể thì thường dùng số nhiều: make arrangements for."
+ },
+ "technique": {
+  "s": [
+   "kỹ thuật; phương pháp; thủ pháp",
+   "tay nghề; kỹ năng"
+  ],
+  "c": [
+   "phương pháp làm việc gì",
+   "kỹ thuật thư giãn",
+   "nâng cao tay nghề",
+   "phương pháp giảng dạy"
+  ],
+  "t": "technique nhấn mạnh phương pháp cụ thể; technology là công nghệ."
+ },
+ "lay": {
+  "s": [
+   "đặt; đặt xuống; lắp đặt",
+   "đẻ trứng",
+   "không chuyên; không thuộc giới tu sĩ"
+  ],
+  "c": [
+   "đặt nền móng",
+   "đẻ trứng",
+   "dọn bàn ăn",
+   "đặt cáp"
+  ],
+  "t": "“Đặt” chia lay – laid – laid; “nằm” là lie – lay – lain."
+ },
+ "compliment": {
+  "s": [
+   "lời khen",
+   "khen ngợi"
+  ],
+  "c": [
+   "khen ai",
+   "khen ai về điều gì",
+   "đón nhận lời khen",
+   "lời khen chân thành"
+  ],
+  "t": "compliment là lời khen; complement là sự bổ sung, bổ trợ cho nhau."
+ },
+ "refund": {
+  "s": [
+   "tiền hoàn lại; khoản hoàn trả",
+   "hoàn tiền"
+  ],
+  "c": [
+   "hoàn tiền toàn bộ",
+   "yêu cầu hoàn tiền",
+   "hoàn lại chi phí"
+  ],
+  "t": "Danh từ nhấn âm đầu; động từ đọc /rɪˈfʌnd/, nhấn âm sau."
+ },
+ "gymnastics": {
+  "s": [
+   "thể dục dụng cụ; thể dục"
+  ],
+  "c": [
+   "tập thể dục dụng cụ",
+   "thể dục dụng cụ nghệ thuật",
+   "thể dục nhịp điệu"
+  ],
+  "t": "Dù kết thúc bằng -s, khi chỉ môn thể thao thì dùng như số ít: gymnastics is."
+ },
+ "power": {
+  "s": [
+   "quyền lực; ảnh hưởng",
+   "năng lượng; điện",
+   "cung cấp năng lượng cho"
+  ],
+  "c": [
+   "quyền lực chính trị",
+   "điện từ năng lượng tái tạo",
+   "nguồn điện; cung cấp điện",
+   "quyền quyết định"
+  ],
+  "t": "Có quyền làm gì dùng have the power to do."
+ },
+ "podcast": {
+  "s": [
+   "podcast; chương trình âm thanh trực tuyến",
+   "sản xuất và phát hành podcast"
+  ],
+  "c": [
+   "nghe podcast",
+   "một tập podcast",
+   "dẫn một chương trình podcast",
+   "đăng ký theo dõi podcast"
+  ],
+  "t": "Nghe podcast dùng listen to a podcast, đừng bỏ to."
+ },
+ "heavily": {
+  "s": [
+   "rất nhiều; ở mức độ lớn",
+   "nặng nề; mạnh mẽ"
+  ],
+  "c": [
+   "mưa to",
+   "phụ thuộc nhiều vào",
+   "đầu tư mạnh vào",
+   "thở nặng nhọc"
+  ],
+  "t": "Nói mưa to dùng rain heavily, không dùng rain strongly."
+ },
+ "tank": {
+  "s": [
+   "bể chứa; thùng chứa",
+   "xe tăng"
+  ],
+  "c": [
+   "bể nước",
+   "thùng nhiên liệu",
+   "bể cá",
+   "đổ đầy bình xăng"
+  ],
+  "t": "fish tank là bể cá; bình xăng ô tô là fuel tank."
+ },
+ "misunderstand": {
+  "s": [
+   "hiểu lầm; hiểu sai"
+  ],
+  "c": [
+   "hiểu sai hướng dẫn",
+   "hiểu lầm ý định của ai",
+   "dễ bị hiểu lầm"
+  ],
+  "t": "Quá khứ và quá khứ phân từ đều là misunderstood."
+ },
+ "elementary": {
+  "s": [
+   "cơ bản; sơ đẳng",
+   "thuộc tiểu học"
+  ],
+  "c": [
+   "kiến thức cơ bản",
+   "trường tiểu học",
+   "giáo dục tiểu học",
+   "trình độ sơ cấp"
+  ],
+  "t": "elementary school chủ yếu dùng trong tiếng Anh–Mỹ; tiếng Anh–Anh thường dùng primary school."
+ },
+ "western": {
+  "s": [
+   "thuộc phía tây; phương Tây",
+   "thuộc phương Tây (châu Âu, Bắc Mỹ…)",
+   "phim cao bồi miền Tây; truyện miền Tây"
+  ],
+  "c": [
+   "bờ biển phía tây",
+   "các vùng phía tây",
+   "văn hóa phương Tây",
+   "một bộ phim cao bồi miền Tây"
+  ],
+  "t": "Khi chỉ các nước hoặc nền văn hóa phương Tây thường viết hoa: Western."
+ },
+ "zone": {
+  "s": [
+   "khu vực; vùng",
+   "quy hoạch thành khu"
+  ],
+  "c": [
+   "khu vực dành cho người đi bộ",
+   "múi giờ",
+   "khu dân cư",
+   "quy hoạch đất làm nhà ở"
+  ],
+  "t": "zone nhấn mạnh khu vực có mục đích hoặc đặc điểm riêng; area rộng nghĩa hơn."
+ },
+ "iron": {
+  "s": [
+   "sắt; nguyên tố sắt",
+   "bàn là",
+   "ủi; là (quần áo)"
+  ],
+  "c": [
+   "thiếu sắt",
+   "quặng sắt",
+   "gang",
+   "ủi áo sơ mi"
+  ],
+  "t": "Sắt không đếm được; bàn là đếm được: an iron."
+ },
+ "movement": {
+  "s": [
+   "sự di chuyển; cử động",
+   "phong trào xã hội",
+   "chương (nhạc)"
+  ],
+  "c": [
+   "tự do đi lại",
+   "cử động đột ngột",
+   "phong trào bảo vệ môi trường",
+   "phong trào xã hội"
+  ],
+  "t": "Chỉ động tác cụ thể hay phong trào thì đếm được; nghĩa di chuyển nói chung có thể không đếm được."
+ },
+ "mixed": {
+  "s": [
+   "hỗn hợp; nhiều loại",
+   "lẫn lộn; vừa tốt vừa xấu"
+  ],
+  "c": [
+   "cảm xúc lẫn lộn",
+   "kết quả tốt xấu lẫn lộn",
+   "phản ứng trái chiều",
+   "hạt hỗn hợp"
+  ],
+  "t": "mixed feelings là cảm xúc mâu thuẫn; mixed cũng là quá khứ phân từ của mix."
+ },
+ "pint": {
+  "s": [
+   "panh (đơn vị đo dung tích)"
+  ],
+  "c": [
+   "một panh sữa",
+   "nửa panh",
+   "ly panh"
+  ],
+  "t": "Panh Anh khoảng 568 ml, panh lỏng của Mỹ khoảng 473 ml."
+ },
+ "apart": {
+  "s": [
+   "cách xa; tách rời",
+   "thành từng mảnh; rời ra",
+   "ngoại trừ"
+  ],
+  "c": [
+   "cách xa nhau",
+   "tháo rời",
+   "ngoài ra; trừ",
+   "phân biệt"
+  ],
+  "t": "apart from có thể là “ngoại trừ” hoặc “ngoài ra còn”, tùy ngữ cảnh."
+ },
+ "expert": {
+  "s": [
+   "chuyên gia; người thành thạo",
+   "chuyên môn; thành thạo"
+  ],
+  "c": [
+   "chuyên gia về",
+   "lời khuyên chuyên môn",
+   "chuyên gia y tế"
+  ],
+  "t": "expert on/in + lĩnh vực nghĩa là chuyên gia về lĩnh vực đó."
+ },
+ "alike": {
+  "s": [
+   "giống nhau; tương tự",
+   "như nhau; cả hai đều"
+  ],
+  "c": [
+   "trông giống nhau",
+   "nghĩ giống nhau",
+   "đối xử với mọi người như nhau"
+  ],
+  "t": "Tính từ thường đứng sau động từ nối, không đứng trước danh từ."
+ },
+ "celebration": {
+  "s": [
+   "buổi lễ ăn mừng; lễ kỷ niệm",
+   "sự ăn mừng"
+  ],
+  "c": [
+   "tổ chức một buổi ăn mừng",
+   "để chào mừng",
+   "tiệc mừng sinh nhật"
+  ],
+  "t": "Chỉ sự kiện cụ thể thì đếm được; chỉ hành động ăn mừng thì không đếm được."
+ },
+ "triangle": {
+  "s": [
+   "hình tam giác",
+   "kẻng tam giác (nhạc cụ)"
+  ],
+  "c": [
+   "tam giác vuông",
+   "tam giác đều",
+   "mối tình tay ba"
+  ],
+  "t": "Tiếng Anh–Anh nói right-angled triangle; tiếng Anh–Mỹ hay nói right triangle."
+ },
+ "vinegar": {
+  "s": [
+   "giấm"
+  ],
+  "c": [
+   "giấm gạo",
+   "giấm rượu vang",
+   "một chút giấm",
+   "ngâm giấm"
+  ],
+  "t": "Thường không đếm được; có thể nói a bottle of vinegar để chỉ lượng."
+ },
+ "chart": {
+  "s": [
+   "biểu đồ; bảng",
+   "ghi lại; theo dõi; lập biểu đồ",
+   "hải đồ"
+  ],
+  "c": [
+   "biểu đồ cột",
+   "biểu đồ tròn",
+   "theo dõi tiến độ",
+   "hải đồ"
+  ],
+  "t": "Biểu đồ là chart; bản đồ thông thường là map; hải đồ cũng gọi là chart."
+ },
+ "chilly": {
+  "s": [
+   "se lạnh; lạnh",
+   "lạnh nhạt; không thân thiện"
+  ],
+  "c": [
+   "một buổi sáng se lạnh",
+   "cảm thấy lạnh",
+   "sự tiếp đón lạnh nhạt"
+  ],
+  "t": "chilly nhẹ hơn freezing; cũng dùng để tả thái độ lạnh nhạt."
+ },
+ "talent": {
+  "s": [
+   "tài năng; năng khiếu",
+   "nhân tài; người tài"
+  ],
+  "c": [
+   "năng khiếu về",
+   "tài năng thiên bẩm",
+   "nuôi dưỡng nhân tài",
+   "thu hút nhân tài"
+  ],
+  "t": "Năng khiếu về điều gì dùng a talent for + danh từ hoặc V-ing."
+ },
+ "bounce": {
+  "s": [
+   "nảy lên; làm nảy",
+   "cú nảy; sự bật lại",
+   "bị từ chối (séc)"
+  ],
+  "c": [
+   "đập bóng",
+   "hồi phục",
+   "séc bị từ chối",
+   "trao đổi ý tưởng với ai"
+  ],
+  "t": "bounce back vừa là nảy lại, vừa hay dùng với nghĩa hồi phục sau thất bại."
+ },
+ "relaxation": {
+  "s": [
+   "sự thư giãn; sự nghỉ ngơi",
+   "sự giãn cơ",
+   "sự nới lỏng (quy định)"
+  ],
+  "c": [
+   "kỹ thuật thư giãn",
+   "giãn cơ",
+   "nới lỏng các hạn chế"
+  ],
+  "t": "Nghĩa thư giãn, nghỉ ngơi thường không đếm được: for relaxation."
+ },
+ "tuna": {
+  "s": [
+   "cá ngừ; thịt cá ngừ"
+  ],
+  "c": [
+   "bánh sandwich cá ngừ",
+   "cá ngừ đóng hộp",
+   "cá ngừ vây xanh",
+   "trữ lượng cá ngừ"
+  ],
+  "t": "Thịt cá không đếm được; chỉ con cá thì số nhiều thường vẫn là tuna."
+ },
+ "landing": {
+  "s": [
+   "sự hạ cánh; sự đổ bộ",
+   "chiếu nghỉ cầu thang"
+  ],
+  "c": [
+   "hạ cánh khẩn cấp",
+   "hạ cánh êm",
+   "bộ phận hạ cánh",
+   "chiếu nghỉ cầu thang tầng trên"
+  ],
+  "t": "Ngoài nghĩa hạ cánh còn chỉ chiếu nghỉ ở đầu hoặc giữa cầu thang."
+ },
+ "stylish": {
+  "s": [
+   "sành điệu; có phong cách"
+  ],
+  "c": [
+   "quần áo sành điệu",
+   "thiết kế có phong cách",
+   "nội thất tinh tế"
+  ],
+  "t": "stylish nhấn mạnh sự thời trang và đẹp mắt, không nhất thiết đắt tiền hay xa hoa."
+ },
+ "national": {
+  "s": [
+   "thuộc quốc gia; toàn quốc",
+   "công dân của một nước"
+  ],
+  "c": [
+   "bản sắc dân tộc",
+   "vườn quốc gia",
+   "chính phủ trung ương",
+   "công dân nước ngoài"
+  ],
+  "t": "national nhấn mạnh toàn bộ một quốc gia; international là quốc tế."
+ },
+ "flute": {
+  "s": [
+   "sáo (flute); sáo ngang"
+  ],
+  "c": [
+   "thổi sáo",
+   "độc tấu sáo",
+   "các buổi học sáo"
+  ],
+  "t": "Tiếng Anh–Anh thường gọi người chơi là flautist; tiếng Anh–Mỹ hay dùng flutist."
+ },
+ "ceiling": {
+  "s": [
+   "trần nhà",
+   "mức trần; giới hạn tối đa"
+  ],
+  "c": [
+   "trần nhà cao",
+   "quạt trần",
+   "giá trần",
+   "đặt mức trần cho"
+  ],
+  "t": "ceiling là trần trong phòng; roof là mái bên ngoài tòa nhà."
+ },
+ "peaceful": {
+  "s": [
+   "yên bình; thanh thản",
+   "hòa bình; phi bạo lực"
+  ],
+  "c": [
+   "khung cảnh yên bình",
+   "cuộc biểu tình ôn hòa",
+   "giải pháp hòa bình"
+  ],
+  "t": "Có thể tả môi trường yên tĩnh, cũng có thể nói hành động không dùng bạo lực."
+ },
+ "imagination": {
+  "s": [
+   "trí tưởng tượng; sự tưởng tượng"
+  ],
+  "c": [
+   "hãy tưởng tượng",
+   "trí tưởng tượng phong phú",
+   "gợi trí tưởng tượng",
+   "điều tưởng tượng"
+  ],
+  "t": "imaginative là giàu trí tưởng tượng; imaginary là tưởng tượng, không có thật."
+ },
+ "unfriendly": {
+  "s": [
+   "không thân thiện; lạnh nhạt",
+   "bất lợi; khó dùng"
+  ],
+  "c": [
+   "bầu không khí lạnh nhạt",
+   "thái độ không thân thiện",
+   "gây hại cho môi trường"
+  ],
+  "t": "Dù kết thúc bằng -ly, đây thường là tính từ, không phải trạng từ."
+ },
+ "thunder": {
+  "s": [
+   "sấm; tiếng sấm",
+   "sấm rền; vang rền"
+  ],
+  "c": [
+   "một tiếng sấm",
+   "tiếng sấm rền",
+   "sấm chớp"
+  ],
+  "t": "thunder là tiếng sấm, thường không đếm được; lightning là tia chớp."
+ },
+ "challenge": {
+  "s": [
+   "thách thức; nhiệm vụ khó khăn",
+   "nghi ngờ; chất vấn",
+   "thách thức; kiểm nghiệm"
+  ],
+  "c": [
+   "đối mặt với thách thức",
+   "vượt qua thử thách",
+   "nghi ngờ một giả định",
+   "thách ai tham gia cuộc thi"
+  ],
+  "t": "Làm động từ, challenge đi thẳng với quan điểm, nghĩa là nghi ngờ nó."
+ },
+ "teacup": {
+  "s": [
+   "tách trà"
+  ],
+  "c": [
+   "tách trà sứ",
+   "tách trà và đĩa lót",
+   "chuyện bé xé ra to"
+  ],
+  "t": "teacup là cái tách trà; a cup of tea là một tách trà."
+ },
+ "upload": {
+  "s": [
+   "tải lên",
+   "sự tải lên; tệp được tải lên"
+  ],
+  "c": [
+   "tải tệp lên",
+   "tải ảnh lên",
+   "tải lên máy chủ"
+  ],
+  "t": "Tải lên là upload, tải xuống là download; tải lên nơi nào dùng to."
+ },
+ "tissue": {
+  "s": [
+   "khăn giấy",
+   "mô (sinh học)"
+  ],
+  "c": [
+   "một hộp khăn giấy",
+   "mô cơ",
+   "mô bị tổn thương",
+   "sửa chữa mô"
+  ],
+  "t": "Khăn giấy là danh từ đếm được; mô sinh học thường không đếm được."
+ },
+ "statement": {
+  "s": [
+   "lời phát biểu; tuyên bố",
+   "bản tuyên bố; thông cáo",
+   "bảng sao kê; bản kê"
+  ],
+  "c": [
+   "đưa ra tuyên bố",
+   "đưa ra thông cáo",
+   "sao kê ngân hàng",
+   "lời khai của nhân chứng"
+  ],
+  "t": "Nghĩa phát biểu là danh từ đếm được; sao kê ngân hàng cũng dùng statement."
+ },
+ "bride": {
+  "s": [
+   "cô dâu; cô dâu sắp cưới"
+  ],
+  "c": [
+   "cô dâu và chú rể",
+   "một cô dâu xinh đẹp",
+   "cô dâu tương lai"
+  ],
+  "t": "bride là cô dâu, groom là chú rể."
+ },
+ "confused": {
+  "s": [
+   "bối rối; lú lẫn",
+   "lộn xộn; khó hiểu"
+  ],
+  "c": [
+   "bối rối về",
+   "trông bối rối",
+   "một lời kể lộn xộn"
+  ],
+  "t": "confused mô tả người bối rối; confusing mô tả điều gây bối rối."
+ },
+ "rarely": {
+  "s": [
+   "hiếm khi; ít khi"
+  ],
+  "c": [
+   "hầu như không bao giờ",
+   "hiếm khi thấy",
+   "hiếm khi dùng"
+  ],
+  "t": "Thường đặt trước động từ thường, sau động từ be; bản thân từ đã mang nghĩa phủ định."
+ },
+ "reservation": {
+  "s": [
+   "sự đặt chỗ; việc đặt trước",
+   "sự e ngại; ý kiến bảo lưu"
+  ],
+  "c": [
+   "đặt chỗ",
+   "hủy đặt chỗ",
+   "còn e ngại về",
+   "không do dự"
+  ],
+  "t": "Khi chỉ sự e ngại thường dùng số nhiều: have reservations about."
+ },
+ "minimum": {
+  "s": [
+   "mức tối thiểu; lượng ít nhất",
+   "tối thiểu; thấp nhất"
+  ],
+  "c": [
+   "tối thiểu là",
+   "giữ ở mức tối thiểu",
+   "lương tối thiểu",
+   "yêu cầu tối thiểu"
+  ],
+  "t": "a minimum of + số lượng nghĩa là ít nhất bấy nhiêu."
+ },
+ "announcement": {
+  "s": [
+   "thông báo; sự công bố"
+  ],
+  "c": [
+   "đưa ra thông báo",
+   "thông báo chính thức",
+   "thông báo công khai"
+  ],
+  "t": "Đưa ra thông báo dùng make an announcement."
+ },
+ "wing": {
+  "s": [
+   "cánh; cánh máy bay",
+   "cánh (của tòa nhà)",
+   "phe; phái"
+  ],
+  "c": [
+   "tung cánh; mở rộng chân trời",
+   "cánh máy bay",
+   "khu bệnh viện",
+   "cánh tả"
+  ],
+  "t": "Cánh chim và cánh máy bay đều là wing, thường có đôi nên hay dùng số nhiều."
+ },
+ "horn": {
+  "s": [
+   "sừng (động vật)",
+   "còi xe",
+   "kèn; kèn đồng"
+  ],
+  "c": [
+   "bấm còi",
+   "thổi kèn",
+   "một cặp sừng"
+  ],
+  "t": "Sừng động vật và còi xe đều là horn, đều đếm được."
+ },
+ "canal": {
+  "s": [
+   "kênh đào; mương nhân tạo",
+   "ống (trong cơ thể)"
+  ],
+  "c": [
+   "kênh thủy lợi",
+   "thuyền trên kênh",
+   "ống tai"
+  ],
+  "t": "canal thường là đường nước nhân tạo; river là sông tự nhiên."
+ },
+ "wildlife": {
+  "s": [
+   "động vật hoang dã; sinh vật hoang dã"
+  ],
+  "c": [
+   "bảo vệ động vật hoang dã",
+   "bảo tồn động vật hoang dã",
+   "khu bảo tồn động vật hoang dã"
+  ],
+  "t": "Danh từ không đếm được; trong wildlife park, wildlife đóng vai trò bổ nghĩa."
+ }
+}
