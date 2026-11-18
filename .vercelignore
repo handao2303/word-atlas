@@ -1,0 +1,12 @@
+# Illustrations and audio are served from jsDelivr (VITE_MEDIA_BASE); keep the upload small.
+public/atlas/img
+public/atlas/thumb
+public/atlas/audio
+docs
+data
+vi/orig
+vi/src
+node_modules
+dist
+.local
+output

@@ -13,6 +13,7 @@ import { Onboarding } from "./pages/Onboarding";
 import { Practice } from "./pages/Practice";
 import { Today } from "./pages/Today";
 import { cue } from "./lib/sound";
+import { startSync, useCloud } from "./lib/cloud";
 import { store, useStore } from "./store/store";
 import { EntryView } from "./ui/EntryView";
 import { AmbienceController, AmbiencePicker } from "./ui/Ambience";
@@ -48,6 +49,7 @@ export default function App() {
   const [error, setError] = useState<string | null>(null);
   const dataset = useStore((s) => s.settings.dataset);
   useTheme();
+  const userId = useCloud().session?.user.id;
 
   useEffect(() => {
     loadOpenAtlas().then(
@@ -66,6 +68,12 @@ export default function App() {
       setAtlas(next);
     }
   }, [dataset, open, priv, atlas]);
+
+  const atlasId = atlas?.id;
+  useEffect(() => {
+    if (!atlasId || !userId) return;
+    return startSync(atlasId);
+  }, [atlasId, userId]);
 
   if (error)
     return (

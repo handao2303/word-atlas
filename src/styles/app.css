@@ -4135,3 +4135,32 @@ a:hover .mark-needle,
 .search-pill span {
   white-space: nowrap;
 }
+
+/* Login (Vietnamese edition, Supabase) */
+.login { gap: 28px; }
+.login-card {
+  width: min(420px, calc(100vw - 32px));
+  display: grid;
+  gap: 14px;
+  padding: 28px 24px;
+  border-radius: 20px;
+  background: var(--paper-2, rgba(255, 255, 255, 0.04));
+  border: 1px solid var(--line, rgba(255, 255, 255, 0.12));
+  color: var(--ink);
+  text-align: left;
+}
+.login-card h1 { font: 600 26px/1.2 var(--serif); margin: 0; }
+.login-card p { margin: 0; }
+.login-input {
+  height: 48px;
+  padding: 0 14px;
+  border-radius: 12px;
+  border: 1px solid var(--line, rgba(255, 255, 255, 0.18));
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  font-size: 16px;
+}
+.login-card .btn { justify-content: center; }
+.cloud-account { display: grid; gap: 8px; margin: 4px 0 14px; }
+.cloud-account .row { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }

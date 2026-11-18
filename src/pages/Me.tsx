@@ -1,3 +1,4 @@
+import { CloudAccount } from "../ui/CloudAccount";
 import { Download, RotateCcw, Upload } from "lucide-react";
 import { useMemo, useRef } from "react";
 import { useAtlas } from "../atlas/context";
@@ -181,6 +182,7 @@ export function Me({ privateAvailable }: { privateAvailable: boolean }) {
 
         <section className="panel">
           <h3 className="eyebrow">Dữ liệu</h3>
+          <CloudAccount />
           <p className="muted">Tiến độ chỉ lưu trong trình duyệt của máy này: không tài khoản, không máy chủ. Đổi máy thì xuất bản sao lưu rồi nhập vào máy mới.</p>
           {saveError && <p className="warn-text">Trình duyệt không cho lưu (có thể đang ở chế độ ẩn danh hoặc hết dung lượng). Hãy xuất bản sao lưu sớm.</p>}
           <div className="data-actions">

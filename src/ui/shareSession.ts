@@ -5,11 +5,12 @@ import type { ActiveSession } from "../store/store";
 import { toast } from "./Toast";
 
 const SERIF = '"Fraunces Variable", "Songti SC", "Noto Serif SC", Georgia, serif';
-const SANS = '-apple-system, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif';
+const SANS = '-apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif';
 
 const load = (src: string) =>
   new Promise<HTMLImageElement | null>((r) => {
     const i = new Image();
+    i.crossOrigin = "anonymous";
     i.onload = () => r(i);
     i.onerror = () => r(null);
     i.src = src;

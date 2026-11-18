@@ -200,7 +200,14 @@ function emit() {
   listeners.forEach((l) => l());
 }
 
+const changedKey = (id: string) => `word-atlas:changed:${id}`;
+/** Epoch ms of the last local change to this dataset's progress or the settings (for cloud merges). */
+export function localChangedAt(datasetId = state.progress.datasetId): number {
+  return Number(read<number>(changedKey(datasetId))) || 0;
+}
+
 function scheduleSave() {
+  write(changedKey(state.progress.datasetId), Date.now());
   dirty = true;
   window.clearTimeout(saveTimer);
   saveTimer = window.setTimeout(flush, 250);
@@ -259,6 +266,15 @@ export const store = {
     scheduleSave();
   },
 };
+
+/** Replace progress and settings with a merged copy (from cloud sync) without bumping the change time. */
+export function adopt(progress: Progress, settings: Settings, changedAt: number) {
+  state = { ...state, progress, settings };
+  emit();
+  dirty = true;
+  flush();
+  write(changedKey(progress.datasetId), changedAt);
+}
 
 export function useStore<T>(select: (s: State) => T): T {
   return useSyncExternalStore(store.subscribe, () => select(state), () => select(state));
