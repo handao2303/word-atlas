@@ -66,6 +66,25 @@ export async function sendLoginLink(email: string) {
   return { error: error.message };
 }
 
+export async function signInWithGoogle() {
+  if (!supabase) return { error: "Chưa cấu hình đăng nhập." };
+  const { error } = await supabase.auth.signInWithOAuth({
+    provider: "google",
+    options: { redirectTo: location.origin + location.pathname, queryParams: { prompt: "select_account" } },
+  });
+  return { error: error?.message ?? null };
+}
+
+/** Errors Supabase puts in the URL after a failed OAuth redirect (e.g. sign-ups disabled). */
+export function oauthErrorFromUrl(): string | null {
+  const p = new URLSearchParams(location.hash.replace(/^#/, "") || location.search);
+  const msg = p.get("error_description");
+  if (!msg) return null;
+  history.replaceState(null, "", location.pathname);
+  if (/signups? not allowed|not allowed/i.test(msg)) return "Tài khoản Google này chưa được cấp quyền vào trang.";
+  return msg.replace(/\+/g, " ");
+}
+
 export async function signOut() {
   await pushNow();
   await supabase?.auth.signOut();

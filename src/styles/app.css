@@ -4164,3 +4164,6 @@ a:hover .mark-needle,
 .login-card .btn { justify-content: center; }
 .cloud-account { display: grid; gap: 8px; margin: 4px 0 14px; }
 .cloud-account .row { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.btn-google { gap: 10px; background: #fff; color: #1f1f1f; border: 1px solid rgba(0, 0, 0, 0.15); }
+.btn-google:hover { background: #f4f4f4; }
+.login-or { text-align: center; font-size: 13px; color: var(--ink-3); }
