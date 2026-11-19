@@ -6,6 +6,7 @@
 import { createClient, type Session, type SupabaseClient } from "@supabase/supabase-js";
 import { useSyncExternalStore } from "react";
 import { mergeProgress } from "../store/merge";
+import { publicStats, type PublicStats } from "../store/stats";
 import {
   adopt,
   flush,
@@ -136,11 +137,39 @@ export async function pushNow() {
       dataset_id: datasetId,
       progress: { ...progress, session: null },
       settings,
+      ...profile(cs.session),
+      stats: publicStats(progress),
       updated_at: new Date(localChangedAt(datasetId) || Date.now()).toISOString(),
     },
     { onConflict: "user_id,dataset_id" },
   );
   set(error ? { status: navigator.onLine ? "error" : "offline" } : { status: "synced", lastSync: Date.now() });
+}
+
+function profile(session: Session) {
+  const m = session.user.user_metadata ?? {};
+  const email = session.user.email ?? "";
+  return {
+    display_name: (m.full_name || m.name || email.split("@")[0] || "Bạn học").toString().slice(0, 60),
+    avatar_url: (m.avatar_url || m.picture || null) as string | null,
+  };
+}
+
+export interface LeaderRow {
+  user_id: string;
+  display_name: string | null;
+  avatar_url: string | null;
+  stats: Partial<PublicStats> | null;
+  updated_at: string;
+}
+
+/** Everyone's public summary for this dataset (requires sign-in). Pushes our own first so it is fresh. */
+export async function fetchLeaderboard(id: string): Promise<{ rows: LeaderRow[]; error: string | null }> {
+  if (!supabase || !cs.session) return { rows: [], error: "Cần đăng nhập để xem bảng xếp hạng." };
+  await pushNow();
+  const { data, error } = await supabase.rpc("word_atlas_leaderboard", { p_dataset: id });
+  if (error) return { rows: [], error: navigator.onLine ? "Không tải được bảng xếp hạng." : "Đang offline." };
+  return { rows: (data ?? []) as LeaderRow[], error: null };
 }
 
 function schedulePush() {
