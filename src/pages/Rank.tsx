@@ -130,7 +130,7 @@ export function Rank() {
                   {row.user_id === me && <small> · Bạn</small>}
                 </span>
                 <span className="rank-bar" aria-hidden="true">
-                  <i style={{ width: `${top ? Math.max(4, (value / top) * 100) : 0}%` }} />
+                  <i style={{ width: `${top && value ? Math.max(4, (value / top) * 100) : 0}%` }} />
                 </span>
                 <span className="rank-value">
                   {metric === "streak" && value > 0 && <Flame size={15} />}
