@@ -1,6 +1,5 @@
-import { ArrowUpRight, Database, Github, Heart } from "lucide-react";
+import { Heart } from "lucide-react";
 import { useAtlas } from "../atlas/context";
-import { REPO_URL } from "../config";
 
 const BASE = import.meta.env.BASE_URL;
 
@@ -16,15 +15,7 @@ export function About() {
           <p className="lede">
             Word Atlas gom {atlas.count.toLocaleString()} từ vựng IELTS. Mỗi từ có một bức tranh riêng, một câu ví dụ đời thường, một câu ví dụ ngữ cảnh IELTS, kèm phát âm Anh – Mỹ, cụm từ hay gặp và mẹo phân biệt. Thuộc một từ là thắp sáng một ngôi sao trên bản đồ của bạn.
           </p>
-          <p className="lede">Miễn phí, mã nguồn mở, không cần đăng ký. Đây là bản Việt hoá của dự án 词光 · Word Atlas (@designfuchen); code theo giấy phép MIT, dữ liệu theo CC BY 4.0.</p>
-          <div className="about-actions">
-            <a className="btn btn-primary" href={REPO_URL} target="_blank" rel="noreferrer">
-              <Github size={18} /> Xem dự án gốc trên GitHub
-            </a>
-            <a className="btn btn-ghost" href={`${REPO_URL}/tree/main/data`} target="_blank" rel="noreferrer">
-              <Database size={18} /> Tải bộ từ JSON / CSV
-            </a>
-          </div>
+          <p className="lede">Đây là bản Việt hoá của dự án 词光 · Word Atlas (@designfuchen); code theo giấy phép MIT, dữ liệu theo CC BY 4.0.</p>
         </div>
       </header>
 
@@ -95,15 +86,6 @@ export function About() {
           <p className="muted">Đây không phải danh sách từ chính thức của IELTS và không hứa hẹn tăng điểm. Nó chỉ muốn việc học từ đẹp hơn và chắc hơn một chút.</p>
         </section>
 
-        <section className="panel">
-          <h3 className="eyebrow">Cho lập trình viên</h3>
-          <p className="muted">
-            <code>data/word-atlas.json</code> và <code>.csv</code> là toàn bộ bộ từ; <code>public/atlas</code> chứa dữ liệu chia nhỏ cho web, tranh và audio. Có thể dùng làm bộ thẻ Anki, app học từ, tiện ích trình duyệt…, chỉ cần ghi nguồn.
-          </p>
-          <a className="link" href={`${REPO_URL}#readme`} target="_blank" rel="noreferrer">
-            Đọc tài liệu <ArrowUpRight size={14} />
-          </a>
-        </section>
       </div>
       <p className="colophon">
         <Heart size={14} /> Dành cho mọi người đang học từ vựng.

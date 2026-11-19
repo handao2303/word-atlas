@@ -1,9 +1,8 @@
-import { BookOpen, ChevronLeft, ChevronRight, Compass, Github, Keyboard, Moon, Search, Sun, User } from "lucide-react";
+import { BookOpen, ChevronLeft, ChevronRight, Compass, Info, Keyboard, Moon, Search, Sun, User } from "lucide-react";
 import { useCallback, useEffect, useState } from "react";
 import { AtlasContext, useAtlas, useEntry } from "./atlas/context";
 import { loadOpenAtlas, loadPrivateAtlas } from "./atlas/data";
 import type { Atlas } from "./atlas/types";
-import { REPO_URL } from "./config";
 import { closeWord, currentLocation, go, openWord, useLocation, type Route } from "./lib/router";
 import { AtlasPage } from "./pages/Atlas";
 import { About } from "./pages/About";
@@ -154,7 +153,7 @@ function Shell({ privateAvailable }: { privateAvailable: boolean }) {
               {dark ? <Sun size={19} /> : <Moon size={19} />}
             </button>
             <a className="icon-btn hide-sm" href="#/about" aria-label="Giới thiệu" title="Giới thiệu">
-              <Github size={19} />
+              <Info size={19} />
             </a>
           </div>
         </header>
@@ -173,11 +172,7 @@ function Shell({ privateAvailable }: { privateAvailable: boolean }) {
         <footer className="footer">
           <Logo compact />
           <p>
-            Mỗi từ một bức tranh · Miễn phí, mã nguồn mở · Bản tiếng Việt ·{" "}
-            <a href={REPO_URL} target="_blank" rel="noreferrer">
-              GitHub
-            </a>{" "}
-            · <a href="#/about">Giới thiệu</a>
+            Mỗi từ một bức tranh · Bản tiếng Việt · <a href="#/about">Giới thiệu</a>
           </p>
         </footer>
       )}
