@@ -163,10 +163,10 @@ export interface LeaderRow {
   updated_at: string;
 }
 
-/** Everyone's public summary for this dataset (requires sign-in). Pushes our own first so it is fresh. */
-export async function fetchLeaderboard(id: string): Promise<{ rows: LeaderRow[]; error: string | null }> {
+/** Everyone's public summary for this dataset (requires sign-in). With push, sends our own summary first. */
+export async function fetchLeaderboard(id: string, push = false): Promise<{ rows: LeaderRow[]; error: string | null }> {
   if (!supabase || !cs.session) return { rows: [], error: "Cần đăng nhập để xem bảng xếp hạng." };
-  await pushNow();
+  if (push) await pushNow();
   const { data, error } = await supabase.rpc("word_atlas_leaderboard", { p_dataset: id });
   if (error) return { rows: [], error: navigator.onLine ? "Không tải được bảng xếp hạng." : "Đang offline." };
   return { rows: (data ?? []) as LeaderRow[], error: null };

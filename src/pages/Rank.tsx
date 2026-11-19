@@ -37,7 +37,8 @@ function Avatar({ row }: { row: LeaderRow }) {
 
 export function Rank() {
   const atlas = useAtlas();
-  const me = useCloud().session?.user.id;
+  const { session, lastSync } = useCloud();
+  const me = session?.user.id;
   const [metric, setMetric] = useState<Metric>(() => {
     try {
       return (localStorage.getItem("word-atlas:rank-metric") as Metric) || "week";
@@ -49,17 +50,18 @@ export function Rank() {
   const [error, setError] = useState<string | null>(null);
   const [loading, setLoading] = useState(false);
 
-  const load = useCallback(async () => {
+  const load = useCallback(async (push = false) => {
     setLoading(true);
-    const r = await fetchLeaderboard(atlas.id);
+    const r = await fetchLeaderboard(atlas.id, push);
     setRows(r.rows);
     setError(r.error);
     setLoading(false);
   }, [atlas.id]);
 
+  // Reload whenever our own summary reaches the server (first sync after opening, later edits).
   useEffect(() => {
     if (cloudEnabled) void load();
-  }, [load]);
+  }, [load, lastSync]);
 
   useEffect(() => {
     try {
@@ -108,7 +110,7 @@ export function Rank() {
                 </button>
               ))}
             </div>
-            <button className="icon-btn" onClick={() => void load()} disabled={loading} aria-label="Tải lại bảng xếp hạng" title="Tải lại">
+            <button className="icon-btn" onClick={() => void load(true)} disabled={loading} aria-label="Tải lại bảng xếp hạng" title="Tải lại">
               <RefreshCw size={18} className={loading ? "spin" : ""} />
             </button>
           </div>
