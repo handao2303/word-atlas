@@ -1,14 +1,22 @@
-# 部署 / Deployment
+# Deployment
 
-`npm run build` 生成纯静态站点 `dist/`，可以放到任何静态托管（Nginx、Cloudflare Pages、Vercel、GitHub Pages）。
+`npm run build` produces a fully static site in `dist/` that can be hosted anywhere (Vercel, Cloudflare Pages, Nginx, GitHub Pages).
 
-## 子路径
+## Vercel (this edition)
+
+The live site runs on Vercel with Supabase for sign-in and sync. See the [README](../README.md#deploy) for the Supabase, Google OAuth and environment variable setup. `vercel.json` sets the build, and `.vercelignore` keeps the ≈1.3 GB of illustrations and audio out of the upload; they are loaded from `VITE_MEDIA_BASE`.
+
+```bash
+npx vercel@latest deploy --prod
+```
+
+## Sub-path
 
 ```bash
 ATLAS_BASE=/words/ npm run build
 ```
 
-## Nginx 示例
+## Nginx example
 
 ```nginx
 location ^~ /words/ {
@@ -18,10 +26,6 @@ location ^~ /words/ {
 }
 ```
 
-## GitHub Pages
+## Size
 
-仓库带有 `.github/workflows/pages.yml`。在仓库 Settings → Pages 选择 “GitHub Actions”，然后手动运行 “Deploy to GitHub Pages”。
-
-## 体积
-
-插画与音频合计约数百 MB。建议在 CDN 后部署，或按需只发布 `thumb/` 和部分音频。
+Illustrations and audio add up to several hundred megabytes and about 37,000 files, more than many static hosts accept. Serve them from a CDN (as this edition does with `VITE_MEDIA_BASE`), or publish only `thumb/` and part of the audio.

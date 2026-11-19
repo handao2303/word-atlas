@@ -1,5 +1,6 @@
--- Bảng xếp hạng: mỗi người tự ghi số liệu tóm tắt của mình (stats), ai đăng nhập cũng xem được bảng chung.
--- Tiến độ chi tiết (progress) vẫn chỉ chủ tài khoản đọc được.
+-- Leaderboard: each user writes a small public summary (stats) alongside their progress.
+-- Any signed-in user can read everyone's summary through word_atlas_leaderboard();
+-- the detailed progress column stays private to its owner (RLS on the table is unchanged).
 alter table public.word_atlas_sync
   add column if not exists display_name text,
   add column if not exists avatar_url text,

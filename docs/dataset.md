@@ -1,37 +1,39 @@
-# 词库格式 / Dataset format
+# Dataset format
 
 ## `data/word-atlas.json`
 
-一个数组，按学习路线排序（CEFR 由易到难，同级内打散话题）。每个词条：
+An array ordered along the learning path (CEFR from easy to hard, topics shuffled within a level). Each entry:
 
-| 字段 | 类型 | 说明 |
+| Field | Type | Description |
 | --- | --- | --- |
-| `id` | string | URL 安全的唯一标识，同时是媒体文件名，例如 `principle`、`day-off` |
-| `w` | string | 词头 |
-| `uk` / `us` | string | 英式 / 美式 IPA，带斜杠 |
-| `senses` | `{pos, zh, en}[]` | 1–3 个义项：词性、中文释义、简明英文释义 |
-| `ex` | `{en, zh}[]` | 两条原创例句：`ex[0]` 日常短句，`ex[1]` 雅思语境长句 |
-| `col` | string[] | 常用搭配，格式 `english｜中文` |
-| `fam` | string[] | 词族，格式 `word (pos)` |
-| `syn` / `ant` | string[] | 近义 / 反义 |
-| `tip` | string | 一条中文用法或辨析提示 |
-| `cefr` | `A1`…`C2` | 估计难度 |
-| `topic` | string | 19 个话题之一：education, work, technology, science, environment, health, society, government, economy, media, arts, travel, city, nature, daily, emotion, thinking, sport, history |
-| `note` | string | 可选：用法提醒（冒犯性、过时用法、拼写说明等） |
+| `id` | string | URL-safe unique id, also the media file name, e.g. `principle`, `day-off` |
+| `w` | string | Headword |
+| `uk` / `us` | string | British / American IPA, with slashes |
+| `senses` | `{pos, zh, en}[]` | 1–3 senses: part of speech, translated gloss, short English definition |
+| `ex` | `{en, zh}[]` | Two original examples: `ex[0]` is a short everyday sentence, `ex[1]` a longer IELTS-style one |
+| `col` | string[] | Common collocations, formatted `english phrase｜translation` |
+| `fam` | string[] | Word family, formatted `word (pos)` |
+| `syn` / `ant` | string[] | Synonyms / antonyms |
+| `tip` | string | One usage or confusable-word tip |
+| `cefr` | `A1`…`C2` | Estimated level |
+| `topic` | string | One of 19 topics: education, work, technology, science, environment, health, society, government, economy, media, arts, travel, city, nature, daily, emotion, thinking, sport, history |
+| `note` | string | Optional usage warning (offensive, dated, spelling notes, …) |
+
+In `data/` the translated fields (`zh`, the right side of `col`, `tip`, `note`) are the upstream **Chinese**. In `public/atlas/` they hold **Vietnamese**; the field names are kept so the app and the upstream tools stay compatible. When no Vietnamese meaning exists, `senses[].zh` falls back to the English definition and `ex[].zh` is empty.
 
 ## `data/word-atlas.csv`
 
-同样内容的表格版，多值字段用 ` | `、` ; ` 或 `, ` 连接，UTF-8 编码。
+The same content as a table. Multi-value fields are joined with ` | `, ` ; ` or `, `. UTF-8.
 
-## 网页数据 `public/atlas/`
+## Web data in `public/atlas/`
 
-- `index.json`：紧凑索引，`words` 中每行为 `[id, word, zh, ipa, cefrIndex, topicIndex, media]`。`media` 是位标记：`1` 插画、`2` 英音、`4` 美音、`8` 例句朗读。
-- `entries/<n>.json`：完整词条，每块 100 条，第 `n` 块对应索引中第 `n*100` 到 `n*100+99` 行。
-- `img/<id>.webp`（512px）、`thumb/<id>.webp`（256px）。
-- `audio/uk/<id>.mp3`、`audio/us/<id>.mp3`、`audio/ex/<id>.mp3`（`ex[0]` 的朗读）。
+- `index.json`: compact index; each row in `words` is `[id, word, gloss, ipa, cefrIndex, topicIndex, media]`. `gloss` is the short meaning shown in lists and quizzes. `media` is a bit mask: `1` illustration, `2` UK audio, `4` US audio, `8` example recording.
+- `entries/<n>.json`: full entries, 100 per chunk; chunk `n` holds index rows `n*100` to `n*100+99`.
+- `img/<id>.webp` (512px), `thumb/<id>.webp` (256px).
+- `audio/uk/<id>.mp3`, `audio/us/<id>.mp3`, `audio/ex/<id>.mp3` (recording of `ex[0]`).
 
-媒体覆盖情况以 `index.json` 的位标记为准，不要假设每个词都有全部文件。
+In production the media are served from `VITE_MEDIA_BASE` (jsDelivr) instead of `public/atlas/`. Media coverage follows the bit mask in `index.json`; do not assume every word has every file.
 
-## 授权
+## License
 
-CC BY 4.0，署名 “Word Atlas contributors”。见 [CONTENT_LICENSE.md](../CONTENT_LICENSE.md)。
+CC BY 4.0, credit "Word Atlas contributors". See [CONTENT_LICENSE.md](../CONTENT_LICENSE.md).

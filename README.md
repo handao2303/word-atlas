@@ -1,197 +1,141 @@
 <div align="center">
 
-<a href="https://0xlei.tech/words/"><img src="docs/assets/cover-v2.jpg" alt="词光 Word Atlas — 一词一画，点亮雅思" width="100%"></a>
+<img src="docs/assets/cover-v2.jpg" alt="Word Atlas — illustrated IELTS vocabulary" width="100%">
 
-# 词光 · Word Atlas
+# Word Atlas · Vietnamese edition
 
-**把单词变成画面，让复习有迹可循。**
+**Illustrated IELTS vocabulary for Vietnamese learners: 7,298 words, UK/US audio, spaced repetition, Google sign-in, cloud sync and a friends leaderboard.**
 
-7,298 个雅思词条 · 原创插画 · 英美发音 · FSRS 间隔复习
-
-[**立即体验 ↗**](https://0xlei.tech/words/)　 /　 [48 秒介绍](docs/assets/launch.mp4)　 /　 [下载词库](data/)　 /　 [English](README.en.md)
+[Live site](https://word-atlas-vi.vercel.app) (invite only) · [Upstream project](https://github.com/designfuchen/word-atlas) · [Dataset format](docs/dataset.md)
 
 [![Code: MIT](https://img.shields.io/badge/Code-MIT-17283B?style=flat-square)](LICENSE)
 [![Dataset: CC BY 4.0](https://img.shields.io/badge/Dataset-CC_BY_4.0-AD5038?style=flat-square)](CONTENT_LICENSE.md)
-
-<br>
-
-**词光 iOS App 已在 App Store 上架，免费下载：[App Store · 搜索「词光」](https://apps.apple.com/app/id6827459612)**
-
-[![关注 @yangleiocx3](https://img.shields.io/badge/%E5%85%B3%E6%B3%A8%E6%88%91-@yangleiocx3-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yangleiocx3)
 
 </div>
 
 ---
 
-词光是一款以插画和语境为核心的雅思背词应用。看画面理解词义，听发音建立联系，再用主动回忆和间隔复习巩固记忆。无需账号，学习进度保存在自己的设备上。
+This is a fork of [词光 · Word Atlas](https://github.com/designfuchen/word-atlas) by [@designfuchen](https://github.com/designfuchen), an open-source illustrated IELTS vocabulary app. The original targets Chinese speakers. This edition:
 
-> **版本说明**：这个仓库提供词光的开源基础版及配套数据集。在线网站独立迭代，功能与仓库可能不同；仓库里的代码和内容分别遵循下方的 MIT / CC BY 4.0 授权。
+- translates the whole interface into **Vietnamese**;
+- adds **Vietnamese meanings** for all 13,733 senses, 24,722 collocations and 7,298 usage tips (English definitions are kept next to them);
+- adds **Google sign-in** (Supabase Auth), restricted to an allow-list;
+- **syncs progress** across devices with a conflict-free merge;
+- adds a **leaderboard** so a study group can see who is putting in the work;
+- serves the 37k illustration and audio files from a CDN so the app fits on Vercel's free tier.
 
-[产品预览](#产品预览) · [学习方式](#学习方式) · [本地运行](#本地运行) · [开放数据](#开放数据) · [参与贡献](#参与贡献)
+Everything else — the illustrations, recordings, FSRS scheduler, word galaxy and typing studio — comes from the upstream project.
 
-## 产品预览
+## Features
 
-### 一本可以听、可以练的单词图鉴
-
-<img src="docs/assets/atlas-desktop.jpg" alt="开源版桌面图鉴：插画词卡和词汇浏览" width="100%">
-
-<table>
-<tr>
-<td width="50%"><img src="docs/assets/today-mobile.jpg" alt="手机端今日学习页" width="100%"></td>
-<td width="50%"><img src="docs/assets/word-mobile.jpg" alt="手机端词卡，展示插画、英美发音与例句" width="100%"></td>
-</tr>
-<tr><td align="center">每日计划，把注意力放在今天</td><td align="center">插画、词义、发音，在一张词卡里</td></tr>
-</table>
-
-<sub>以上为仓库开源版的实际界面。页首为品牌概念插画。</sub>
-
-### 学过的词，汇成自己的星图
-
-<img src="docs/assets/galaxy.jpg" alt="词汇星图界面：按话题组织单词，展示学习进度" width="100%">
-
-19 个话题组成词汇星图。拖动旋转、滚动缩放，点击星星打开词卡；学习状态用不同亮度呈现。采用 WebGL2 渲染，不支持的设备提供降级显示。
-
-<details>
-<summary><b>看 48 秒宣传片</b></summary>
-
-<a href="docs/assets/launch.mp4"><img src="docs/assets/launch-preview.webp" alt="点击观看词光宣传片" width="100%"></a>
-
-[播放完整视频（含声音）](docs/assets/launch.mp4)
-
-</details>
-
-## 学习方式
-
-| 环节 | 你会做什么 |
+| | |
 | :--- | :--- |
-| **看见** | 每个词配一幅插画、中英释义、两条原创例句，以及搭配、词族和用法提示。 |
-| **听见** | 切换英音、美音，听日常例句朗读；部分词条另含第二条例句录音。 |
-| **想起** | 看义选词、看图补句、听音辨词、拼写，逐步练习主动回忆。 |
-| **复习** | FSRS 根据学习记录安排复习，目标记忆率可调。只有首次作答计入正确率。 |
-| **积累** | 星图展示学习进度；打字练习独立统计；支持导出和恢复本地进度。 |
+| **Look** | One original illustration per word, Vietnamese meanings plus the English definition, two example sentences, collocations, word family and a usage tip. |
+| **Listen** | UK and US pronunciation and a recording of the everyday example for every word. |
+| **Recall** | Meaning quiz, picture cloze, listening and spelling, scheduled by [FSRS](https://github.com/open-spaced-repetition/ts-fsrs). Only the first answer counts. |
+| **Search** | English prefix search, or Vietnamese meanings with or without diacritics (`moi truong` finds *environment*). |
+| **Sync** | Sign in with Google and continue on any device. Offline study merges cleanly when you reconnect. |
+| **Compete** | Leaderboard by answers this week, words mastered, words learned or current streak. Only totals are shared, never the word list. |
 
-**本地优先。** 无需注册；看过的词条与媒体可缓存供离线使用。换设备前，请先导出进度备份。
+## Architecture
 
-<details>
-<summary><b>听发音、例句与环境声样本</b></summary>
+```
+Browser ──► Vercel        app bundle + Vietnamese word data (≈15 MB)
+        ──► jsDelivr      illustrations and audio, pinned to an upstream commit
+        ──► Supabase      Google sign-in, progress sync, leaderboard RPC
+                 └─► Google OAuth (Testing mode; test users are the allow-list)
+```
 
+- **Frontend:** React 19, TypeScript, Vite, ts-fsrs, WebGL2 (galaxy view).
+- **Data:** `public/atlas/index.json` (compact index) and `public/atlas/entries/<n>.json` (100 entries per chunk). The `zh` fields hold the Vietnamese text in this edition.
+- **Backend:** one Supabase table, `word_atlas_sync`, with row level security, plus the `word_atlas_leaderboard()` function. See [`supabase/`](supabase).
 
+### Access control
 
-拿 *abandon* 举例，点开就能听（在线播放）：
+Only Google sign-in is enabled in Supabase; email, phone and anonymous sign-in are off. The Google OAuth client is in **Testing** mode, so Google only lets listed test users through. To give someone access, add their Gmail address under *Google Auth Platform → Audience → Test users*. Their Supabase account is created on first sign-in.
 
-| | |
-|---|---|
-| 🇬🇧 英音 | [abandon /əˈbændən/](https://0xlei.tech/words/atlas/audio/uk/abandon.mp3) |
-| 🇺🇸 美音 | [abandon /əˈbændən/](https://0xlei.tech/words/atlas/audio/us/abandon.mp3) |
-| 📖 例句朗读 | [We had to abandon our car in the snow.](https://0xlei.tech/words/atlas/audio/ex/abandon.mp3) |
+### Sync and merge
 
-全部 7,298 个词都有英音、美音和例句朗读，还有 1,011 个重点词的第二条例句也配了朗读。
+Each device keeps progress in `localStorage` and pushes it to Supabase a few seconds after a change. On load (and when the tab regains focus) the client pulls the remote copy and merges it ([`src/store/merge.ts`](src/store/merge.ts)):
 
-### 环境声与交互声音
+- each card keeps whichever side was reviewed most recently, so no review is lost;
+- daily stats take the per-field maximum;
+- bookmarks, mistakes and settings follow the newer copy.
 
-| | |
-|---|---|
-| 🎙 **开屏配音** | [「欢迎打开雅思大门」](https://0xlei.tech/words/sfx/splash-voice.mp3)：星尘汇聚成“词光”，大门打开 |
-| 🌌 **星图配音** | [「这是你的词汇星图。每学会一个词，就点亮一颗星。」](https://0xlei.tech/words/sfx/voice-galaxy-hello.mp3) |
-| 🎵 **星空音乐** | [一段可无缝循环的原创配乐](https://0xlei.tech/words/sfx/amb-stars.mp3)，默认陪你背词 |
-| 🌧 **6 段环境声** | [雨天图书馆](https://0xlei.tech/words/sfx/amb-rain.mp3) · [清晨海岸](https://0xlei.tech/words/sfx/amb-sea.mp3) · [林间早晨](https://0xlei.tech/words/sfx/amb-forest.mp3) · [夜晚壁炉](https://0xlei.tech/words/sfx/amb-fire.mp3) · [远航船舱](https://0xlei.tech/words/sfx/amb-voyage.mp3) · [安静咖啡馆](https://0xlei.tech/words/sfx/amb-cafe.mp3) |
-| ✨ **界面音效** | 答对、答错、翻卡、打字、连胜、点亮星星……每个操作都有自己的声音；读单词时背景音会自动压低 |
+### Leaderboard
 
-全部素材都在仓库里：插画在 `public/atlas/img/`，录音在 `public/atlas/audio/`，这两类按 CC BY 4.0 开放；界面声音和配乐在 `public/sfx/`，随应用一起提供。
+Every push also writes the user's display name, avatar and a small summary ([`src/store/stats.ts`](src/store/stats.ts)): words learned, words mastered, streak and the last eight days of activity. `word_atlas_leaderboard()` is a `security definer` function that returns these summaries to signed-in users only, so the private `progress` column never leaves its owner. Stale weeks and lapsed streaks count as zero for the viewer.
 
+## Run locally
 
-</details>
-
-## 本地运行
-
-需要 **Node.js 20+** 和 npm。仓库含完整图片与录音，首次下载可能较久。
+Requires **Node.js 20+**. The repository contains every illustration and recording, so the first clone is large (≈1.4 GB).
 
 ```bash
-git clone --depth 1 https://github.com/designfuchen/word-atlas.git
+git clone https://github.com/handao2303/word-atlas.git
 cd word-atlas
 npm ci
-npm run dev
+npm run dev        # http://localhost:5188
 ```
 
-打开 **http://localhost:5188**。
+Without Supabase variables the app runs local-only: no sign-in, progress stays in the browser, and the leaderboard page explains that it needs the online version.
 
 ```bash
-npm test             # 单元测试
-npm run check:atlas  # 词库结构与媒体校验
-npm run build        # 构建到 dist/
+npm test             # unit tests (merge, stats, typing, text, SRS)
+npm run check:atlas  # dataset structure and media checks
+npm run build        # static build in dist/
 ```
 
-子路径部署：`ATLAS_BASE=/words/ npm run build`。完整说明见 [部署文档](docs/deployment.md)。
+## Deploy
 
-**技术栈**：React 19 · TypeScript · Vite · ts-fsrs · WebGL2
+1. **Supabase:** create a project and run [`supabase/schema.sql`](supabase/schema.sql) and then [`supabase/leaderboard.sql`](supabase/leaderboard.sql) in the SQL editor. Under *Authentication → Sign In / Providers*, enable Google, disable Email, and keep anonymous sign-ins off. Add your site URL to *URL Configuration*.
+2. **Google Cloud:** create an OAuth client of type *Web application* with the redirect URI `https://<project-ref>.supabase.co/auth/v1/callback`, keep the app in Testing mode and add test users. Paste the client ID and secret into the Supabase Google provider.
+3. **Vercel:** import the repository and set these environment variables:
 
-## 开放数据
+   | Variable | Value |
+   | :--- | :--- |
+   | `VITE_SUPABASE_URL` | `https://<project-ref>.supabase.co` |
+   | `VITE_SUPABASE_ANON_KEY` | the project's anon / publishable key |
+   | `VITE_MEDIA_BASE` | `https://cdn.jsdelivr.net/gh/designfuchen/word-atlas@0f1bae41fe5428f0f44781e60282525407b5ae46/public/atlas` |
 
-不仅可以直接使用应用，也可以把词库用于自己的学习工具、Anki 牌组或研究项目。
+   [`.vercelignore`](.vercelignore) keeps the media out of the upload; the build serves them from `VITE_MEDIA_BASE`.
 
-| 资源 | 开源版内容 | 入口 |
-| :--- | :--- | :--- |
-| 词条 | **7,298** 条，CEFR A1–C2、19 个话题 | [JSON](data/word-atlas.json) · [CSV](data/word-atlas.csv) |
-| 例句 | **14,596** 条，日常与雅思语境，附中文翻译 | [字段说明](docs/dataset.md) |
-| 插画 | **7,298** 幅，512 px WebP，另有缩略图 | [图片目录](public/atlas/img/) |
-| 录音 | **22,905** 段，英音、美音与例句朗读 | [音频目录](public/atlas/audio/) |
+All three `VITE_*` values end up in the browser bundle and are safe to publish. Never put the Supabase `service_role` key or the Google client secret in the repository.
 
-```python
-import json
-from pathlib import Path
+## Translation workflow
 
-words = json.loads(Path("data/word-atlas.json").read_text(encoding="utf-8"))
-b2_environment = [w for w in words if w["cefr"] == "B2" and w["topic"] == "environment"]
+The Vietnamese data was produced from the upstream Chinese glosses and English definitions:
+
+```bash
+python3 scripts/vi/prep_vi.py     # split the original data into vi/src/<n>.json
+# translate each chunk into vi/translations/<n>.json (format: vi/TRANSLATE.md)
+python3 scripts/vi/check_vi.py    # validate counts, leftover Chinese, missing items
+python3 scripts/vi/apply_vi.py    # merge into public/atlas/
 ```
 
-<details>
-<summary><b>查看一条词条的数据结构</b></summary>
+The originals are re-extracted from the upstream commit when needed, so `vi/orig/` and `vi/src/` are not committed. Fixes to a meaning go into `vi/translations/` followed by `apply_vi.py`.
 
-```json
-{
-  "id": "principle",
-  "w": "principle",
-  "uk": "/ˈprɪnsəpəl/",
-  "us": "/ˈprɪnsəpəl/",
-  "senses": [{ "pos": "n.", "zh": "原则；行为准则", "en": "A belief or rule that guides decisions and behaviour." }],
-  "ex": [
-    { "en": "I refused the extra money as a matter of principle.", "zh": "出于原则，我拒绝了那笔额外的钱。" },
-    { "en": "The principle of equal opportunity should guide policies designed to improve access to higher education.", "zh": "…" }
-  ],
-  "col": ["in principle｜原则上", "basic principle｜基本原则"],
-  "fam": ["principled (adj.)"],
-  "tip": "principle 是原则；principal 是校长、主要的。",
-  "cefr": "B2",
-  "topic": "thinking"
-}
+## Project layout
+
+```
+src/
+  atlas/        data loading and types
+  lib/cloud.ts  Supabase client, sign-in, sync, leaderboard fetch
+  pages/        Today, Atlas, Learn, Practice, Rank, Me, About
+  store/        local store, FSRS wrapper, merge and public stats
+  ui/           shared components (AuthGate, EntryView, Palette, …)
+public/atlas/   word index, entry chunks, illustrations, audio
+scripts/vi/     Vietnamese translation pipeline
+scripts/atlas/  upstream content-generation pipeline (Chinese)
+supabase/       SQL for the sync table and leaderboard
+docs/           dataset format, learning model, upstream READMEs
 ```
 
-</details>
+## Content and limitations
 
-### 内容来源与局限
+Definitions, examples, illustrations and recordings were generated by the upstream project with AI models and checked automatically, not proofread entry by entry. The Vietnamese meanings were also machine-translated and spot-checked. Expect occasional mistakes; corrections are welcome. This is not an official IELTS word list.
 
-释义、例句、插画和录音为本项目生成：文字与插画使用生成式 AI，语音使用 ElevenLabs。内容经过自动结构与一致性校验，**尚未逐条人工审校**，可能出现释义、例句、插画或发音错误。它不是官方雅思词表，也不承诺提分。
+## License and credits
 
-[内容生成流程](docs/pipeline.md) · [记忆模型](docs/learning-model.md) · [生成脚本](scripts/atlas/)
-
-## 参与贡献
-
-发现问题时，请附上**词条 ID、复现步骤和预期结果**。内容纠错如有词典或其他可靠依据，也请一并提供。
-
-- [报告问题](https://github.com/designfuchen/word-atlas/issues/new/choose)：词条纠错、界面问题或使用建议。
-- [贡献指南](CONTRIBUTING.md)：数据同步、代码规范和提交前检查。
-- [安全政策](SECURITY.md)：安全问题的反馈方式。
-
-## 授权
-
-| 范围 | 许可 |
-| :--- | :--- |
-| 应用代码 | [MIT](LICENSE) |
-| 词库文本、插画与词条录音 | [CC BY 4.0](CONTENT_LICENSE.md)，署名 Word Atlas contributors（词光） |
-| 第三方依赖与字体 | 遵循各自许可，详见相应文件 |
-
----
-
-由 [@designfuchen](https://github.com/designfuchen) 制作。产品进展与制作过程见 [X · @yangleiocx3](https://x.com/yangleiocx3)。
-
-如果词光对你有用，欢迎 Star，或把它分享给正在学英语的朋友。
+- Code: [MIT](LICENSE), from [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas) with changes in this fork.
+- Dataset, illustrations and recordings: [CC BY 4.0](CONTENT_LICENSE.md), credit **Word Atlas contributors (词光)**. This fork modifies the dataset by replacing the Chinese text with Vietnamese translations.
+- Recordings: ElevenLabs voices "Alice" (UK) and "Sarah" (US), as described upstream.

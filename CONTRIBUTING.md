@@ -1,26 +1,28 @@
-# 参与贡献 / Contributing
+# Contributing
 
-谢谢你愿意让词光变得更好。
+Thanks for helping make Word Atlas better for Vietnamese learners.
 
-## 修正词条
+## Fixing a word
 
-最有价值的贡献是纠错。请在 Issue 中写明词条 `id`、问题和建议的改法，或直接提交 PR：
+Corrections are the most valuable contribution. Open an issue with the word `id`, the problem and a suggested fix, or send a pull request:
 
-1. 修改 `.local` 之外的源数据前，请先看 [docs/pipeline.md](docs/pipeline.md)。小修正可以直接改 `data/word-atlas.json` 与 `public/atlas/entries/` 中对应的条目，保持两处一致。
-2. 运行 `npm run check:atlas` 和 `npm test`。
-3. 在 PR 里说明修改理由，必要时附权威词典链接。
+1. Vietnamese meanings, collocations and tips live in `vi/translations/<n>.json`. Edit the entry there, then run `python3 scripts/vi/check_vi.py <n>` and `python3 scripts/vi/apply_vi.py` to rebuild `public/atlas/`.
+2. Problems with the English definition, examples, illustration or audio come from the upstream dataset; see [docs/pipeline.md](docs/pipeline.md) and consider reporting them to [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas) as well.
+3. Run `npm run check:atlas` and `npm test`.
+4. Explain the change in the pull request and link a reliable dictionary when relevant.
 
-## 代码
+## Code
 
-- TypeScript 严格模式，React 函数组件，不引入状态管理或 UI 框架依赖。
-- 保持“无账号、本地优先、无追踪”的方向。
-- 视觉改动请同时检查浅色、深色和 375px 手机宽度。
-- 提交前运行 `npm test`、`npm run check:atlas`、`npm run build`。
+- TypeScript strict mode and React function components; no state-management or UI framework dependencies.
+- Code, comments, commit messages and documentation are in English. User-facing text is in Vietnamese.
+- Keep the app local-first: it must work without Supabase variables (local-only mode).
+- Check visual changes in light and dark themes and at 375px phone width.
+- Before committing, run `npm test`, `npm run check:atlas` and `npm run build`.
 
-## 新素材
+## New content
 
-新增图片、录音或文本时，请写明来源与授权，只接受可以按 CC BY 4.0 再分发的内容。
+When adding images, recordings or text, state their source and license. Only content that can be redistributed under CC BY 4.0 is accepted.
 
-## 安全
+## Security
 
-不要在 Issue、PR、截图或日志中粘贴任何 API key。生成脚本只从环境变量或仓库外的文件读取凭据，见 [SECURITY.md](SECURITY.md)。
+Never paste API keys, the Supabase `service_role` key or the Google client secret into issues, pull requests, screenshots or logs. See [SECURITY.md](SECURITY.md).

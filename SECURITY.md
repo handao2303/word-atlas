@@ -1,19 +1,19 @@
-# 安全与隐私 / Security and privacy
+# Security and privacy
 
-## 数据去哪里
+## Where data lives
 
-词光没有账号、服务器端存储、统计或追踪。学习进度只保存在当前浏览器的 localStorage，可以在「我的」里导出为 JSON 备份。导入备份时会逐字段校验，畸形数据会被丢弃。
+- **Progress** is stored in the browser's `localStorage` and, when signed in, in the Supabase table `word_atlas_sync`. Row level security lets each user read and write only their own rows.
+- **Leaderboard data** is a small public summary per user (display name, Google avatar URL, words learned and mastered, streak, the last eight days of answer counts). Every signed-in user can read these summaries through `word_atlas_leaderboard()`; the detailed progress column stays private.
+- **Sign-in** uses Google OAuth through Supabase Auth. The app never sees passwords. Email, phone and anonymous sign-in are disabled, and the Google client is in Testing mode, so only listed test users can sign in.
+- There is no analytics or third-party tracking. Imported backups are validated field by field and malformed data is dropped.
 
-Word Atlas has no accounts, server-side storage, analytics or tracking. Progress lives in the browser's localStorage and can be exported as JSON. Imported backups are validated field by field.
+## Credentials
 
-## 凭据 / Credentials
+- The browser only needs `VITE_SUPABASE_URL`, `VITE_SUPABASE_ANON_KEY` and `VITE_MEDIA_BASE`. These are bundled into the client and are safe to publish; the anon key is limited by row level security.
+- Never commit or expose the Supabase `service_role` key or the Google OAuth client secret. The client secret lives only in the Supabase Google provider settings.
+- The upstream content scripts in `scripts/atlas/` read model API keys from environment variables (`SUB2_BASE_URL`, `SUB2_API_KEY`, `ELEVENLABS_API_KEY`) or a directory outside the repository (`ATLAS_SECRETS`). Do not store secrets in `VITE_*` variables.
+- If a credential leaks, revoke or rotate it with the provider immediately.
 
-网页运行不需要任何 API key。只有 `scripts/atlas/` 中的内容生成脚本需要调用模型服务，它们从环境变量（`SUB2_BASE_URL`、`SUB2_API_KEY`、`ELEVENLABS_API_KEY`）或仓库外的目录（`ATLAS_SECRETS`）读取凭据，不会写入仓库。
+## Reporting
 
-- 不要使用 `VITE_*` 变量存放凭据，它们会被打包进浏览器代码。
-- 公开前运行 `npm run pack:public`，它会按白名单导出并扫描凭据和个人路径。扫描是辅助手段，不能替代人工检查。
-- 如果凭据意外泄露，请立刻在服务商处吊销或轮换。
-
-## 报告问题 / Reporting
-
-发现安全问题请通过 GitHub 私密漏洞报告（Security → Report a vulnerability）联系维护者，不要公开贴出细节。
+Please report security issues privately through GitHub (*Security → Report a vulnerability*) instead of opening a public issue.

@@ -1,6 +1,8 @@
-# Word Atlas 词库
+# Word Atlas dataset
 
-- `word-atlas.json`：完整结构化数据
-- `word-atlas.csv`：表格版
+- `word-atlas.json`: full structured data
+- `word-atlas.csv`: the same data as a table
 
-字段说明：[../docs/dataset.md](../docs/dataset.md)。授权：CC BY 4.0，署名 “Word Atlas contributors”。
+These are the unmodified upstream files (Chinese glosses). The Vietnamese edition used by the web app lives in `public/atlas/`.
+
+Field reference: [../docs/dataset.md](../docs/dataset.md). License: CC BY 4.0, credit "Word Atlas contributors".

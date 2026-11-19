@@ -1,20 +1,20 @@
 ---
-name: 词条纠错 / Vocabulary correction
-about: 反馈释义、例句、插画或录音问题 / Report a content error
+name: Vocabulary correction
+about: Report a wrong meaning, example, illustration or recording
 title: '[Content] '
 labels: ''
 assignees: ''
 ---
 
-## 词条 / Word ID
+## Word ID
 
-## 问题位置 / Affected content
-释义 / 例句 / 插画 / 英音 / 美音 / 例句录音
+## Affected content
+Vietnamese meaning / collocation / tip / English definition / example / illustration / UK audio / US audio / example recording
 
-## 当前内容与建议 / Current content and suggested correction
+## Current content and suggested correction
 
-## 参考依据 / Reference
-请附可靠词典或其他可核实来源。
+## Reference
+Link a reliable dictionary or another verifiable source.
 
-## 版本 / Version
-GitHub 开源版（提交号）/ 在线网站
+## Version
+GitHub commit / live site

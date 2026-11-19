@@ -7,11 +7,11 @@ Vietnamese. Anything not translated yet falls back to the English definition
 (meanings) or is hidden (example translations, tips), so no Chinese is shown.
 
 Translation file format (one object per batch file):
-  { "<id>": { "s": ["nghĩa 1", "nghĩa 2"],      # one per sense, same order
-              "c": ["nghĩa cụm 1", ...],          # one per collocation, same order
-              "t": "mẹo dùng từ",                  # tip
-              "n": "lưu ý",                        # note (only when the original had one)
-              "x": ["dịch câu 1", "dịch câu 2"] }  # optional example translations
+  { "<id>": { "s": ["<meaning 1>", "<meaning 2>"],  # Vietnamese, one per sense, same order
+              "c": ["<collocation meaning>", ...],   # one per collocation, same order
+              "t": "<usage tip>",                     # tip
+              "n": "<usage note>",                    # note (only when the original had one)
+              "x": ["<example 1>", "<example 2>"] }   # optional example translations
   }
 
 Usage: python3 scripts/vi/apply_vi.py
@@ -25,8 +25,9 @@ ROOT = Path(__file__).resolve().parents[2]
 PUB = ROOT / "public" / "atlas"
 ORIG = ROOT / "vi" / "orig"
 TR = ROOT / "vi" / "translations"
-CJK = re.compile(r"[一-鿿]")
+CJK = re.compile(r"[\u4e00-\u9fff]")  # Chinese characters
 
+# Display names for the 19 topics (shown in the UI, so they stay Vietnamese).
 TOPICS_VI = {
     "education": "Giáo dục", "work": "Công việc", "technology": "Công nghệ", "science": "Khoa học",
     "environment": "Môi trường", "health": "Sức khoẻ", "society": "Xã hội", "government": "Chính trị – Pháp luật",
@@ -105,7 +106,7 @@ def main():
                 e["note"] = clean(t.get("n", "")) or ("" if CJK.search(e["note"]) else e["note"])
             for k in ("fam", "syn", "ant"):
                 e[k] = [x for x in e[k] if not CJK.search(x)]
-            # list/quiz gloss in the same shape as the original: "n. nghĩa 1; nghĩa 2"
+            # list/quiz gloss in the same shape as the original: "n. meaning 1; meaning 2"
             pos = e["senses"][0]["pos"] if e["senses"] else ""
             parts = []
             for s in [s for s in e["senses"] if s["pos"] == pos][:2]:

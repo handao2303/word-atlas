@@ -1,32 +1,36 @@
-# 学习模型 / Learning model
+# Learning model
 
-## 每日旅程
+## Daily journey
 
-- **复习**：所有到期的词（FSRS 计算的 `due` 已过）。
-- **新词**：每天上限可设（默认 10），从学习路线中你的起点难度开始取未学过的词。
-- 顺序：先复习，再以 5 个为一组学新词：先「初见」认识 5 个词，再打乱顺序回忆这 5 个词。
+- **Reviews:** every word whose FSRS `due` time has passed.
+- **New words:** a configurable daily limit (default 10), taken from the learning path starting at your chosen level.
+- Order: reviews first, then new words in groups of five. You first meet the five words, then recall them in shuffled order.
 
-## 题型
+## Question types
 
-| 题型 | 适用 | 说明 |
+| Type | Used for | Description |
 | --- | --- | --- |
-| 选义 | 新词、记忆弱 | 看英文选中文，干扰项词性相同 |
-| 看图补句 | 新词、记忆弱 | 插画 + 挖空例句，选英文词，干扰项拼写相近 |
-| 听音辨词 | 各阶段 | 只听发音选词 |
-| 拼写 | 稳定度较高 | 看图和释义拼写，可以逐字母提示（提示后最多计 Hard） |
+| Meaning | New or weak words | See the English word, pick the Vietnamese meaning; distractors share the part of speech |
+| Picture cloze | New or weak words | Illustration plus an example with a gap; pick the English word; distractors are spelled similarly |
+| Listening | All stages | Hear the pronunciation only and pick the word |
+| Spelling | Words with higher stability | Spell from the picture and meaning; letter hints are available (a hinted answer counts as Hard at best) |
 
-## 评分与 FSRS
+## Grading and FSRS
 
-每个词在一轮中只有**第一次作答**更新记忆（ts-fsrs，FSRS-6，默认目标记忆率 90%）：
+Within a session only the **first answer** to each word updates its memory state (ts-fsrs, FSRS-6, default target retention 90%):
 
-- 答错 → Again
-- 答对但慢、或用了提示 → Hard
-- 答对 → Good；拼写又快又对 → Easy
+- wrong → Again
+- right but slow, or with a hint → Hard
+- right → Good; fast and correct spelling → Easy
 
-答错的词会在几题之后换一种题型再练一次（最多两次），重试不再评分，也不计入正确率。
+A missed word comes back a few questions later with a different question type (at most twice). Retries are not graded and do not affect accuracy.
 
-「已掌握」= FSRS 复习状态且记忆稳定度 ≥ 21 天。
+"Mastered" means the card is in the FSRS review state with a stability of at least 21 days.
 
-## 打字练习
+## Typing studio
 
-打字只训练输出，不改变记忆状态。WPM 按每 5 个正确字符计 1 词。
+Typing practice trains output only and never changes the memory state. WPM counts one word per five correct characters.
+
+## Leaderboard
+
+The leaderboard (Vietnamese edition) ranks the study group by answers in the last seven days, words mastered, words learned or current streak. It reads the public summary each device uploads with its progress; see [`src/store/stats.ts`](../src/store/stats.ts).

@@ -1,4 +1,5 @@
--- Word Atlas (bản tiếng Việt): bảng lưu tiến độ học, mỗi người chỉ đọc/ghi được dòng của mình.
+-- Word Atlas (Vietnamese edition): per-user learning progress. Row level security lets each
+-- signed-in user read and write only their own rows..
 create table if not exists public.word_atlas_sync (
   user_id uuid not null default auth.uid() references auth.users on delete cascade,
   dataset_id text not null,

@@ -1,14 +1,20 @@
 """Write compact translation sources: vi/src/<n>.json, one per entries chunk.
 
-Each item: {"id", "w", "s": [[pos, zh, en], ...], "c": ["english｜中文", ...], "t": tip_zh, "n": note?}
+Each item: {"id", "w", "s": [[pos, zh, en], ...], "c": ["english｜<Chinese>", ...], "t": tip_zh, "n": note?}
+The original (Chinese) data is extracted from the upstream commit into vi/orig/ first if needed.
 """
 import json
+import sys
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from apply_vi import backup  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[2]
 ORIG = ROOT / "vi" / "orig" / "entries"
 OUT = ROOT / "vi" / "src"
 OUT.mkdir(parents=True, exist_ok=True)
+backup()
 
 for f in sorted(ORIG.glob("*.json"), key=lambda p: int(p.stem)):
     items = []
