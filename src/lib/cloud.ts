@@ -4,7 +4,7 @@
  * without them the app works exactly as before (local-only).
  */
 import { createClient, type Session, type SupabaseClient } from "@supabase/supabase-js";
-import { useSyncExternalStore } from "react";
+import { useEffect, useSyncExternalStore } from "react";
 import { mergeProgress } from "../store/merge";
 import { publicStats, type PublicStats } from "../store/stats";
 import {
@@ -155,8 +155,14 @@ function profile(session: Session) {
   };
 }
 
+/** The part of the signed-in email before "@", used as the visible name. */
+export function emailName(session: Session | null | undefined) {
+  return (session?.user.email ?? "").split("@")[0] || null;
+}
+
 export interface LeaderRow {
   user_id: string;
+  email_name: string | null;
   display_name: string | null;
   avatar_url: string | null;
   stats: Partial<PublicStats> | null;
@@ -203,4 +209,40 @@ export function startSync(id: string) {
     void pushNow();
     datasetId = null;
   };
+}
+
+/* ---------- shared leaderboard state (Today and Rank pages read the same copy) ---------- */
+
+interface Board {
+  rows: LeaderRow[] | null;
+  error: string | null;
+  loading: boolean;
+  at: number;
+}
+let board: Board = { rows: null, error: null, loading: false, at: 0 };
+const boardSubs = new Set<() => void>();
+const setBoard = (patch: Partial<Board>) => {
+  board = { ...board, ...patch };
+  boardSubs.forEach((l) => l());
+};
+
+export async function refreshLeaderboard(id: string, push = false) {
+  if (board.loading) return;
+  setBoard({ loading: true });
+  const r = await fetchLeaderboard(id, push);
+  setBoard({ rows: r.error ? board.rows : r.rows, error: r.error, loading: false, at: Date.now() });
+}
+
+/** Leaderboard rows, refreshed after every successful sync of our own progress. */
+export function useLeaderboard(id: string) {
+  const { session, lastSync } = useCloud();
+  const snap = useSyncExternalStore(
+    (l) => (boardSubs.add(l), () => boardSubs.delete(l)),
+    () => board,
+    () => board,
+  );
+  useEffect(() => {
+    if (cloudEnabled && session) void refreshLeaderboard(id);
+  }, [id, session, lastSync]);
+  return { ...snap, me: session?.user.id ?? null, refresh: () => refreshLeaderboard(id, true) };
 }

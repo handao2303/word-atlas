@@ -6,17 +6,35 @@ alter table public.word_atlas_sync
   add column if not exists avatar_url text,
   add column if not exists stats jsonb not null default '{}'::jsonb;
 
-create or replace function public.word_atlas_leaderboard(p_dataset text)
-returns table (user_id uuid, display_name text, avatar_url text, stats jsonb, updated_at timestamptz)
+-- Lists every account (so people who signed in but have not studied yet still appear),
+-- with the part of the email before "@" as a recognisable name. Full emails are not exposed.
+drop function if exists public.word_atlas_leaderboard(text);
+create function public.word_atlas_leaderboard(p_dataset text)
+returns table (
+  user_id uuid,
+  email_name text,
+  display_name text,
+  avatar_url text,
+  stats jsonb,
+  updated_at timestamptz
+)
 language sql
 stable
 security definer
-set search_path = public
+set search_path = public, auth
 as $$
-  select s.user_id, s.display_name, s.avatar_url, s.stats, s.updated_at
-  from public.word_atlas_sync s
-  where s.dataset_id = p_dataset
-    and auth.uid() is not null;
+  select
+    u.id,
+    split_part(u.email, '@', 1),
+    coalesce(s.display_name, u.raw_user_meta_data ->> 'full_name', u.raw_user_meta_data ->> 'name'),
+    coalesce(s.avatar_url, u.raw_user_meta_data ->> 'avatar_url', u.raw_user_meta_data ->> 'picture'),
+    coalesce(s.stats, '{}'::jsonb),
+    s.updated_at
+  from auth.users u
+  left join public.word_atlas_sync s
+    on s.user_id = u.id and s.dataset_id = p_dataset
+  where auth.uid() is not null
+    and u.deleted_at is null;
 $$;
 
 revoke all on function public.word_atlas_leaderboard(text) from public, anon;

@@ -1,4 +1,6 @@
 import { streakOf } from "../store/stats";
+import { cloudEnabled, emailName, useCloud } from "../lib/cloud";
+import { Leaderboard } from "../ui/Leaderboard";
 import { ArrowRight, Flame, Keyboard, Sparkles } from "lucide-react";
 import { useEffect, useMemo } from "react";
 import { prefetch, useAtlas, useEntry } from "../atlas/context";
@@ -37,6 +39,7 @@ export function Today() {
     const t = window.setTimeout(() => void prefetch(atlas, ids), 800);
     return () => window.clearTimeout(t);
   }, [atlas, firstIds]);
+  const who = emailName(useCloud().session);
   const now = new Date();
   const today = progress.days[dayKey()];
   const streak = streakOf(progress.days);
@@ -72,7 +75,9 @@ export function Today() {
         <p className="eyebrow">
           {["Chủ nhật", "Thứ hai", "Thứ ba", "Thứ tư", "Thứ năm", "Thứ sáu", "Thứ bảy"][now.getDay()]} · {now.getDate()}/{now.getMonth() + 1}
         </p>
-        <h1 className="display">{greeting(now.getHours())}, nhà thám hiểm.</h1>
+        <h1 className="display">
+          {greeting(now.getHours())}, {who ? <span className="greet-name">{who}</span> : "nhà thám hiểm"}.
+        </h1>
       </header>
 
       <section className={`journey ${total === 0 && !active ? "is-clear" : ""}`}>
@@ -144,6 +149,14 @@ export function Today() {
       </section>
 
       <div className="today-grid">
+        {cloudEnabled && (
+          <section className="panel today-rank">
+            <div className="panel-head">
+              <h3 className="eyebrow">Bảng xếp hạng</h3>
+            </div>
+            <Leaderboard compact />
+          </section>
+        )}
         <WordOfDay />
 
         <section className="panel streak-panel">
