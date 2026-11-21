@@ -37,6 +37,7 @@ Everything else — the illustrations, recordings, FSRS scheduler, word galaxy a
 | **Sync** | Sign in with Google and continue on any device. Offline study merges cleanly when you reconnect. |
 | **Compete** | Leaderboard by answers this week, words mastered, words learned, current streak or LeetCode problems solved. Only totals are shared, never the word list. |
 | **LeetCode** | A study track (`#/code`, English only): 54 classic problems and 27 topic guides in 14 tracks from arrays to graphs. Solve on leetcode.com, rate the attempt, and FSRS brings the problem back for a re-solve days later. The home page shows today's problem next to the vocabulary journey. |
+| **SQL for BA** | `#/code/sql`: 10 original lessons (filtering → joins → window functions → funnels and cohorts), each with an in-browser SQLite sandbox on a sample shop database, auto-checked exercises, and the related LeetCode Database problems (56, covering the SQL 50 plan) with spaced re-solves. |
 
 ## Architecture
 
@@ -80,6 +81,10 @@ python3 scripts/leetcode/import_lc.py /tmp/leetcode
 Markdown is rendered in the browser (marked + DOMPurify + highlight.js, lazy-loaded). Links between bundled write-ups stay in the app, links to other problems go to leetcode.com, and other upstream files open on GitHub. Most upstream illustrations were hosted on an image service that no longer serves them; broken images are hidden.
 
 LeetCode progress ([`src/leetcode/progress.ts`](src/leetcode/progress.ts)) is stored separately from vocabulary and synced as its own row (`dataset_id = 'leetcode'`) in `word_atlas_sync`, so the existing RLS and leaderboard function cover it without schema changes. Re-solves use FSRS without minute-level learning steps, so every interval is at least a day.
+
+### SQL for BA
+
+Everything in this path is original to this repository: lessons and exercises in [`src/leetcode/sql/lessons.ts`](src/leetcode/sql/lessons.ts), a deterministic sample database in [`seed.ts`](src/leetcode/sql/seed.ts) (customers, products, orders, order_items, web_events, employees). The sandbox loads [sql.js](https://github.com/sql-js/sql.js) (SQLite compiled to WebAssembly) on demand and runs every query against a fresh copy of the database, so `UPDATE` or `DELETE` experiments cannot break later exercises. An answer is correct when its rows match the reference query (values compared, column names free, order only when the task asks for it). `lessons.test.ts` runs every reference solution in Node. LeetCode problems are linked by title, not copied; their progress uses card ids `sql:<number>` in the same LeetCode row.
 
 ## Run locally
 

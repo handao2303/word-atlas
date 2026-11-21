@@ -7,7 +7,7 @@
     "dev": "vite --host 0.0.0.0",
     "build": "tsc -b && vite build",
     "preview": "vite preview --host 0.0.0.0",
-    "test": "node --import tsx --test src/**/*.test.ts",
+    "test": "node --import tsx --test 'src/**/*.test.ts'",
     "check:atlas": "node scripts/check-atlas.mjs",
     "build:atlas": "python3 scripts/atlas/build_atlas.py",
     "render:cards": "node scripts/render-cards.mjs",
@@ -23,12 +23,14 @@
     "marked": "^18.2.1",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
+    "sql.js": "^1.17.0",
     "ts-fsrs": "^5.4.2"
   },
   "devDependencies": {
     "@types/node": "^22.0.0",
     "@types/react": "^19.2.0",
     "@types/react-dom": "^19.2.0",
+    "@types/sql.js": "^1.16.0",
     "@vitejs/plugin-react": "^4.7.0",
     "playwright": "^1.64.1",
     "prettier": "^3.9.10",

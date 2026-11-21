@@ -10,11 +10,13 @@ export interface LcProgress {
   read: string[];
   /** Problems solved or re-solved per local day. */
   days: Record<string, number>;
+  /** SQL sandbox exercises answered correctly. */
+  sql: string[];
 }
 
 const KEY = "word-atlas:leetcode";
 const CHANGED = "word-atlas:changed:leetcode";
-export const emptyLc = (): LcProgress => ({ version: 1, cards: {}, read: [], days: {} });
+export const emptyLc = (): LcProgress => ({ version: 1, cards: {}, read: [], days: {}, sql: [] });
 
 const isObj = (v: unknown): v is Record<string, unknown> => !!v && typeof v === "object" && !Array.isArray(v);
 const n = (v: unknown) => typeof v === "number" && Number.isFinite(v) && v >= 0;
@@ -27,6 +29,7 @@ export function sanitizeLc(v: unknown): LcProgress {
       if (isObj(c) && n(c.due) && n(c.s) && n(c.d) && n(c.reps) && n(c.lapses) && [0, 1, 2, 3].includes(c.st as number) && n(c.seen))
         out.cards[k] = c as unknown as CardState;
   if (Array.isArray(v.read)) out.read = [...new Set(v.read.filter((x): x is string => typeof x === "string"))].slice(0, 500);
+  if (Array.isArray(v.sql)) out.sql = [...new Set(v.sql.filter((x): x is string => typeof x === "string"))].slice(0, 1000);
   if (isObj(v.days)) for (const [k, d] of Object.entries(v.days)) if (/^\d{4}-\d{2}-\d{2}$/.test(k) && n(d)) out.days[k] = d as number;
   return out;
 }
@@ -108,6 +111,11 @@ export function forget(id: string) {
   });
 }
 
+export function passSql(exercise: string) {
+  if (state.sql.includes(exercise)) return;
+  lc.update((p) => ({ ...p, sql: [...p.sql, exercise] }));
+}
+
 export function toggleRead(guide: string) {
   lc.update((p) => ({ ...p, read: p.read.includes(guide) ? p.read.filter((x) => x !== guide) : [...p.read, guide] }));
 }
@@ -132,7 +140,7 @@ export function mergeLc(local: LcProgress, remote: LcProgress): LcProgress {
   }
   const days = { ...remote.days };
   for (const [k, v] of Object.entries(local.days)) days[k] = Math.max(v, days[k] ?? 0);
-  return { version: 1, cards, days, read: [...new Set([...remote.read, ...local.read])] };
+  return { version: 1, cards, days, read: [...new Set([...remote.read, ...local.read])], sql: [...new Set([...(remote.sql ?? []), ...(local.sql ?? [])])] };
 }
 
 /** Public summary shown on the leaderboard. */

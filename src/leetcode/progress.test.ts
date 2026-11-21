@@ -13,6 +13,7 @@ test("mergeLc keeps the newest review per problem and unions read guides", () =>
   assert.equal(m.cards["1"].reps, later.reps);
   assert.ok(m.cards["2"]);
   assert.deepEqual([...m.read].sort(), ["bit", "tree"]);
+  assert.deepEqual(mergeLc({ ...a, sql: ["select-1"] }, { ...b, sql: ["joins-2"] }).sql.sort(), ["joins-2", "select-1"]);
   assert.equal(m.days["2026-11-20"], 2);
 });
 

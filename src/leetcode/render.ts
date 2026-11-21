@@ -9,6 +9,7 @@ import java from "highlight.js/lib/languages/java";
 import javascript from "highlight.js/lib/languages/javascript";
 import python from "highlight.js/lib/languages/python";
 import rust from "highlight.js/lib/languages/rust";
+import sql from "highlight.js/lib/languages/sql";
 import typescript from "highlight.js/lib/languages/typescript";
 import { marked } from "marked";
 
@@ -21,6 +22,7 @@ hljs.registerLanguage("java", java);
 hljs.registerLanguage("go", go);
 hljs.registerLanguage("rust", rust);
 hljs.registerLanguage("bash", bash);
+hljs.registerLanguage("sql", sql);
 hljs.registerAliases(["py", "python3"], { languageName: "python" });
 hljs.registerAliases(["JavaScript", "Javascript", "node"], { languageName: "javascript" });
 hljs.registerAliases(["C++", "c++"], { languageName: "cpp" });
@@ -81,3 +83,6 @@ export function renderMarkdown(md: string, ctx: LinkContext): string {
 }
 
 const escapeHtml = (s: string) => s.replace(/[&<>"']/g, (ch) => `&${{ "&": "amp", "<": "lt", ">": "gt", '"': "quot", "'": "#39" }[ch]};`);
+
+/** Highlight one SQL snippet (for the sandbox solution view). */
+export const highlightSql = (code: string) => hljs.highlight(code, { language: "sql", ignoreIllegals: true }).value;

@@ -4,6 +4,8 @@ import { loadLcDoc, loadLcIndex, trackOf, type LcIndex, type LcProblem, type Lev
 import { dueIds, forget, grade, intervalEn, nextNew, toggleRead, useLc, type LcProgress } from "../leetcode/progress";
 import { go } from "../lib/router";
 import { preview, Rating, type Grade } from "../store/srs";
+import { ALL_SQL_PROBLEMS, sqlCardId, SQL_LESSONS } from "../leetcode/sql/lessons";
+import { SqlLessonPage, SqlRoadmap } from "./Sql";
 
 export function useLcIndex() {
   const [ix, setIx] = useState<LcIndex | null>(null);
@@ -31,7 +33,45 @@ export function CodePage({ doc }: { doc?: string }) {
         <span className="spinner" />
       </div>
     );
+  if (doc === "sql") return <SqlRoadmap />;
+  if (doc?.startsWith("sql/")) return <SqlLessonPage key={doc} id={doc.slice(4)} />;
   return doc ? <DocPage key={doc} ix={ix} docRef={doc} /> : <Roadmap ix={ix} />;
+}
+
+/* ---------- path switcher (Algorithms / SQL for BA) ---------- */
+
+export function PathTabs({ active }: { active: "algo" | "sql" }) {
+  const p = useLc((x) => x);
+  const [ix, setIx] = useState<LcIndex | null>(null);
+  useEffect(() => {
+    loadLcIndex().then(setIx, () => null);
+  }, []);
+  const algoTotal = ix?.order.length ?? 54;
+  const algoDone = ix ? ix.order.filter((id) => p.cards[id]).length : 0;
+  const sqlTotal = SQL_LESSONS.reduce((n, l) => n + l.exercises.length, 0) + ALL_SQL_PROBLEMS.length;
+  const sqlDone = p.sql.length + ALL_SQL_PROBLEMS.filter((x) => p.cards[sqlCardId(x.num)]).length;
+  const tabs = [
+    { id: "algo", href: "#/code", title: "Algorithms", sub: `${algoTotal} problems · 14 tracks`, done: algoDone, total: algoTotal },
+    { id: "sql", href: "#/code/sql", title: "SQL for BA", sub: `${SQL_LESSONS.length} lessons · sandbox · ${ALL_SQL_PROBLEMS.length} problems`, done: sqlDone, total: sqlTotal },
+  ] as const;
+  return (
+    <nav className="lc-paths" aria-label="Learning path">
+      {tabs.map((t) => (
+        <a key={t.id} href={t.href} className={`lc-path ${active === t.id ? "is-on" : ""}`} aria-current={active === t.id ? "page" : undefined}>
+          <span className="lc-path-icon" aria-hidden="true">
+            {t.id === "algo" ? "{ }" : "SQL"}
+          </span>
+          <span className="lc-path-text">
+            <b>{t.title}</b>
+            <small>{t.sub}</small>
+          </span>
+          <span className="lc-meter" style={{ "--k": t.total ? t.done / t.total : 0 } as React.CSSProperties}>
+            <i />
+          </span>
+        </a>
+      ))}
+    </nav>
+  );
 }
 
 /* ---------- roadmap ---------- */
@@ -68,13 +108,14 @@ function Roadmap({ ix }: { ix: LcIndex }) {
   return (
     <div className="page code" lang="en">
       <header className="page-head">
-        <p className="eyebrow">LeetCode</p>
+        <p className="eyebrow">LeetCode · Algorithms</p>
         <h1 className="display">One pattern at a time.</h1>
         <p className="lede">
           {total} classic problems and {Object.keys(ix.guides).length} topic guides, ordered from arrays to graphs. Read the guide, solve the problems on LeetCode, then rate how it went.
           Solved problems come back for a re-solve before you forget them.
         </p>
       </header>
+      <PathTabs active="algo" />
 
       <section className="lc-hero">
         <div className="lc-stats">
@@ -206,7 +247,7 @@ function ProblemLink({ ix, id }: { ix: LcIndex; id: string }) {
   );
 }
 
-const LevelChip = ({ level }: { level: Level }) => <span className={`chip lc-level lc-${level.toLowerCase()}`}>{level}</span>;
+export const LevelChip = ({ level }: { level: Level }) => <span className={`chip lc-level lc-${level.toLowerCase()}`}>{level}</span>;
 
 function ProblemRow({ p, status }: { p: LcProblem; status: "todo" | "due" | "solved" }) {
   const Icon = status === "solved" ? CheckCircle2 : status === "due" ? Clock : Circle;
@@ -227,7 +268,7 @@ function ProblemRow({ p, status }: { p: LcProblem; status: "todo" | "due" | "sol
   );
 }
 
-function Credit({ ix }: { ix: LcIndex }) {
+export function Credit({ ix }: { ix: LcIndex }) {
   const s = ix.source;
   return (
     <p className="muted lc-credit">
@@ -397,7 +438,7 @@ function ReadToggle({ id }: { id: string }) {
   );
 }
 
-const GRADES: [Grade, string, string][] = [
+export const GRADES: [Grade, string, string][] = [
   [Rating.Again, "Couldn't solve", "again"],
   [Rating.Hard, "Needed hints", "hard"],
   [Rating.Good, "Solved", "good"],
