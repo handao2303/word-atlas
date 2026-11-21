@@ -2,8 +2,8 @@
 public/atlas/img
 public/atlas/thumb
 public/atlas/audio
-docs
-data
+/docs
+/data
 vi/orig
 vi/src
 node_modules
