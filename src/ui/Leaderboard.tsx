@@ -164,7 +164,7 @@ function Nudge({ ranked, me, unit }: { ranked: Ranked[]; me: string | null; unit
   let text: string;
   if (ranked.length < 2) text = "Mời thêm bạn vào học cùng để bảng xếp hạng sôi động hơn!";
   else if (!ahead && mine.value > 0) text = mine.rank === 1 && ranked.filter((x) => x.rank === 1).length > 1 ? "Bạn đang đồng hạng nhất. Thêm một câu là vượt lên!" : "Bạn đang dẫn đầu. Giữ vững phong độ nhé!";
-  else if (!ahead) text = "Trả lời câu đầu tiên hôm nay để lên bảng!";
+  else if (!ahead) text = unit === "bài" ? "Giải bài LeetCode đầu tiên để lên bảng!" : "Trả lời câu đầu tiên hôm nay để lên bảng!";
   else text = `Còn ${(ahead.value - mine.value + 1).toLocaleString("vi-VN")} ${unit} nữa là vượt ${nameOf(ahead.row)} lên hạng ${ahead.rank}.`;
   return (
     <p className="lb-nudge">
