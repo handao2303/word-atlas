@@ -37,6 +37,7 @@ Everything else — the illustrations, recordings, FSRS scheduler, word galaxy a
 | **Sync** | Sign in with Google and continue on any device. Offline study merges cleanly when you reconnect. |
 | **Compete** | Leaderboard by answers this week, words mastered, words learned, current streak or LeetCode problems solved. Only totals are shared, never the word list. |
 | **LeetCode** | A study track (`#/code`, English only): 54 classic problems and 27 topic guides in 14 tracks from arrays to graphs. Solve on leetcode.com, rate the attempt, and FSRS brings the problem back for a re-solve days later. The home page shows today's problem next to the vocabulary journey. |
+| **Data Engineering** | `#/code/de`: 9 original modules (warehouses, dimensional and fact modeling, Spark, Kafka/Flink, analytical patterns, KPIs and A/B tests, data quality, career) with 45 spaced-repetition concept cards, 12 SQL labs and links to the [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) labs and homework. |
 | **SQL for BA** | `#/code/sql`: 10 original lessons (filtering → joins → window functions → funnels and cohorts), each with an in-browser SQLite sandbox on a sample shop database, auto-checked exercises, and the related LeetCode Database problems (56, covering the SQL 50 plan) with spaced re-solves. |
 
 ## Architecture
@@ -81,6 +82,12 @@ python3 scripts/leetcode/import_lc.py /tmp/leetcode
 Markdown is rendered in the browser (marked + DOMPurify + highlight.js, lazy-loaded). Links between bundled write-ups stay in the app, links to other problems go to leetcode.com, and other upstream files open on GitHub. Most upstream illustrations were hosted on an image service that no longer serves them; broken images are hidden.
 
 LeetCode progress ([`src/leetcode/progress.ts`](src/leetcode/progress.ts)) is stored separately from vocabulary and synced as its own row (`dataset_id = 'leetcode'`) in `word_atlas_sync`, so the existing RLS and leaderboard function cover it without schema changes. Re-solves use FSRS without minute-level learning steps, so every interval is at least a day.
+
+### Data Engineering
+
+The handbook repository has no license, so none of its text is copied. Module order follows its free boot camp; lessons, concept cards and SQL labs in [`src/leetcode/de/modules.ts`](src/leetcode/de/modules.ts) are written for this app, and each module links out to the matching handbook materials. Concept cards are FSRS cards with ids `de:<module>:<card>` (excluded from the leaderboard's problem count); labs reuse the SQL sandbox.
+
+The three paths (Algorithms, SQL for BA, Data Engineering) live under one nav item, **Code & Data**; `#/code` reopens the path used last.
 
 ### SQL for BA
 

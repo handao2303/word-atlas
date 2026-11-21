@@ -24,10 +24,10 @@ import { Sheet } from "./ui/Sheet";
 import { shouldShowSplash, Splash } from "./ui/Splash";
 import { Toasts } from "./ui/Toast";
 
-const NAV: { page: Route["page"]; label: string; icon: typeof Compass }[] = [
+const NAV: { page: Route["page"]; label: string; short?: string; icon: typeof Compass }[] = [
   { page: "today", label: "Hôm nay", icon: Compass },
   { page: "atlas", label: "Từ điển", icon: BookOpen },
-  { page: "code", label: "LeetCode", icon: CodeXml },
+  { page: "code", label: "Code & Data", short: "Code", icon: CodeXml },
   { page: "practice", label: "Luyện gõ", icon: Keyboard },
   { page: "rank", label: "Xếp hạng", icon: Trophy },
   { page: "me", label: "Của tôi", icon: User },
@@ -188,10 +188,10 @@ function Shell({ privateAvailable }: { privateAvailable: boolean }) {
 
       {!focus && (
         <nav className="tabbar" aria-label="Điều hướng chính">
-          {NAV.map(({ page, label, icon: Icon }) => (
+          {NAV.map(({ page, label, short, icon: Icon }) => (
             <a key={page} href={page === "today" ? "#/" : `#/${page}`} className={route.page === page ? "is-on" : ""} aria-current={route.page === page ? "page" : undefined}>
               <Icon size={22} strokeWidth={route.page === page ? 2.1 : 1.7} />
-              <span>{label}</span>
+              <span>{short ?? label}</span>
             </a>
           ))}
         </nav>

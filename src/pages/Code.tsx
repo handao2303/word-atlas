@@ -6,6 +6,26 @@ import { go } from "../lib/router";
 import { preview, Rating, type Grade } from "../store/srs";
 import { ALL_SQL_PROBLEMS, sqlCardId, SQL_LESSONS } from "../leetcode/sql/lessons";
 import { SqlLessonPage, SqlRoadmap } from "./Sql";
+import { DeModulePage, DeReview, DeRoadmap } from "./De";
+import { ALL_DE_CARDS, ALL_DE_EXERCISES, DE_MODULES } from "../leetcode/de/modules";
+
+const PATH_KEY = "word-atlas:code-path";
+export type PathId = "algo" | "sql" | "de";
+export function rememberPath(p: PathId) {
+  try {
+    localStorage.setItem(PATH_KEY, p);
+  } catch {
+    /* ignore */
+  }
+}
+function lastPath(): PathId {
+  try {
+    const v = localStorage.getItem(PATH_KEY);
+    return v === "sql" || v === "de" ? v : "algo";
+  } catch {
+    return "algo";
+  }
+}
 
 export function useLcIndex() {
   const [ix, setIx] = useState<LcIndex | null>(null);
@@ -33,33 +53,52 @@ export function CodePage({ doc }: { doc?: string }) {
         <span className="spinner" />
       </div>
     );
+  if (!doc) {
+    const last = lastPath();
+    if (last !== "algo") return <Redirect doc={last} />;
+  }
+  if (doc === "algo") return <Roadmap ix={ix} />;
+  if (doc === "de") return <DeRoadmap />;
+  if (doc === "de/review") return <DeReview />;
+  if (doc?.startsWith("de/")) return <DeModulePage key={doc} id={doc.slice(3)} />;
   if (doc === "sql") return <SqlRoadmap />;
   if (doc?.startsWith("sql/")) return <SqlLessonPage key={doc} id={doc.slice(4)} />;
   return doc ? <DocPage key={doc} ix={ix} docRef={doc} /> : <Roadmap ix={ix} />;
 }
 
+function Redirect({ doc }: { doc: string }) {
+  useEffect(() => {
+    go({ page: "code", doc }, null, true);
+  }, [doc]);
+  return null;
+}
+
 /* ---------- path switcher (Algorithms / SQL for BA) ---------- */
 
-export function PathTabs({ active }: { active: "algo" | "sql" }) {
+export function PathTabs({ active }: { active: PathId }) {
   const p = useLc((x) => x);
   const [ix, setIx] = useState<LcIndex | null>(null);
   useEffect(() => {
     loadLcIndex().then(setIx, () => null);
-  }, []);
+    rememberPath(active);
+  }, [active]);
   const algoTotal = ix?.order.length ?? 54;
   const algoDone = ix ? ix.order.filter((id) => p.cards[id]).length : 0;
   const sqlTotal = SQL_LESSONS.reduce((n, l) => n + l.exercises.length, 0) + ALL_SQL_PROBLEMS.length;
   const sqlDone = p.sql.length + ALL_SQL_PROBLEMS.filter((x) => p.cards[sqlCardId(x.num)]).length;
+  const deTotal = ALL_DE_CARDS.length + ALL_DE_EXERCISES.length;
+  const deDone = ALL_DE_CARDS.filter((c) => p.cards[c.key]).length + ALL_DE_EXERCISES.filter((e) => p.sql.includes(e.id)).length;
   const tabs = [
-    { id: "algo", href: "#/code", title: "Algorithms", sub: `${algoTotal} problems · 14 tracks`, done: algoDone, total: algoTotal },
-    { id: "sql", href: "#/code/sql", title: "SQL for BA", sub: `${SQL_LESSONS.length} lessons · sandbox · ${ALL_SQL_PROBLEMS.length} problems`, done: sqlDone, total: sqlTotal },
+    { id: "algo", href: "#/code/algo", icon: "{ }", title: "Algorithms", sub: `${algoTotal} problems · 14 tracks`, done: algoDone, total: algoTotal },
+    { id: "sql", href: "#/code/sql", icon: "SQL", title: "SQL for BA", sub: `${SQL_LESSONS.length} lessons · ${ALL_SQL_PROBLEMS.length} problems`, done: sqlDone, total: sqlTotal },
+    { id: "de", href: "#/code/de", icon: "DE", title: "Data Engineering", sub: `${DE_MODULES.length} modules · ${ALL_DE_CARDS.length} cards`, done: deDone, total: deTotal },
   ] as const;
   return (
     <nav className="lc-paths" aria-label="Learning path">
       {tabs.map((t) => (
         <a key={t.id} href={t.href} className={`lc-path ${active === t.id ? "is-on" : ""}`} aria-current={active === t.id ? "page" : undefined}>
           <span className="lc-path-icon" aria-hidden="true">
-            {t.id === "algo" ? "{ }" : "SQL"}
+            {t.icon}
           </span>
           <span className="lc-path-text">
             <b>{t.title}</b>
@@ -108,7 +147,7 @@ function Roadmap({ ix }: { ix: LcIndex }) {
   return (
     <div className="page code" lang="en">
       <header className="page-head">
-        <p className="eyebrow">LeetCode · Algorithms</p>
+        <p className="eyebrow">Code & Data · Algorithms</p>
         <h1 className="display">One pattern at a time.</h1>
         <p className="lede">
           {total} classic problems and {Object.keys(ix.guides).length} topic guides, ordered from arrays to graphs. Read the guide, solve the problems on LeetCode, then rate how it went.
@@ -316,8 +355,8 @@ function DocPage({ ix, docRef }: { ix: LcIndex; docRef: string }) {
 
   return (
     <div className="page code-doc" lang="en">
-      <a className="link lc-back" href="#/code">
-        <ArrowLeft size={16} /> Roadmap{track ? ` · ${track.title}` : ""}
+      <a className="link lc-back" href="#/code/algo">
+        <ArrowLeft size={16} /> Algorithms{track ? ` · ${track.title}` : ""}
       </a>
       <header className="lc-doc-head">
         <p className="eyebrow">{problem ? `Problem${problem.num !== null ? ` ${problem.num}` : ""}` : "Topic guide"}</p>

@@ -26,7 +26,7 @@ export function SqlRoadmap() {
   return (
     <div className="page code" lang="en">
       <header className="page-head">
-        <p className="eyebrow">LeetCode · SQL for BA</p>
+        <p className="eyebrow">Code & Data · SQL for BA</p>
         <h1 className="display">SQL for business analysts.</h1>
         <p className="lede">
           {SQL_LESSONS.length} short lessons, from SELECT to funnels and cohorts. Each one explains a single idea, lets you query a sample shop database right here in the browser, then
@@ -224,7 +224,7 @@ export function SqlLessonPage({ id }: { id: string }) {
 
 const DUMMY_CTX = { src: "sql/lesson.md", repo: "", commit: "", files: {} };
 
-function LessonBody({ md }: { md: string }) {
+export function LessonBody({ md }: { md: string }) {
   const [html, setHtml] = useState<string | null>(null);
   useEffect(() => {
     let live = true;
@@ -261,7 +261,7 @@ type Outcome =
   | { kind: "error"; message: string }
   | { kind: "result"; result: QueryResult; ms?: number; verdict?: { ok: boolean; reason?: string } };
 
-function Sandbox({ lesson }: { lesson: SqlLesson }) {
+export function Sandbox({ lesson }: { lesson: Pick<SqlLesson, "exercises"> }) {
   const passed = useLc((p) => p.sql);
   const firstOpen = Math.max(0, lesson.exercises.findIndex((e) => !passed.includes(e.id)));
   const [i, setI] = useState(firstOpen);

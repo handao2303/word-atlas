@@ -156,7 +156,7 @@ export function lcStats(p: LcProgress, now = new Date()): LcStats {
     week += p.days[dayKey(d)] ?? 0;
     d.setDate(d.getDate() - 1);
   }
-  return { solved: Object.keys(p.cards).length, week, at: now.getTime() };
+  return { solved: Object.keys(p.cards).filter((k) => !k.startsWith("de:")).length, week, at: now.getTime() };
 }
 
 /** English interval labels for the LeetCode pages. */

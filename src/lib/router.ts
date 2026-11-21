@@ -33,7 +33,14 @@ function parse(hash: string): Location {
   else if (seg[0] === "code")
     route = {
       page: "code",
-      doc: seg[1] === "sql" ? (seg[2] ? `sql/${decodeURIComponent(seg[2])}` : "sql") : seg[1] && seg[2] ? `${seg[1]}/${decodeURIComponent(seg[2])}` : undefined,
+      doc:
+        seg[1] === "sql" || seg[1] === "de" || seg[1] === "algo"
+          ? seg[2]
+            ? `${seg[1]}/${decodeURIComponent(seg[2])}`
+            : seg[1]
+          : seg[1] && seg[2]
+            ? `${seg[1]}/${decodeURIComponent(seg[2])}`
+            : undefined,
     };
   else if (seg[0] === "about") route = { page: "about" };
   else if (seg[0] === "w" && seg[1]) return { route: { page: "atlas" }, word: decodeURIComponent(seg[1]) };
