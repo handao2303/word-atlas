@@ -1,6 +1,7 @@
 import { streakOf } from "../store/stats";
 import { cloudEnabled, emailName, useCloud } from "../lib/cloud";
 import { Leaderboard } from "../ui/Leaderboard";
+import { LeetCodeToday } from "../ui/LeetCodeToday";
 import { ArrowRight, Flame, Keyboard, Sparkles } from "lucide-react";
 import { useEffect, useMemo } from "react";
 import { prefetch, useAtlas, useEntry } from "../atlas/context";
@@ -157,6 +158,7 @@ export function Today() {
             <Leaderboard compact />
           </section>
         )}
+        <LeetCodeToday />
         <WordOfDay />
 
         <section className="panel streak-panel">

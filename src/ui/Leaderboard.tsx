@@ -2,13 +2,16 @@ import { ArrowRight, Crown, Flame, RefreshCw, TrendingUp } from "lucide-react";
 import { useEffect, useMemo, useRef, useState } from "react";
 import { useAtlas } from "../atlas/context";
 import { cloudEnabled, useLeaderboard, type LeaderRow } from "../lib/cloud";
-import { metricValue, type Metric } from "../store/stats";
+import { metricValue, type Metric as WordMetric } from "../store/stats";
+
+type Metric = WordMetric | "code";
 
 export const METRICS: [Metric, string, string][] = [
   ["week", "Tuần này", "câu"],
   ["mastered", "Đã thuộc", "từ"],
   ["learned", "Đã học", "từ"],
   ["streak", "Chuỗi ngày", "ngày"],
+  ["code", "LeetCode", "bài"],
 ];
 
 const HINT: Record<Metric, string> = {
@@ -16,6 +19,7 @@ const HINT: Record<Metric, string> = {
   mastered: "Số từ nhớ lâu (độ bền trí nhớ trên 21 ngày).",
   learned: "Số từ đã gặp ít nhất một lần.",
   streak: "Số ngày học liên tiếp tính tới hôm nay.",
+  code: "Số bài LeetCode đã giải trong lộ trình.",
 };
 
 const METRIC_KEY = "word-atlas:rank-metric";
@@ -28,7 +32,7 @@ export interface Ranked {
 
 /** Sort by the metric; equal values share a rank (1, 2, 2, 4). */
 export function rankRows(rows: LeaderRow[], metric: Metric, now = new Date()): Ranked[] {
-  const list = rows.map((row) => ({ row, value: metricValue(row.stats, metric, now) }));
+  const list = rows.map((row) => ({ row, value: metric === "code" ? (row.lc?.solved ?? 0) : metricValue(row.stats, metric, now) }));
   list.sort((a, b) => b.value - a.value || nameOf(a.row).localeCompare(nameOf(b.row)));
   let prev = -1;
   let rank = 0;

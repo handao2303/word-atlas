@@ -5,6 +5,7 @@
  */
 import { createClient, type Session, type SupabaseClient } from "@supabase/supabase-js";
 import { useEffect, useSyncExternalStore } from "react";
+import { lc, lcChangedAt, lcStats, mergeLc, sanitizeLc, type LcStats } from "../leetcode/progress";
 import { mergeProgress } from "../store/merge";
 import { publicStats, type PublicStats } from "../store/stats";
 import {
@@ -167,15 +168,78 @@ export interface LeaderRow {
   avatar_url: string | null;
   stats: Partial<PublicStats> | null;
   updated_at: string;
+  /** LeetCode summary, joined in from the "leetcode" dataset row. */
+  lc?: Partial<LcStats> | null;
 }
 
 /** Everyone's public summary for this dataset (requires sign-in). With push, sends our own summary first. */
 export async function fetchLeaderboard(id: string, push = false): Promise<{ rows: LeaderRow[]; error: string | null }> {
   if (!supabase || !cs.session) return { rows: [], error: "Cần đăng nhập để xem bảng xếp hạng." };
-  if (push) await pushNow();
-  const { data, error } = await supabase.rpc("word_atlas_leaderboard", { p_dataset: id });
-  if (error) return { rows: [], error: navigator.onLine ? "Không tải được bảng xếp hạng." : "Đang offline." };
-  return { rows: (data ?? []) as LeaderRow[], error: null };
+  if (push) await Promise.all([pushNow(), pushLc()]);
+  const [words, code] = await Promise.all([
+    supabase.rpc("word_atlas_leaderboard", { p_dataset: id }),
+    supabase.rpc("word_atlas_leaderboard", { p_dataset: LC }),
+  ]);
+  if (words.error) return { rows: [], error: navigator.onLine ? "Không tải được bảng xếp hạng." : "Đang offline." };
+  const lcBy = new Map(((code.data ?? []) as LeaderRow[]).map((r) => [r.user_id, r.stats as Partial<LcStats> | null]));
+  return { rows: ((words.data ?? []) as LeaderRow[]).map((r) => ({ ...r, lc: lcBy.get(r.user_id) ?? null })), error: null };
+}
+
+/* ---------- LeetCode progress: its own row (dataset_id "leetcode") in the same table ---------- */
+
+const LC = "leetcode";
+let lcTimer: number | undefined;
+let lcApplying = false;
+
+async function pullLc() {
+  if (!supabase || !cs.session) return;
+  const { data, error } = await supabase.from(TABLE).select("progress, updated_at").eq("dataset_id", LC).maybeSingle();
+  if (error) return;
+  if (!data) return pushLc();
+  const remoteAt = Date.parse(data.updated_at) || 0;
+  const localAt = lcChangedAt();
+  const remote = sanitizeLc(data.progress);
+  const merged = mergeLc(lc.get(), remote);
+  lcApplying = true;
+  lc.adopt(merged, Math.max(localAt, remoteAt));
+  lcApplying = false;
+  if (JSON.stringify(merged) !== JSON.stringify(remote)) await pushLc();
+}
+
+export async function pushLc() {
+  window.clearTimeout(lcTimer);
+  if (!supabase || !cs.session) return;
+  const p = lc.get();
+  await supabase.from(TABLE).upsert(
+    {
+      user_id: cs.session.user.id,
+      dataset_id: LC,
+      progress: p,
+      settings: {},
+      ...profile(cs.session),
+      stats: lcStats(p),
+      updated_at: new Date(lcChangedAt() || Date.now()).toISOString(),
+    },
+    { onConflict: "user_id,dataset_id" },
+  );
+}
+
+/** Keep LeetCode progress in sync for the signed-in user. Returns a stop function. */
+export function startLcSync() {
+  if (!supabase) return () => {};
+  void pullLc();
+  const unsub = lc.subscribe(() => {
+    if (lcApplying) return;
+    window.clearTimeout(lcTimer);
+    lcTimer = window.setTimeout(() => void pushLc(), 2000);
+  });
+  const onVis = () => void (document.visibilityState === "hidden" ? pushLc() : pullLc());
+  document.addEventListener("visibilitychange", onVis);
+  return () => {
+    unsub();
+    document.removeEventListener("visibilitychange", onVis);
+    void pushLc();
+  };
 }
 
 function schedulePush() {

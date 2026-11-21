@@ -19,12 +19,16 @@ export interface CardState {
 export { Rating };
 export type { Grade };
 
-const schedulers = new Map<number, ReturnType<typeof fsrs>>();
-const scheduler = (retention: number) => {
-  let s = schedulers.get(retention);
+const schedulers = new Map<string, ReturnType<typeof fsrs>>();
+/** shortTerm adds minute-level learning steps (vocabulary); without it every interval is at least a day (LeetCode re-solves). */
+const scheduler = (retention: number, shortTerm = true) => {
+  const key = `${retention}:${shortTerm}`;
+  let s = schedulers.get(key);
   if (!s) {
-    s = fsrs({ request_retention: retention, enable_fuzz: true, enable_short_term: true, learning_steps: ["1m", "10m"], relearning_steps: ["10m"] });
-    schedulers.set(retention, s);
+    s = shortTerm
+      ? fsrs({ request_retention: retention, enable_fuzz: true, enable_short_term: true, learning_steps: ["1m", "10m"], relearning_steps: ["10m"] })
+      : fsrs({ request_retention: retention, enable_fuzz: true, enable_short_term: false });
+    schedulers.set(key, s);
   }
   return s;
 };
@@ -56,16 +60,16 @@ const fromCard = (c: Card, seen: number): CardState => ({
   seen,
 });
 
-export function review(prev: CardState | undefined, grade: Grade, now: number, retention = 0.9): CardState {
+export function review(prev: CardState | undefined, grade: Grade, now: number, retention = 0.9, shortTerm = true): CardState {
   const card = prev ? toCard(prev) : createEmptyCard(new Date(now));
-  const next = scheduler(retention).next(card, new Date(now), grade).card;
+  const next = scheduler(retention, shortTerm).next(card, new Date(now), grade).card;
   return fromCard(next, prev?.seen ?? now);
 }
 
 /** Next interval for each grade, for button labels. */
-export function preview(prev: CardState | undefined, now: number, retention = 0.9): Record<Grade, number> {
+export function preview(prev: CardState | undefined, now: number, retention = 0.9, shortTerm = true): Record<Grade, number> {
   const card = prev ? toCard(prev) : createEmptyCard(new Date(now));
-  const p = scheduler(retention).repeat(card, new Date(now));
+  const p = scheduler(retention, shortTerm).repeat(card, new Date(now));
   return {
     [Rating.Again]: p[Rating.Again].card.due.getTime() - now,
     [Rating.Hard]: p[Rating.Hard].card.due.getTime() - now,

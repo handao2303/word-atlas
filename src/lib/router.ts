@@ -8,6 +8,8 @@ export type Route =
   | { page: "practice" }
   | { page: "me" }
   | { page: "rank" }
+  /** LeetCode roadmap; doc is "p/<problem>" or "g/<guide>". */
+  | { page: "code"; doc?: string }
   | { page: "about" };
 
 export interface Location {
@@ -28,6 +30,7 @@ function parse(hash: string): Location {
   else if (seg[0] === "practice") route = { page: "practice" };
   else if (seg[0] === "me") route = { page: "me" };
   else if (seg[0] === "rank") route = { page: "rank" };
+  else if (seg[0] === "code") route = { page: "code", doc: seg[1] && seg[2] ? `${seg[1]}/${decodeURIComponent(seg[2])}` : undefined };
   else if (seg[0] === "about") route = { page: "about" };
   else if (seg[0] === "w" && seg[1]) return { route: { page: "atlas" }, word: decodeURIComponent(seg[1]) };
   return { route, word };
@@ -43,7 +46,8 @@ export function href(route: Route, word?: string | null) {
   }
   if (word) params.set("w", word);
   const q = params.toString();
-  return `#/${route.page === "today" ? "" : route.page}${q ? `?${q}` : ""}`;
+  const path = route.page === "today" ? "" : route.page === "code" && route.doc ? `code/${route.doc}` : route.page;
+  return `#/${path}${q ? `?${q}` : ""}`;
 }
 
 let loc = parse(location.hash);
